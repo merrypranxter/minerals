@@ -1,0 +1,183 @@
+id: malachite
+slug: malachite
+display_name: Malachite
+
+classification:
+  chemistry_class: carbonate
+  mineral_group: rosasite-group-related
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2550
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Cu2(CO3)(OH)2"
+  simplified_formula: "Cu2(CO3)(OH)2"
+  essential_elements: [Cu, C, O, H]
+  trace_elements_common: []
+  structural_units:
+    - "CuO6 octahedra"
+    - "carbonate groups"
+  atomic_structure_notes: "Structure described with strongly distorted CuO6 octahedra."
+  chemistry_notes: "Secondary copper mineral."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: ""
+  space_group: ""
+  unit_cell_notes: ""
+  twinning: ""
+  crystallography_notes: "Single crystals exist but are much less common than aggregate forms."
+
+physical_properties:
+  mohs_hardness: null
+  specific_gravity: null
+  luster: [silky, vitreous, earthy]
+  streak: light-green
+  transparency: [opaque, translucent]
+  cleavage: []
+  fracture: []
+  tenacity: brittle
+  physical_notes: "Best known visually for rich green surfaces and patterned growth."
+
+appearance:
+  baseline_colors: [green]
+  color_profiles:
+    - name: classic-malachite-green
+      colors: [light-green, medium-green, dark-green, black-green]
+      cause: "Copper-bearing chemistry."
+      conditions: "Common across many specimens."
+      variety_name: null
+  habits:
+    - botryoidal
+    - mammillary
+    - crustiform
+    - fibrous
+    - acicular
+    - prismatic
+    - stalactitic
+    - massive
+  textures:
+    - velvety
+    - satiny
+    - glossy
+    - concentric
+    - rippled
+  macro_patterns:
+    - banded
+    - concentric
+    - radiating
+    - botryoidal
+    - eye-like
+  common_forms:
+    - banded polished slabs
+    - botryoidal masses
+    - stalactitic forms
+    - crusts and coatings
+  visual_notes: "One of the strongest 'ornamental pattern' minerals in existence."
+
+optical_and_special_effects:
+  fluorescence: ""
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: ""
+  optical_notes: ""
+
+formation_and_occurrence:
+  genesis:
+    - secondary
+    - oxidation-zone
+  geologic_environments:
+    - oxidized copper deposits
+    - fractures
+    - cavities
+    - underground precipitation zones
+  host_rocks: []
+  associated_minerals:
+    - azurite
+    - chrysocolla
+    - pseudomalachite
+  locality_scope: widespread_but_deposit-linked
+  notable_localities: []
+  occurrence_notes: "Typically develops as a secondary copper mineral in oxidized environments."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: []
+  symbolism: []
+  folklore_notes: ""
+
+interpretive_vibe:
+  mood_keywords:
+    - jungle-opulence
+    - venom-luxury
+    - antique-magic
+    - regal-poison
+    - serpent-ornament
+  sensory_keywords:
+    - silky
+    - velvety
+    - cool
+    - carved
+  palette_keywords:
+    - emerald
+    - black-green
+    - deep-jade
+    - copper-shadow
+  aesthetic_roles:
+    - toxic jewel
+    - ornamental swirl stone
+    - decadent green accent
+    - baroque mineral
+  vibe_notes: "Perfect for anything ornate, hypnotic, green, dangerous, or ceremonial."
+
+practical_notes:
+  toxicity: "Copper-bearing mineral; avoid ingesting dust and use sensible handling."
+  handling_notes: "Can be softer and more delicate than people expect."
+  care_notes: "Avoid harsh abrasives and acid exposure."
+  treatments_or_synthetics: []
+  common_confusions: [chrysocolla, azurmalachite, dyed materials]
+  market_notes: "Frequently used in carvings, beads, cabs, slabs, and decorative objects."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: [azurite]
+  pseudomorphed_by: []
+  lookalikes: [chrysocolla, dyed jasper]
+  related_species: [azurite, chrysocolla, rosasite]
+
+app_metadata:
+  tags:
+    - green
+    - copper
+    - banded
+    - botryoidal
+    - ornamental
+    - high-priority
+  search_boost_terms:
+    - banded green mineral
+    - botryoidal green stone
+    - copper carbonate mineral
+  prompt_fragments:
+    - "botryoidal copper-green domes"
+    - "banded malachite concentric eyes"
+    - "ornamental toxic-jewel swirl pattern"
+  ui_color_hint: [emerald, dark-green, black]
+  priority_score: 94
+
+provenance:
+  source_status: draft
+  completeness: 0.74
+  confidence: medium
+  last_updated: "2026-04-07"
+  sources:
+    - "https://www.mindat.org/min-2550.html"
+  notes: "Starter example entry."
