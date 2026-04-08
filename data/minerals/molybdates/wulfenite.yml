@@ -1,0 +1,249 @@
+id: wulfenite
+slug: wulfenite
+display_name: Wulfenite
+
+classification:
+  chemistry_class: molybdate
+  mineral_group: wulfenite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 4344
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "PbMoO4"
+  simplified_formula: "PbMoO4"
+  essential_elements: [Pb, Mo, O]
+  trace_elements_common: [Ca, W, Cr, V, As]
+  structural_units:
+    - "molybdate (MoO4)²⁻ tetrahedra"
+    - "Pb²⁺ in 8-coordination (square antiprismatic)"
+  atomic_structure_notes: "Scheelite-type tetragonal structure. Pb²⁺ sits in an 8-coordinated site. MoO₄²⁻ is the chromophore for the yellow-orange color — charge transfer within the MoO₄²⁻ unit and nearby Pb²⁺ → intense absorption in UV/violet, leaving yellow-orange transmission."
+  chemistry_notes: "A lead molybdate requiring both lead (galena source) and molybdenum (typically from molybdenite alteration) in the same oxidized ore deposit. Color ranges from orange-red to yellow depending on Mo/W ratio and other trace substitutions. W substitution produces powellite (CaWO₄); Ca substitution changes the system."
+
+crystallography:
+  crystal_system: tetragonal
+  crystal_class: "ditetragonal dipyramidal"
+  space_group: "I41/a"
+  unit_cell_notes: "a ≈ 5.435 Å, c ≈ 12.11 Å"
+  twinning: "Contact twins on {001}."
+  crystallography_notes: "One of mineralogy's most photogenic habits: characteristic thin square tabular crystals — like little orange-yellow square tiles or wafers. Also thicker square tablets, pyramidal, and massive. The ultra-thin tabular habit can make crystals nearly translucent."
+
+physical_properties:
+  mohs_hardness: "2.75–3"
+  specific_gravity: "6.5–7.0"
+  luster: [adamantine, resinous, waxy]
+  streak: "white to pale yellow"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "good {101}"
+    - "poor {001}"
+  fracture: [conchoidal, uneven, subconchoidal]
+  tenacity: brittle
+  physical_notes: "Extremely dense for a transparent-to-translucent mineral. Thin tabular crystals weigh more than expected. Adamantine luster can be exceptional. Very soft — easily scratched."
+
+appearance:
+  baseline_colors:
+    - orange
+    - orange-red
+    - yellow-orange
+    - pale-yellow
+    - red
+    - gray-brown
+  color_profiles:
+    - name: orange-red (classic)
+      colors: [vivid-orange, orange-red, tomato-red, flame-orange]
+      cause: "MoO₄²⁻ charge transfer; Pb²⁺ interaction; maximum absorption in violet/blue."
+      conditions: "Most prized form; classic from Red Cloud Mine, Arizona and elsewhere."
+      variety_name: null
+    - name: yellow-orange
+      colors: [yellow-orange, amber, golden-yellow]
+      cause: "Slightly less Mo absorption; may reflect W or Ca partial substitution."
+      conditions: "Many Mexican and Arizona localities."
+      variety_name: null
+    - name: pale-yellow
+      colors: [pale-yellow, lemon-yellow, honey]
+      cause: "Dilute chromophore; or different trace element balance."
+      conditions: "Some localities."
+      variety_name: null
+    - name: gray-brown
+      colors: [gray, brown, olive]
+      cause: "Iron inclusions or alteration."
+      conditions: "Less prized; some massive material."
+      variety_name: null
+  habits:
+    - thin-tabular (square outline)
+    - square-tablet
+    - thick-tabular
+    - pyramidal
+    - massive
+  textures:
+    - adamantine wafer-thin
+    - resinous massive
+    - transparent tablets
+  macro_patterns:
+    - square orange tablets on dark matrix
+    - stacked orange tile layers
+    - vivid orange wafers on gossan
+  common_forms:
+    - thin square tabular crystals on matrix (most iconic form)
+    - thicker square tablets
+    - massive material
+  visual_notes: "Wulfenite's iconic presentation is a group of flat square orange-to-red tiles on dark gossan matrix — like tiny stained-glass windows. The ultra-thin translucent orange tablets from Arizona localities (Los Lamentos, Red Cloud, Rowley Mine) are among the most photographed mineral specimens in the world. Maximum orange per gram."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none to weak"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Very high refractive index (nω ≈ 2.283, nε ≈ 2.402) — strong adamantine luster. Uniaxial negative."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized lead-molybdenum deposits)
+  geologic_environments:
+    - oxidized zone of galena + molybdenite-bearing ore deposits
+    - calcareous oxidation zones
+  host_rocks:
+    - limestone/dolomite in contact zone
+    - gossan
+    - quartz veins
+  associated_minerals:
+    - mimetite
+    - vanadinite
+    - pyromorphite
+    - cerussite
+    - anglesite
+    - dioptase
+    - descloizite
+    - galena
+    - molybdenite
+  locality_scope: worldwide
+  notable_localities:
+    - "Red Cloud Mine, La Paz County, Arizona, USA (finest red specimens)"
+    - "Rowley Mine, Maricopa County, Arizona, USA"
+    - "Los Lamentos, Chihuahua, Mexico"
+    - "Mapimí, Durango, Mexico"
+    - "Tsumeb, Namibia"
+    - "Bleiberg, Carinthia, Austria (classic)"
+    - "Mibladen, Morocco"
+    - "Touissit, Morocco"
+    - "Wheatley Mine, Pennsylvania, USA"
+  occurrence_notes: "Found wherever both galena and molybdenite have been oxidized together, often in limestone-hosted replacement deposits. Arizona and Mexico produce the most celebrated specimens."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Named after Franz Xavier von Wulfen (1728–1805), Austrian mineralogist."
+    - "Named by F.S. Beudant, 1832."
+    - "Secondary molybdenum ore, though rarely of economic importance."
+    - "No significant historical industrial use; collector mineral."
+  cultural_associations:
+    - "One of the most photographed mineral specimens in the collector world."
+    - "Arizona's mineral heritage — wulfenite from the Red Cloud Mine is iconic."
+  symbolism:
+    - orange flame
+    - desert mineral art
+    - molybdenum color
+    - Southwest American mineral
+  folklore_notes: "Wulfenite's fame is entirely visual. It is one of the most compelling photographic subjects in mineralogy — the combination of vivid color, geometric tabular form, and matrix contrast makes it endlessly photogenic."
+
+interpretive_vibe:
+  mood_keywords:
+    - stained-glass-orange
+    - flat-tile-gem
+    - desert-flame
+    - arizona-treasure
+    - molybdate-fire
+  sensory_keywords:
+    - thin orange tiles
+    - heavy for their size
+    - adamantine orange glow
+    - geometric precision
+  palette_keywords:
+    - vivid-orange
+    - flame-red
+    - amber
+    - burnt-sienna
+  aesthetic_roles:
+    - maximum orange reference
+    - geometric tabular crystal icon
+    - Southwest mineral showcase
+    - photographic mineral standard
+  vibe_notes: "Wulfenite is mineral photography in its purest form. Flat orange squares on dark matrix — simple, geometric, impossibly vivid. If you could design a mineral for Instagram, you'd design wulfenite."
+
+practical_notes:
+  toxicity: "LEAD AND MOLYBDENUM-BEARING MINERAL. Moderate hazard. Avoid generating dust. Wash hands after handling. Keep away from children. Do not ingest."
+  handling_notes: "Crystals are very soft and fragile. Handle by matrix only. Thin tabular crystals are extremely delicate — they can shatter with minimal force."
+  care_notes: "Do not clean with acid. Minimal intervention — light dry brush only. Store in padded tray with crystals protected."
+  treatments_or_synthetics:
+    - "No synthetic wulfenite on the collector market."
+    - "Confirm locality when purchasing, as value is highly locality-dependent."
+  common_confusions:
+    - "Crocoite (orange-red prismatic crystals; chromate; different habit — much more elongated)"
+    - "Vanadinite (hexagonal; different crystal habit; arsenate)"
+    - "Mimetite (acicular to prismatic; different habit)"
+  market_notes: "Highly prized collector mineral. Red Cloud and Rowley Mine specimens command top prices. Pricing strongly dependent on color intensity (orange-red > yellow), crystal size, and condition."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - crocoite
+    - vanadinite
+    - mimetite
+  related_species:
+    - stolzite
+    - powellite
+    - scheelite
+    - mimetite
+
+app_metadata:
+  tags:
+    - molybdate
+    - lead
+    - molybdenum
+    - orange
+    - tabular
+    - secondary
+    - toxic
+    - Arizona
+    - tetragonal
+    - collector
+  search_boost_terms:
+    - wulfenite crystal
+    - orange tabular mineral
+    - lead molybdate
+    - Red Cloud Mine mineral
+    - Arizona orange mineral
+    - stained glass mineral
+    - flat orange square crystal
+  prompt_fragments:
+    - "brilliant flat square orange-red wulfenite tiles on dark gossan matrix"
+    - "thin translucent amber-orange wulfenite wafers — stained glass geometry"
+    - "vivid flame-orange square tabular crystals from Arizona desert mine"
+  ui_color_hint:
+    - "#FF6B00"
+    - "#E85500"
+    - "#FFB347"
+  priority_score: 90
+
+provenance:
+  source_status: draft
+  completeness: 0.91
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-4344.html"
+    - "https://www.webmineral.com/data/Wulfenite.shtml"
+    - "Handbook of Mineralogy, Vol. V: Anthony et al."
+  notes: "Red Cloud Mine as premier locality is widely documented. Lead toxicity is a critical note."

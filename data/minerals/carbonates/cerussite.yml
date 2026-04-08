@@ -1,0 +1,243 @@
+id: cerussite
+slug: cerussite
+display_name: Cerussite
+
+classification:
+  chemistry_class: carbonate
+  mineral_group: aragonite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 904
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "PbCO3"
+  simplified_formula: "PbCO3"
+  essential_elements: [Pb, C, O]
+  trace_elements_common: [Sr, Ba, Ca]
+  structural_units:
+    - "carbonate groups (CO3)²⁻"
+    - "Pb²⁺ in 9-coordination (aragonite-type structure)"
+  atomic_structure_notes: "Aragonite-type structure with Pb²⁺ substituting for Ca²⁺. The large Pb²⁺ ion (much larger than Ca²⁺) makes cerussite isomorphous with aragonite and strontianite rather than calcite."
+  chemistry_notes: "Cerussite is the oxidized, weathered form of galena (PbS). In oxidized ore deposits, galena reacts with CO₂-bearing groundwater to form cerussite. The high lead content gives cerussite its exceptional specific gravity (~6.55) — very heavy for a carbonate mineral."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "dipyramidal"
+  space_group: "Pmcn"
+  unit_cell_notes: "a ≈ 5.180 Å, b ≈ 8.492 Å, c ≈ 6.153 Å"
+  twinning: "Polysynthetic twinning extremely common, producing characteristic V-shaped twin pairs, cyclic rosettes (3- or 6-fold), and reticulated networks. One of the most twinned minerals."
+  crystallography_notes: "Forms prismatic, tabular, or acicular crystals. Twinning is extremely common and complex — star-shaped sixling twins (cyclic), V-twins, and lattice-like reticulated networks are characteristic. The extreme adamantine luster and complex twinning are diagnostic."
+
+physical_properties:
+  mohs_hardness: "3–3.5"
+  specific_gravity: "6.46–6.57"
+  luster: [adamantine, resinous, vitreous]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage:
+    - "good {110}"
+    - "poor {021}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Exceptionally heavy — one of the densest of the common carbonate minerals. Adamantine luster is strong. Colorless to gray crystals with intense internal light scattering. Notable for complex twinning. Effervesces in dilute HCl."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - gray
+    - pale-yellow
+    - pale-brown
+  color_profiles:
+    - name: colorless-adamantine
+      colors: [colorless, clear, silver-white]
+      cause: "No chromophore impurities; pure PbCO₃."
+      conditions: "Most cerussite; the clarity combined with high RI produces diamond-like brilliance."
+      variety_name: null
+    - name: gray-to-black
+      colors: [gray, dark-gray, black]
+      cause: "Galena inclusions or partial alteration to galena or other lead minerals."
+      conditions: "Some specimens with galena inclusions."
+      variety_name: null
+    - name: pale-yellow-to-brown
+      colors: [pale-yellow, cream, tan, brown]
+      cause: "Trace iron or organic matter."
+      conditions: "Some localities."
+      variety_name: null
+  habits:
+    - prismatic
+    - tabular
+    - acicular
+    - reticulated (lattice twin networks)
+    - V-shaped twins
+    - star-shaped sixling twins
+    - massive
+  textures:
+    - adamantine glassy
+    - complex twinned geometry
+    - transparent
+  macro_patterns:
+    - V-twin pairs pointing upward
+    - six-rayed star cyclic twins
+    - lattice-like reticulated networks
+    - transparent prisms on galena/limonite matrix
+  common_forms:
+    - twinned crystals on galena matrix
+    - rosette-like cyclic twin groups
+    - massive white aggregates
+  visual_notes: "Cerussite's defining characteristic is its extraordinary combination of brilliant adamantine luster (nearly diamond-like), unusual crystal forms from complex twinning, and exceptional density. Star-shaped cyclic twins are among the most geometrically spectacular crystal arrangements in mineralogy. Despite being colorless or white, the intense luster makes specimens visually electric."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "yellow, cream, or orange — variable"
+    longwave_uv: "variable; often weak"
+    fluorescence_color: variable
+  tenebrescence: false
+  phosphorescence: "sometimes brief yellowish"
+  special_effects:
+    - very-high-dispersion
+    - adamantine-diamond-like-luster
+  optical_notes: "Very high refractive index (nα ≈ 1.804, nγ ≈ 2.078) — higher than many gemstones — producing bright adamantine luster and strong dispersion. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized lead ore deposits)
+  geologic_environments:
+    - oxidized zone of galena-bearing sulfide deposits
+    - supergene enrichment zone above galena ore
+  host_rocks:
+    - galena ore
+    - limestone (in oxidized contact zones)
+    - quartz-carbonate veins
+  associated_minerals:
+    - galena
+    - anglesite
+    - smithsonite
+    - pyromorphite
+    - wulfenite
+    - mimetite
+    - hemimorphite
+    - limonite
+  locality_scope: worldwide
+  notable_localities:
+    - "Tsumeb, Namibia (finest crystals)"
+    - "Touissit, Morocco (superb twinned specimens)"
+    - "Bad Ems, Rhineland-Palatinate, Germany"
+    - "Broken Hill, New South Wales, Australia"
+    - "Cerro del Potosí, Mexico"
+    - "Leadhills, Scotland"
+    - "Nerchinsk, Siberia, Russia"
+  occurrence_notes: "Ubiquitous in oxidized lead ore deposits worldwide. Forms as galena weathers and reacts with CO₂ and water. Often found with anglesite (lead sulfate) as the two primary alteration products of galena."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Important lead ore historically — 'white lead ore'."
+    - "Lead white pigment (2PbCO₃·Pb(OH)₂ = lead carbonate hydroxide) historically derived from related lead compounds — though this is not pure cerussite."
+    - "Named from Latin 'cerussa' (white lead) by Wilhelm Haidinger, 1845."
+    - "Source of lead in smelting operations."
+  cultural_associations:
+    - "Lead white pigment was the dominant white in European oil painting for centuries."
+    - "CAUTION: Historical lead white paints are toxic."
+  symbolism:
+    - white brilliance
+    - heavy beauty
+    - lead transformation
+    - oxidized elegance
+  folklore_notes: "Cerussite has no deep cultural symbolism beyond its association with lead and the history of lead-based pigments."
+
+interpretive_vibe:
+  mood_keywords:
+    - diamond-substitute
+    - star-crystal
+    - heavy-glass
+    - oxidized-lead
+    - geometric-star
+  sensory_keywords:
+    - extraordinarily heavy
+    - brilliant white sparkle
+    - glass-like adamantine
+    - star-shaped precision
+  palette_keywords:
+    - diamond-white
+    - silver-clear
+    - pale-gray
+    - brilliant-transparent
+  aesthetic_roles:
+    - geometric twinned crystal showpiece
+    - adamantine white accent
+    - star/rosette crystal reference
+    - lead mineral showcase
+  vibe_notes: "Cerussite is deceptively beautiful for a white mineral — the extreme adamantine luster and bizarre geometric twinning make it one of the most architecturally interesting specimens in any collection. Pick one up and you'll immediately notice the shocking weight."
+
+practical_notes:
+  toxicity: "LEAD MINERAL — moderate to high hazard. Avoid generating dust. Wash hands thoroughly after handling. Do not ingest. Keep away from children. Do not use in jewelry that contacts skin if not polished/sealed."
+  handling_notes: "Handle normally as a display specimen. Avoid breaking (creates lead dust). Do not grind or polish without appropriate respiratory protection."
+  care_notes: "Do not clean with acid — dissolves in HCl. Water cleaning is acceptable. Store in labeled container; restrict access for children."
+  treatments_or_synthetics:
+    - "No synthetic cerussite on the collector market."
+    - "No known treatments."
+  common_confusions:
+    - "Anglesite (also heavy, also colorless; streak and acid test differ — anglesite less reactive to HCl)"
+    - "Aragonite (much lower SG; effervesces in cold HCl like cerussite but much lighter)"
+    - "Baryte (similar SG; different crystal habit, non-reactive to HCl)"
+  market_notes: "Prized collector mineral. Complex twinned specimens and large transparent crystals are highly valued. Tsumeb and Touissit specimens are especially prized."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: [galena]
+  pseudomorphed_by: []
+  lookalikes:
+    - anglesite
+    - aragonite
+    - baryte
+    - diamond-simulant
+  related_species:
+    - galena
+    - anglesite
+    - mimetite
+    - pyromorphite
+
+app_metadata:
+  tags:
+    - carbonate
+    - lead
+    - secondary
+    - high-density
+    - adamantine
+    - twinned
+    - toxic
+    - orthorhombic
+  search_boost_terms:
+    - cerussite crystal
+    - lead carbonate mineral
+    - star twin crystal
+    - adamantine white mineral
+    - galena oxidation product
+    - Tsumeb carbonate
+  prompt_fragments:
+    - "six-rayed star cyclic twin of adamantine cerussite on galena matrix"
+    - "brilliant diamond-bright white cerussite crystals"
+    - "V-shaped paired twins of transparent cerussite"
+  ui_color_hint:
+    - "#F5F5F5"
+    - "#E8E8E0"
+    - "#CCCCCC"
+  priority_score: 82
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-904.html"
+    - "https://www.webmineral.com/data/Cerussite.shtml"
+    - "Handbook of Mineralogy, Vol. V: Anthony et al."
+  notes: "Lead toxicity is a critical handling note. Aragonite-type structure and Pb composition well-established."

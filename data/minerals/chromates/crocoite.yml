@@ -1,0 +1,234 @@
+id: crocoite
+slug: crocoite
+display_name: Crocoite
+
+classification:
+  chemistry_class: chromate
+  mineral_group: monazite-group (structural analogue)
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1159
+  other_ids:
+    historic_name: "red lead ore, Sibirsk red lead"
+
+chemical_profile:
+  ideal_formula: "PbCrO4"
+  simplified_formula: "PbCrO4"
+  essential_elements: [Pb, Cr, O]
+  trace_elements_common: [As, P, V, Mo]
+  structural_units:
+    - "chromate (CrO4)²⁻ tetrahedra"
+    - "Pb²⁺ in 9-coordination"
+  atomic_structure_notes: "Monoclinic structure (monazite-type) with Pb²⁺ in 9-coordination and CrO₄²⁻ tetrahedra. The chromate group is the chromophore for the brilliant orange-red color — charge transfer within the CrO₄²⁻ unit absorbs blue-green light, transmitting orange-red."
+  chemistry_notes: "Crocoite is a lead chromate — it requires both lead (from galena alteration) and chromate (from chromite or other Cr source in the host rock). This specific geochemical requirement explains its rarity. The brilliant orange-red color from chromate is one of the most vivid in mineralogy."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "P21/n"
+  unit_cell_notes: "a ≈ 7.110 Å, b ≈ 7.415 Å, c ≈ 6.803 Å, β ≈ 102.5°"
+  twinning: "Contact twins on {100}."
+  crystallography_notes: "Forms brilliant prismatic crystals, often elongated, with striated prism faces. Crystals can be large (multi-cm at Dundas, Tasmania). Typically hollow or cavernous internally — the crystals often grow as skeletal or hollow prisms."
+
+physical_properties:
+  mohs_hardness: "2.5–3"
+  specific_gravity: "5.99–6.02"
+  luster: [adamantine, vitreous, resinous]
+  streak: "orange-yellow"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "poor {110}"
+    - "poor {100}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Exceptionally dense for a non-metallic mineral — dense lead content. Soft and fragile. Often hollow or skeletal crystals. Adamantine orange-red luster is unmistakable."
+
+appearance:
+  baseline_colors:
+    - brilliant-orange
+    - orange-red
+    - scarlet-orange
+    - hyacinth-red
+  color_profiles:
+    - name: brilliant-orange-red
+      colors: [brilliant-orange, orange-red, scarlet, flame-orange]
+      cause: "Chromate (CrO₄²⁻) ligand-to-metal charge transfer (LMCT); absorbs blue-green, transmits orange-red."
+      conditions: "All crocoite specimens — this is an intrinsic, unmistakable color."
+      variety_name: null
+    - name: yellowish-orange
+      colors: [golden-orange, yellow-orange]
+      cause: "Slight variation; or AS/V partial substitution in CrO₄ site."
+      conditions: "Some specimens with minor As or V substitution."
+      variety_name: null
+  habits:
+    - prismatic elongated
+    - striated prisms
+    - skeletal/hollow prisms
+    - acicular
+    - massive (rare)
+  textures:
+    - adamantine gloss
+    - often hollow prisms
+    - orange crystalline
+  macro_patterns:
+    - brilliant orange prisms in matrix cavities
+    - orange-red crystal sprays on white matrix
+    - hollow orange skeletal prisms
+  common_forms:
+    - elongated prismatic crystals (Dundas)
+    - crystal sprays on white calcite/quartz matrix
+    - hollow-walled skeletal prisms
+  visual_notes: "Crocoite is an orange-red so intense it looks artificial. The elongated, often hollow prismatic crystals seem to glow from within. Against white matrix they look like flame-colored daggers. Dundas, Tasmania has produced some of the most celebrated mineral specimens in the entire world — multi-centimeter crystals in glowing orange-red."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none or weak"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Very high refractive index (n ≈ 2.66) — exceptional adamantine luster. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized lead deposit where Cr is available)
+  geologic_environments:
+    - oxidized zone of galena deposits in chromite-bearing serpentinite terrain
+    - specific intersection of lead-bearing veins and chromium-bearing ultramafic rock
+  host_rocks:
+    - serpentinite
+    - chromite-bearing ultramafic rock
+    - calcareous rock
+  associated_minerals:
+    - cerussite
+    - phoenicochroite
+    - wulfenite
+    - vauquelinite
+    - galena
+    - malachite
+    - pyromorphite
+  locality_scope: very-limited
+  notable_localities:
+    - "Dundas, Zeehan, Tasmania, Australia — finest specimens in the world; world-class locality"
+    - "Callenberg, Saxony, Germany (type area — first described material)"
+    - "Beresov, Urals, Russia (first major finds; 18th century)"
+    - "Goyabeira Mine, Congonhas, Brazil"
+    - "Yava, Ural region, Russia"
+    - "Imilchil, Morocco (rare)"
+  occurrence_notes: "Extremely rare locality-specific mineral. Requires co-occurrence of lead mineralization (galena) and chromium source (typically chromite/serpentinite). The Dundas district of Tasmania is the premier world source — specimens from there are considered among the world's finest mineral specimens overall."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Discovered in the Ural Mountains, Russia (Beresov mines) in the early 18th century."
+    - "Lead chromate used as a pigment (chrome orange, chrome red) — though this was primarily synthetic PbCrO₄."
+    - "Named from Greek 'krokos' (saffron) by Ferdinand Glocker, 1831 — referring to the saffron-orange color."
+    - "Louis Nicolas Vauquelin used crocoite ore to discover the element chromium in 1797."
+  cultural_associations:
+    - "The discovery of the element chromium (1797) is directly linked to crocoite analysis."
+    - "Chromium is named after the Greek word for color ('chroma') because of the vivid colors of chromium compounds."
+    - "Historical synthetic chrome orange pigment in 19th century painting (though highly toxic)."
+  symbolism:
+    - flame-orange
+    - discovery
+    - toxic beauty
+    - chromium birth
+    - Tasmanian treasure
+  folklore_notes: "Crocoite is connected to one of the great moments in chemical history — the discovery of chromium by Vauquelin in 1797 from Russian crocoite samples. The element chromium (and its color 'chroma') owes its name and discovery to this mineral."
+
+interpretive_vibe:
+  mood_keywords:
+    - flame-dagger
+    - toxic-saffron
+    - chromium-fire
+    - Tasmanian-treasure
+    - discovery-mineral
+  sensory_keywords:
+    - glowing orange-red
+    - heavy and dense
+    - brilliant prismatic light
+    - flame-like elongated crystals
+  palette_keywords:
+    - brilliant-orange
+    - flame-red
+    - saffron
+    - scarlet-orange
+  aesthetic_roles:
+    - maximum orange saturation reference
+    - flame mineral focal point
+    - chromium mineral showcase
+    - Tasmanian geological art
+  vibe_notes: "Crocoite is fire in crystal form. The elongated hollow orange prisms look like frozen flames or saffron-dipped glass rods. It is simultaneously one of the most beautiful and most toxic minerals in any collection. A Dundas specimen is one of the art objects of mineralogy."
+
+practical_notes:
+  toxicity: "LEAD AND CHROMIUM MINERAL. High hazard. Both Pb and Cr(VI) (chromate) are toxic. Chromate is a known carcinogen. Avoid generating ANY dust. Wash hands immediately after handling. Keep away from children. Do not store near food or beverages. Label clearly."
+  handling_notes: "Handle as a display specimen only. Do not break, scratch, or grind. Chromate dust is carcinogenic. Display in enclosed case."
+  care_notes: "Do not clean with acid (dissolves). Minimal intervention. Store in labeled sealed container. Consider enclosed display case for fragile crystals."
+  treatments_or_synthetics:
+    - "No synthetic crocoite on the collector market."
+    - "Synthetic lead chromate (chrome orange pigment) is distinct — does not form collector crystals."
+  common_confusions:
+    - "Wulfenite (orange-yellow tabular crystals; molybdate; different crystal habit)"
+    - "Vanadinite (hexagonal; orange-red; different chemistry and crystal habit)"
+    - "Realgar (arsenic sulfide; orange-red; different luster, lighter)"
+  market_notes: "Highly coveted collector mineral. Dundas material is among the most expensive mineral specimens available per gram. World-class specimens fetch thousands to tens of thousands of dollars. Even modest specimens carry premium."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - wulfenite
+    - vanadinite
+    - realgar
+  related_species:
+    - phoenicochroite
+    - vauquelinite
+    - mimetite
+    - wulfenite
+
+app_metadata:
+  tags:
+    - chromate
+    - lead
+    - chromium
+    - orange
+    - secondary
+    - toxic
+    - carcinogen
+    - Tasmania
+    - monoclinic
+    - rare
+  search_boost_terms:
+    - crocoite crystal
+    - lead chromate mineral
+    - brilliant orange mineral
+    - Dundas Tasmania mineral
+    - chromium discovery mineral
+    - flame orange collector mineral
+  prompt_fragments:
+    - "glowing flame-orange hollow prismatic crocoite crystals from Tasmania"
+    - "brilliant orange-red elongated crocoite prisms — like frozen fire"
+    - "saffron-orange adamantine crocoite crystal spray on white matrix"
+  ui_color_hint:
+    - "#FF6600"
+    - "#FF4500"
+    - "#E84B10"
+  priority_score: 89
+
+provenance:
+  source_status: draft
+  completeness: 0.90
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1159.html"
+    - "https://www.webmineral.com/data/Crocoite.shtml"
+    - "Handbook of Mineralogy, Vol. V: Anthony et al."
+  notes: "Chromate carcinogenicity is critical toxicity note. Dundas locality is well-documented as premier world source. Vauquelin chromium discovery from crocoite is well-established history."

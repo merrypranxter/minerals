@@ -1,0 +1,208 @@
+id: hauyne
+slug: hauyne
+display_name: Hauyne
+
+classification:
+  chemistry_class: silicate
+  mineral_group: sodalite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1849
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Na,Ca)4-8(Al6Si6O24)(SO4,S)1-2"
+  simplified_formula: "Na6Ca2(Al6Si6O24)(SO4)2"
+  essential_elements: [Na, Ca, Al, Si, O, S]
+  trace_elements_common: [K, Fe, Mg]
+  structural_units:
+    - "sodalite cage framework"
+    - "SO4²⁻ sulfate anion in cage"
+    - "Ca²⁺ and Na⁺ in cage sites"
+  atomic_structure_notes: "Same sodalite framework as sodalite and hackmanite, but with sulfate (SO₄²⁻) as the enclosed anion rather than Cl⁻. Ca²⁺ substitutes for Na⁺. This sulfate-sodalite is isostructural with nosean and lazurite."
+  chemistry_notes: "Distinguished from nosean (Na-dominant, SO₄) by higher Ca content. The brilliant blue color is among the most vivid of any silicate mineral — comparable to lazurite."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: "hextetrahedral"
+  space_group: "P4̄3n"
+  unit_cell_notes: "a ≈ 9.11 Å"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms dodecahedral crystals (12-sided), often well-formed. Also massive. The dodecahedral habit with brilliant blue color is distinctive in phonolites."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.44–2.50"
+  luster: [vitreous, greasy]
+  streak: "white to pale blue"
+  transparency: [translucent, opaque]
+  cleavage:
+    - "imperfect {110}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Similar to sodalite. Slightly denser due to Ca and SO₄ content."
+
+appearance:
+  baseline_colors:
+    - brilliant-blue
+    - vivid-blue
+    - greenish-blue
+    - white
+    - gray
+  color_profiles:
+    - name: brilliant-blue
+      colors: [brilliant-blue, azure, vivid-blue, cornflower-blue]
+      cause: "Sulfur-related color centers (S₃⁻ or S₂⁻ radicals) in sodalite cages."
+      conditions: "Standard blue hauyne in phonolites and leucitites."
+      variety_name: null
+  habits:
+    - dodecahedral crystals
+    - massive
+    - disseminated
+  textures:
+    - vitreous
+    - granular
+  macro_patterns:
+    - brilliant blue dodecahedra in dark volcanic rock
+  common_forms:
+    - dodecahedral crystals in phonolite matrix
+    - loose crystals (concentrated from volcanic rock)
+  visual_notes: "Hauyne produces some of the most brilliant blues of any volcanic mineral — small dodecahedral crystals of electric blue embedded in dark phonolite or leucitite. Concentrated specimens of loose crystals are especially vivid. A relatively obscure mineral outside collector circles but remarkable for its color."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "orange fluorescence typical"
+    longwave_uv: "variable"
+    fluorescence_color: orange
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Similar UV response to sodalite group. Strong blue color."
+
+formation_and_occurrence:
+  genesis:
+    - igneous (phonolite, leucitite, undersaturated lavas)
+  geologic_environments:
+    - phonolite flows
+    - leucitite
+    - silica-undersaturated volcanic rocks
+    - trachytic lavas
+  host_rocks:
+    - phonolite
+    - leucitite
+    - nepheline syenite
+  associated_minerals:
+    - leucite
+    - nosean
+    - nepheline
+    - sanidine
+    - augite
+    - magnetite
+  locality_scope: limited
+  notable_localities:
+    - "Laacher See, Eifel, Germany (classic)"
+    - "Somma-Vesuvius complex, Italy"
+    - "Alaçahan, Turkey"
+    - "Monte Somma, Italy"
+    - "Niedermendig, Eifel, Germany"
+    - "Hegau, Baden-Württemberg, Germany"
+  occurrence_notes: "Found in silica-undersaturated phonolites and leucitites. Cannot coexist with quartz (like all feldspathoids). Eifel volcanic field in Germany is a classic locality for blue hauyne crystals."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Named after French mineralogist René-Just Haüy (1743–1822) — founding father of crystallography."
+    - "Primarily a collector and scientific mineral."
+  cultural_associations:
+    - "Named for Haüy, whose laws of crystallography formed the foundation of the science."
+  symbolism:
+    - crystallographic foundation
+    - brilliant blue
+    - volcanic mineral
+  folklore_notes: "Hauyne honors René-Just Haüy — perhaps the most important mineralogist in history. His 1784 recognition that crystals have rational faces defined the laws of crystallography."
+
+interpretive_vibe:
+  mood_keywords:
+    - volcanic-blue
+    - brilliant-dodecahedron
+    - Haüy-crystal
+    - eifel-gem
+    - phonolite-jewel
+  sensory_keywords:
+    - electric blue in dark rock
+    - vitreous dodecahedra
+    - tiny brilliant gems
+  palette_keywords:
+    - brilliant-blue
+    - azure
+    - volcanic-dark-matrix
+  aesthetic_roles:
+    - blue volcanic crystal
+    - dodecahedral form example
+    - sodalite-group blue
+  vibe_notes: "Hauyne is a blue so vivid it seems electric, embedded in volcanic rock. Small dodecahedral jewels in a dark matrix — nature's own blue sapphires in phonolite."
+
+practical_notes:
+  toxicity: "Non-toxic. No known hazards."
+  handling_notes: "Handle normally."
+  care_notes: "Standard care."
+  treatments_or_synthetics:
+    - "No synthetic hauyne on collector market."
+  common_confusions:
+    - "Sodalite (lighter blue, different crystal habit)"
+    - "Lazurite (in metamorphic rock, not volcanic)"
+    - "Nosean (very similar; Na-dominant SO₄ sodalite; requires chemistry to distinguish)"
+  market_notes: "Less commonly available than sodalite. Eifel crystals in matrix are prized."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - sodalite
+    - nosean
+    - lazurite
+  related_species:
+    - nosean
+    - sodalite
+    - lazurite
+    - nepheline
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - feldspathoid
+    - sodalite-group
+    - blue
+    - volcanic
+    - isometric
+  search_boost_terms:
+    - hauyne crystal
+    - sodalite group blue
+    - volcanic blue mineral
+    - Eifel mineral
+    - phonolite mineral
+    - Haüy mineral
+  prompt_fragments:
+    - "brilliant blue hauyne dodecahedra in dark phonolite volcanic rock"
+    - "vivid azure sodalite-group crystals from Eifel volcanics"
+  ui_color_hint:
+    - "#2E7FD9"
+    - "#1B6FCC"
+  priority_score: 72
+
+provenance:
+  source_status: draft
+  completeness: 0.82
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1849.html"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: ""

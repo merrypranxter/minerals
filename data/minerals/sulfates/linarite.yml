@@ -1,0 +1,226 @@
+id: linarite
+slug: linarite
+display_name: Linarite
+
+classification:
+  chemistry_class: sulfate
+  mineral_group: linarite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2401
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "PbCu(SO4)(OH)2"
+  simplified_formula: "PbCu(SO4)(OH)2"
+  essential_elements: [Pb, Cu, S, O, H]
+  trace_elements_common: [Ca, Ba]
+  structural_units:
+    - "sulfate (SO4)²⁻ tetrahedra"
+    - "Cu²⁺ octahedral coordination"
+    - "Pb²⁺ in large coordination sites"
+    - "hydroxyl groups (OH)⁻"
+  atomic_structure_notes: "Monoclinic structure. Both Cu²⁺ and Pb²⁺ are essential; linarite is one of the few minerals requiring both copper and lead in the same structure. The vivid azure-blue color comes from Cu²⁺ in hydroxysulfate coordination."
+  chemistry_notes: "Linarite forms in oxidized ore deposits where both galena (Pb) and chalcopyrite or other Cu-bearing minerals occur together. It is one of the deepest, most saturated blues in the mineral kingdom — an intense azure that rivals azurite and far exceeds most other sulfates."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "P21/m"
+  unit_cell_notes: "a ≈ 9.69 Å, b ≈ 5.65 Å, c ≈ 4.69 Å, β ≈ 102.7°"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms elongated prismatic crystals, often striated along prism faces. Crystals are typically small (1–10 mm) and deep blue. Also occurs as crusts, aggregates, and reniform masses."
+
+physical_properties:
+  mohs_hardness: "2.5"
+  specific_gravity: "5.30–5.40"
+  luster: [adamantine, vitreous]
+  streak: "pale blue"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {100}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Very dense for a sulfate (Pb content). Adamantine to vitreous luster — crystals can be highly brilliant. Perfect cleavage and softness make crystals fragile."
+
+appearance:
+  baseline_colors:
+    - deep-azure-blue
+    - cobalt-blue
+    - vivid-blue
+    - royal-blue
+  color_profiles:
+    - name: deep-azure-blue
+      colors: [deep-azure, cobalt-blue, indigo-blue, royal-blue]
+      cause: "Cu²⁺ in hydroxysulfate coordination; intense d-d absorption."
+      conditions: "All linarite specimens."
+      variety_name: null
+  habits:
+    - prismatic
+    - elongated
+    - striated
+    - crusts
+    - reniform
+    - aggregates
+  textures:
+    - adamantine highly polished look
+    - deep glassy blue
+    - striated surface
+  macro_patterns:
+    - deep blue prismatic crystals on white/cream matrix
+    - vivid blue crusts on galena or limonite
+    - isolated intense blue crystals on gossan
+  common_forms:
+    - prismatic crystals on matrix
+    - crystalline crusts on lead-copper ore
+  visual_notes: "Linarite is a concentrated intense azure blue — perhaps the deepest, most saturated natural blue among lead-copper sulfate minerals. Small crystals but maximum color impact. The combination of adamantine luster and deep indigo-blue makes specimens look like sapphire fragments."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Strong pleochroism: deep blue / pale blue / colorless. High refractive index for a sulfate. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized lead-copper deposits)
+  geologic_environments:
+    - oxidized zone of galena + copper sulfide deposits
+    - supergene zone of polymetallic sulfide deposits
+  host_rocks:
+    - gossan
+    - galena-bearing sulfide ore
+    - quartz-carbonate veins
+  associated_minerals:
+    - galena
+    - cerussite
+    - anglesite
+    - malachite
+    - azurite
+    - brochantite
+    - hemimorphite
+    - limonite
+    - beudantite
+  locality_scope: worldwide
+  notable_localities:
+    - "Linares, Jaén, Spain (type locality)"
+    - "Tiger, Arizona, USA (superb specimens)"
+    - "Tsumeb, Namibia"
+    - "Red Gill Mine, Cumbria, England"
+    - "Roughton Gill, Cumbria, England"
+    - "Leadhills, Scotland"
+    - "Mammoth Mine, Arizona, USA"
+    - "Bingham, New Mexico, USA"
+  occurrence_notes: "Found wherever lead and copper sulfides are both oxidized together. Named for Linares, Spain. Some of the finest specimens come from Arizona, USA."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Described and named for Linares, Spain by August Breithaupt, 1839."
+    - "No industrial use; purely a collector mineral."
+  cultural_associations:
+    - "Famous among collectors for its extraordinary blue color."
+  symbolism:
+    - deep-blue
+    - combined lead-copper
+    - azure intensity
+  folklore_notes: "Linarite has no cultural history beyond modern mineralogy. Its fame rests entirely on its extraordinary color."
+
+interpretive_vibe:
+  mood_keywords:
+    - maximum-azure
+    - lead-copper-blue
+    - indigo-gem
+    - sapphire-shard
+    - intense-blue
+  sensory_keywords:
+    - deep brilliant blue
+    - adamantine gloss
+    - heavy and dense
+    - concentrated color
+  palette_keywords:
+    - deep-azure
+    - cobalt-blue
+    - indigo
+    - royal-blue
+  aesthetic_roles:
+    - maximum blue intensity reference
+    - rare blue gem-like mineral
+    - lead-copper mineral showcase
+    - small but visually overwhelming
+  vibe_notes: "Linarite distills blue. You could describe it as 'a sulfate mineral' but that undersells it. It's a fragment of concentrated azure sky, unexpectedly heavy in the hand, looking nothing like what sulfate mineralogy usually produces."
+
+practical_notes:
+  toxicity: "LEAD AND COPPER-BEARING MINERAL. Do not generate dust. Wash hands thoroughly after handling. Avoid ingestion. Keep away from children. Handle as a display specimen only."
+  handling_notes: "Fragile. Handle by matrix. Avoid crushing or breaking (creates toxic dust). Do not use ultrasonic cleaners."
+  care_notes: "Do not clean with acid. Minimal intervention — light dusting. Store in padded container with hazard label."
+  treatments_or_synthetics:
+    - "No synthetic linarite on the collector market."
+  common_confusions:
+    - "Azurite (Cu-carbonate; effervesces in acid; different crystal system)"
+    - "Chalcanthite (water-soluble; less intense blue; different crystal habit)"
+    - "Shattuckite (darker blue; different chemistry)"
+    - "Cavansite (different habit, vanadium not lead-copper)"
+  market_notes: "Sought-after collector mineral. Fine crystals from Arizona and Namibia are priced highly. The intense blue drives demand."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - azurite
+    - chalcanthite
+    - shattuckite
+    - cavansite
+  related_species:
+    - chenite
+    - azurite
+    - brochantite
+
+app_metadata:
+  tags:
+    - sulfate
+    - lead
+    - copper
+    - secondary
+    - blue
+    - toxic
+    - monoclinic
+    - high-density
+    - collector
+  search_boost_terms:
+    - linarite crystal
+    - deep blue sulfate mineral
+    - lead copper sulfate
+    - azure blue mineral
+    - Arizona blue mineral
+    - Linares Spain mineral
+  prompt_fragments:
+    - "intense deep azure linarite crystals on cream gossan matrix"
+    - "cobalt-blue adamantine prismatic linarite — concentrated color"
+    - "sapphire-like blue crystals of linarite on galena ore"
+  ui_color_hint:
+    - "#0047AB"
+    - "#1034A6"
+    - "#002FA7"
+  priority_score: 82
+
+provenance:
+  source_status: draft
+  completeness: 0.86
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2401.html"
+    - "https://www.webmineral.com/data/Linarite.shtml"
+    - "Handbook of Mineralogy, Vol. V: Anthony et al."
+  notes: "Pb and Cu toxicity are critical notes. Type locality is Linares, Spain."

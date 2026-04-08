@@ -1,0 +1,205 @@
+id: scapolite
+slug: scapolite
+display_name: Scapolite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: scapolite-group (marialite–meionite series)
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: "grandfathered (series name; marialite and meionite are end-member species)"
+  mindat_id: 3571
+  other_ids:
+    series_note: "Complete series: marialite (Na-Cl end) to meionite (Ca-CO3/SO4 end)"
+
+chemical_profile:
+  ideal_formula: "(Na,Ca)4(Al,Si)12O24(Cl,CO3,SO4)"
+  simplified_formula: "(Na,Ca)4Al3(Al,Si)9O24(Cl,CO3,SO4)"
+  essential_elements: [Na, Ca, Al, Si, O, Cl]
+  trace_elements_common: [K, Fe, Mn]
+  structural_units:
+    - "framework of AlO4 and SiO4 tetrahedra"
+    - "large channels accommodating Na/Ca and Cl/CO3/SO4"
+  atomic_structure_notes: "Tetragonal framework silicate with large structural channels. The channels accommodate either Na+Cl (marialite end) or Ca+CO₃/SO₄ (meionite end). Structurally distinct from feldspars but similar in composition."
+  chemistry_notes: "The scapolite series runs from marialite (NaCl end-member) through meionite (CaCO₃ end-member). Most natural scapolite is intermediate. Rare gemmy specimens occur in yellow-orange, purple, pink, and colorless forms."
+
+crystallography:
+  crystal_system: tetragonal
+  crystal_class: "ditetragonal dipyramidal"
+  space_group: "I4/m"
+  unit_cell_notes: "a ≈ 12.08 Å, c ≈ 7.57 Å (varies with composition)"
+  twinning: "Rare."
+  crystallography_notes: "Forms prismatic tetragonal crystals with square to rectangular cross-sections. Prism faces often striated vertically. Also massive, granular."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.50–2.78"
+  luster: [vitreous, resinous on cleavage]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage:
+    - "good {100}"
+    - "good {110}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Two good cleavage directions at 90°. SG increases with Ca (meionite) content. Transparent gem-quality material is relatively rare."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - gray
+    - yellow
+    - orange-yellow
+    - pink
+    - purple
+    - violet
+  color_profiles:
+    - name: colorless-white
+      colors: [colorless, white, pale-gray]
+      cause: "No chromophore."
+      conditions: "Most common form in metamorphic rocks."
+      variety_name: null
+    - name: yellow-orange-gem
+      colors: [yellow, golden-yellow, orange-yellow]
+      cause: "Trace Fe or color centers."
+      conditions: "Gem-quality material from Madagascar, Tanzania."
+      variety_name: null
+    - name: purple-violet-gem
+      colors: [purple, violet, lavender]
+      cause: "Color centers; possibly Mn."
+      conditions: "Less common gem variety."
+      variety_name: null
+    - name: pink
+      colors: [pink, rose]
+      cause: "Mn²⁺ or color centers."
+      conditions: "Some metamorphic localities."
+      variety_name: null
+  habits:
+    - prismatic tetragonal
+    - massive
+    - granular
+    - fibrous (some)
+  textures:
+    - vitreous
+    - striated prisms
+    - granular in rock
+  macro_patterns:
+    - prismatic square-section crystals
+    - white to gray masses in skarn
+  common_forms:
+    - prismatic crystals in metamorphic rock
+    - massive granular in skarns
+    - gem crystals
+  visual_notes: "Scapolite is more interesting as a gem material than as a hand specimen — most rock scapolite is gray or white. Gem-quality yellow, purple, and pink scapolite is attractive but obscure. Cat's eye scapolite exists and is an unusual phenomenon for a silicate tectosilicate."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "orange-yellow to orange — often vivid"
+    longwave_uv: "orange or cream"
+    fluorescence_color: orange
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects:
+    - cat's-eye-chatoyancy (some fibrous specimens)
+  optical_notes: "Strong UV orange fluorescence is useful for identification. Cat's eye scapolite is a collector curiosity. Uniaxial negative."
+
+formation_and_occurrence:
+  genesis:
+    - metamorphic
+    - metasomatic
+    - skarn
+  geologic_environments:
+    - calc-silicate skarn
+    - marble
+    - granulite-facies metamorphic rock
+    - altered mafic intrusion
+  associated_minerals:
+    - diopside
+    - garnet
+    - wollastonite
+    - calcite
+    - phlogopite
+    - feldspar
+  locality_scope: worldwide
+  notable_localities:
+    - "Madagascar (gem yellow and purple)"
+    - "Tanzania (cat's eye, yellow)"
+    - "Mineral Hill, New York, USA"
+    - "Bancroft, Ontario, Canada"
+    - "Renfrew County, Ontario, Canada"
+    - "Brazil (gem material)"
+    - "Pakistan (gem)"
+  occurrence_notes: "Widespread in metamorphic and metasomatic assemblages. Gem-quality material is rarer and primarily from East Africa and Madagascar."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named from Greek 'skapos' (shaft) + 'lithos' (stone) for the prismatic shaft-like habit."
+    - "Used as a gem, though not a mainstream gemstone."
+  folklore_notes: "No significant cultural history."
+
+interpretive_vibe:
+  mood_keywords:
+    - metamorphic-prism
+    - hidden-gem
+    - UV-orange
+    - gray-workhorse
+    - crystal-shaft
+  palette_keywords:
+    - golden-yellow
+    - purple
+    - white-gray
+  vibe_notes: "Scapolite is an underappreciated gem mineral — most people haven't heard of it, but yellow scapolite is genuinely lovely, and cat's eye scapolite is a collector curiosity worth knowing."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Handle normally."
+  care_notes: "Standard. Two cleavage directions mean faceted gems need some care."
+  common_confusions:
+    - "Feldspar (very similar; different UV response)"
+    - "Amblygonite (similar form, different chemistry)"
+    - "Yellow beryl (heliodor) — very different SG and hardness"
+  market_notes: "Yellow and purple gem scapolite is available from specialty gem dealers. Not widely known in mainstream jewelry."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - feldspar
+    - amblygonite
+    - yellow-beryl
+  related_species:
+    - marialite
+    - meionite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - metamorphic
+    - gem
+    - yellow
+    - purple
+    - tetragonal
+    - scapolite-group
+    - UV-fluorescent
+  prompt_fragments:
+    - "prismatic golden-yellow scapolite gem crystal glowing orange under UV"
+    - "white striated tetragonal scapolite prism in calc-silicate skarn"
+  ui_color_hint:
+    - "#DDB830"
+    - "#A890C8"
+    - "#DDDDD0"
+  priority_score: 71
+
+provenance:
+  source_status: draft
+  completeness: 0.78
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3571.html"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: ""

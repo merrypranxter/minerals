@@ -1,0 +1,65 @@
+# Water Sensitivity
+# Controlled vocabulary for how minerals respond to water contact, humidity, or wet storage.
+# Distinct from acid_reactivity (which covers acid specifically) and hydration_stability (long-term humidity effects).
+
+water_sensitivity:
+
+  - id: waterproof
+    display: Waterproof / Water Safe
+    description: "Unaffected by water; can be safely cleaned with water."
+    examples: [quartz, fluorite, tourmaline, corundum, gold, garnet]
+    cleaning: "Safe to clean with water, mild soap, soft brush."
+
+  - id: water-stable
+    display: Water Stable (Minor Caution)
+    description: "Essentially stable in water but prolonged immersion not recommended for delicate specimens."
+    examples: [calcite, malachite, beryl, topaz]
+    cleaning: "Brief rinse safe. Avoid prolonged soaking."
+
+  - id: water-sensitive
+    display: Water Sensitive
+    description: "Should not be cleaned with water. May spot, stain, dissolve partially, or suffer surface damage."
+    examples:
+      - "Halite (salt — dissolves in water)"
+      - "Sylvite (dissolves)"
+      - "Borax (dissolves)"
+      - "Some zeolites"
+    cleaning: "Dry cleaning only. Use soft brush or compressed air."
+
+  - id: water-soluble
+    display: Water Soluble
+    description: "Dissolves significantly in water. Direct water contact will damage or destroy specimen."
+    examples:
+      - "Chalcanthite (CuSO₄·5H₂O — soluble bright blue sulfate)"
+      - "Melanterite (FeSO₄·7H₂O)"
+      - "Epsomite (MgSO₄·7H₂O)"
+      - "Halite"
+    cleaning: "Never expose to water. Dry conditions only."
+
+  - id: humidity-affected
+    display: Humidity Affected
+    description: "Absorbs or releases water in response to ambient humidity. May crumble, effloresce, or alter."
+    examples:
+      - "Chalcanthite in humid environments"
+      - "Some zeolites"
+      - "Vivianite (oxidizes/alters on exposure)"
+    storage: "Store with desiccant in dry climate-controlled conditions."
+
+  - id: dissolves-on-contact
+    display: Dissolves on Contact
+    description: "Reacts immediately and visibly with water. Extreme sensitivity."
+    examples: []
+    notes: "Rare for collector minerals. Applies to some industrial or reactive mineraloids."
+
+  - id: carbonate-reaction
+    display: Carbonate Acid Reaction (Not Pure Water)
+    description: "Stable in pure water but reacts with slightly acidic water (rainwater, atmospheric CO₂)."
+    examples: [calcite, aragonite, dolomite, malachite]
+    notes: "Long-term exposure to slightly acidic water etches carbonate surfaces."
+
+notes:
+  - Water sensitivity is distinct from acid reactivity (see acid_reactivity.yml).
+  - Highly soluble sulfate minerals (chalcanthite, melanterite, epsomite) are particularly vulnerable.
+  - Some sulfide minerals will slowly oxidize and produce sulfuric acid in contact with moisture; affects storage.
+  - Pyrite and marcasite specimens can 'disease' in humid storage (pyrite disease / pyrite oxidation), producing acidic efflorescence.
+  - When in doubt, dry-clean mineral specimens.

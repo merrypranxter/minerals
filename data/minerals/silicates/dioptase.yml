@@ -1,0 +1,227 @@
+id: dioptase
+slug: dioptase
+display_name: Dioptase
+
+classification:
+  chemistry_class: silicate
+  mineral_group: dioptase-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1309
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Cu6[Si6O18]·6H2O"
+  simplified_formula: "CuSiO3·H2O"
+  essential_elements: [Cu, Si, O, H]
+  trace_elements_common: [Fe, Ca, Mg]
+  structural_units:
+    - "Si6O18 six-membered cyclosilicate rings"
+    - "CuO6 octahedra (Cu²⁺ in Jahn-Teller distorted octahedral coordination)"
+    - "hydrogen-bonded water molecules"
+  atomic_structure_notes: "Cyclosilicate with six-membered Si6O18 rings stacked along the c-axis. Cu²⁺ ions occupy distorted octahedral sites (Jahn-Teller effect due to d⁹ configuration). Water molecules are incorporated into the structure and are essential; heating drives them off and destroys the crystal structure."
+  chemistry_notes: "The intense emerald-green color arises from Cu²⁺ in distorted octahedral coordination with O and OH ligands — a d-d charge transfer producing unusually strong absorption in the red and yellow spectral region. The color is one of the most saturated greens in the mineral kingdom."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "rhombohedral"
+  space_group: "R3̄"
+  unit_cell_notes: "a ≈ 14.566 Å, c ≈ 7.786 Å (hex setting)"
+  twinning: "Rare."
+  crystallography_notes: "Forms prismatic to short-prismatic crystals with rhombohedral terminations. Often occurs as drusy crusts of small brilliant crystals on matrix. Cleavage is perfect along {1011}, giving crystals a faceted internal light reflection."
+
+physical_properties:
+  mohs_hardness: 5
+  specific_gravity: "3.28–3.35"
+  luster: [vitreous]
+  streak: "green"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {1011} rhombohedral"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Fragile — perfect cleavage in three directions makes crystals easy to shatter. Do not clean ultrasonically. Handle matrix specimens with great care."
+
+appearance:
+  baseline_colors:
+    - emerald-green
+    - deep-green
+    - vivid-green
+  color_profiles:
+    - name: emerald-green
+      colors: [emerald-green, deep-green, vivid-green, slightly-bluish-green]
+      cause: "Cu²⁺ in distorted octahedral coordination; d-d absorption produces intense green."
+      conditions: "All normal dioptase from oxidized copper deposits."
+      variety_name: null
+  habits:
+    - prismatic
+    - short-prismatic
+    - drusy aggregates
+    - rhombohedral crystals
+  textures:
+    - vitreous
+    - transparent to translucent
+    - bright drusy surface
+  macro_patterns:
+    - drusy emerald-green crusts on ochre/brown matrix
+    - individual brilliant green prisms on gossan
+    - velvety dark green masses
+  common_forms:
+    - drusy crusts and matrix specimens
+    - individual prismatic crystals
+    - massive compact aggregates
+  visual_notes: "Dioptase produces one of the most vivid, saturated greens in the mineral world — rivaling fine emerald in color intensity but with a different quality of light. The small transparent-to-translucent prismatic crystals are typically found in brilliant drusy clusters on ochre-brown iron oxide matrix (gossan). The color contrast is extraordinary."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Non-fluorescent. High refractive index gives glassy brilliance. Strong pleochroism: green to greenish-blue."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized copper deposits)
+  geologic_environments:
+    - oxidized zone of copper sulfide deposits
+    - supergene enrichment zones
+  host_rocks:
+    - gossan (iron oxide cap)
+    - calcite veins in copper-bearing rock
+    - chrysocolla and malachite-bearing assemblages
+  associated_minerals:
+    - chrysocolla
+    - malachite
+    - shattuckite
+    - calcite
+    - plancheite
+    - wulfenite
+    - cerussite
+  locality_scope: limited
+  notable_localities:
+    - "Tsumeb Mine, Namibia (finest gem-quality specimens)"
+    - "Altyn-Tube, Kazakhstan"
+    - "Reneville, Republic of Congo"
+    - "Mindouli, Republic of Congo"
+    - "Bou Azzer, Morocco"
+    - "Arizona, USA (Globe and Miami districts)"
+    - "Peru (Mina Lily)"
+    - "Chile"
+  occurrence_notes: "Found exclusively in the oxidized zone of copper-bearing ore deposits, where copper-rich solutions interact with silica-bearing groundwater. Crystals are often associated with chrysocolla and malachite on gossan matrix."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Described as a mineral species in 1797 by René Just Haüy."
+    - "Named from Greek 'dia' (through) + 'opazein' (to see through) referring to the internal cleavage reflections."
+    - "Highly prized collector mineral for its exceptional color."
+    - "Sometimes faceted as a collector gemstone, though fragility limits use."
+  cultural_associations:
+    - "Associated with heart chakra energy in crystal healing traditions."
+    - "Compared to emerald; sometimes called 'emerald of the copper world'."
+  symbolism:
+    - vivid life
+    - copper-green
+    - heart
+    - healing
+    - tropical abundance
+  folklore_notes: "Dioptase has minimal historical cultural use — it is primarily a modern collector's mineral, prized for its extraordinary green. The name 'through + to see' refers to how light plays through the perfect cleavage surfaces of the crystals."
+
+interpretive_vibe:
+  mood_keywords:
+    - electric-emerald
+    - druse-fire
+    - copper-life
+    - tropical-crystal
+    - small-but-vivid
+  sensory_keywords:
+    - brilliant glassy green
+    - sparkling drusy surface
+    - fragile precision
+    - emerald depth
+  palette_keywords:
+    - emerald-green
+    - copper-green
+    - ochre-matrix-contrast
+    - deep-forest-jewel
+  aesthetic_roles:
+    - maximum green saturation reference
+    - copper mineral showpiece
+    - contrast specimen on matrix
+    - gem-green color anchor
+  vibe_notes: "Dioptase is proof that the mineral world can outperform emeralds in pure color intensity. Small crystals, massive color impact. It is a mineral for people who want green at its most alive."
+
+practical_notes:
+  toxicity: "Copper-bearing mineral. Avoid ingesting dust. Wash hands after handling. Do not grind."
+  handling_notes: "Fragile — perfect cleavage and brittle fracture. Hold matrix, not crystals. Do not use ultrasonic cleaners."
+  care_notes: "Do not clean with acid (destroys copper minerals). Light dusting with soft brush. Avoid water if possible; brief rinse acceptable. Store in padded tray."
+  treatments_or_synthetics:
+    - "No synthetic dioptase on the market."
+    - "No known treatments for dioptase specimens."
+  common_confusions:
+    - "Emerald (much harder, different crystal system)"
+    - "Malachite (lower luster, never prismatic crystals like dioptase)"
+    - "Shattuckite (similar locality, blue rather than green)"
+    - "Chrome diopside (different chemistry, igneous not secondary)"
+  market_notes: "Highly prized by collectors. Fine Tsumeb specimens command significant prices. Quality determined by crystal size, clarity, matrix quality, and color intensity."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - emerald
+    - shattuckite
+    - malachite
+    - chrome-diopside
+  related_species:
+    - shattuckite
+    - plancheite
+    - chrysocolla
+
+app_metadata:
+  tags:
+    - silicate
+    - cyclosilicate
+    - copper
+    - green
+    - secondary
+    - oxidized-zone
+    - collector
+    - fragile
+    - trigonal
+  search_boost_terms:
+    - dioptase crystal
+    - emerald green copper mineral
+    - vivid green silicate
+    - Tsumeb mineral
+    - oxidized copper mineral
+    - drusy green
+  prompt_fragments:
+    - "brilliant emerald-green drusy crystals on ochre gossan matrix"
+    - "intensely saturated copper-green prismatic dioptase druse"
+    - "small vivid green crystals with internal cleavage light"
+  ui_color_hint:
+    - "#1A7A3C"
+    - "#0F6B2F"
+    - "#2ECC71"
+  priority_score: 86
+
+provenance:
+  source_status: draft
+  completeness: 0.89
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1309.html"
+    - "https://www.webmineral.com/data/Dioptase.shtml"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: "Cu²⁺ d-d color mechanism well-established. Tsumeb locality as premier source is consensus in collector literature."

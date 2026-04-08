@@ -1,0 +1,70 @@
+# minerals_by_uv_response.yml
+# Index of minerals by their UV/luminescence behavior.
+# See uv_reaction_types.yml for vocabulary.
+
+fluorescent_shortwave:
+  - name: Benitoite
+    slug: benitoite
+    response: intense blue-white
+    notes: "One of the most spectacular SW UV responses of any mineral."
+  - name: Adamite
+    slug: adamite
+    response: intense yellow-green
+    notes: "Mapimí specimens — neon yellow-green."
+  - name: Autunite
+    slug: autunite
+    response: intense yellow-green
+    notes: "Uranyl ion fluorescence; also phosphoresces."
+  - name: Scheelite
+    slug: scheelite
+    response: blue-white to cream
+    notes: "Classic tungstate UV response."
+  - name: Hackmanite
+    slug: hackmanite
+    response: orange + tenebrescence
+    notes: "Also tenebrescent (photochromic)."
+  - name: Sodalite
+    slug: sodalite
+    response: orange (variable)
+  - name: Lazurite
+    slug: lazurite
+    response: orange (variable)
+  - name: Hauyne
+    slug: hauyne
+    response: orange
+  - name: Nosean
+    slug: nosean
+    response: orange (variable)
+  - name: Scapolite
+    slug: scapolite
+    response: orange-yellow (often vivid)
+  - name: Cerussite
+    slug: cerussite
+    response: yellow to cream (variable)
+
+tenebrescent:
+  - name: Hackmanite
+    slug: hackmanite
+    response: "colorless/cream → pink/violet under SW UV; bleaches in visible light"
+    notes: "The defining tenebrescent mineral."
+
+non_fluorescent:
+  - name: Dioptase
+    slug: dioptase
+  - name: Crocoite
+    slug: crocoite
+  - name: Wulfenite
+    slug: wulfenite
+  - name: Chalcocite
+    slug: chalcocite
+  - name: Erythrite
+    slug: erythrite
+  - name: Linarite
+    slug: linarite
+  - name: Atacamite
+    slug: atacamite
+
+notes:
+  - SW UV responses vary by specimen, locality, and impurity content.
+  - Test individual specimens; locality data does not guarantee UV response.
+  - Always use UV-blocking eye protection for SW UV lamps.

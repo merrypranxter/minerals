@@ -1,0 +1,256 @@
+id: lazurite
+slug: lazurite
+display_name: Lazurite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: sodalite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2344
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Na,Ca)8(AlSiO4)6(SO4,S,Cl)2"
+  simplified_formula: "Na8Al6Si6O24(SO4,S,Cl)"
+  essential_elements: [Na, Al, Si, O, S]
+  trace_elements_common: [Ca, K, Cl, Fe]
+  structural_units:
+    - "sodalite cage framework with S₃⁻ trisulfide radical anion"
+    - "alternating AlO4 and SiO4 tetrahedra"
+  atomic_structure_notes: "Lazurite shares the sodalite cage framework but the enclosed anion is predominantly S₃⁻ (trisulfide radical), which is the chromophore responsible for the intense deep blue. Sulfate (SO₄²⁻) is also present. This is the key chemical distinction from sodalite (Cl) and hackmanite (S₂⁻)."
+  chemistry_notes: "Lazurite is the principal blue mineral of lapis lazuli rock. The S₃⁻ radical anion is the chromophore producing the intense blue. Composition is variable; end-member definition is complex. The blue is one of the most historically significant mineral colors in human civilization."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: "hextetrahedral"
+  space_group: "P4̄3n"
+  unit_cell_notes: "a ≈ 9.08 Å; Z = 1"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Crystals rare and typically poorly formed. Occurs mainly as massive granular aggregates in metamorphic rock (lapis lazuli). Discrete dodecahedral crystals do occur but are uncommon."
+
+physical_properties:
+  mohs_hardness: "5–6"
+  specific_gravity: "2.38–2.45"
+  luster: [vitreous, greasy]
+  streak: light-blue
+  transparency: [opaque, translucent]
+  cleavage:
+    - "imperfect {110}"
+  fracture: [uneven, conchoidal]
+  tenacity: brittle
+  physical_notes: "SG notably higher than sodalite due to calcium and sulfate content. The lapis lazuli rock (lazurite + pyrite + calcite ± other minerals) has a higher bulk density than pure lazurite."
+
+appearance:
+  baseline_colors:
+    - intense-blue
+    - ultramarine-blue
+    - deep-violet-blue
+    - azure
+  color_profiles:
+    - name: ultramarine-blue
+      colors: [intense-blue, ultramarine, deep-blue, cobalt-blue]
+      cause: "S₃⁻ (trisulfide radical) anion in sodalite cage; electronic absorption in red/orange wavelengths produces intense blue transmission."
+      conditions: "Standard high-quality lazurite from Afghanistan."
+      variety_name: null
+    - name: violet-blue
+      colors: [violet-blue, indigo, blue-purple]
+      cause: "Variation in S₃⁻/S₂⁻ radical balance, or other impurity effects."
+      conditions: "Some localities produce slightly violet-blue rather than pure blue."
+      variety_name: null
+    - name: greenish-blue
+      colors: [greenish-blue, teal-blue]
+      cause: "Admixture with iron minerals or different impurity balance."
+      conditions: "Lower-quality or different-locality material."
+      variety_name: null
+  habits:
+    - massive
+    - granular
+    - disseminated in lapis rock
+    - dodecahedral crystals (rare)
+  textures:
+    - granular
+    - mottled with pyrite and calcite
+    - even color patches
+  macro_patterns:
+    - deep blue with gold pyrite flecks (in lapis)
+    - blue patches on white calcite
+    - uniform deep blue masses
+  common_forms:
+    - component of lapis lazuli rock (with pyrite, calcite, diopside)
+    - massive granular specimens
+    - rarely as discrete crystals
+  visual_notes: "Pure lazurite: intense, saturated ultramarine blue without equal among natural minerals of comparable hardness. In lapis lazuli rock: the deep blue matrix hosting brilliant gold pyrite flecks and white calcite patches — one of the most visually iconic combinations in all of mineralogy and human art."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "orange fluorescence typical"
+    longwave_uv: "weak orange or none"
+    fluorescence_color: orange
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Orange UV fluorescence is shared across much of the sodalite group. Lazurite itself does not exhibit tenebrescence (that behavior is specific to hackmanite)."
+
+formation_and_occurrence:
+  genesis:
+    - contact metamorphic
+    - metasomatic
+  geologic_environments:
+    - calc-silicate marble (skarns)
+    - contact aureoles around igneous intrusions in limestone/dolomite
+    - high-grade regional metamorphic settings
+  host_rocks:
+    - marble (calcite or dolomite)
+    - calc-silicate skarn
+  associated_minerals:
+    - calcite
+    - pyrite
+    - diopside
+    - hauyne
+    - forsterite
+    - muscovite
+    - wollastonite
+    - phlogopite
+    - sodalite
+    - titanite
+  locality_scope: limited
+  notable_localities:
+    - "Sar-e-Sang (Koksha Valley), Badakhshan, Afghanistan (finest in the world; mined >6000 years)"
+    - "Lake Baikal region, Russia (including Siberian lapis)"
+    - "Ovalle, Coquimbo, Chile"
+    - "Colorado, USA (rare)"
+    - "Flinders Ranges, South Australia"
+    - "Vesuvius, Italy (rare crystals)"
+    - "Baffin Island, Canada"
+  occurrence_notes: "Lazurite (and lapis lazuli rock) forms in marble/skarn settings where alkaline fluids interact with calcium-rich rocks. Afghanistan's Sar-e-Sang deposit is the oldest continuously mined mineral locality in the world, with records dating to 6th millennium BCE."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Ground to produce ultramarine pigment — the most prized blue paint pigment in medieval and Renaissance art."
+    - "Used in ancient Egypt for amulets, jewelry, and ground pigment (Egyptian blue not lazurite; but lapis was imported)."
+    - "Sumerian and Mesopotamian jewelry and inlay (3000+ BCE)."
+    - "Roman use in jewelry and decorative objects."
+    - "Persian and Islamic art (illuminated manuscripts, tilework glaze)."
+    - "Tutankhamun's funeral mask contains lapis lazuli inlays."
+    - "Replaced by synthetic ultramarine (1828) in pigment use; the synthetic has identical S₃⁻ chromophore."
+  cultural_associations:
+    - "The blue of the Virgin Mary's robe in medieval European painting (ultramarine from lapis)."
+    - "Sacred in ancient Egypt: associated with the night sky, lapis was the 'sky in stone'."
+    - "Sumerian mythology: lapis lazuli thrones, beards of gods depicted in lapis."
+    - "Valued more highly than gold in some historical periods."
+  symbolism:
+    - royalty
+    - divinity
+    - celestial blue
+    - ancient wealth
+    - truth
+    - wisdom
+    - eternity
+  folklore_notes: "Lapis lazuli (of which lazurite is the primary mineral) carries one of the richest cultural histories of any mineral. Prized across ancient Egypt, Mesopotamia, Persia, Greece, Rome, and medieval Europe. The word 'ultramarine' means 'beyond the sea' — reflecting how lapis was transported from Afghanistan to European artists. The Sar-e-Sang mines have been worked continuously for perhaps 7,000 years."
+
+interpretive_vibe:
+  mood_keywords:
+    - ultramarine-ancient
+    - celestial-depth
+    - royal-night-sky
+    - sacred-blue
+    - lapis-divine
+  sensory_keywords:
+    - heavy night-blue
+    - gold-flecked depth
+    - painterly
+    - saturated
+  palette_keywords:
+    - ultramarine
+    - midnight-blue
+    - gold-pyrite
+    - white-calcite
+    - cobalt-deep
+  aesthetic_roles:
+    - divine blue anchor
+    - ancient pigment source
+    - celestial texture
+    - royal ornament
+    - night sky reference
+  vibe_notes: "Lazurite — through lapis lazuli — is arguably the single most culturally significant mineral in human history after gold. Its deep blue has been synonymous with divinity, royalty, and cosmic depth for six thousand years. Every painting of the Virgin Mary in blue, every pharaoh's blue headdress, every Byzantine mosaic vault contains its color."
+
+practical_notes:
+  toxicity: "Non-toxic under normal handling. The rock lapis lazuli contains pyrite — generates H₂S if acid-cleaned."
+  handling_notes: "Handle normally. Avoid acids — the calcite component of lapis effervesces in acid."
+  care_notes: "Clean with water and mild soap. Do not use ultrasonic cleaners (may damage calcite or pyrite inclusions in lapis). Store away from hard minerals."
+  treatments_or_synthetics:
+    - "Dyed jasper ('Swiss lapis') — bright blue but lacks pyrite; check with acid (jasper won't effervesce)."
+    - "Dyed chalcedony or sodalite sometimes sold as lapis."
+    - "Synthetic lapis lazuli (gilson) available; very uniform blue, no natural texture."
+    - "Bleaching and redyeing of low-grade lapis to enhance color."
+  common_confusions:
+    - "Sodalite (lighter blue, no pyrite, lower density)"
+    - "Dumortierite (harder, violet-blue, no pyrite)"
+    - "Dyed jasper or chalcedony"
+    - "Azurite (different texture, effervesces in acid)"
+    - "Blue spinel (harder, very different luster)"
+  market_notes: "High-quality lapis lazuli from Afghanistan commands premium prices. Chilean and Russian material is less prized. Always ask about origin and treatment. Synthetic and simulant materials are widespread."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - sodalite
+    - dumortierite
+    - dyed-jasper
+    - azurite-rock
+  related_species:
+    - sodalite
+    - hackmanite
+    - hauyne
+    - nosean
+    - tugtupite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - feldspathoid
+    - sodalite-group
+    - blue
+    - ultramarine
+    - lapis-lazuli
+    - ancient-pigment
+    - isometric
+    - Afghanistan
+  search_boost_terms:
+    - lapis lazuli mineral
+    - ultramarine blue mineral
+    - lazurite Afghanistan
+    - natural blue pigment
+    - ancient blue stone
+    - sodalite group blue
+  prompt_fragments:
+    - "deep ultramarine blue crystal flecked with gold pyrite"
+    - "ancient lapis lazuli blue — the color of divinity and night sky"
+    - "saturated cobalt-blue granular mass with white calcite clouds"
+  ui_color_hint:
+    - "#1F3A8F"
+    - "#2E52B8"
+    - "#D4AF37"
+  priority_score: 90
+
+provenance:
+  source_status: draft
+  completeness: 0.90
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2344.html"
+    - "https://www.webmineral.com/data/Lazurite.shtml"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+    - "Colour and the Optical Properties of Materials, Nassau (2001)"
+  notes: "The S₃⁻ radical chromophore is well-established in the literature. Lapis lazuli cultural history is extensively documented."

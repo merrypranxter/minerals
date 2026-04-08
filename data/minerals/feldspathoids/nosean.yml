@@ -1,0 +1,162 @@
+id: nosean
+slug: nosean
+display_name: Nosean
+
+classification:
+  chemistry_class: silicate
+  mineral_group: sodalite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2940
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Na8(Al6Si6O24)(SO4)"
+  simplified_formula: "Na8Al6Si6O24SO4"
+  essential_elements: [Na, Al, Si, O, S]
+  trace_elements_common: [Ca, K, Fe]
+  structural_units:
+    - "sodalite cage framework"
+    - "SO4²⁻ sulfate anion in cage"
+    - "Na⁺ in cage coordination sites"
+  atomic_structure_notes: "Sodalite framework with sulfate anion enclosed. Na-dominant, SO₄ end-member of the sodalite group (vs. hauyne which has more Ca). The enclosed sulfate (SO₄²⁻) distinguishes it from sodalite (Cl⁻) and lazurite (S₃⁻/SO₄)."
+  chemistry_notes: "Sulfate-bearing sodalite with Na dominance. Common in phonolites and trachytes of the Cenozoic volcanic provinces. Often gray or smoky in color — less vividly blue than hauyne."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: "hextetrahedral"
+  space_group: "P4̄3n"
+  unit_cell_notes: "a ≈ 9.06 Å"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Dodecahedral crystals, often with altered gray surface. Less well-formed than hauyne typically."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.30–2.40"
+  luster: [vitreous, greasy]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage:
+    - "imperfect {110}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Similar to sodalite. Often appears gray due to inclusions."
+
+appearance:
+  baseline_colors:
+    - gray
+    - blue-gray
+    - brown
+    - pale-blue
+  color_profiles:
+    - name: gray-brown
+      colors: [gray, blue-gray, brownish-gray, dirty-white]
+      cause: "Sulfur-related color centers, inclusions, alteration products."
+      conditions: "Most nosean in volcanic rocks."
+      variety_name: null
+  habits:
+    - dodecahedral
+    - massive
+    - disseminated
+  textures:
+    - vitreous
+    - often altered
+  macro_patterns:
+    - gray dodecahedra in phonolite
+  common_forms:
+    - disseminated grains in volcanic rock
+    - dodecahedral crystals in phonolite
+  visual_notes: "Nosean is typically less visually striking than hauyne — gray, muddy blue, or brownish. Its scientific interest outweighs its aesthetic appeal. Rarer vivid blue specimens do occur."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "orange, variable"
+    longwave_uv: "variable"
+    fluorescence_color: orange
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+
+formation_and_occurrence:
+  genesis:
+    - igneous (phonolite, trachyte)
+  geologic_environments:
+    - phonolite
+    - trachyte
+    - silica-undersaturated volcanics
+  associated_minerals:
+    - hauyne
+    - nepheline
+    - leucite
+    - sanidine
+  locality_scope: limited
+  notable_localities:
+    - "Laacher See, Eifel, Germany"
+    - "Puy de Dôme, Auvergne, France"
+    - "Oldenburg, Germany"
+    - "Mayen, Eifel, Germany"
+  occurrence_notes: "Appears in silica-undersaturated volcanic rocks alongside hauyne and other feldspathoids."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named after Karl Wilhelm Nose (1753–1835), German geologist, by F.S. Beudant, 1817."
+  folklore_notes: "Primarily scientific interest; minimal cultural use."
+
+interpretive_vibe:
+  mood_keywords:
+    - gray-volcanic
+    - sodalite-cousin
+    - phonolite-component
+    - sulfate-cage
+  palette_keywords:
+    - gray-blue
+    - smoky-volcanic
+  vibe_notes: "Nosean is the quieter sibling of hauyne — same structure, less vivid."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Handle normally."
+  care_notes: "Standard."
+  common_confusions:
+    - "Hauyne (similar; Ca-richer; usually more vivid blue)"
+    - "Sodalite (Cl-dominant, different enclosed anion)"
+  market_notes: "Rarely available as a display specimen. Scientific and educational interest."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - hauyne
+    - sodalite
+  related_species:
+    - hauyne
+    - sodalite
+    - lazurite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - feldspathoid
+    - sodalite-group
+    - gray
+    - volcanic
+    - isometric
+  prompt_fragments:
+    - "gray-blue nosean dodecahedra in phonolite matrix"
+  ui_color_hint:
+    - "#8090A0"
+    - "#6080A0"
+  priority_score: 65
+
+provenance:
+  source_status: draft
+  completeness: 0.74
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2940.html"
+  notes: ""

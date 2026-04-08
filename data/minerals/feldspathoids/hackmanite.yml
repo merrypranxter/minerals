@@ -1,0 +1,236 @@
+id: hackmanite
+slug: hackmanite
+display_name: Hackmanite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: sodalite-group
+  species_status: variety
+  parent_species: sodalite
+  related_varieties: []
+
+identifiers:
+  ima_status: "variety (not separate IMA species)"
+  mindat_id: 1848
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Na8(Al6Si6O24)(Cl,S)2"
+  simplified_formula: "Na8Al6Si6O24(Cl,S)2"
+  essential_elements: [Na, Al, Si, O, Cl, S]
+  trace_elements_common: [K, Ca, Fe]
+  structural_units:
+    - "sodalite cage framework"
+    - "S₂⁻ radical anion (disulfide) in cage — creates tenebrescent color centers"
+  atomic_structure_notes: "Same sodalite cage framework as sodalite, but sulfur substitutes for chlorine. The S₂⁻ (disulfide) anion creates photosensitive color centers (F-centers) that produce tenebrescence. Distinct from lazurite where S₃⁻ (trisulfide) creates the intense blue."
+  chemistry_notes: "Hackmanite is a sulfur-bearing sodalite variety. The defining chemical feature is the presence of S₂⁻ radicals in the sodalite cages, which creates the photochromic (tenebrescent) behavior. Composition transitions continuously to sodalite as Cl dominates."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: "hextetrahedral"
+  space_group: "P4̄3n"
+  unit_cell_notes: "Same as sodalite; a ≈ 8.88–8.92 Å"
+  twinning: "Penetration twins possible."
+  crystallography_notes: "Crystal habit identical to sodalite — dodecahedral to massive. Tenebrescent hackmanite more commonly found as massive granular material."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.14–2.30"
+  luster: [vitreous, greasy]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage:
+    - "poor {110} dodecahedral"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Physically identical to sodalite. Distinguished by optical/tenebrescent behavior and UV fluorescence."
+
+appearance:
+  baseline_colors:
+    - white
+    - cream
+    - pale-pink
+    - lavender
+    - violet
+    - colorless
+  color_profiles:
+    - name: freshly-UV-activated
+      colors: [pink, lavender, violet, mauve]
+      cause: "S₂⁻ radical anion color centers activated by UV radiation."
+      conditions: "After exposure to shortwave UV light. Color is most intense immediately after UV exposure."
+      variety_name: null
+    - name: bleached-daylight
+      colors: [white, cream, pale-gray, colorless]
+      cause: "Photochromic bleaching; visible light (especially sunlight) destroys excited color centers."
+      conditions: "After prolonged exposure to sunlight or strong visible light."
+      variety_name: null
+    - name: dark-colored-variety
+      colors: [gray-violet, purple-gray, lilac]
+      cause: "Higher sulfur content or different impurity balance."
+      conditions: "Some hackmanite specimens retain color even in daylight — usually weaker tenebrescence."
+      variety_name: null
+  habits:
+    - massive
+    - granular
+    - dodecahedral crystals (rare)
+  textures:
+    - waxy to greasy
+    - mottled
+  macro_patterns:
+    - pale violet masses
+    - white with lavender patches
+  common_forms:
+    - massive ornamental material (Canada, Greenland, Afghanistan)
+    - rough collector specimens
+  visual_notes: "In darkness or after UV activation: soft lavender to pink-violet masses. In daylight: washes to pale cream or white. The dramatic color shift under UV is the defining visual experience — placing fresh hackmanite under a shortwave UV lamp and watching it bloom pink is unmistakable."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "strong orange to orange-red fluorescence"
+    longwave_uv: "weak to moderate orange fluorescence"
+    fluorescence_color: orange
+  tenebrescence: true
+  tenebrescence_notes: "Hackmanite is the defining tenebrescent mineral. Exposed to shortwave UV, it develops a pink to violet color (color center activation). Exposed to white/visible light, the color bleaches back. This cycle is reversible indefinitely. The initial pink activation under SW UV is immediate; bleaching in sunlight takes minutes to hours depending on specimen."
+  phosphorescence: "Brief orange-white afterglow possible immediately after UV removal."
+  special_effects:
+    - tenebrescence
+    - reversible photochromism
+    - UV orange fluorescence
+  optical_notes: "Tenebrescence (reversible photochromism) in hackmanite is caused by photosensitive S₂⁻ color centers. UV photons promote electrons into excited states; visible light photons collapse the centers. One of only a handful of minerals showing this dramatic reversible color change."
+
+formation_and_occurrence:
+  genesis:
+    - igneous (nepheline syenite, phonolite)
+    - metasomatic
+  geologic_environments:
+    - nepheline syenite intrusions
+    - pegmatitic nepheline syenite
+    - alkaline igneous complexes
+  host_rocks:
+    - nepheline syenite
+    - phonolite
+  associated_minerals:
+    - sodalite
+    - nepheline
+    - cancrinite
+    - albite
+    - calcite
+    - pyrite
+    - eudialyte
+  locality_scope: limited
+  notable_localities:
+    - "Ilímaussaq intrusive complex, Greenland (finest tenebrescent specimens)"
+    - "Bancroft and Haliburton, Ontario, Canada"
+    - "Mont-Saint-Hilaire, Quebec, Canada"
+    - "Laacher See, Eifel, Germany"
+    - "Koksha Valley, Badakhshan, Afghanistan"
+    - "Vesuvius, Italy (rare)"
+  occurrence_notes: "Hackmanite is found in the same geological settings as sodalite — alkaline nepheline syenite intrusions — but the tenebrescent variety requires higher sulfur activity during crystallization. Best tenebrescent specimens come from Greenland and Canada."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Described as a mineral variety in late 19th / early 20th century."
+    - "Named after Victor Axel Hackman (1866–1941), Finnish geologist."
+    - "Collected primarily as a scientific curiosity and UV-response demonstration mineral."
+  cultural_associations:
+    - "Beloved by UV fluorescence enthusiasts and mineral show demonstrators."
+    - "Demonstration mineral for photochromism in educational settings."
+  symbolism:
+    - transformation
+    - hidden light
+    - reversibility
+    - UV revelation
+  folklore_notes: "Hackmanite has no deep historical folklore — it is a modern mineralogical curiosity, beloved for its dramatic scientific behavior. The experience of activating hackmanite with UV light — watching a pale white stone bloom into lavender — is one of the most memorable demonstrations in mineralogy."
+
+interpretive_vibe:
+  mood_keywords:
+    - UV-bloom
+    - photochromic-magic
+    - hidden-violet
+    - reversible-change
+    - shortwave-revelation
+  sensory_keywords:
+    - smooth waxy surface
+    - pale cream to sudden violet
+    - cool in hand
+    - soft lavender glow
+  palette_keywords:
+    - pale cream
+    - soft lavender
+    - UV-pink
+    - orange UV glow
+  aesthetic_roles:
+    - UV demonstration mineral
+    - color-change jewelry material
+    - transformation motif
+    - hidden-property stone
+  vibe_notes: "Hackmanite is a stone about hidden potential. Unremarkable in sunlight, extraordinary under UV. A perfect metaphor for things that reveal themselves only in unusual light."
+
+practical_notes:
+  toxicity: "Non-toxic under normal handling."
+  handling_notes: "Handle normally. Avoid prolonged direct sun if you wish to preserve activated pink color for display — it will bleach."
+  care_notes: "Store away from strong light to preserve color. Reactivate with shortwave UV lamp (with eye protection) for demonstrations. Clean gently with water."
+  treatments_or_synthetics:
+    - "No known synthetic hackmanite on the collector market."
+    - "Some material sold as 'tenebrescent sodalite' may have variable sulfur content and variable tenebrescence."
+  common_confusions:
+    - "Standard sodalite (non-tenebrescent; test under shortwave UV to distinguish)"
+    - "Scapolite (similar physical properties; no tenebrescence)"
+    - "Rose quartz (similar color; much harder)"
+  market_notes: "Available from specialty mineral dealers. Greenlandic and Canadian material most prized. Prices vary widely based on intensity of tenebrescence."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - sodalite
+    - scapolite
+    - rose-quartz-massive
+  related_species:
+    - sodalite
+    - lazurite
+    - tugtupite
+    - hauyne
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - feldspathoid
+    - sodalite-group
+    - variety
+    - tenebrescent
+    - photochromic
+    - UV-active
+    - isometric
+  search_boost_terms:
+    - tenebrescent mineral
+    - photochromic mineral
+    - UV color change stone
+    - hackmanite sodalite
+    - color change under UV
+    - hackmanite Greenland
+  prompt_fragments:
+    - "pale cream waxy mass blooming lavender under UV light"
+    - "softly glowing pink hackmanite activated by shortwave UV"
+    - "reversible violet-to-white photochromic sodalite variety"
+  ui_color_hint:
+    - "#E8D5EC"
+    - "#C9A8D8"
+    - "#F5F0E8"
+    - "#FF8C00"
+  priority_score: 83
+
+provenance:
+  source_status: draft
+  completeness: 0.90
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1848.html"
+    - "https://www.webmineral.com/data/Hackmanite.shtml"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: "Tenebrescence mechanism well-documented in scientific literature. Photochromic behavior caused by photosensitive S₂⁻ color centers."

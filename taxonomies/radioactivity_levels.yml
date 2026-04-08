@@ -1,0 +1,51 @@
+# Radioactivity Levels
+# Controlled vocabulary for radioactivity classification in mineral entries.
+# Based on general collector safety guidelines, not regulatory dosimetry.
+
+radioactivity_levels:
+
+  - id: none
+    display: None
+    description: "No radioactive elements. Safe under all normal handling conditions."
+    handling: "No precautions required for radioactivity."
+    examples: [quartz, fluorite, malachite, gold, tourmaline]
+
+  - id: negligible
+    display: Negligible
+    description: "Trace radioactive elements (e.g., tiny amounts of Th or U as impurities). Below any practical concern."
+    handling: "No special precautions required."
+    examples: [zircon-low-metamict, some-tourmaline, monazite-trace]
+
+  - id: low
+    display: Low
+    description: "Low-level radioactivity from minor uranium or thorium content. Safe for display and occasional handling."
+    handling: "Wash hands after handling. Do not ingest. Store away from people if collection is large."
+    examples: [some-zircon, betafite-low, some-feldspars-with-U-trace]
+
+  - id: moderate
+    display: Moderate
+    description: "Moderate radioactivity. Safe for display; limit handling time; store away from inhabited spaces."
+    handling: "Limit direct handling. Store in sealed container or at distance from living areas. Do not keep in bedroom or near desk."
+    examples: [autunite, torbernite, carnotite, uranophane, gummite]
+    notes: "Secondary uranium phosphates and vanadates (autunite group) fall here."
+
+  - id: high
+    display: High
+    description: "High radioactivity. Significant U or Th content with meaningful dose rate."
+    handling: "Use gloves. Store in lead-lined or shielded container. Limit handling to minutes. Keep away from inhabited spaces. Check local regulations."
+    examples: [uraninite, pitchblende, thorianite, samarskite, euxenite, betafite-high]
+
+  - id: extreme
+    display: Extreme / Highly Radioactive
+    description: "Very high radioactivity. Regulatory thresholds may be exceeded. Dangerous if improperly stored."
+    handling: "Expert handling only. Lead-lined storage required. Dosimetry recommended. Check national radioactive material regulations."
+    examples: [high-grade-uraninite, pitchblende-massive, coffinite-rich-ores]
+
+notes:
+  - Radioactivity in minerals is caused by uranium (U), thorium (Th), and their decay products.
+  - The uranyl ion (UO₂²⁺) is characteristic of oxidized uranium minerals (autunite, torbernite, etc.).
+  - Self-irradiation damage (metamictization) in U/Th-bearing minerals can alter physical properties over time.
+  - Secondary uranium minerals (phosphates, vanadates, silicates) are often more colorful but still radioactive.
+  - Always store radioactive specimens in sealed containers or lead-lined boxes, separately from other minerals.
+  - Regulations vary by country; check local laws regarding ownership and transport of radioactive minerals.
+  - A Geiger counter is recommended for any suspected radioactive mineral collection.

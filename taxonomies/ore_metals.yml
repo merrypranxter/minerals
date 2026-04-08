@@ -1,0 +1,189 @@
+# Ore Metals
+# Controlled vocabulary for ore-forming metals and the minerals that carry them.
+# Used in app filtering, educational content, and economic geology context.
+
+ore_metals:
+
+  - id: gold
+    display: Gold (Au)
+    primary_minerals:
+      - native gold
+      - electrum
+      - calaverite
+      - sylvanite
+      - petzite
+    notes: "Gold is the most sought-after ore metal historically. Native gold is the dominant economic form."
+
+  - id: silver
+    display: Silver (Ag)
+    primary_minerals:
+      - native silver
+      - argentite
+      - acanthite
+      - polybasite
+      - proustite
+      - pyrargyrite
+    notes: "Often recovered as a byproduct of lead-zinc mining."
+
+  - id: copper
+    display: Copper (Cu)
+    primary_minerals:
+      - native copper
+      - chalcopyrite
+      - bornite
+      - chalcocite
+      - malachite
+      - azurite
+      - cuprite
+      - tetrahedrite
+      - covellite
+      - enargite
+      - atacamite
+    notes: "Copper minerals include some of the most visually dramatic species in mineralogy."
+
+  - id: lead
+    display: Lead (Pb)
+    primary_minerals:
+      - galena
+      - cerussite
+      - anglesite
+      - pyromorphite
+      - mimetite
+      - crocoite
+    notes: "Lead minerals are often heavy and toxic. Galena is the primary ore."
+
+  - id: zinc
+    display: Zinc (Zn)
+    primary_minerals:
+      - sphalerite
+      - smithsonite
+      - hemimorphite
+      - hydrozincite
+      - willemite
+      - franklinite
+    notes: "Zinc often co-occurs with lead in hydrothermal vein deposits."
+
+  - id: iron
+    display: Iron (Fe)
+    primary_minerals:
+      - magnetite
+      - hematite
+      - goethite
+      - siderite
+      - pyrite
+      - marcasite
+      - pyrrhotite
+    notes: "Iron is the most-extracted ore metal globally by volume."
+
+  - id: manganese
+    display: Manganese (Mn)
+    primary_minerals:
+      - pyrolusite
+      - rhodochrosite
+      - rhodonite
+      - manganite
+      - hausmannite
+    notes: "Manganese is essential for steel production."
+
+  - id: bismuth
+    display: Bismuth (Bi)
+    primary_minerals:
+      - native bismuth
+      - bismuthinite
+      - bismite
+      - cosalite
+    notes: "Bismuth is recovered as a byproduct of lead and copper smelting. Notable for iridescent lab-grown crystals."
+
+  - id: molybdenum
+    display: Molybdenum (Mo)
+    primary_minerals:
+      - molybdenite
+      - wulfenite
+      - powellite
+    notes: "Molybdenite is the primary ore; wulfenite is a secondary (oxidized) molybdenum mineral."
+
+  - id: tungsten
+    display: Tungsten (W)
+    primary_minerals:
+      - wolframite
+      - scheelite
+      - ferberite
+      - hübnerite
+    notes: "Scheelite is a common ore mineral for tungsten."
+
+  - id: uranium
+    display: Uranium (U)
+    primary_minerals:
+      - uraninite
+      - autunite
+      - torbernite
+      - carnotite
+      - uranophane
+      - coffinite
+    notes: "All uranium minerals are radioactive. Handle and store with appropriate precautions."
+
+  - id: chromium
+    display: Chromium (Cr)
+    primary_minerals:
+      - chromite
+      - crocoite
+      - uvarovite
+    notes: "Chromite is the primary chromium ore. Crocoite is a rare secondary chromate mineral."
+
+  - id: vanadium
+    display: Vanadium (V)
+    primary_minerals:
+      - vanadinite
+      - carnotite
+      - patronite
+    notes: "Vanadium is used in high-strength steel alloys."
+
+  - id: arsenic
+    display: Arsenic (As)
+    primary_minerals:
+      - arsenopyrite
+      - realgar
+      - orpiment
+      - adamite
+      - erythrite
+      - scorodite
+      - mimetite
+    notes: "Arsenic minerals are toxic. Handle with care. Do not generate dust."
+
+  - id: antimony
+    display: Antimony (Sb)
+    primary_minerals:
+      - stibnite
+      - tetrahedrite
+      - jamesonite
+    notes: "Tetrahedrite is a significant silver-antimony ore in many deposits."
+
+  - id: mercury
+    display: Mercury (Hg)
+    primary_minerals:
+      - cinnabar
+      - metacinnabar
+      - native mercury (extremely rare)
+    notes: "Cinnabar is highly toxic. Handle with gloves. Never heat."
+
+  - id: nickel
+    display: Nickel (Ni)
+    primary_minerals:
+      - pentlandite
+      - garnierite
+      - millerite
+      - annabergite
+    notes: "Nickel mining often tied to sulfide deposits with cobalt."
+
+  - id: cobalt
+    display: Cobalt (Co)
+    primary_minerals:
+      - cobaltite
+      - erythrite
+      - skutterudite
+    notes: "Erythrite ('cobalt bloom') is a vivid magenta secondary cobalt arsenate."
+
+notes:
+  - Many ore minerals are toxic; see toxicity_levels.yml and specimen_prep_risks.yml.
+  - Economic ore deposits require multiple ore minerals; single-mineral listings are primary carriers.
+  - This list is for app filtering and educational context, not economic geology assaying.

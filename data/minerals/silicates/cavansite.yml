@@ -1,0 +1,228 @@
+id: cavansite
+slug: cavansite
+display_name: Cavansite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: null
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: 893
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Ca(VO)(Si4O10)·4H2O"
+  simplified_formula: "CaVO Si4O10 · 4H2O"
+  essential_elements: [Ca, V, Si, O, H]
+  trace_elements_common: []
+  structural_units:
+    - "Si4O10 phyllosilicate (sheet) units"
+    - "VO5 square pyramidal vanadium group"
+    - "water molecules in structure"
+  atomic_structure_notes: "Phyllosilicate (sheet silicate). The VO group (vanadyl) connects the Si4O10 sheets. Vanadium is in the +4 oxidation state (V⁴⁺) as the vanadyl ion (VO²⁺). The crystal structure is orthorhombic with water molecules hydrogen-bonded in channels."
+  chemistry_notes: "Cavansite is polymorphous with pentagonite (same formula, different structure). Both contain the vanadyl (VO²⁺) group, which is the chromophore responsible for the vivid blue color. One of the few vanadium-bearing minerals prized by collectors for aesthetics rather than ore value."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "dipyramidal"
+  space_group: "Pcmn"
+  unit_cell_notes: "a ≈ 9.792 Å, b ≈ 13.644 Å, c ≈ 9.629 Å"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms rosette-like spheroidal or fan-shaped aggregates of small bladed to acicular crystals. Individual crystals are typically small (<5 mm), prismatic or bladed. The rosette/ball habit clustered on white zeolite matrix is diagnostic."
+
+physical_properties:
+  mohs_hardness: "3–4"
+  specific_gravity: "2.21–2.31"
+  luster: [vitreous]
+  streak: "blue to bluish-white"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "good {010}"
+    - "good {100}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Relatively soft and fragile. Rosette aggregates can be fragile at their connection to the matrix zeolite."
+
+appearance:
+  baseline_colors:
+    - vivid-blue
+    - blue
+    - blue-green
+  color_profiles:
+    - name: vivid-blue-rosettes
+      colors: [vivid-blue, peacock-blue, azure-blue, medium-blue]
+      cause: "VO²⁺ (vanadyl ion) d-d electronic transition produces intense blue."
+      conditions: "Standard cavansite from Wagholi/Pune, India — the dominant market form."
+      variety_name: null
+    - name: blue-green
+      colors: [blue-green, teal-blue]
+      cause: "Slight variation in vanadium oxidation state or minor impurities."
+      conditions: "Some specimens."
+      variety_name: null
+  habits:
+    - rosette
+    - spheroidal aggregates
+    - fan-shaped aggregates
+    - prismatic crystals
+    - bladed crystals
+  textures:
+    - vitreous sparkle
+    - fanned blades
+    - clustered rosettes
+  macro_patterns:
+    - blue rosette balls on white stilbite/heulandite matrix
+    - fan-shaped blue clusters
+    - dotted blue on pale zeolite background
+  common_forms:
+    - rosette aggregates on stilbite/heulandite matrix
+    - single crystal clusters
+  visual_notes: "Cavansite's signature presentation: bright peacock-blue rosette balls clustered on pale beige or white zeolite (stilbite, heulandite, apophyllite) matrix from the Deccan basalts of India. The color is exceptionally vivid for the crystal size. It looks like a science fiction mineral — electric blue spheres on cream matrix."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none to weak"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Strong pleochroism: deep blue to pale blue or colorless. Non-fluorescent."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal (low-temperature)
+    - secondary in vesicular basalt
+  geologic_environments:
+    - vesicles (amygdales) in basalt
+    - zeolite-bearing basalt cavities
+    - Deccan Trap basalts
+  host_rocks:
+    - vesicular basalt
+    - amygdaloidal basalt
+  associated_minerals:
+    - stilbite
+    - heulandite
+    - apophyllite
+    - natrolite
+    - scolecite
+    - pentagonite (polymorph)
+    - calcite
+    - mordenite
+  locality_scope: limited
+  notable_localities:
+    - "Wagholi Quarry, Pune (Poona), Maharashtra, India — by far the most significant source"
+    - "Upper Deck Quarry, Wagholi, India"
+    - "Goble, Columbia County, Oregon, USA (first discovery)"
+    - "Owyhee Dam area, Oregon, USA"
+    - "Scotland (rare)"
+  occurrence_notes: "Essentially a single-locality mineral for collector purposes. The vast majority of cavansite specimens worldwide come from the Wagholi quarry near Pune, India, in the Deccan Traps basalts. First discovered in Oregon in 1967 but the Indian material defines the collector market. Polymorphous with pentagonite."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "First described in 1967 from Oregon, USA."
+    - "Named from its chemistry: CAlcium VANadium SIlicatE."
+    - "Collector mineral with no commercial use."
+    - "Wagholi, India locality became prominent from 1980s onward."
+  cultural_associations:
+    - "Associated with peace and calm in crystal healing communities."
+    - "One of India's most collected export minerals."
+  symbolism:
+    - tranquility
+    - vivid blue
+    - precision
+    - Indian mineral heritage
+  folklore_notes: "Cavansite has no significant pre-modern cultural history. Its identity is entirely a product of the modern mineral collecting world. The Wagholi quarry near Pune has made India one of the world's most important sources of fine mineral specimens."
+
+interpretive_vibe:
+  mood_keywords:
+    - electric-ball
+    - peacock-blue
+    - zeolite-companion
+    - sci-fi-mineral
+    - vivid-rosette
+  sensory_keywords:
+    - sparkly blue rosettes
+    - glassy spheres
+    - blue on cream
+    - precise tiny crystals
+  palette_keywords:
+    - peacock-blue
+    - azure
+    - cream-zeolite
+    - electric-cyan
+  aesthetic_roles:
+    - maximum blue saturation accent
+    - geometric rosette focal point
+    - India mineral showcase
+    - contrast specimen reference
+  vibe_notes: "Cavansite is the mineral that looks like it was designed. Electric blue spheres on white matrix — it doesn't look natural, it looks engineered. That's part of its appeal: nature as jewelry design."
+
+practical_notes:
+  toxicity: "Vanadium-bearing mineral. Vanadium dust should not be inhaled. Wash hands after handling. Do not generate dust."
+  handling_notes: "Fragile rosette aggregates. Handle by the matrix. Do not touch crystal clusters directly. The connection of clusters to matrix can be fragile."
+  care_notes: "Keep dry. Do not clean with acid. Light dusting only with soft brush. Store in padded tray."
+  treatments_or_synthetics:
+    - "No synthetic cavansite known."
+    - "Specimens from Wagholi are genuine; confirm locality when purchasing."
+  common_confusions:
+    - "Chrysocolla (different habit, greener, amorphous)"
+    - "Blue azurite (effervesces in acid, different crystal habit)"
+    - "Linarite (different crystal habit, different localities)"
+    - "Shattuckite (copper mineral, different chemistry)"
+  market_notes: "Wagholi specimens widely available. Prices range from modest to significant depending on quality of rosettes and matrix. Pentagonite (polymorph) is much rarer and commands higher prices."
+
+relationships:
+  polymorphs: [pentagonite]
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - shattuckite
+    - chrysocolla
+    - linarite
+  related_species:
+    - pentagonite
+
+app_metadata:
+  tags:
+    - silicate
+    - phyllosilicate
+    - vanadium
+    - blue
+    - rosette
+    - India
+    - zeolite-associated
+    - orthorhombic
+    - secondary
+  search_boost_terms:
+    - cavansite crystal
+    - blue rosette mineral
+    - vanadium silicate
+    - India mineral Pune
+    - Wagholi cavansite
+    - peacock blue mineral
+  prompt_fragments:
+    - "vivid peacock-blue rosette balls of cavansite on cream stilbite matrix"
+    - "electric blue spheroidal clusters against pale zeolite background"
+    - "small precise blue crystal fans on white Indian basalt zeolite"
+  ui_color_hint:
+    - "#1A7FBF"
+    - "#2E9FDF"
+    - "#F5EFE0"
+  priority_score: 84
+
+provenance:
+  source_status: draft
+  completeness: 0.86
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-893.html"
+    - "https://www.webmineral.com/data/Cavansite.shtml"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: "Wagholi as primary locality is well-established. Vanadyl chromophore for blue color is documented."

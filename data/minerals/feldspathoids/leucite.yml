@@ -1,0 +1,169 @@
+id: leucite
+slug: leucite
+display_name: Leucite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: leucite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2367
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "K(AlSi2O6)"
+  simplified_formula: "KAlSi2O6"
+  essential_elements: [K, Al, Si, O]
+  trace_elements_common: [Na, Ca]
+  structural_units:
+    - "framework of AlO4 and SiO4 tetrahedra (tetragonal to cubic transformation)"
+    - "K⁺ in large 12-coordinated cavities"
+  atomic_structure_notes: "High-leucite (>600°C): cubic structure with K in disordered large cavities. Low-leucite (room temperature): pseudocubic tetragonal — the cubic external habit is preserved but internal symmetry lowers to tetragonal. This transformation creates characteristic polysynthetic twinning."
+  chemistry_notes: "K-rich feldspathoid. Defines K-rich silica-undersaturated volcanic systems (leucitites, kamafugites). Rare outside volcanic rocks. Historically important in volcanology."
+
+crystallography:
+  crystal_system: "tetragonal (pseudo-cubic)"
+  crystal_class: "pseudo-isometric (high-T cubic, room-T tetragonal)"
+  space_group: "Ia3̄d (high-T); I41/a (low-T)"
+  unit_cell_notes: "a ≈ 13.057 Å (low-T tetragonal)"
+  twinning: "Polysynthetic twinning on {110} produces striations on trapezoidal faces."
+  crystallography_notes: "Characteristic trapezohedron habit — 24-faced crystals with a perfectly rounded, icositetrahedral outline. The trapezohedron form is highly diagnostic. Crystals are typically gray-white, translucent, and distinctive in hand specimen."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.45–2.50"
+  luster: [vitreous]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage:
+    - "poor/imperfect {110}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "The trapezohedron form is the primary diagnostic feature. Polysynthetic twin striae visible on crystal faces."
+
+appearance:
+  baseline_colors:
+    - white
+    - gray
+    - pale-gray
+    - colorless
+  color_profiles:
+    - name: white-gray
+      colors: [white, gray, colorless]
+      cause: "No chromophore; pure composition."
+      conditions: "All leucite."
+      variety_name: null
+  habits:
+    - trapezohedron (icositetrahedron)
+    - massive
+    - granular
+  textures:
+    - vitreous
+    - striated (twin striations)
+  macro_patterns:
+    - white 24-faced trapezohedra in dark lava
+  common_forms:
+    - trapezohedron crystals in leucitite/basalt
+    - disseminated grains
+  visual_notes: "Leucite's visual appeal is its crystal form — the distinctive 24-faced trapezohedron is geometrically beautiful and immediately recognizable. White rounded crystals in dark basalt or leucitite are a classic volcanological sight. Associated with Italian volcanics (Vesuvius, Alban Hills)."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+
+formation_and_occurrence:
+  genesis:
+    - igneous (K-rich silica-undersaturated volcanics)
+  geologic_environments:
+    - leucitite lava
+    - phonolite
+    - kamafugite
+    - volcanic tuff
+  associated_minerals:
+    - nepheline
+    - hauyne
+    - augite
+    - sanidine
+    - olivine
+  locality_scope: limited
+  notable_localities:
+    - "Vesuvius, Italy (classic; abundant in leucitites)"
+    - "Alban Hills, Lazio, Italy"
+    - "Leucite Hills, Wyoming, USA (leucitites)"
+    - "East African Rift (Uganda, Tanzania)"
+    - "Laacher See, Eifel, Germany"
+  occurrence_notes: "Found in K-rich silica-undersaturated volcanic systems. Cannot coexist with quartz. The Alban Hills and Vesuvius region of Italy produce classic leucite specimens."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named from Greek 'leukos' (white) by Abraham Werner, 1791."
+    - "Studied by volcanologists as key mineralogical marker for K-rich volcanics."
+    - "Historically confused with garnet due to crystal form."
+  folklore_notes: "Limited folklore; primarily scientific/volcanological significance."
+
+interpretive_vibe:
+  mood_keywords:
+    - volcanic-polyhedron
+    - Vesuvius-white
+    - trapezohedron-crystal
+    - K-rich
+  palette_keywords:
+    - white
+    - pale-gray
+    - volcanic-dark-contrast
+  vibe_notes: "Leucite is a geometrician's mineral — the perfect 24-faced trapezohedron is one of nature's most elegant crystal forms. White on dark lava, like a geometric white jewel embedded in rock."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Handle normally."
+  care_notes: "Standard."
+  common_confusions:
+    - "Garnet (similar form; much higher SG; vitreous luster; colorful)"
+    - "Analcime (zeolite; very similar form; responds differently to acid)"
+  market_notes: "Available in volcanic rock from Italy and USA. Loose crystals occasionally sold."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - analcime
+    - garnet
+  related_species:
+    - nepheline
+    - analcime
+    - pollucite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - feldspathoid
+    - white
+    - volcanic
+    - tetragonal
+    - trapezohedron
+    - Italy
+  prompt_fragments:
+    - "white 24-faced trapezohedron leucite crystals in dark Vesuvian basalt"
+    - "geometric pale leucite trapezohedra in leucitite lava"
+  ui_color_hint:
+    - "#DDDDD5"
+    - "#CCCCBC"
+  priority_score: 68
+
+provenance:
+  source_status: draft
+  completeness: 0.78
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2367.html"
+  notes: ""

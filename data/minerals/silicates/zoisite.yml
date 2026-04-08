@@ -1,0 +1,225 @@
+id: zoisite
+slug: zoisite
+display_name: Zoisite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: epidote-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - tanzanite
+    - thulite
+    - anyolite (ruby-in-zoisite)
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 4471
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Ca2Al3(SiO4)(Si2O7)O(OH)"
+  simplified_formula: "Ca2Al3Si3O12(OH)"
+  essential_elements: [Ca, Al, Si, O, H]
+  trace_elements_common: [Fe, Mn, V, Cr]
+  structural_units:
+    - "isolated SiO4 tetrahedra"
+    - "Si2O7 diorthosilicate groups (sorosilicate)"
+    - "Al in octahedral coordination"
+    - "OH groups"
+  atomic_structure_notes: "Sorosilicate (group silicate) in the epidote group. Zoisite is the orthorhombic polymorph; clinozoisite is the monoclinic polymorph with same composition. The zoisite structure has two distinct Al octahedral sites (M1 and M3); V³⁺ in M1 produces tanzanite-blue."
+  chemistry_notes: "Zoisite forms a range of varieties: tanzanite (V/vanadium-rich blue), thulite (Mn-rich pink), and the decorative ruby-in-zoisite (anyolite). The parent species zoisite is typically gray, green, or white in massive form."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "dipyramidal"
+  space_group: "Pnma"
+  unit_cell_notes: "a ≈ 16.22 Å, b ≈ 5.55 Å, c ≈ 10.04 Å"
+  twinning: "Rare."
+  crystallography_notes: "Typically forms prismatic to tabular crystals with striated prism faces. Also massive, granular. Tanzanite variety shows distinctive blue-violet-purple trichroism."
+
+physical_properties:
+  mohs_hardness: "6–7"
+  specific_gravity: "3.10–3.38"
+  luster: [vitreous, pearly on cleavage]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage:
+    - "perfect {010}"
+  fracture: [uneven, conchoidal]
+  tenacity: brittle
+  physical_notes: "Good hardness for a collector mineral. Perfect cleavage in one direction. SG varies with composition."
+
+appearance:
+  baseline_colors:
+    - gray
+    - white
+    - pale-green
+    - pink (thulite)
+    - blue-violet (tanzanite)
+    - green-pink (anyolite)
+  color_profiles:
+    - name: gray-green-white
+      colors: [gray, white, pale-green, yellowish]
+      cause: "No significant chromophore; typical rock-forming zoisite."
+      conditions: "Most metamorphic zoisite."
+      variety_name: null
+    - name: thulite-pink
+      colors: [pink, rose, salmon]
+      cause: "Mn²⁺ substituting for Ca or Al."
+      conditions: "Mn-rich metamorphic assemblages; Norway."
+      variety_name: thulite
+    - name: tanzanite-blue-violet
+      colors: [blue, violet, purple, blue-violet, blue-purple]
+      cause: "V³⁺ in Al site; strongly trichroic — blue (c), violet (b), red-brown (a)."
+      conditions: "Tanzanite variety from Merelani Hills, Tanzania; requires heat treatment to stabilize blue."
+      variety_name: tanzanite
+    - name: anyolite-green-pink
+      colors: [bright-green, ruby-red patches, black hornblende inclusions]
+      cause: "Green from Cr³⁺ or V in zoisite; ruby patches are corundum; black is hornblende."
+      conditions: "Decorative massive material from Tanzania."
+      variety_name: anyolite
+  habits:
+    - prismatic
+    - columnar
+    - massive
+    - granular
+  textures:
+    - striated prisms
+    - vitreous faces
+    - pearly cleavage
+  macro_patterns:
+    - gray striped prisms
+    - pink thulite masses (Norway)
+    - green-pink-black anyolite (Tanzania)
+  common_forms:
+    - prismatic crystals (collector)
+    - massive thulite (ornamental)
+    - anyolite decorative rock
+    - tanzanite crystals (gemstone)
+  visual_notes: "Zoisite as a species is visually modest — gray or white prismatic crystals. Its varieties are spectacular: tanzanite is one of the most prized gemstones, thulite is a striking pink ornamental stone, and anyolite is a bizarre three-color decorative rock. The parent species is the quiet host of brilliant children."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none typical"
+    longwave_uv: "none typical"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects:
+    - strong-trichroism-tanzanite
+  optical_notes: "Tanzanite variety shows exceptional trichroism (three distinct colors in three crystallographic directions). Biaxial. This is one of the strongest trichroisms of any gemstone."
+
+formation_and_occurrence:
+  genesis:
+    - metamorphic
+    - hydrothermal
+  geologic_environments:
+    - blueschist-facies to greenschist metamorphic rocks
+    - calc-silicate schists
+    - eclogites
+    - hydrothermal veins in mafic rocks
+  associated_minerals:
+    - corundum (tanzanite/anyolite)
+    - hornblende
+    - garnet
+    - kyanite
+    - glaucophane
+  locality_scope: worldwide
+  notable_localities:
+    - "Merelani Hills, Arusha, Tanzania (tanzanite)"
+    - "Lofoten, Norway (thulite)"
+    - "Longido, Tanzania (anyolite)"
+    - "Saualpe, Carinthia, Austria"
+    - "Valle d'Aosta, Italy"
+    - "Pakistan (gem quality)"
+  occurrence_notes: "Zoisite forms in metamorphic and metasomatic settings. Tanzanite occurs only at the Merelani Hills deposit — one of the world's most famous single-locality gemstone deposits."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named after Sigmund Zois (1747–1819), Slovenian nobleman and mineral collector, by Abraham Werner."
+    - "Tanzanite discovered in 1967 by Maasai herder and brought to prominence by Tiffany & Co."
+    - "Tiffany & Co. named the blue variety 'tanzanite' in 1968 and launched it as a luxury gemstone."
+    - "Anyolite used as ornamental carving stone."
+  cultural_associations:
+    - "Tanzanite became the December birthstone addition in 2002 (American Gem Trade Association)."
+    - "Strongly associated with Tanzania and African gemstone heritage."
+  symbolism:
+    - transformation
+    - blue wisdom
+    - African gem
+    - rare discovery
+
+interpretive_vibe:
+  mood_keywords:
+    - trichroic-transformation
+    - Africa-blue
+    - metamorphic-beauty
+    - Tiffany-jewel
+  palette_keywords:
+    - blue-violet
+    - purple
+    - pink-thulite
+    - green-red-anyolite
+  vibe_notes: "Zoisite is a species with range — from dull gray metamorphic rock to tanzanite, one of the world's most coveted gems. It encapsulates geological transformation: the same mineral system expressing as mundane gray rock or blue-violet fire."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Handle normally. Tanzanite faceted gems: perfect cleavage makes them fragile — avoid thermal shock and physical impact."
+  care_notes: "Clean with water and mild soap. No ultrasonic or steam for tanzanite (cleavage risk). Tanzanite color may be altered by heat."
+  treatments_or_synthetics:
+    - "Tanzanite is routinely heat-treated (400–500°C) to convert brownish V-bearing zoisite to pure blue-violet."
+    - "Nearly all commercial tanzanite has been heat-treated; this is accepted and disclosed practice."
+  common_confusions:
+    - "Tanzanite vs. sapphire (test: trichroism, SG, locality)"
+    - "Thulite vs. rhodonite (different chemistry; test with density)"
+  market_notes: "Tanzanite is a major commercial gemstone. The Merelani deposit is finite and may be exhausted within decades — this drives premium pricing."
+
+relationships:
+  polymorphs: [clinozoisite]
+  lookalikes:
+    - tanzanite-sapphire
+    - thulite-rhodonite
+  related_species:
+    - clinozoisite
+    - epidote
+    - piemontite
+    - tanzanite
+
+app_metadata:
+  tags:
+    - silicate
+    - sorosilicate
+    - epidote-group
+    - metamorphic
+    - tanzanite
+    - thulite
+    - anyolite
+    - orthorhombic
+    - gem
+  search_boost_terms:
+    - zoisite mineral
+    - tanzanite parent mineral
+    - thulite pink mineral
+    - anyolite
+    - blue metamorphic silicate
+    - epidote group mineral
+  prompt_fragments:
+    - "prismatic gray-green striated zoisite crystals in schist"
+    - "tanzanite variety — blue-violet trichroic gem in metamorphic context"
+    - "anyolite — green zoisite with ruby patches and black hornblende"
+  ui_color_hint:
+    - "#4B5E9E"
+    - "#7B52AB"
+    - "#C87FB8"
+  priority_score: 80
+
+provenance:
+  source_status: draft
+  completeness: 0.83
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-4471.html"
+    - "Handbook of Mineralogy, Vol. I: Anthony et al."
+  notes: "Tanzanite heat treatment is well-established industry practice. Single-locality status of tanzanite is well-documented."

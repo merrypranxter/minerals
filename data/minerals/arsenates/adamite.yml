@@ -1,0 +1,241 @@
+id: adamite
+slug: adamite
+display_name: Adamite
+
+classification:
+  chemistry_class: arsenate
+  mineral_group: olivenite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - cuproadamite
+    - manganoadamite
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 21
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Zn2(AsO4)(OH)"
+  simplified_formula: "Zn2AsO4OH"
+  essential_elements: [Zn, As, O, H]
+  trace_elements_common: [Cu, Co, Mn, Fe]
+  structural_units:
+    - "arsenate (AsO4)³⁻ tetrahedra"
+    - "Zn in octahedral and tetrahedral coordination"
+    - "OH groups linking structural units"
+  atomic_structure_notes: "Orthorhombic structure isotypic with olivenite. Zn occupies two distinct crystallographic sites. Trace Cu substitution for Zn produces the vivid green cuproadamite variety; Mn substitution produces manganoadamite."
+  chemistry_notes: "End-member adamite is colorless to pale yellow (pure Zn), but Cu-bearing cuproadamite is vivid green and Mn-bearing specimens are violet. The color range from Cu substitution is one reason adamite specimens vary dramatically by locality."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "dipyramidal"
+  space_group: "Pnnm"
+  unit_cell_notes: "a ≈ 8.306 Å, b ≈ 8.524 Å, c ≈ 6.043 Å"
+  twinning: "Common twinning on {011}."
+  crystallography_notes: "Forms elongated prismatic crystals, often wedge-shaped or chisel-like, and drusy aggregates. Crystals are typically small (mm-scale). Radial or fan-shaped aggregates on matrix are common."
+
+physical_properties:
+  mohs_hardness: "3.5"
+  specific_gravity: "4.32–4.48"
+  luster: [vitreous, adamantine]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "good {101}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Relatively high SG for an arsenate. Vitreous to adamantine luster. Well-formed crystals can be transparent and gem-like."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - pale-yellow
+    - yellow-green
+    - vivid-green
+    - violet
+  color_profiles:
+    - name: pure-adamite-colorless-yellow
+      colors: [colorless, pale-yellow, white]
+      cause: "No chromophore; pure Zn end-member."
+      conditions: "Zn-dominant, Cu-free specimens."
+      variety_name: null
+    - name: cuproadamite-green
+      colors: [vivid-green, yellow-green, apple-green, lime-green]
+      cause: "Cu²⁺ substituting for Zn in tetrahedral/octahedral sites."
+      conditions: "Cu-bearing specimens; most common aesthetic form."
+      variety_name: cuproadamite
+    - name: manganoadamite-violet
+      colors: [violet, purple, mauve]
+      cause: "Mn substituting for Zn."
+      conditions: "Mn-rich localities; less common."
+      variety_name: manganoadamite
+    - name: yellow-fluorescent
+      colors: [yellow, pale-yellow, yellow-green]
+      cause: "Possible trace impurities; also classic under SW UV."
+      conditions: "Some Mapimí specimens are intensely yellow-green fluorescent."
+      variety_name: null
+  habits:
+    - prismatic
+    - wedge-shaped
+    - drusy aggregates
+    - radial fans
+    - crusts
+  textures:
+    - vitreous
+    - transparent drusy
+    - fan-spread crystal arrays
+  macro_patterns:
+    - yellow-green drusy crust on brown gossan
+    - green fan-shaped crystal sprays
+    - vivid color on dark matrix
+  common_forms:
+    - drusy crusts on limonite/gossan
+    - fan-shaped aggregates
+    - individual prismatic crystals
+  visual_notes: "Mapimí, Mexico produces some of the most spectacular adamite specimens globally — intense yellow-green to vivid green drusy crystals on dark brown gossan, creating a gem-like presentation. Fluorescent specimens glow brilliantly under UV. The combination of high luster, vivid color, and radiating crystal form is outstanding."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "strong yellow-green fluorescence — one of the most vivid UV fluorescences in the mineral kingdom"
+    longwave_uv: "variable; usually weaker"
+    fluorescence_color: yellow-green
+  tenebrescence: false
+  phosphorescence: "brief yellow-green afterglow possible"
+  special_effects:
+    - exceptional-SW-UV-fluorescence
+  optical_notes: "The intense yellow-green shortwave UV fluorescence of many Mapimí specimens is among the most striking UV responses in the collector mineral world. Not all specimens fluoresce — Cu content affects fluorescence."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized zinc-arsenic deposits)
+  geologic_environments:
+    - oxidized zone of zinc-arsenic bearing sulfide deposits
+  host_rocks:
+    - gossan
+    - limestone
+    - dolomite
+  associated_minerals:
+    - limonite
+    - smithsonite
+    - hemimorphite
+    - aurichalcite
+    - rosasite
+    - legrandite
+    - olivenite
+    - scorodite
+  locality_scope: limited
+  notable_localities:
+    - "Mapimí, Durango, Mexico — world's finest; Zone of Oxidation locality"
+    - "Cap Garonne, Var, France (type locality)"
+    - "Laurium, Attica, Greece"
+    - "Tsumeb, Namibia"
+    - "Bisbee, Arizona, USA"
+    - "Ojuela Mine, Mapimí (same area, Mexico)"
+  occurrence_notes: "Mapimí's Ojuela Mine has produced the finest adamite specimens in the world — large, transparent, intensely colored and fluorescent crystals."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "No historical industrial use; entirely a collector mineral."
+    - "Named after French mineralogist Gilbert-Joseph Adam (1795–1881)."
+    - "Type locality: Cap Garonne, France."
+  cultural_associations: []
+  symbolism:
+    - neon-green
+    - UV surprise
+    - zinc-arsenic elegance
+  folklore_notes: "Adamite has no cultural history outside modern mineral collecting. Its fame rests entirely on the exceptional fluorescent specimens from Mapimí, Mexico."
+
+interpretive_vibe:
+  mood_keywords:
+    - UV-neon
+    - toxic-lime
+    - arsenic-bloom
+    - gossan-gem
+    - fluorescent-surprise
+  sensory_keywords:
+    - vivid yellow-green glow
+    - sharp glassy crystal edges
+    - intense UV spectacle
+    - lime on dark matrix
+  palette_keywords:
+    - neon-yellow-green
+    - apple-green
+    - UV-lime
+    - dark-gossan-contrast
+  aesthetic_roles:
+    - UV fluorescence showpiece
+    - neon green accent
+    - Mexican mineral trophy
+    - arsenic zone gem
+  vibe_notes: "Adamite is a UV demon — ordinary in daylight, transcendent under shortwave UV. The neon yellow-green glow from a Mapimí specimen under UV is one of mineralogy's most theatrical performances."
+
+practical_notes:
+  toxicity: "ARSENIC-BEARING MINERAL. Moderate to high hazard. Do not ingest or inhale dust. Wash hands thoroughly after handling. Keep away from children. Do not grind."
+  handling_notes: "Handle as a display specimen. Avoid breaking (creates arsenic-containing dust). Wash hands after every handling session."
+  care_notes: "Do not clean with acid. Do not apply water to delicate crystalline aggregates. Store in labeled container with hazard indication."
+  treatments_or_synthetics:
+    - "No synthetic adamite on the collector market."
+  common_confusions:
+    - "Legrandite (very similar; also yellow-green, also Mapimí; different chemistry — phosphate not arsenate)"
+    - "Olivenite (Cu-dominant olivenite-group member; brown-olive-green)"
+    - "Conichalcite (different chemistry; often similar green)"
+  market_notes: "Highly sought after, particularly Mapimí fluorescent material. Prices scaled to fluorescence intensity, crystal size, and color."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - legrandite
+    - olivenite
+    - conichalcite
+    - libethenite
+  related_species:
+    - olivenite
+    - libethenite
+    - conichalcite
+    - legrandite
+
+app_metadata:
+  tags:
+    - arsenate
+    - zinc
+    - secondary
+    - yellow-green
+    - UV-fluorescent
+    - Mexico
+    - toxic
+    - orthorhombic
+    - collector
+  search_boost_terms:
+    - adamite crystal
+    - fluorescent zinc arsenate
+    - Mapimí mineral
+    - yellow-green UV mineral
+    - neon green arsenate
+    - Ojuela Mine mineral
+  prompt_fragments:
+    - "vivid lime-green adamite crystals glowing neon under UV on gossan"
+    - "yellow-green vitreous drusy crystal fans on dark brown matrix"
+    - "Mapimí fluorescent adamite — neon spectacle under shortwave UV"
+  ui_color_hint:
+    - "#9FE010"
+    - "#BFEF30"
+    - "#7ACC00"
+  priority_score: 82
+
+provenance:
+  source_status: draft
+  completeness: 0.87
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-21.html"
+    - "https://www.webmineral.com/data/Adamite.shtml"
+    - "Handbook of Mineralogy, Vol. IV: Anthony et al."
+  notes: "Arsenic toxicity is a critical handling note. UV fluorescence at Mapimí is well-documented in collector literature."

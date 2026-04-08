@@ -1,0 +1,182 @@
+id: heulandite
+slug: heulandite
+display_name: Heulandite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: zeolite-group (heulandite subgroup)
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: "grandfathered (heulandite-Ca most common IMA species)"
+  mindat_id: 1886
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Ca,Na)2-3Al3(Al,Si)2Si13O36·12H2O"
+  simplified_formula: "(Ca,Na)5(Al5Si31O72)·24H2O"
+  essential_elements: [Ca, Na, Al, Si, O, H]
+  trace_elements_common: [K, Sr, Ba]
+  structural_units:
+    - "heulandite-type zeolite framework (HEU topology)"
+    - "channels and cavities with Ca/Na and water"
+  atomic_structure_notes: "Zeolite with HEU topology — large elliptical channels parallel to c-axis. Different channel geometry from stilbite framework despite similar composition and habit. Water fills channels and can be reversibly lost."
+  chemistry_notes: "Very similar to stilbite in appearance, composition, and occurrence. Distinguished by crystal shape: heulandite forms coffin-shaped (tabular with steep termination) crystals. Ca-dominant is most common (heulandite-Ca); Na, Sr, K varieties also recognized."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "Cm"
+  unit_cell_notes: "a ≈ 17.71 Å, b ≈ 17.82 Å, c ≈ 7.42 Å, β ≈ 116.4°"
+  twinning: "Twins on {001}."
+  crystallography_notes: "Forms coffin-shaped (tabular with slanted termination faces) crystals — one of the most diagnostic crystal habits in mineralogy. Also globular and spherulitic. The coffin shape arises from the combination of {010} pinacoid and slanted termination faces."
+
+physical_properties:
+  mohs_hardness: "3.5–4"
+  specific_gravity: "2.10–2.20"
+  luster: [vitreous, pearly on cleavage]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {010}"
+  fracture: [uneven]
+  tenacity: brittle
+  physical_notes: "Very similar to stilbite. The coffin-shaped crystal habit is the primary distinguishing feature. Pearly luster on {010} cleavage."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - cream
+    - pale-red
+    - orange-red
+    - yellow
+    - brown
+  color_profiles:
+    - name: colorless-white
+      colors: [colorless, white, cream]
+      cause: "No chromophore."
+      conditions: "Most common form."
+      variety_name: null
+    - name: red-orange
+      colors: [red, orange-red, brick-red]
+      cause: "Fe³⁺ (iron) impurity in crystal channels or associated inclusions."
+      conditions: "Some Indian and other basalt specimens."
+      variety_name: null
+    - name: yellow
+      colors: [pale-yellow, yellow]
+      cause: "Trace iron or organic matter."
+      conditions: "Some specimens."
+      variety_name: null
+  habits:
+    - coffin-shaped tabular
+    - tabular
+    - spherulitic
+    - massive
+  textures:
+    - pearly
+    - vitreous
+    - coffin crystal outline
+  macro_patterns:
+    - white coffin-shaped crystals on basalt
+    - red-orange crystals in zeolite cavity
+  common_forms:
+    - coffin-shaped crystal groups on matrix
+    - mixed with stilbite and apophyllite
+  visual_notes: "Heulandite's coffin-shaped crystals are a distinctive silhouette — tabular with one set of slanted termination faces creating the coffin outline. Red-orange heulandite from India is striking."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "cream to pale orange; variable"
+    longwave_uv: "variable"
+    fluorescence_color: variable
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal (low-temperature)
+    - secondary in vesicular basalt
+  geologic_environments:
+    - vesicular basalt
+    - zeolite facies metamorphic rocks
+    - hydrothermal veins
+  associated_minerals:
+    - stilbite
+    - apophyllite
+    - cavansite
+    - natrolite
+    - calcite
+  locality_scope: worldwide
+  notable_localities:
+    - "Pune, Maharashtra, India"
+    - "Faroe Islands"
+    - "Iceland"
+    - "Nova Scotia, Canada"
+    - "New Jersey, USA"
+  occurrence_notes: "Essentially the same geological setting as stilbite. Often co-occurs with stilbite, apophyllite, and other zeolites in basalt vesicles."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named after English mineralogist John Henry Heuland (1778–1856) by H.J. Brooke, 1822."
+  folklore_notes: "No cultural significance; modern collector mineral."
+
+interpretive_vibe:
+  mood_keywords:
+    - coffin-crystal
+    - zeolite-geometry
+    - India-basalt
+    - pearly-white
+  palette_keywords:
+    - white
+    - pale-cream
+    - orange-red
+  vibe_notes: "Heulandite is famous for its silhouette — the coffin-shaped crystal is instantly recognizable among zeolite collectors."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Fragile. Handle by matrix."
+  care_notes: "Standard zeolite care. Avoid water exposure for cleaning."
+  common_confusions:
+    - "Stilbite (bow-tie habit vs. coffin habit — key visual distinction)"
+    - "Clinoptilolite (almost identical; K/Na-rich heulandite; requires analysis)"
+  market_notes: "Widely available and affordable from India."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - stilbite
+    - clinoptilolite
+  related_species:
+    - clinoptilolite
+    - stilbite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - zeolite
+    - colorless
+    - red
+    - coffin-crystal
+    - India
+    - monoclinic
+  prompt_fragments:
+    - "coffin-shaped white heulandite crystals in zeolite matrix"
+    - "red-orange heulandite tabular crystals from Pune basalt"
+  ui_color_hint:
+    - "#F0F0E8"
+    - "#D0A080"
+  priority_score: 71
+
+provenance:
+  source_status: draft
+  completeness: 0.78
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1886.html"
+  notes: ""

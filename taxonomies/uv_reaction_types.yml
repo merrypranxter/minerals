@@ -1,0 +1,85 @@
+# UV Reaction Types
+# Controlled vocabulary for how minerals respond to ultraviolet light.
+# Covers fluorescence, phosphorescence, tenebrescence, and related phenomena.
+
+uv_reaction_types:
+
+  - id: fluorescent-SW
+    display: Fluorescent (Shortwave UV, 254nm)
+    description: "Mineral emits visible light while illuminated by shortwave UV (254nm)."
+    notes: "SW UV is more energetic and excites fluorescence in many more minerals than LW UV."
+    examples: [scheelite, willemite, autunite, some-calcite, benitoite, hackmanite]
+
+  - id: fluorescent-LW
+    display: Fluorescent (Longwave UV, 365nm)
+    description: "Mineral emits visible light while illuminated by longwave UV (365nm, 'black light')."
+    notes: "LW UV is safer for eyes and more commonly available. Many gem treatments are detectable under LW UV."
+    examples: [fluorite, some-calcite, some-apatite, amber, some-opal]
+
+  - id: fluorescent-both
+    display: Fluorescent (Both SW and LW UV)
+    description: "Responds to both shortwave and longwave UV, though color/intensity may differ."
+    examples: [calcite-many, fluorite-some, scheelite, benitoite]
+
+  - id: phosphorescent
+    display: Phosphorescent
+    description: "Mineral continues to emit light after UV source is removed (afterglow). Duration varies from seconds to hours."
+    notes: "Phosphorescence is caused by metastable excited states with delayed emission."
+    examples:
+      - "Calcite (some specimens, brief)"
+      - "Willemite (some specimens)"
+      - "Hackmanite (brief)"
+      - "Some fluorites"
+
+  - id: tenebrescent
+    display: Tenebrescent (Reversible Photochromic)
+    description: "Mineral reversibly changes color when exposed to UV light, then bleaches back in visible light or darkness."
+    notes: "Tenebrescence is caused by photosensitive color centers (F-centers) in the crystal structure."
+    examples:
+      - "Hackmanite (variety of sodalite) — fades from pink/violet to colorless; restores in darkness"
+      - "Tugtupite — similar reversible color change"
+      - "Some sodalite varieties"
+    color_change_notes: "Hackmanite typically shows: colorless → pink/violet under SW UV, then slowly bleaches back."
+
+  - id: thermoluminescent
+    display: Thermoluminescent
+    description: "Mineral emits light when gently heated, from energy stored by natural radiation exposure."
+    notes: "Thermoluminescence is used in geology for dating methods (TL dating)."
+    examples:
+      - "Fluorite (classic thermoluminescent mineral)"
+      - "Some calcite"
+      - "Some feldspars"
+      - "Apatite"
+
+  - id: triboluminescent
+    display: Triboluminescent
+    description: "Mineral emits flashes of light when struck, scratched, or mechanically stressed."
+    notes: "Caused by electrical charge separation at crystal fracture surfaces."
+    examples:
+      - "Fluorite (classic — emits blue-violet sparks when struck)"
+      - "Sphalerite (some specimens)"
+      - "Quartz (mild)"
+
+  - id: non-fluorescent
+    display: Non-Fluorescent
+    description: "No observable luminescence under UV. Often includes sulfides, most native metals."
+    examples: [pyrite, gold, magnetite, galena, most-sulfides, chalcopyrite]
+
+  - id: variable
+    display: Variable / Locality-Dependent
+    description: "UV response varies significantly by locality, impurity content, and specimen. Cannot be predicted without testing."
+    examples: [fluorite, calcite, apatite, sodalite]
+
+  - id: unknown
+    display: Unknown / Untested
+    description: "UV behavior not reliably documented in available sources."
+    examples: []
+
+notes:
+  - Shortwave UV (254nm) requires certified UV-blocking eye protection — never look directly at SW UV lamps.
+  - Longwave UV (365nm) is safer but still harmful with prolonged direct eye exposure.
+  - The same mineral from different localities may show completely different UV responses.
+  - Mn²⁺ ion causes orange fluorescence in many carbonates and sulfates.
+  - Uranyl ion (UO₂²⁺) causes bright yellow-green fluorescence in uranium minerals.
+  - Dye treatments and glass fillings in gems are often detectable under UV due to different fluorescence.
+  - See fluorescence_colors.yml for color vocabulary.

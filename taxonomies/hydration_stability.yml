@@ -1,0 +1,62 @@
+# Hydration Stability
+# Controlled vocabulary for hydration_sensitivity field.
+# Describes how a mineral responds to changes in ambient humidity or water exposure.
+
+hydration_stability:
+
+  - id: stable
+    display: Stable
+    description: "Unaffected by normal humidity changes or water exposure. No special storage required."
+    storage: "No special requirements."
+    examples: [quartz, fluorite, corundum, gold, tourmaline, beryl]
+
+  - id: low-sensitivity
+    display: Low Sensitivity
+    description: "Generally stable but may show minor surface dulling or slow weathering over years."
+    storage: "Normal display is fine. Avoid prolonged submersion."
+    examples: [calcite, dolomite, some-feldspars]
+
+  - id: moderate-sensitivity
+    display: Moderate Sensitivity
+    description: "Can be affected by high humidity over time. May absorb water, craze, or surface-alter."
+    storage: "Avoid prolonged high humidity. Keep in climate-controlled space if possible."
+    examples: [halite, some-zeolites, ulexite, borax]
+
+  - id: hygroscopic
+    display: Hygroscopic
+    description: "Actively absorbs moisture from the air; may dissolve, crumble, or alter in humid conditions."
+    storage: "Store in airtight container with desiccant (silica gel). Keep dry at all times."
+    examples: [chalcanthite, melanterite, halite-fine-specimens, borax, linarite-some]
+    notes: "Some highly hydrated sulfates are especially vulnerable."
+
+  - id: dehydration-risk
+    display: Dehydration Risk
+    description: "May lose structural water in very dry conditions, leading to surface chalking, cracking, or phase change."
+    storage: "Maintain moderate humidity. Avoid bone-dry environments or sealed airtight containers without humidity buffer."
+    examples: [vivianite, chalcanthite, some-zeolites, hydrargillite]
+    notes: "Some zeolites cycle water in/out of structure with humidity changes; most are stable, a few are not."
+
+  - id: water-soluble
+    display: Water Soluble
+    description: "Dissolves or substantially degrades in contact with water."
+    storage: "Never expose to water or high humidity. Store dry. Handle with dry hands only."
+    examples: [halite, sylvite, chalcanthite, melanterite, epsomite, atacamite-slight]
+    notes: "Highly soluble minerals (chlorides, some sulfates) can dissolve quickly in liquid water."
+
+  - id: acid-dissolution
+    display: Acid Sensitive (Dissolution)
+    description: "Dissolves readily in dilute acid. Particularly relevant for carbonates and phosphates."
+    storage: "Avoid acid cleaning. Keep away from vinegar, HCl, acidic solutions."
+    examples: [calcite, malachite, azurite, cerussite, aragonite]
+
+  - id: instability-risk
+    display: Instability Risk
+    description: "May spontaneously alter, crumble, or pyrite-oxidize under normal storage conditions."
+    storage: "Sealed container. Silica gel. Avoid temperature swings. Monitor specimens periodically."
+    examples: [marcasite-some, pyrrhotite-some, vivianite, chalcanthite]
+
+notes:
+  - Many hydrated minerals (zeolites, sulfates) are reversibly or irreversibly affected by humidity.
+  - Water-soluble minerals should never be cleaned with water.
+  - Highly hygroscopic specimens may dissolve over months in tropical or coastal environments.
+  - Climate-controlled display cases recommended for sensitive specimens.

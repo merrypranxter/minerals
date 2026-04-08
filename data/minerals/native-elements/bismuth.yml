@@ -1,0 +1,241 @@
+id: bismuth
+slug: bismuth
+display_name: Bismuth
+
+classification:
+  chemistry_class: native-element
+  mineral_group: arsenic-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 698
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Bi"
+  simplified_formula: "Bi"
+  essential_elements: [Bi]
+  trace_elements_common: [Pb, Sb, As, Te, S]
+  structural_units:
+    - "trigonal rhombohedral metallic lattice"
+  atomic_structure_notes: "Rhombohedral structure (R3̄m) with layered sheets of Bi atoms. Strongest diamagnetic metal at room temperature."
+  chemistry_notes: "Native bismuth is relatively rare in nature; most bismuth is recovered as a byproduct of lead and copper refining. Pure bismuth is a brittle white-gray metal with a distinct pinkish cast."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "hexagonal scalenohedral"
+  space_group: "R3̄m"
+  unit_cell_notes: "a ≈ 4.546 Å, c ≈ 11.862 Å (hex setting); Z = 6"
+  twinning: "Polysynthetic twinning on {0112} planes occasionally reported."
+  crystallography_notes: "Natural crystals are rare — typically form massive, granular, or reticulated masses. Well-formed stepped/hopper crystals are almost exclusively laboratory-grown. Bismuth has the lowest thermal conductivity of all metals except mercury."
+
+physical_properties:
+  mohs_hardness: "2–2.5"
+  specific_gravity: "9.7–9.83"
+  luster: [metallic]
+  streak: silver-white
+  transparency: [opaque]
+  cleavage:
+    - "perfect {0001} (basal)"
+    - "imperfect {1011}"
+  fracture: [uneven, conchoidal]
+  tenacity: "brittle"
+  physical_notes: "Brittle for a metal — unlike most native metals. High specific gravity (near 9.8). Distinctive pinkish-silver surface on fresh breaks. Expands slightly on solidification (like water), enabling the stepped hopper crystal growth in lab settings."
+
+appearance:
+  baseline_colors:
+    - silver-white
+    - pinkish-gray
+  color_profiles:
+    - name: natural-specimen
+      colors: [silver-white, silver-gray, cream-white]
+      cause: "Metallic luster of native bismuth; slight pinkish cast from surface reflection."
+      conditions: "Fresh fracture surfaces of natural specimens."
+      variety_name: null
+    - name: iridescent-tarnish
+      colors: [gold, pink, violet, blue, teal, rainbow]
+      cause: "Thin-film interference in bismuth oxide (Bi₂O₃) surface layer; thickness determines color."
+      conditions: "Naturally tarnished or slowly air-cooled lab specimens."
+      variety_name: null
+    - name: lab-grown-hopper
+      colors: [gold, violet, blue, copper, rainbow-metallic]
+      cause: "Controlled slow cooling produces stepped hopper crystals with thick iridescent oxide coat."
+      conditions: "Laboratory or commercial casting; not natural specimens."
+      variety_name: null
+  habits:
+    - massive
+    - granular
+    - reticulated
+    - arborescent
+    - hopper-crystals (lab-grown)
+    - leaf
+  textures:
+    - metallic sheen
+    - stepped terraces (hopper)
+    - rough granular
+  macro_patterns:
+    - stepped angular terraces
+    - rainbow metallic shimmer
+    - hexagonal spiral staircase growth (lab hopper)
+  common_forms:
+    - massive natural specimens
+    - granular aggregates
+    - lab-grown iridescent hopper crystals (commercial)
+  visual_notes: "Natural specimens are undramatic silver-gray masses. Lab-grown hopper crystals are the visually iconic form — stepped geometric towers in rainbow metallic tones — but these are manufactured, not natural mineral specimens."
+
+optical_and_special_effects:
+  fluorescence: none
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Surface iridescence from bismuth oxide (Bi₂O₃) thin-film on tarnished or lab-grown specimens."
+  pleochroism: "none (metallic, opaque)"
+  optical_notes: "The spectacular rainbow colors of hopper crystals arise from thin-film optical interference in the surface oxide layer, not from inherent crystal color."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal
+    - magmatic
+    - pegmatitic
+  geologic_environments:
+    - high-temperature hydrothermal veins
+    - tin-silver ore veins
+    - granite pegmatites
+    - contact metasomatic deposits
+  host_rocks:
+    - quartz veins
+    - granite
+    - sulfide-rich skarn
+  associated_minerals:
+    - native silver
+    - native gold
+    - arsenopyrite
+    - native arsenic
+    - cobaltite
+    - bismuthinite
+    - pyrrhotite
+    - wolframite
+    - tourmaline
+  locality_scope: worldwide
+  notable_localities:
+    - "Schneeberg, Saxony, Germany"
+    - "Jáchymov (Joachimsthal), Czech Republic"
+    - "Cobalt, Ontario, Canada"
+    - "Bolivia (tin-silver veins)"
+    - "Tasna Mine, Bolivia"
+    - "Cornwall, England"
+    - "New South Wales, Australia"
+  occurrence_notes: "Native bismuth is rare in nature; most world supply is a byproduct of lead, copper, and tin smelting. Found in high-T hydrothermal veins with arsenides, sulfides, and native silver. Also in some granite pegmatites."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Bismuth was confused with tin and lead in antiquity."
+    - "Named as a distinct metal in 15th-16th century German/alchemical literature."
+    - "Used in low-melting alloys (Wood's metal, Rose's metal, Cerrobend)."
+    - "Bismuth subsalicylate (Pepto-Bismol) is a major medical use."
+    - "Used in cosmetics, pharmaceuticals, nuclear industry, and soldering."
+    - "Lead-free solder replacement (with increasing importance)."
+  cultural_associations:
+    - "The 'safe heavy metal' — relatively non-toxic compared to lead, mercury, and arsenic."
+    - "Alchemy: sometimes associated with transformation and chemical curiosity."
+  symbolism:
+    - transformation
+    - iridescent beauty
+    - industrial modernity
+    - safe complexity
+  folklore_notes: "Bismuth has few deep folklore associations compared to gold or silver. Its modern iconic status comes entirely from the manufactured hopper crystal aesthetic. The element is oddly beautiful in a technological, geometrically precise way — a favorite in science gift shops worldwide."
+
+interpretive_vibe:
+  mood_keywords:
+    - prismatic-geometry
+    - manufactured-sublime
+    - rainbow-metal
+    - crystalline-tower
+    - synthetic-mineral
+  sensory_keywords:
+    - stepped terraces
+    - cool metallic
+    - iridescent shimmer
+    - geometric precision
+  palette_keywords:
+    - gold-violet-teal
+    - rainbow metallic
+    - bismuth-pink
+    - oxidized spectrum
+  aesthetic_roles:
+    - geometric art material
+    - iridescent texture reference
+    - sci-fi mineral aesthetic
+    - lab-grown crystal icon
+  vibe_notes: "Bismuth occupies a unique aesthetic niche: the lab-grown hopper crystal is probably the most photographed 'mineral' that isn't technically a natural mineral specimen. It represents the intersection of science, craft, and visual spectacle."
+
+practical_notes:
+  toxicity: "Bismuth metal is considered relatively non-toxic. Bismuth compounds (bismuth subsalicylate) are used medicinally. Much safer than lead, mercury, or arsenic. Avoid ingestion of any metal dust."
+  handling_notes: "Natural specimens are soft and brittle. Lab-grown hopper crystals are fragile. Handle with care. Do not drop."
+  care_notes: "Natural specimens: store dry; minimal cleaning needed. Lab-grown hoppers: fragile oxide coating scratches easily; do not clean with abrasives."
+  treatments_or_synthetics:
+    - "Lab-grown hopper crystals are the dominant market form — manufactured by melting and slow cooling bismuth metal."
+    - "These are technically synthetic/man-made materials, not natural mineral specimens."
+    - "Natural bismuth specimens are genuine but typically undramatic masses or granular aggregates."
+  common_confusions:
+    - "Lab hopper crystals vs. natural specimens — most 'bismuth crystals' sold are lab-grown."
+    - "Tin or lead (similar metallic appearance on massive natural specimens)."
+  market_notes: "Lab-grown iridescent hopper crystals are widely sold in gift shops and online as 'bismuth crystals.' Genuine natural bismuth mineral specimens are available from specialty mineral dealers. Natural specimens are less showy but scientifically authentic."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [bismuthinite, bismite, some-oxides]
+  lookalikes:
+    - native antimony
+    - native arsenic
+    - lead (massive)
+  related_species:
+    - bismuthinite
+    - bismite
+    - native arsenic
+    - native antimony
+
+app_metadata:
+  tags:
+    - native-element
+    - metal
+    - bismuth-group
+    - hydrothermal
+    - iridescent
+    - lab-grown-icon
+    - low-toxicity-heavy-metal
+    - trigonal
+  search_boost_terms:
+    - Bi
+    - bismuth crystal
+    - iridescent hopper crystal
+    - rainbow metal
+    - bismuth hopper
+    - native bismuth
+  prompt_fragments:
+    - "stepped iridescent metallic towers of rainbow-tarnished bismuth"
+    - "silver-gray brittle metallic mass with pinkish sheen"
+    - "geometric spiral staircase of gold-violet-teal oxidized bismuth"
+  ui_color_hint:
+    - "#C8A0B0"
+    - "#9B72CF"
+    - "#5BBFAD"
+    - "#D4AF37"
+  priority_score: 82
+
+provenance:
+  source_status: draft
+  completeness: 0.90
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-698.html"
+    - "https://www.webmineral.com/data/Bismuth.shtml"
+    - "Handbook of Mineralogy, Vol. I: Anthony et al."
+  notes: "Lab-grown hopper crystal vs. natural specimen distinction is critical and underemphasized in most consumer mineral content."
