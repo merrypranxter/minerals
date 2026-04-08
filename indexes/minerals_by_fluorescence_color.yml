@@ -1,0 +1,77 @@
+# minerals_by_fluorescence_color.yml
+# Cross-index of minerals by observed fluorescence color.
+# Shortwave UV (SW, 254nm) unless noted.
+
+yellow_green:
+  - name: Autunite
+    slug: autunite
+    notes: "Intense neon yellow-green from uranyl ion. One of the brightest."
+  - name: Adamite (Mapimí)
+    slug: adamite
+    notes: "Vivid yellow-green under SW UV."
+  - name: Willemite
+    slug: willemite
+    notes: "Classic bright green fluorescence."
+  - name: Hyalite opal
+    slug: opal-hyalite
+    notes: "Brilliant green UV glow."
+
+blue_white:
+  - name: Benitoite
+    slug: benitoite
+    notes: "Intense chalky blue-white. Definitive identification characteristic."
+  - name: Scheelite
+    slug: scheelite
+    notes: "Blue-white to cream. Classic SW UV response."
+  - name: Diamond (some)
+    notes: "Blue SW UV fluorescence common."
+  - name: Calcite (some)
+    notes: "Blue to cream."
+
+orange:
+  - name: Sodalite
+    slug: sodalite
+    notes: "Orange fluorescence typical; variable by specimen."
+  - name: Lazurite
+    slug: lazurite
+    notes: "Orange under SW UV."
+  - name: Hauyne
+    slug: hauyne
+    notes: "Orange."
+  - name: Hackmanite
+    slug: hackmanite
+    notes: "Orange fluorescence + tenebrescence."
+  - name: Scapolite
+    slug: scapolite
+    notes: "Often vivid orange; useful identification characteristic."
+  - name: Calcite (some)
+    notes: "Mn²⁺ activation produces orange."
+  - name: Feldspar (some)
+    notes: "Orange in some alkali feldspars."
+
+pink_red:
+  - name: Calcite (Mn-bearing)
+    notes: "Pink-red UV fluorescence."
+  - name: Fluorite (some)
+    notes: "Pink to blue-violet fluorescence."
+  - name: Corundum (ruby)
+    notes: "Vivid red fluorescence from Cr³⁺."
+
+variable_or_unknown:
+  - name: Cerussite
+    slug: cerussite
+    notes: "Yellow, cream, or orange; locality-dependent."
+  - name: Apophyllite
+    slug: apophyllite
+    notes: "Pale pink, cream, or none."
+  - name: Heulandite
+    slug: heulandite
+    notes: "Cream to pale orange; variable."
+  - name: Stilbite
+    slug: stilbite
+    notes: "Pale cream; variable."
+
+notes:
+  - UV fluorescence colors vary by specimen, locality, and impurity content.
+  - Always test specimens individually; locality does not guarantee UV response.
+  - SW UV (254nm) requires proper eye protection.

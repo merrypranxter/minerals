@@ -1,0 +1,49 @@
+# minerals_by_water_sensitivity.yml
+# Index of minerals grouped by response to water contact.
+
+water_soluble:
+  - name: Chalcanthite
+    slug: chalcanthite
+    notes: "CuSO4·5H2O. Dissolves readily. Store with desiccant. Never expose to water."
+
+water_sensitive:
+  - name: Autunite
+    slug: autunite
+    notes: "Hydration changes (meta-autunite) with humidity extremes. Avoid wetting."
+  - name: Aurichalcite
+    slug: aurichalcite
+    notes: "Extremely fragile acicular aggregates. No water cleaning."
+  - name: Erythrite
+    slug: erythrite
+    notes: "Soft, fragile; avoid wetting."
+
+water_stable:
+  - name: Benitoite
+    slug: benitoite
+    notes: "Stable; brief water rinse acceptable."
+  - name: Dioptase
+    slug: dioptase
+    notes: "Avoid acid; water acceptable briefly."
+  - name: Wulfenite
+    slug: wulfenite
+    notes: "Do not acid clean; water acceptable briefly."
+  - name: Crocoite
+    slug: crocoite
+    notes: "Do not acid clean; water very brief only."
+
+waterproof:
+  - name: Bismuth (native)
+    slug: bismuth
+  - name: Sodalite
+    slug: sodalite
+  - name: Lazurite
+    slug: lazurite
+  - name: Benitoite
+    slug: benitoite
+  - name: Cordierite
+    slug: cordierite
+
+notes:
+  - Chloride minerals (atacamite, halite) are somewhat soluble in water over time.
+  - Hydrated sulfates (chalcanthite, melanterite) are the most soluble collector minerals.
+  - Even "waterproof" minerals may have inclusions or matrix materials that are sensitive.

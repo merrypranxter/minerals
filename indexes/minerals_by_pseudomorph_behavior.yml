@@ -1,0 +1,55 @@
+# minerals_by_pseudomorph_behavior.yml
+# Index of minerals known for pseudomorphism — either as pseudomorphs or being pseudomorphed.
+
+common_pseudomorphs_after:
+  - pseudomorph_name: "Malachite after azurite"
+    target: azurite
+    product: malachite
+    mechanism: "Hydration/carbonation; azurite slowly converts to malachite in humid conditions."
+    notes: "One of the most common and best-known pseudomorphs."
+  - pseudomorph_name: "Goethite/limonite after pyrite"
+    target: pyrite
+    product: goethite
+    mechanism: "Oxidation and hydration of pyrite."
+    notes: "Common in weathered outcrops."
+  - pseudomorph_name: "Cerussite after galena"
+    target: galena
+    product: cerussite
+    mechanism: "Carbonate oxidation of galena."
+  - pseudomorph_name: "Cuprite after native copper"
+    target: native-copper
+    product: cuprite
+    mechanism: "Oxidation."
+  - pseudomorph_name: "Chalcocite after chalcopyrite"
+    target: chalcopyrite
+    product: chalcocite
+    mechanism: "Supergene sulfide enrichment."
+
+minerals_commonly_pseudomorphed_by:
+  - mineral: Galena
+    slug: galena
+    pseudomorphed_by: [cerussite, anglesite, pyromorphite]
+  - mineral: Azurite
+    slug: azurite
+    pseudomorphed_by: [malachite]
+  - mineral: Native copper
+    slug: native-copper
+    pseudomorphed_by: [cuprite, malachite, tenorite]
+  - mineral: Chalcopyrite
+    slug: chalcopyrite
+    pseudomorphed_by: [chalcocite, covellite]
+
+minerals_that_pseudomorph:
+  - mineral: Cerussite
+    slug: cerussite
+    after: [galena]
+  - mineral: Chalcocite
+    slug: chalcocite
+    after: [chalcopyrite, bornite, pyrite]
+  - mineral: Malachite
+    after: [azurite, cuprite]
+
+notes:
+  - Pseudomorphs preserve the crystal habit of the replaced mineral with new chemistry.
+  - They are scientifically valuable as records of geological history and chemical change.
+  - Malachite-after-azurite is one of the most popular collector pseudomorphs.

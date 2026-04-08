@@ -1,0 +1,95 @@
+# minerals_by_hazard.yml
+# Index of minerals by primary hazard category for safe handling reference.
+
+radioactive:
+  - name: Autunite
+    slug: autunite
+    hazard_level: moderate
+    notes: "Uranium phosphate. Store sealed. Limit handling time."
+  - name: Torbernite
+    slug: torbernite
+    hazard_level: moderate
+    notes: "Copper uranyl phosphate. Green tabular. Radioactive."
+  - name: Carnotite
+    slug: carnotite
+    hazard_level: moderate
+    notes: "Uranium vanadate. Yellow powdery."
+  - name: Uraninite
+    slug: uraninite
+    hazard_level: high
+    notes: "Primary uranium oxide. High radioactivity."
+
+lead_bearing:
+  - name: Cerussite
+    slug: cerussite
+    notes: "Lead carbonate. Wash hands. No dust."
+  - name: Crocoite
+    slug: crocoite
+    notes: "Lead chromate. Both Pb and Cr(VI) — carcinogen. Enclosed display."
+  - name: Wulfenite
+    slug: wulfenite
+    notes: "Lead molybdate. Avoid dust. Wash hands."
+  - name: Galena
+    slug: galena
+    notes: "Lead sulfide. Primary lead ore. Avoid dust."
+  - name: Mimetite
+    slug: mimetite
+    notes: "Lead arsenate chloride. Both Pb and As."
+  - name: Linarite
+    slug: linarite
+    notes: "Lead copper sulfate. Both Pb and Cu."
+
+arsenic_bearing:
+  - name: Adamite
+    slug: adamite
+    notes: "Zinc arsenate. Wash hands. No dust."
+  - name: Erythrite
+    slug: erythrite
+    notes: "Cobalt arsenate. Both Co and As toxic."
+  - name: Scorodite
+    slug: scorodite
+    notes: "Iron arsenate."
+  - name: Arsenopyrite
+    slug: arsenopyrite
+    notes: "Iron arsenic sulfide. Produces AsH3 and H2S if acid cleaned."
+  - name: Realgar
+    slug: realgar
+    notes: "Arsenic sulfide. Light-sensitive. Toxic dust."
+  - name: Orpiment
+    slug: orpiment
+    notes: "Arsenic sulfide. Toxic dust."
+
+copper_bearing_toxic:
+  - name: Chalcanthite
+    slug: chalcanthite
+    notes: "Water-soluble copper sulfate. Do not ingest."
+  - name: Atacamite
+    slug: atacamite
+    notes: "Copper chloride hydroxide."
+  - name: Malachite
+    slug: malachite
+    notes: "Copper carbonate. Avoid dust."
+  - name: Azurite
+    slug: azurite
+    notes: "Copper carbonate. Avoid dust."
+  - name: Aurichalcite
+    slug: aurichalcite
+    notes: "Zinc-copper carbonate. Very fragile. Avoid dust."
+
+water_soluble:
+  - name: Chalcanthite
+    slug: chalcanthite
+    notes: "Dissolves in water. Store with desiccant."
+  - name: Halite
+    slug: halite
+    notes: "Table salt. Dissolves readily."
+
+mercury_bearing:
+  - name: Cinnabar
+    slug: cinnabar
+    notes: "Mercury sulfide. Highly toxic. Never heat."
+
+notes:
+  - This index is for safe handling guidance only; consult professional resources for lab or industrial settings.
+  - Many minerals have multiple hazard types; check individual entries.
+  - When in doubt, wash hands after handling any mineral specimen.

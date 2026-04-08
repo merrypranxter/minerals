@@ -1,0 +1,63 @@
+# minerals_by_radioactivity.yml
+# Index of radioactive minerals by radioactivity level.
+# See radioactivity_levels.yml for vocabulary.
+
+high:
+  - name: Uraninite (Pitchblende)
+    slug: uraninite
+    formula: "UO2"
+    notes: "Primary uranium ore. High radioactivity. Specialist handling."
+
+moderate:
+  - name: Autunite
+    slug: autunite
+    formula: "Ca(UO2)2(PO4)2·10-12H2O"
+    color: lemon-yellow
+    uv: "intense yellow-green"
+    notes: "Common secondary uranium mineral. Sealed storage. Limit handling."
+  - name: Torbernite
+    slug: torbernite
+    formula: "Cu(UO2)2(PO4)2·12H2O"
+    color: emerald-green
+    notes: "Copper uranyl phosphate. Similar hazard to autunite."
+  - name: Meta-autunite
+    slug: meta-autunite
+    formula: "Ca(UO2)2(PO4)2·2-6H2O"
+    notes: "Dehydrated autunite. Forms when autunite desiccates."
+  - name: Meta-torbernite
+    slug: meta-torbernite
+    formula: "Cu(UO2)2(PO4)2·8H2O"
+    notes: "Dehydrated torbernite."
+  - name: Carnotite
+    slug: carnotite
+    formula: "K2(UO2)2(VO4)2·3H2O"
+    color: canary-yellow
+    notes: "Uranium vanadate from Colorado Plateau, USA."
+  - name: Uranophane
+    slug: uranophane
+    formula: "Ca(UO2)2(SiO3OH)2·5H2O"
+    color: yellow
+    notes: "Calcium uranyl silicate."
+
+low_background_elevated:
+  - name: Thorite
+    slug: thorite
+    formula: "ThSiO4"
+    notes: "Thorium silicate. Elevated but lower than uranium minerals."
+  - name: Monazite
+    slug: monazite
+    formula: "(Ce,La,Nd,Th)PO4"
+    notes: "Rare earth + thorium phosphate. Slightly elevated."
+  - name: Zircon (metamict)
+    slug: zircon-metamict
+    formula: "ZrSiO4 (U/Th-bearing)"
+    notes: "Metamict zircon with U/Th damage has elevated radioactivity."
+
+safety_notes:
+  - All uranium minerals emit alpha, beta, and gamma radiation.
+  - Alpha particles are stopped by skin but inhaling or ingesting uranium dust is highly dangerous.
+  - Store radioactive minerals in sealed containers. Do not keep in living areas.
+  - Meta-autunite forms when autunite dehydrates in storage — both are hazardous.
+  - Autunite loses water in dry conditions and can crack; the dust is radioactive.
+  - Consult national radiation safety regulations for storage and transport.
+  - Use radiation dosimeter when handling significant quantities.

@@ -1,0 +1,51 @@
+# minerals_by_instability.yml
+# Index of minerals that are unstable in common storage conditions.
+# Categories: dehydration, light-sensitive, pyrite-disease, humidity-sensitive, air-sensitive.
+
+dehydrates_in_dry_storage:
+  - name: Autunite
+    slug: autunite
+    mechanism: "Loses structural water → converts to meta-autunite. Crystal damage may result."
+    mitigation: "Store in slightly humid sealed container (not too dry)."
+  - name: Chalcanthite
+    slug: chalcanthite
+    mechanism: "Dehydrates in dry air → anhydrous CuSO4 (white powder)."
+    mitigation: "Store in airtight container with moderate humidity (not too wet either)."
+  - name: Vivianite
+    slug: vivianite
+    mechanism: "Oxidizes and changes color on air exposure."
+    mitigation: "Store sealed, minimize air exposure."
+
+light_sensitive:
+  - name: Hackmanite
+    slug: hackmanite
+    mechanism: "UV activates pink color; visible light (daylight) bleaches it back."
+    mitigation: "Store in darkness to preserve activated color."
+  - name: Realgar
+    slug: realgar
+    mechanism: "Converts slowly to pararealgar (orange powder) on exposure to light."
+    mitigation: "Store in dark container. Never display in direct light long-term."
+  - name: Proustite
+    slug: proustite
+    mechanism: "Darkens and surface-alters under light exposure."
+    mitigation: "Dark storage or UV-filtering case."
+
+humidity_sensitive:
+  - name: Pyrite
+    slug: pyrite
+    mechanism: "Pyrite disease — oxidizes in humid storage producing acidic sulfate efflorescence."
+    mitigation: "Store in dry conditions with silica gel. Do not store with organic materials."
+  - name: Marcasite
+    slug: marcasite
+    mechanism: "More reactive than pyrite; pyrite disease more aggressive."
+    mitigation: "Strict dry storage. Check regularly. Marcasite disease can spread to adjacent specimens."
+  - name: Chalcanthite
+    slug: chalcanthite
+    mechanism: "Absorbs atmospheric moisture; dissolves in humid air over time."
+    mitigation: "Airtight container with desiccant."
+
+notes:
+  - Instability is a major concern for natural history museums and private collectors.
+  - The most dangerous unstable minerals in collections: marcasite (acid damage), autunite (radioactive + dehydration), realgar (light alteration), chalcanthite (dissolution).
+  - Regular inspection of unstable specimens is recommended.
+  - Pyrite disease can spread acidity to adjacent specimens; keep affected specimens isolated.

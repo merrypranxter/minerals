@@ -1,0 +1,47 @@
+# minerals_by_ore_metal.yml
+# Index of minerals by the economically significant metal they carry.
+# See ore_metals.yml for vocabulary.
+
+copper:
+  - bismuth  # not Cu but common in Cu deposits
+  - chalcocite
+  - cuprite
+  - atacamite
+  - malachite
+  - azurite
+  - chalcanthite
+  - linarite
+  - aurichalcite
+  - brochantite
+  - covellite
+
+lead:
+  - cerussite
+  - wulfenite
+  - crocoite
+  - linarite
+
+zinc:
+  - adamite
+  - aurichalcite
+  - smithsonite
+  - hemimorphite
+
+cobalt:
+  - erythrite
+
+uranium:
+  - autunite
+
+molybdenum:
+  - wulfenite
+
+bismuth:
+  - bismuth  # native element
+
+chromium:
+  - crocoite
+
+notes:
+  - This index reflects minerals in this database; not a comprehensive ore geology reference.
+  - Many minerals carry multiple metals (e.g. linarite = Pb+Cu; aurichalcite = Zn+Cu).
