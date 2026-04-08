@@ -1,0 +1,235 @@
+id: benitoite
+slug: benitoite
+display_name: Benitoite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: benitoite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 558
+  other_ids:
+    california_state_gem: "true — official gemstone of California since 1985"
+
+chemical_profile:
+  ideal_formula: "BaTiSi3O9"
+  simplified_formula: "BaTiSi3O9"
+  essential_elements: [Ba, Ti, Si, O]
+  trace_elements_common: [Fe, Mn, Nb]
+  structural_units:
+    - "Si3O9 three-membered cyclosilicate rings"
+    - "TiO6 octahedra"
+    - "BaO12 polyhedra"
+  atomic_structure_notes: "Cyclosilicate (ring silicate) with three SiO4 tetrahedra forming isolated Si3O9 rings. TiO6 octahedra link the rings; Ba occupies 12-coordinated sites. The crystal structure belongs to space group P6̄c2."
+  chemistry_notes: "Benitoite's composition is unusual — barium and titanium together in a cyclosilicate are rare. The vivid blue color may relate to charge-transfer processes in the Ti-bearing structure, though the exact mechanism is not fully established."
+
+crystallography:
+  crystal_system: hexagonal
+  crystal_class: "ditrigonal dipyramidal"
+  space_group: "P6̄c2"
+  unit_cell_notes: "a ≈ 6.642 Å, c ≈ 9.759 Å; Z = 2"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms characteristic triangular dipyramidal crystals — distinctly triangular cross-section with dipyramidal faces. This gives benitoite a uniquely angular, geometric look. Crystals rarely exceed 1–2 cm; most gem-quality stones are under 1 ct."
+
+physical_properties:
+  mohs_hardness: "6–6.5"
+  specific_gravity: "3.65–3.68"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "imperfect/poor {1011}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "High SG for a gemstone silicate. Strong pleochroism (blue to colorless). Strong dispersion — notable fire. Very high refractive index for a gemstone (nω ≈ 1.757, nε ≈ 1.804)."
+
+appearance:
+  baseline_colors:
+    - sapphire-blue
+    - vivid-blue
+    - blue
+  color_profiles:
+    - name: sapphire-blue
+      colors: [vivid-blue, sapphire-blue, cornflower-blue, medium-blue]
+      cause: "Possibly charge transfer involving Ti⁴⁺ or color centers in the structure; not fully characterized."
+      conditions: "Standard gem-quality benitoite from San Benito County, California."
+      variety_name: null
+    - name: colorless
+      colors: [colorless, white]
+      cause: "Absence of chromophore; some crystals from the type locality are colorless."
+      conditions: "Less common; some crystals show blue core, colorless rim."
+      variety_name: null
+    - name: pink
+      colors: [pale-pink, pinkish]
+      cause: "Unknown; rare."
+      conditions: "Very rare; reported from type locality."
+      variety_name: null
+  habits:
+    - dipyramidal
+    - triangular-outline crystals
+    - tabular
+  textures:
+    - glassy
+    - transparent
+    - crystalline
+  macro_patterns:
+    - triangular crystal cross-section
+    - matrix on white natrolite
+    - blue crystal on pale matrix
+  common_forms:
+    - triangular dipyramidal crystals on natrolite matrix
+    - faceted gemstones (rare, <1 ct typical)
+    - matrix specimens from California
+  visual_notes: "Benitoite has one of the most electrically vivid blues in the mineral kingdom — comparable in saturation to fine sapphire or tanzanite but with a distinctive geometric triangular crystal habit. Faceted stones exhibit exceptional fire (dispersion). Almost invariably found on white natrolite matrix, creating a dramatic blue-on-white contrast."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "intense blue-white to chalky-blue fluorescence — among the most spectacular SW UV responses of any mineral"
+    longwave_uv: "weaker or none"
+    fluorescence_color: blue-white
+  tenebrescence: false
+  phosphorescence: "brief blue-white afterglow possible"
+  special_effects:
+    - strong-dispersion
+    - strong-pleochroism
+    - exceptional-SW-UV-fluorescence
+  optical_notes: "Strong pleochroism: blue to colorless (uniaxial negative). Strong dispersion (0.046) produces excellent fire in faceted gems — comparable to diamond. The intense chalky-blue SW UV fluorescence is a famous benitoite characteristic and a useful identification test."
+
+formation_and_occurrence:
+  genesis:
+    - metasomatic (high-pressure serpentinite-related)
+    - hydrothermal
+  geologic_environments:
+    - serpentinite
+    - natrolite veins in serpentinized ultramafic rock
+    - high-pressure subduction-related settings
+  host_rocks:
+    - serpentinite
+    - natrolite veins
+  associated_minerals:
+    - natrolite
+    - joaquinite
+    - neptunite (black prismatic crystals)
+    - serpentine
+    - albite
+    - jadeite
+  locality_scope: extremely-limited
+  notable_localities:
+    - "Dallas Gem Mine (Benitoite Gem Mine), San Benito County, California, USA — essentially the only significant gem-quality locality worldwide"
+    - "Ohmi, Niigata, Japan (rare)"
+    - "Arkansas, USA (rare, colorless)"
+    - "Belgium (rare)"
+  occurrence_notes: "One of the rarest gemstones on Earth. The San Benito County, California locality is essentially the only source of gem-quality material. The mineral is found in natrolite veins within serpentinite — a highly unusual geological setting. Named for San Benito County. California's state gemstone since 1985."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Discovered in 1907 by James Couch, a prospector, in San Benito County, California."
+    - "Initially misidentified as sapphire due to vivid blue color."
+    - "Formally described as a new mineral species by George D. Louderback, 1907."
+    - "California state gemstone since 1985."
+    - "Collector gemstone; almost no commercial jewelry production due to extreme rarity."
+  cultural_associations:
+    - "Symbol of California mineral heritage."
+    - "Prized by collectors as one of the rarest gem-quality minerals."
+  symbolism:
+    - rarity
+    - California identity
+    - vivid blue
+    - geological uniqueness
+  folklore_notes: "Benitoite is extremely rare and has no deep cultural folklore beyond its status as California's official state gemstone and its reputation among gem collectors as the 'holy grail' of blue gemstones."
+
+interpretive_vibe:
+  mood_keywords:
+    - electric-blue
+    - rare-gem
+    - sapphire-rival
+    - geometric-crystal
+    - california-treasure
+  sensory_keywords:
+    - vivid electric blue
+    - glassy transparent
+    - triangular precision
+    - luminous under UV
+  palette_keywords:
+    - electric-blue
+    - sapphire
+    - cornflower
+    - white-natrolite-contrast
+  aesthetic_roles:
+    - rare gemstone focal point
+    - electric blue accent
+    - geometric crystal reference
+    - UV spectacle mineral
+  vibe_notes: "Benitoite is a mineral of extremes: extreme rarity, extreme blue saturation, extreme UV response, extreme geological specificity. Its triangular blue crystal shape on white natrolite is one of the most graphically striking mineral compositions in existence."
+
+practical_notes:
+  toxicity: "Non-toxic. No known hazards under normal handling."
+  handling_notes: "Fragile faceted gems; do not expose to thermal shock. Matrix specimens: handle carefully; natrolite matrix can be delicate."
+  care_notes: "Clean with water and mild soap. Avoid ultrasonic cleaners. Store wrapped, away from harder minerals."
+  treatments_or_synthetics:
+    - "No synthetic benitoite on the market."
+    - "No known treatments for gem benitoite."
+  common_confusions:
+    - "Blue sapphire (much harder, 9 Mohs, no triangular crystal habit)"
+    - "Tanzanite (trichroic, different crystal system, different origin)"
+    - "Blue spinel (isometric, no pleochroism)"
+  market_notes: "Extremely rare and valuable as a gem species. Fine faceted stones of 1+ ct are exceptional rarities. Matrix specimens from the type locality are highly collectible. The mine has had sporadic operation; availability is limited."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - sapphire
+    - tanzanite
+    - blue-spinel
+  related_species:
+    - pabstite
+    - wadeite
+
+app_metadata:
+  tags:
+    - silicate
+    - cyclosilicate
+    - blue
+    - gemstone
+    - rare
+    - California
+    - UV-fluorescent
+    - hexagonal
+    - benitoite-group
+  search_boost_terms:
+    - benitoite gem
+    - California state gem
+    - rare blue mineral
+    - cyclosilicate blue
+    - San Benito County
+    - triangular blue crystal
+    - UV fluorescent blue gem
+  prompt_fragments:
+    - "vivid sapphire-blue triangular crystal on white natrolite matrix"
+    - "electric blue cyclosilicate glowing chalky white under shortwave UV"
+    - "rare California gem — triangular blue dipyramid floating on pale matrix"
+  ui_color_hint:
+    - "#1E6BE6"
+    - "#3A8FFF"
+    - "#FFFFFF"
+  priority_score: 88
+
+provenance:
+  source_status: draft
+  completeness: 0.90
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-558.html"
+    - "https://www.webmineral.com/data/Benitoite.shtml"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+    - "Louderback, G.D. (1907). Benitoite, its paragenesis and mode of occurrence. University of California Publications in Geology."
+  notes: "Single-locality gem status well-documented. UV fluorescence is a definitive identification characteristic."

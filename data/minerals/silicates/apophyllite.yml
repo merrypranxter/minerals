@@ -1,0 +1,257 @@
+id: apophyllite
+slug: apophyllite
+display_name: Apophyllite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: apophyllite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - fluorapophyllite-(K)
+    - hydroxyapophyllite-(K)
+    - natroapophyllite
+  notes: "The name 'apophyllite' is used informally for the group; IMA-approved species are fluorapophyllite-(K) and hydroxyapophyllite-(K). This entry documents the apophyllite group as typically encountered."
+
+identifiers:
+  ima_status: "group name (individual species: fluorapophyllite-(K), mindat_id 1577)"
+  mindat_id: 216
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "KCa4(Si8O20)(F,OH)·8H2O"
+  simplified_formula: "KCa4Si8O20(F,OH)·8H2O"
+  essential_elements: [K, Ca, Si, O, F, H]
+  trace_elements_common: [Na, Mn]
+  structural_units:
+    - "Si8O20 sheet (double four-membered rings)"
+    - "Ca octahedral chains"
+    - "K or Na in large sites"
+    - "structural water"
+  atomic_structure_notes: "Phyllosilicate (sheet silicate) with unusual Si8O20 double tetrahedral sheets. The name 'apophyllite' comes from Greek 'apo' (away from) + 'phyllon' (leaf) — referring to the tendency to exfoliate (peel into leaf-like sheets) when heated, due to loss of structural water."
+  chemistry_notes: "Two main IMA-recognized species: fluorapophyllite-(K) (F-dominant, most common) and hydroxyapophyllite-(K) (OH-dominant). The F/OH ratio and K/Na content vary. The green color of some specimens comes from trace Mn or Fe."
+
+crystallography:
+  crystal_system: tetragonal
+  crystal_class: "ditetragonal dipyramidal"
+  space_group: "P4/mnc"
+  unit_cell_notes: "a ≈ 8.96 Å, c ≈ 15.76 Å (fluorapophyllite-(K))"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Typically forms thick tabular to prismatic tetragonal crystals with square cross-section. Basal pinacoid faces show a characteristic pearly or silky luster from the perfect basal cleavage. Prism faces are vitreous. Crystals can be large (cm-scale), cubic-looking pseudo-cube habit common."
+
+physical_properties:
+  mohs_hardness: "4.5–5"
+  specific_gravity: "2.33–2.37"
+  luster:
+    - "pearly on {001} cleavage"
+    - "vitreous on prism faces"
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {001} basal"
+  fracture: [uneven, irregular]
+  tenacity: brittle
+  physical_notes: "The perfect basal cleavage creates a distinctive pearly/mother-of-pearl optical effect on the flat top face. Prism faces are glassy and transparent. The combination of pearly cleavage face and vitreous prism faces on one crystal is highly recognizable."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - pale-green
+    - yellowish
+  color_profiles:
+    - name: colorless-transparent
+      colors: [colorless, clear, white]
+      cause: "No chromophore impurities; pure composition."
+      conditions: "Most common; standard apophyllite from Pune, India and elsewhere."
+      variety_name: null
+    - name: green
+      colors: [pale-green, apple-green, mint-green, sage-green]
+      cause: "Trace Mn²⁺ or Fe substitution producing green color."
+      conditions: "Especially from Pune, India; less common but highly prized."
+      variety_name: null
+    - name: pink-peach
+      colors: [pale-pink, peach, blush]
+      cause: "Trace Mn substitution or specific structural variations."
+      conditions: "Rare; some Pune specimens."
+      variety_name: null
+    - name: yellowish
+      colors: [pale-yellow, cream-yellow]
+      cause: "Trace iron or organic matter."
+      conditions: "Some localities."
+      variety_name: null
+  habits:
+    - thick-tabular
+    - prismatic
+    - pseudo-cubic
+    - pyramidal
+    - massive
+  textures:
+    - pearly basal face
+    - glassy prism faces
+    - transparent blocky prisms
+  macro_patterns:
+    - square-outline blocky crystals
+    - pearly top face, glassy sides
+    - transparent prisms on zeolite matrix
+    - green crystals on stilbite fans
+  common_forms:
+    - blocky transparent crystals on zeolite matrix (especially stilbite, heulandite)
+    - pyramidal crystals
+    - massive pearly aggregates
+  visual_notes: "Apophyllite creates one of mineralogy's most elegant crystal presentations: square-sectioned transparent prisms with a brilliant glassy luster on sides and a silky pearly sheen on the top cleavage face. Green-tinted crystals on cream stilbite matrix from Pune are among the most aesthetically perfect mineral combinations available."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "variable; pale pink, cream, or none"
+    longwave_uv: "variable; sometimes weak yellowish"
+    fluorescence_color: variable
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects:
+    - pearly-basal-luster
+  optical_notes: "The contrast between the vitreous prism faces and the pearly basal cleavage face is a useful visual diagnostic. Low birefringence. Low RI. Uniaxial (tetragonal)."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal (low-temperature)
+    - secondary in vesicular basalt
+  geologic_environments:
+    - vesicular basalt amygdales
+    - zeolite-filling cavities
+    - hydrothermal veins
+    - skarn margins
+  host_rocks:
+    - vesicular basalt
+    - amygdaloidal basalt
+    - contact metamorphic skarn
+  associated_minerals:
+    - stilbite
+    - heulandite
+    - scolecite
+    - natrolite
+    - cavansite
+    - calcite
+    - prehnite
+    - datolite
+  locality_scope: worldwide
+  notable_localities:
+    - "Pune (Poona), Maharashtra, India — finest specimens worldwide"
+    - "Teigarhorn, Iceland (historic locality)"
+    - "Bergen Hill, New Jersey, USA"
+    - "Guanajuato, Mexico"
+    - "Gibelsbach, Switzerland"
+    - "Aulbach, Germany"
+    - "Faeroe Islands"
+    - "Nova Scotia, Canada"
+  occurrence_notes: "Found worldwide in zeolite assemblages within vesicular basalts. Pune, India (Deccan Traps) produces the finest and most abundant specimens. A common and widespread low-temperature hydrothermal mineral."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Named in 1806 by René Just Haüy from Greek 'apo' (away from) + 'phyllon' (leaf)."
+    - "Classic example mineral for pearly luster in mineralogy instruction."
+    - "Associated with zeolite mineral collecting; widely available collector mineral."
+  cultural_associations:
+    - "Associated with clarity and spirituality in crystal healing communities."
+    - "Green apophyllite is associated with the heart chakra."
+  symbolism:
+    - clarity
+    - transparency
+    - clean energy
+    - zeolite serenity
+  folklore_notes: "Apophyllite has modest folklore associations. Its appeal is primarily aesthetic and scientific — a mineral of glassy precision and pearly elegance. The green variety from India is among the most popular 'entry-level' collector minerals."
+
+interpretive_vibe:
+  mood_keywords:
+    - glass-tower
+    - zeolite-garden
+    - pearly-apex
+    - transparent-precision
+    - calm-India
+  sensory_keywords:
+    - cool glassy
+    - silky top face
+    - pale green clarity
+    - light-filled prism
+  palette_keywords:
+    - crystal-clear
+    - pale-apple-green
+    - zeolite-cream
+    - glassy-white
+  aesthetic_roles:
+    - transparency reference
+    - zeolite garden focal point
+    - pearlescent luster example
+    - clean precise crystal form
+  vibe_notes: "Apophyllite is a mineral of quiet elegance. Nothing flashy — just a perfect square glass prism with a silky pearlescent cap. The green variety adds just enough color to make it genuinely beautiful without being ostentatious."
+
+practical_notes:
+  toxicity: "Non-toxic. No known hazards."
+  handling_notes: "Fragile perfect basal cleavage. Do not drop. Handle by matrix or sides, not by crystal tips."
+  care_notes: "Clean with water and mild soap. Avoid acids. Store upright with the pearly cleavage face protected."
+  treatments_or_synthetics:
+    - "No synthetic apophyllite on collector market."
+    - "No common treatments."
+  common_confusions:
+    - "Wulfenite (tabular yellow, much denser, different luster, brighter color)"
+    - "Prehnite (green, different crystal habit, harder)"
+    - "Calcite (effervesces in acid; different crystal forms)"
+    - "Clear topaz (much harder, different habit)"
+  market_notes: "Widely available and affordable. Green crystals on stilbite matrix from Pune are a staple of the mineral market. Pricing scales with crystal size, color intensity, and matrix quality."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - wulfenite-tabular
+    - prehnite
+    - calcite
+    - clear-topaz
+  related_species:
+    - fluorapophyllite-(K)
+    - hydroxyapophyllite-(K)
+    - natroapophyllite
+    - stilbite
+    - heulandite
+
+app_metadata:
+  tags:
+    - silicate
+    - phyllosilicate
+    - zeolite-associated
+    - colorless
+    - pale-green
+    - pearly-luster
+    - India
+    - tetragonal
+    - collector-common
+  search_boost_terms:
+    - apophyllite crystal
+    - pearly luster mineral
+    - green apophyllite Pune
+    - zeolite mineral India
+    - transparent square crystal
+    - fluorapophyllite
+  prompt_fragments:
+    - "square transparent glass-like prisms with pearly basal cleavage on zeolite matrix"
+    - "pale apple-green apophyllite crystals on cream stilbite fan"
+    - "blocky translucent tetragonal crystals with silky top faces"
+  ui_color_hint:
+    - "#DDEFCF"
+    - "#F5F5F0"
+    - "#A8D8A8"
+  priority_score: 79
+
+provenance:
+  source_status: draft
+  completeness: 0.87
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-216.html"
+    - "https://www.webmineral.com/data/Apophyllite.shtml"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: "IMA 2009 redefined apophyllite into species fluorapophyllite-(K) and hydroxyapophyllite-(K). The informal group name 'apophyllite' remains in common use."
