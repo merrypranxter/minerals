@@ -1,0 +1,240 @@
+id: atacamite
+slug: atacamite
+display_name: Atacamite
+
+classification:
+  chemistry_class: halide
+  mineral_group: atacamite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 388
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Cu2Cl(OH)3"
+  simplified_formula: "Cu2Cl(OH)3"
+  essential_elements: [Cu, Cl, O, H]
+  trace_elements_common: [Fe, Mn, Ni]
+  structural_units:
+    - "Cu²⁺ in octahedral coordination with Cl⁻ and OH⁻"
+    - "chloride (Cl⁻) anions"
+    - "hydroxyl groups (OH)⁻"
+  atomic_structure_notes: "Orthorhombic structure. Cu²⁺ occupies two distinct octahedral sites. This structure is distinct from the three polymorphs: botallackite, clinoatacamite, and paratacamite — all share the Cu₂Cl(OH)₃ formula but differ in crystal structure."
+  chemistry_notes: "Atacamite is the orthorhombic polymorph of Cu₂Cl(OH)₃. The other polymorphs (clinoatacamite = monoclinic, paratacamite = trigonal, botallackite = monoclinic different structure) are sometimes confused with it. Named for the Atacama Desert of Chile — hyperarid conditions where chloride minerals persist stably."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "dipyramidal"
+  space_group: "Pnma"
+  unit_cell_notes: "a ≈ 6.030 Å, b ≈ 9.137 Å, c ≈ 6.854 Å"
+  twinning: "Contact and penetration twins on {110} reported."
+  crystallography_notes: "Forms slender prismatic to tabular crystals, often striated. Also massive, granular, and acicular. Crystals are typically small, bright green, and lustrous."
+
+physical_properties:
+  mohs_hardness: "3–3.5"
+  specific_gravity: "3.76–3.78"
+  luster: [adamantine, vitreous]
+  streak: "apple-green"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {010}"
+    - "good {101}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Distinctive apple-green streak is a useful identification feature. Adamantine to vitreous luster. Slightly higher SG than expected for a chloride mineral."
+
+appearance:
+  baseline_colors:
+    - bright-green
+    - emerald-green
+    - dark-green
+    - blackish-green
+  color_profiles:
+    - name: bright-emerald-green
+      colors: [bright-green, emerald-green, vivid-green]
+      cause: "Cu²⁺ in Cl/OH octahedral coordination; d-d absorption producing green."
+      conditions: "Most atacamite specimens."
+      variety_name: null
+    - name: dark-blackish-green
+      colors: [dark-green, blackish-green]
+      cause: "Higher Cu content or finer grain size."
+      conditions: "Some massive or fine-grained specimens."
+      variety_name: null
+  habits:
+    - prismatic
+    - striated prisms
+    - tabular
+    - acicular
+    - massive
+    - granular
+    - fibrous
+  textures:
+    - adamantine to vitreous
+    - striated
+    - bright green crystalline
+  macro_patterns:
+    - bright green crystals on dark copper ore matrix
+    - green fibrous masses
+    - emerald-green druse on malachite
+  common_forms:
+    - prismatic crystal aggregates
+    - massive green encrustations
+    - fibrous masses
+  visual_notes: "Atacamite has a bright, fresh, emerald-to-forest green — somewhat darker than malachite, more vivid than chrysocolla. The prismatic striated crystals with adamantine luster can look gem-like. Named for the Atacama, where the hyperarid climate preserves chloride minerals that would dissolve in normal humidity."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Strong pleochroism: dark green / yellowish-green / colorless. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized copper deposits in arid/coastal environments)
+  geologic_environments:
+    - oxidized zone of copper deposits in hyperarid climates
+    - coastal copper deposits influenced by sea-spray chloride
+    - arid mine districts with chloride-bearing groundwater
+  host_rocks:
+    - copper ore gossan
+    - basalt with copper mineralization
+    - quartz-carbonate veins
+  associated_minerals:
+    - malachite
+    - azurite
+    - chrysocolla
+    - brochantite
+    - antlerite
+    - paratacamite
+    - clinoatacamite
+    - cuprite
+    - native copper
+  locality_scope: limited
+  notable_localities:
+    - "Atacama Desert, Chile (type locality and widespread)"
+    - "Chuquicamata, Chile"
+    - "Quebrada Turquesa, Chile"
+    - "Wheal Gorland, Cornwall, England"
+    - "Bisbee, Arizona, USA"
+    - "South Australia (arid copper deposits)"
+    - "Tsumeb, Namibia"
+    - "Laurion, Greece"
+  occurrence_notes: "Most stable in arid or coastal environments where chloride is available and humidity is low. Common in the Atacama Desert region of Chile — the driest non-polar desert on Earth — where halide minerals survive because they rarely encounter enough water to dissolve."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Named for the Atacama Desert, Chile, by Dominique de Villars, 1801."
+    - "No historical industrial use; collector mineral."
+    - "The Atacama was historically significant for nitrate and copper mining."
+  cultural_associations:
+    - "Associated with the extreme landscape of the Atacama Desert."
+  symbolism:
+    - desert green
+    - copper-salt
+    - arid mineral survival
+  folklore_notes: "Atacamite has no deep cultural mythology. Its identity is tied to the extreme landscape of its primary locality — the Atacama, one of Earth's most alien environments."
+
+interpretive_vibe:
+  mood_keywords:
+    - desert-copper
+    - arid-green
+    - atacama-gem
+    - copper-halide
+    - hyperarid-survivor
+  sensory_keywords:
+    - bright clear green
+    - prismatic striated
+    - cool desert light
+    - fresh copper-green
+  palette_keywords:
+    - bright-emerald
+    - forest-green
+    - copper-green
+    - desert-mineral-green
+  aesthetic_roles:
+    - vivid green accent
+    - desert mineral reference
+    - copper halide showcase
+    - arid environment mineral
+  vibe_notes: "Atacamite is a mineral that could only exist in the driest place on Earth. That geological specificity — needing both copper and chloride without enough water to dissolve — gives it a geological drama that exceeds its visual spectacle."
+
+practical_notes:
+  toxicity: "Copper-bearing mineral. Avoid dust. Wash hands after handling. Do not ingest."
+  handling_notes: "Crystals are fragile. Handle by matrix. Slightly soluble in water over time — do not store in humid conditions."
+  care_notes: "Keep dry. Avoid water. Light dry dusting. The chloride content makes some specimens slightly soluble under humid conditions."
+  treatments_or_synthetics:
+    - "No synthetic atacamite on the collector market."
+    - "Note: clinoatacamite (monoclinic polymorph) is commonly mislabeled as atacamite — same composition, different structure."
+  common_confusions:
+    - "Malachite (different luster, botryoidal habit common, effervesces in acid)"
+    - "Clinoatacamite (monoclinic polymorph; same color and formula — requires XRD to distinguish)"
+    - "Brochantite (similar green; different composition — sulfate)"
+    - "Paratacamite (trigonal polymorph; same issue as clinoatacamite)"
+  market_notes: "Available from specialty dealers. Chile and Cornwall provide most market specimens. Pricing modest."
+
+relationships:
+  polymorphs:
+    - clinoatacamite
+    - paratacamite
+    - botallackite
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - malachite
+    - brochantite
+    - clinoatacamite
+  related_species:
+    - clinoatacamite
+    - paratacamite
+    - botallackite
+    - malachite
+    - brochantite
+
+app_metadata:
+  tags:
+    - halide
+    - chloride
+    - copper
+    - green
+    - secondary
+    - arid
+    - atacama
+    - orthorhombic
+    - polymorph
+  search_boost_terms:
+    - atacamite crystal
+    - copper chloride mineral
+    - green copper halide
+    - Atacama Desert mineral
+    - Cu2Cl(OH)3
+    - orthorhombic copper mineral
+  prompt_fragments:
+    - "bright emerald-green striated atacamite crystals on desert copper ore"
+    - "vivid green copper chloride mineral from the Atacama"
+    - "fresh prismatic green crystals of atacamite on gossan"
+  ui_color_hint:
+    - "#2E8B57"
+    - "#228B22"
+    - "#3CB371"
+  priority_score: 80
+
+provenance:
+  source_status: draft
+  completeness: 0.86
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-388.html"
+    - "https://www.webmineral.com/data/Atacamite.shtml"
+    - "Handbook of Mineralogy, Vol. III: Anthony et al."
+  notes: "Polymorph distinction (atacamite vs. clinoatacamite vs. paratacamite) is well-documented in modern literature; XRD needed for definitive identification."
