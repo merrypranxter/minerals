@@ -1,0 +1,302 @@
+id: diamond
+slug: diamond
+display_name: Diamond
+
+classification:
+  chemistry_class: native-element
+  mineral_group: diamond-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - carbonado
+    - bort
+    - macle
+
+identifiers:
+  ima_status: approved
+  mindat_id: 1282
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "C"
+  simplified_formula: "C"
+  essential_elements: [C]
+  trace_elements_common: [N, B, H, Si]
+  structural_units:
+    - "sp3-hybridized carbon in tetrahedral framework — each C bonded to 4 C neighbors"
+  atomic_structure_notes: "All carbon atoms tetrahedrally bonded in a rigid 3D covalent network (diamond cubic structure). No delocalized electrons — hence transparency and electrical insulation (contrast with graphite)."
+  chemistry_notes: "Nitrogen is most common impurity — creates yellow color (Type Ia/Ib). Boron impurity creates blue color (Type IIb). Type IIa diamonds are near-pure carbon with exceptional transparency. Brown color from plastic deformation and vacancy clusters."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: hexoctahedral
+  space_group: "Fd3̄m"
+  unit_cell_notes: ""
+  twinning: "Macles (spinel-law twins producing flat triangular crystals) common in alluvial diamonds."
+  crystallography_notes: "Octahedral habit most common. Cubic and dodecahedral forms also occur. Alluvial stones typically rounded and frosted. Trigon etch pits on octahedral faces are diagnostic. Perfect octahedral cleavage in four directions is a critical property despite extreme hardness."
+
+physical_properties:
+  mohs_hardness: 10
+  specific_gravity: "3.50–3.53"
+  luster: [adamantine, greasy]
+  streak: "none (too hard to leave a streak)"
+  transparency: [transparent, translucent, opaque]
+  cleavage: ["perfect octahedral {111} — four directions"]
+  fracture: [conchoidal, stepped]
+  tenacity: "brittle (despite extreme hardness)"
+  physical_notes: "Hardest known natural mineral (Mohs 10). Highest thermal conductivity of any natural material. Despite extreme hardness, has perfect octahedral cleavage — can be cleaved or broken with a single skilled blow. High refractive index and dispersion produce characteristic 'fire' (spectral color flashes)."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - yellow
+    - brown
+    - gray
+    - black (carbonado)
+  color_profiles:
+    - name: Colorless (D–F on GIA scale)
+      colors: [water-clear, icy-white]
+      cause: "structural purity; absence of nitrogen and other chromophores"
+      conditions: "Type IIa — nitrogen-free or negligible"
+      variety_name: null
+    - name: Cape Yellow / Fancy Yellow
+      colors: [pale-yellow, canary-yellow, deep-yellow]
+      cause: "nitrogen impurities substituting for carbon (Type Ia / Type Ib)"
+      conditions: "N substitution in crystal lattice; Cape series refers to historical South African yellows"
+      variety_name: "Cape (pale); Fancy Yellow (vivid)"
+    - name: Brown Diamond
+      colors: [champagne, cognac, brown]
+      cause: "plastic deformation and vacancy clusters along crystal planes"
+      conditions: "most common natural fancy color; now marketed as 'chocolate' or 'cognac'"
+      variety_name: "Champagne Diamond, Chocolate Diamond"
+    - name: Blue Diamond
+      colors: [light-blue, steel-blue, vivid-blue]
+      cause: "boron impurities (Type IIb)"
+      conditions: "extremely rare; semiconducting electrical behavior"
+      variety_name: Fancy Blue Diamond
+    - name: Pink / Red Diamond
+      colors: [light-pink, rose, deep-pink, red]
+      cause: "structural defects / plastic deformation (precise mechanism still debated)"
+      conditions: "Argyle Mine, Australia was historically dominant source; now closed"
+      variety_name: "Argyle Pink, Fancy Pink, Red Diamond"
+    - name: Green Diamond
+      colors: [pale-green, vivid-green]
+      cause: "natural radiation exposure (alpha particle irradiation of crystal lattice)"
+      conditions: "typically affects surface layer only; cutting often removes color"
+      variety_name: Fancy Green Diamond
+    - name: Black Diamond (Carbonado)
+      colors: [black, dark-gray]
+      cause: "polycrystalline aggregate with inclusions of graphite, amorphous carbon, and sulfides"
+      conditions: "distinct from single-crystal diamond; possibly extraterrestrial origin debated"
+      variety_name: Carbonado
+  habits:
+    - octahedral (most common)
+    - cubic
+    - dodecahedral
+    - macles (twinned flat triangular crystals)
+    - rounded and frosted (alluvial)
+  textures:
+    - smooth adamantine luster on fresh crystal faces
+    - frosted or etched on alluvial grains
+    - trigon etch pits on octahedral faces
+  macro_patterns:
+    - octahedral geometry
+    - trigon surface etch features
+    - macle twinning
+  common_forms:
+    - octahedral crystals
+    - rounded alluvial stones
+    - macle twins
+    - cubic crystals
+  visual_notes: "Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite."
+
+optical_and_special_effects:
+  fluorescence: "blue fluorescence common (~25–35% of gem diamonds) under shortwave UV; some fluoresce yellow, orange, or green; many inert"
+  phosphorescence: "some diamonds phosphoresce after UV exposure"
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: "none (isometric)"
+  optical_notes: "Highest refractive index of any colorless natural gemstone (~2.417). Very high dispersion (0.044) produces fire. Totally internally reflective — basis of brilliant cut design. Thermally cold to touch due to extreme thermal conductivity."
+
+formation_and_occurrence:
+  genesis:
+    - mantle origin (150–200+ km depth, extreme P-T conditions)
+    - transported to surface via kimberlite or lamproite pipe eruptions
+    - placer (alluvial, coastal, marine secondary)
+    - meteoritic impact (rare — associated with lonsdaleite)
+    - superdeep (subducted slab origin, >660 km)
+  geologic_environments:
+    - kimberlite pipes and diatremes
+    - lamproite pipes
+    - alluvial and eluvial placer deposits
+    - marine placer deposits (Namibian coast)
+    - impact craters (minor)
+  host_rocks:
+    - kimberlite (blue ground)
+    - lamproite
+    - gravel and conglomerate (placer)
+    - Precambrian cratons globally
+  associated_minerals:
+    - olivine
+    - pyroxene (diopside, enstatite)
+    - pyrope garnet
+    - ilmenite
+    - chromite
+    - magnetite
+    - phlogopite
+    - calcite
+    - gold (in placer)
+  locality_scope: worldwide
+  notable_localities:
+    - "Kimberley, Northern Cape, South Africa (kimberlite type locality)"
+    - "Cullinan Mine, South Africa (world's largest gem diamond, 3106 ct)"
+    - "Argyle Mine, Western Australia (world's finest pink diamonds — now closed)"
+    - "Jwaneng and Orapa, Botswana (highest volume producers)"
+    - "Mwadui, Tanzania"
+    - "Mirny and Jubilee pipes, Yakutia, Russia"
+    - "Golconda, India (historic — source of Hope, Koh-i-Noor, Regent diamonds)"
+    - "Mbuji-Mayi, DR Congo (industrial diamonds)"
+    - "Marange, Zimbabwe"
+    - "Namibian coast (marine alluvial)"
+    - "Crater of Diamonds State Park, Arkansas, USA (only public diamond mine)"
+  occurrence_notes: "Diamonds form in the mantle at depths >150 km and are transported to the surface in kimberlite and lamproite eruptions. Secondary placer deposits form downcurrent of eroded primary pipes. Superdeep diamonds from >660 km provide unique windows into the deep Earth."
+
+cultural_and_historical:
+  birthstone_status:
+    - "April birthstone (modern and traditional)"
+    - "60th and 75th wedding anniversaries"
+  zodiac_associations:
+    - "Aries (April)"
+    - "Libra (some traditions)"
+  historical_uses:
+    - "gemstone in jewelry (ancient India through present)"
+    - "cutting and grinding tools (diamond abrasives, saws, drills)"
+    - "industrial abrasive (grinding wheels, polishing)"
+    - "windows and optics for high-pressure experimental cells"
+    - heat spreaders in electronics
+    - scalpel blades (medical)
+    - diamond anvil cells (high-pressure research)
+  cultural_associations:
+    - "engagement ring tradition (De Beers 'A Diamond is Forever' campaign, 1947)"
+    - "ultimate luxury gemstone globally"
+    - "Hope Diamond (Smithsonian Institution)"
+    - "Koh-i-Noor (British Crown Jewels — contested provenance)"
+    - "Cullinan Diamond fragments in British Crown Jewels"
+    - "blood and conflict diamonds (ethical sourcing concerns)"
+    - "Golconda diamonds (Indian sultanic tradition)"
+  symbolism:
+    - eternal love and commitment
+    - "invincibility and strength (Sanskrit: vajra)"
+    - clarity and truth
+    - wealth and status
+    - perfection and completeness
+    - April's promise
+  folklore_notes: "Diamond's name comes from Greek 'adamas' (unconquerable). Ancient Indians recognized diamond's hardness millennia before European contact. Hindu mythology associates vajra (diamond thunderbolt) with Indra's weapon. Medieval Europeans believed diamonds were tears of gods or splinters of stars. The De Beers 'A Diamond is Forever' (1947) is considered the most successful advertising slogan in history — it created the modern engagement ring tradition in Western culture. Lab-grown diamonds (chemically identical to natural) have disrupted the market since the 2010s."
+
+interpretive_vibe:
+  mood_keywords:
+    - supreme-hardness
+    - light-prison
+    - crystallographic-perfection
+    - cold-fire
+  sensory_keywords:
+    - ice-cold to touch (extreme thermal conductivity)
+    - scintillating light scatter
+    - razor-sharp geometry
+    - silent brilliance
+  palette_keywords:
+    - prism-white
+    - adamantine clarity
+    - spectral fire
+    - void-clarity
+  aesthetic_roles:
+    - ultimate light-play gemstone
+    - perfection archetype
+    - cold luxury anchor
+    - rainbow dispersion element
+  vibe_notes: "Diamond is crystallographic perfection distilled from the Earth's mantle. It holds light like a prison — refracting, dispersing, returning it transformed. The hardest thing on Earth, yet cleavable with a single skilled blow."
+
+practical_notes:
+  toxicity: "non-toxic in mineral and gemstone form; diamond dust (very fine particles) is a serious inhalation hazard; not a concern for handled specimens or jewelry"
+  handling_notes: "Extremely hard but brittle — avoid impacts and dropping on hard surfaces (perfect octahedral cleavage can cause chips at girdle of faceted stones). Use padded surfaces for gemological handling."
+  care_notes: "Clean jewelry with warm soapy water and soft brush; ultrasonic cleaners generally safe for pure diamonds (avoid if inclusions are present). Store separate from other gemstones — diamond will scratch all other gem materials."
+  treatments_or_synthetics:
+    - "HPHT color enhancement treatment of natural yellow-brown diamonds to colorless or fancy colors"
+    - "laser drilling and fracture filling of natural inclusions"
+    - "irradiation and annealing for color enhancement"
+    - "CVD (Chemical Vapor Deposition) lab-grown diamond — chemically identical, requires specialized testing to distinguish"
+    - "HPHT lab-grown diamond — also chemically identical to natural"
+    - "diamond simulants (moissanite, cubic zirconia, white sapphire) are NOT diamond"
+  common_confusions:
+    - "cubic zirconia (zirconium oxide — softer, heavier, no cleavage)"
+    - "moissanite (silicon carbide — double refraction, higher dispersion; now synthetic)"
+    - "white topaz (softer, different SG)"
+    - "white sapphire (softer, lower dispersion)"
+    - "lab-grown diamond (chemically identical — requires spectroscopic testing)"
+  market_notes: "Most valuable gemstone market globally. Graded by 4Cs: cut, color, clarity, carat. Colorless D–F / IF–VS1 most prized traditionally. Fancy colored diamonds — especially blue, red, and pink — reach highest per-carat auction prices. Lab-grown diamonds have caused major price disruption in melee and lower-grade natural markets since 2018. Kimberley Process certification addresses conflict diamond concerns."
+
+relationships:
+  polymorphs:
+    - "graphite (hexagonal — stable at surface conditions)"
+    - "lonsdaleite (hexagonal diamond — rare, impact and meteoritic)"
+  pseudomorphs_after:
+    - "graphite pseudomorphs of diamond (replacement)"
+  pseudomorphed_by: []
+  lookalikes:
+    - cubic zirconia
+    - moissanite
+    - white topaz
+    - white sapphire
+  related_species:
+    - graphite
+    - lonsdaleite
+    - chaoite
+    - moissanite
+
+app_metadata:
+  tags:
+    - native-element
+    - nonmetal
+    - carbon
+    - gemstone
+    - birthstone
+    - isometric
+    - kimberlite
+    - mantle
+    - polymorph-of-graphite
+    - hardest-mineral
+    - april
+  search_boost_terms:
+    - C
+    - diamond crystal
+    - adamantine luster
+    - kimberlite diamond
+    - rough diamond
+    - April birthstone
+    - hardest mineral
+    - carbon polymorph
+    - engagement ring gemstone
+    - Hope Diamond
+    - Cullinan
+    - fancy color diamond
+  prompt_fragments:
+    - "octahedral rough diamond with adamantine luster and trigon etch pits"
+    - "prism-clear light prison — cold fire and spectral flashes"
+    - "kimberlite blue ground yielding crystallographic perfection"
+  ui_color_hint:
+    - "#F8F8FF"
+    - "#E0E8FF"
+    - "#B0C4DE"
+  priority_score: 97
+
+provenance:
+  source_status: draft
+  completeness: 0.95
+  confidence: high
+  last_updated: "2026-04-07"
+  sources:
+    - "https://www.mindat.org/min-1282.html"
+    - "https://www.webmineral.com/data/Diamond.shtml"
+    - "https://www.gia.edu/diamond"
+  notes: ""
