@@ -1,0 +1,53 @@
+{
+  "id": "amber",
+  "display_name": "Amber",
+  "chemistry_class": "organic",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange",
+    "honey"
+  ],
+  "visual_notes": "Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects.",
+  "prompt_fragments": [
+    "Baltic honey-amber — 50-million-year-old sunlight in polymerized resin",
+    "Burmese amber with Cretaceous insect inclusion — life suspended in ancient gold",
+    "Dominican blue amber glowing cerulean under fluorescent light"
+  ],
+  "mood_keywords": [
+    "fossilized-sunlight",
+    "deep-time-amber",
+    "resin-memory",
+    "prehistoric-warmth",
+    "trapped-ancient-world"
+  ],
+  "sensory_keywords": [
+    "warm organic weight",
+    "resinous aromatic",
+    "smooth golden glow",
+    "body-warm to touch"
+  ],
+  "palette_keywords": [
+    "Baltic-gold",
+    "honey-amber",
+    "deep-Dominican-blue",
+    "butterscotch-opaque"
+  ],
+  "aesthetic_roles": [
+    "deep-time reference",
+    "warm organic anchor",
+    "ancient-trade-material",
+    "inclusion-wonder element"
+  ],
+  "vibe_notes": "Amber is fossilized time — sunlight from a forest that no longer exists, trapped in a matrix that still holds a 100-million-year-old insect at your fingertips. It is the original electrical material, the original trade gem, and one of the most emotionally warm stones in the collection.",
+  "symbolism": [
+    "preserved time",
+    "solar energy fossilized",
+    "memory and the past",
+    "ancient warmth",
+    "trapped life"
+  ],
+  "folklore_summary": "Amber has been traded over long distances for at least 13,000 years — Baltic amber has been found in Egyptian and Mycenaean archaeological sites thousands of kilometers from its origin. The Greek myth explained amber as the tears of the Heliades (sisters of Phaëton) who were transformed into poplar "
+}

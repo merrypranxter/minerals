@@ -1,0 +1,71 @@
+{
+  "id": "smoky-quartz",
+  "display_name": "Smoky Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#6B6B6B",
+    "#4A3728",
+    "#2C2C2C"
+  ],
+  "baseline_colors": [
+    "gray",
+    "brown-gray",
+    "dark-brown"
+  ],
+  "color_profiles": [
+    {
+      "name": "Classic Smoky Quartz",
+      "colors": [
+        "smoky-gray",
+        "gray-brown",
+        "taupe",
+        "brownish-gray"
+      ],
+      "variety_name": null,
+      "cause": "Al-hole color centers from moderate irradiation dose."
+    },
+    {
+      "name": "Cairngorm",
+      "colors": [
+        "brown-yellow",
+        "pale brown",
+        "smoky-amber"
+      ],
+      "variety_name": "cairngorm",
+      "cause": "Al-hole color centers with slight Fe contribution; lower irradiation dose."
+    },
+    {
+      "name": "Morion",
+      "colors": [
+        "near-black",
+        "opaque-black",
+        "very dark-brown"
+      ],
+      "variety_name": "morion",
+      "cause": "Very high irradiation dose; very dense color center population."
+    }
+  ],
+  "habits": [
+    "prismatic hexagonal",
+    "pyramidal termination",
+    "massive",
+    "tabular (rare)"
+  ],
+  "textures": [
+    "glassy",
+    "vitreous",
+    "clear transparent to dense opaque"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity.",
+  "optical_effects": {
+    "fluorescence": "None typically",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

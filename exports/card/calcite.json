@@ -1,0 +1,64 @@
+{
+  "id": "calcite",
+  "slug": "calcite",
+  "display_name": "Calcite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "calcite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "CaCO3",
+  "mohs_hardness": 3,
+  "specific_gravity": "2.71",
+  "luster": [
+    "vitreous",
+    "pearly",
+    "earthy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "gray"
+  ],
+  "color_profiles_available": [
+    "Colorless / Iceland Spar",
+    "White / Chalk / Limestone",
+    "Mangano-Calcite",
+    "Orange / Amber Calcite",
+    "Green Calcite",
+    "Blue Calcite",
+    "Black Calcite"
+  ],
+  "habits": [
+    "scalenohedral (dogtooth)",
+    "rhombohedral (nailhead)",
+    "prismatic",
+    "acicular",
+    "tabular"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "carbonate",
+    "calcium",
+    "trigonal",
+    "cleavage-mineral",
+    "common",
+    "cave-mineral",
+    "building-stone",
+    "high-priority",
+    "morphological-diversity"
+  ],
+  "priority_score": 91,
+  "ui_color_hint": [
+    "#FFFEF0",
+    "#F5C5B0",
+    "#F0E6CC"
+  ]
+}

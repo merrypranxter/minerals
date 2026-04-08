@@ -1,0 +1,57 @@
+{
+  "id": "copper",
+  "slug": "copper",
+  "display_name": "Copper",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "gold-group",
+  "ima_status": "approved",
+  "formula": "Cu",
+  "mohs_hardness": "2.5–3",
+  "specific_gravity": 8.9,
+  "luster": [
+    "metallic"
+  ],
+  "streak": "copper-red (shiny)",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "isometric",
+  "baseline_colors": [
+    "copper-red",
+    "orange-red",
+    "brown (oxidized)",
+    "blue-green (weathered)"
+  ],
+  "color_profiles_available": [
+    "Fresh Native Copper",
+    "Oxidized / Tarnished",
+    "Patinated / Weathered"
+  ],
+  "habits": [
+    "arborescent",
+    "dendritic",
+    "massive",
+    "wire",
+    "platy"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "native-element",
+    "metal",
+    "gold-group",
+    "secondary",
+    "hydrothermal",
+    "volcanogenic",
+    "isometric",
+    "first-metal",
+    "patina"
+  ],
+  "priority_score": 87,
+  "ui_color_hint": [
+    "#B87333",
+    "#CB6D51",
+    "#4A7C59"
+  ]
+}

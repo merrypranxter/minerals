@@ -1,0 +1,68 @@
+{
+  "id": "morganite",
+  "display_name": "Morganite",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#F4A7B9",
+    "#FFB6C1",
+    "#E8927C"
+  ],
+  "baseline_colors": [
+    "pink",
+    "peach",
+    "rose"
+  ],
+  "color_profiles": [
+    {
+      "name": "Rose / Pure Pink Morganite",
+      "colors": [
+        "rose-pink",
+        "pure-pink",
+        "soft-pink"
+      ],
+      "variety_name": null,
+      "cause": "Mn2+/Mn3+ at moderate concentration; ideal ratio for purest rose-pink."
+    },
+    {
+      "name": "Peach Morganite",
+      "colors": [
+        "peach",
+        "salmon-pink",
+        "orange-pink"
+      ],
+      "variety_name": null,
+      "cause": "Higher Mn with Fe contributions or natural irradiation color centers."
+    },
+    {
+      "name": "Deep Pink / Hot Pink Morganite",
+      "colors": [
+        "deep-pink",
+        "vivid-pink",
+        "magenta-edge"
+      ],
+      "variety_name": null,
+      "cause": "Higher Mn3+ concentration."
+    }
+  ],
+  "habits": [
+    "short prismatic",
+    "tabular hexagonal",
+    "massive"
+  ],
+  "textures": [
+    "glassy",
+    "clear with vitreous luster"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Morganite's soft rose-peach color is inherently gentle and warm — less assertive than ruby, less cold than pink sapphire. Large clean crystals are available. The rose-gold + morganite combination became dominant in contemporary jewelry design in the 2010s.",
+  "optical_effects": {
+    "fluorescence": "Weak to none",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Very rare cat's eye morganite",
+    "asterism": ""
+  }
+}

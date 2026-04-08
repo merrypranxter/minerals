@@ -1,0 +1,52 @@
+{
+  "id": "amethyst",
+  "display_name": "Amethyst",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "purple",
+    "violet",
+    "lavender"
+  ],
+  "visual_notes": "Amethyst geodes from Brazil and Uruguay are among the most recognizable mineral display specimens globally. Hollow cavite filled with violet crystals pointing inward. The finest deep Siberian-grade material shows a red flash under incandescent light. Color zoning in angular patterns is characteristic and diagnostic.",
+  "prompt_fragments": [
+    "amethyst geode cross-section — violet crystal cathedral in basalt egg",
+    "deep Siberian amethyst with red flash under incandescent light",
+    "Dionysus purple: iron-radiation alchemy crystallized in quartz"
+  ],
+  "mood_keywords": [
+    "grape-cathedral",
+    "dionysus-purple",
+    "episcopal-royal",
+    "radiation-alchemy",
+    "geode-interior"
+  ],
+  "sensory_keywords": [
+    "cool-violet",
+    "crystalline cluster",
+    "grape-purple",
+    "February-calm"
+  ],
+  "palette_keywords": [
+    "deep-Siberian-violet",
+    "lavender-rose-de-france",
+    "geode-purple",
+    "reddish-purple flash"
+  ],
+  "aesthetic_roles": [
+    "February birthstone anchor",
+    "purple royalty reference",
+    "geode aesthetic centerpiece",
+    "Dionysiac ritual reference"
+  ],
+  "vibe_notes": "Amethyst is the purple of wine, prayer, and power — used by bishops, kings, and Dionysus worshippers alike. A geode of amethyst is a cathedral floor inside a stone egg: thousands of violet crystals pointing inward at nothing and everything.",
+  "symbolism": [
+    "sobriety and clear thinking",
+    "spiritual wisdom",
+    "royalty and nobility",
+    "February's protection",
+    "tranquility and meditation"
+  ],
+  "folklore_summary": "The name 'amethyst' comes from Greek 'amethystos' (not intoxicated). Greek myth: Dionysus, god of wine, pursued a maiden named Amethystos who prayed to the goddess Artemis for protection; Artemis turned her to white quartz. Dionysus, repentant, poured wine over the crystal — turning it purple. Ancie"
+}

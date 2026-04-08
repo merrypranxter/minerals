@@ -1,0 +1,63 @@
+{
+  "id": "alexandrite",
+  "display_name": "Alexandrite",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#2ECC71",
+    "#C0392B",
+    "#8E44AD"
+  ],
+  "baseline_colors": [
+    "green (daylight)",
+    "red-purple (incandescent light)"
+  ],
+  "color_profiles": [
+    {
+      "name": "Classic Alexandrite Color Change",
+      "colors": [
+        "emerald-green to bluish-green in daylight; red to purplish-red in incandescent light"
+      ],
+      "variety_name": null,
+      "cause": "Cr3+ in BeAl2O4 orthorhombic field: dual transmission windows in red and blue-green of visible spectrum; daylight (blue-rich) emphasizes green transmission; incandescent (red-rich) emphasizes red transmission."
+    },
+    {
+      "name": "Brazilian Alexandrite",
+      "colors": [
+        "brownish-green to brownish-red; less vivid than Russian"
+      ],
+      "variety_name": null,
+      "cause": "Same Cr3+ mechanism; slight Fe contamination shifts color toward brown."
+    },
+    {
+      "name": "Cat's Eye Alexandrite",
+      "colors": [
+        "color-change + chatoyant white eye"
+      ],
+      "variety_name": "alexandrite-cat-eye",
+      "cause": "Color change from Cr3+ combined with chatoyancy from parallel tube inclusions or needle inclusions."
+    }
+  ],
+  "habits": [
+    "prismatic tabular",
+    "cyclic trillings (pseudohexagonal rosettes)",
+    "heart-shaped twins",
+    "rounded alluvial pebbles"
+  ],
+  "textures": [
+    "glassy",
+    "vitreous luster",
+    "sometimes silk inclusions"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Alexandrite is unique — a single stone with two identities. Under northern daylight or fluorescent light it is distinctly green; under incandescent (candle, tungsten) light it turns vivid red-purple. The best Russian specimens shift from 'emerald' to 'ruby' — an impossible color change nicknamed 'the emerald by day, ruby by night' gem. No other natural gemstone produces such a dramatic and complete color change.",
+  "optical_effects": {
+    "fluorescence": "Moderate red fluorescence under UV (Cr3+ emission, same mechanism as ruby)",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Cat's eye alexandrite — strong chatoyancy from oriented needles; combines color change + cat's eye",
+    "asterism": "Extremely rare four-rayed star alexandrite documented"
+  }
+}

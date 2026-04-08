@@ -1,0 +1,427 @@
+{
+  "id": "tourmaline",
+  "slug": "tourmaline",
+  "display_name": "Tourmaline",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "tourmaline-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "schorl",
+      "elbaite",
+      "dravite",
+      "uvite",
+      "liddicoatite",
+      "rubellite",
+      "indicolite",
+      "verdelite",
+      "watermelon-tourmaline",
+      "paraiba-tourmaline",
+      "chrome-tourmaline"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 4005,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "XY3Z6(Si6O18)(BO3)3V3W",
+    "simplified_formula": "Complex Na/Ca boron cyclosilicate with variable Y and Z cations",
+    "essential_elements": [
+      "Si",
+      "B",
+      "O",
+      "Al"
+    ],
+    "trace_elements_common": [
+      "Na",
+      "Ca",
+      "K",
+      "Fe",
+      "Mg",
+      "Li",
+      "Mn",
+      "Cr",
+      "V",
+      "Cu",
+      "Ti",
+      "F",
+      "OH"
+    ],
+    "structural_units": [
+      "Si6O18 six-membered rings of SiO4 tetrahedra (cyclosilicate)",
+      "BO3 triangular borate groups",
+      "YO6 and ZO6 octahedral chains parallel to c-axis"
+    ],
+    "atomic_structure_notes": "Cyclosilicate (ring silicate). Six-membered Si6O18 rings are linked by BO3 triangles and chains of octahedra into a complex, non-centrosymmetric framework. The formula site X accommodates Na, Ca, K, or vacancy; Y accommodates Fe2+, Mg, Li, Al, Mn2+; Z is dominantly Al with minor Fe, Mg, Cr. The W site carries OH, F, or O at the base of the structure.",
+    "chemistry_notes": "Boron is an essential element — tourmaline is one of very few silicates that requires B. The enormous compositional range across X, Y, Z, V, and W sites produces more IMA-approved species than any other mineral group (~40+ species). Cu2+ in the Y-site produces the coveted Paraíba neon-blue color. Mn produces pink (rubellite/elbaite). Fe2+ produces deep blue (indicolite) and Fe-rich schorl black."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "3m (ditrigonal pyramidal)",
+    "space_group": "R3m",
+    "unit_cell_notes": "a ≈ 15.9–16.0 Å, c ≈ 7.1–7.2 Å depending on composition; Z = 3",
+    "twinning": "Rarely twinned; knee-shaped twins known but uncommon",
+    "crystallography_notes": "Trigonal symmetry means tourmaline crystals lack a center of symmetry — one end of a c-axis prism is morphologically and structurally different from the other (hemimorphic). This causes piezoelectric and pyroelectric properties. Prism faces are typically striated parallel to the c-axis — a hallmark identification feature. Cross-sections are characteristically rounded-triangular to pseudo-hexagonal."
+  },
+  "physical_properties": {
+    "mohs_hardness": "7–7.5",
+    "specific_gravity": "2.82–3.32",
+    "luster": [
+      "vitreous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent",
+      "opaque"
+    ],
+    "cleavage": [
+      "very poor/indistinct prismatic"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "SG varies considerably with composition: Fe-rich schorl reaches ~3.2–3.3, while Li-Al-rich elbaite is ~3.0–3.1 and Mg-dominant dravite ~3.0. The broad hardness and SG ranges reflect compositional diversity across species. Pyroelectric and piezoelectric due to non-centrosymmetric structure."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "black",
+      "colorless"
+    ],
+    "color_profiles": [
+      {
+        "name": "schorl",
+        "colors": [
+          "black",
+          "dark-brown",
+          "opaque-black"
+        ],
+        "cause": "High Fe2+ and Fe3+ content; Fe2+–Fe3+ intervalence charge transfer.",
+        "conditions": "Most common tourmaline species; Fe-rich pegmatites and granites worldwide.",
+        "variety_name": "schorl"
+      },
+      {
+        "name": "rubellite",
+        "colors": [
+          "red",
+          "hot-pink",
+          "raspberry",
+          "crimson"
+        ],
+        "cause": "Mn2+ and Mn3+ in the Y-site of elbaite.",
+        "conditions": "Li-rich granitic pegmatites; Brazil (Minas Gerais), Madagascar, Nigeria, Afghanistan.",
+        "variety_name": "rubellite"
+      },
+      {
+        "name": "indicolite",
+        "colors": [
+          "blue",
+          "teal",
+          "blue-green",
+          "deep-blue"
+        ],
+        "cause": "Fe2+ and Fe3+ in elbaite (Li-Al-rich end member) producing blue hues.",
+        "conditions": "Gem-quality indicolite from Brazil, Nigeria, Mozambique.",
+        "variety_name": "indicolite"
+      },
+      {
+        "name": "verdelite",
+        "colors": [
+          "green",
+          "leaf-green",
+          "olive-green",
+          "yellow-green"
+        ],
+        "cause": "Fe2+ and mixed Fe2+/Fe3+ in elbaite; Cr3+ in chrome tourmaline (dravite/uvite).",
+        "conditions": "Widespread in pegmatites; chrome tourmaline from Tanzania and Kenya is vivid Cr-green.",
+        "variety_name": "verdelite"
+      },
+      {
+        "name": "paraiba-tourmaline",
+        "colors": [
+          "neon-blue",
+          "electric-blue",
+          "mint-green",
+          "turquoise"
+        ],
+        "cause": "Cu2+ (and Mn for violet tones) in the Y-site; extremely rare Cu-bearing elbaite.",
+        "conditions": "Originally from Paraíba, Brazil (Batalha mine discovered 1989); also Nigeria and Mozambique.",
+        "variety_name": "paraiba-tourmaline"
+      },
+      {
+        "name": "watermelon-tourmaline",
+        "colors": [
+          "pink-core",
+          "green-rim",
+          "white-intermediate"
+        ],
+        "cause": "Growth zoning: Mn-rich (pink) core crystallized before Fe-richer (green) outer zones.",
+        "conditions": "Li-rich pegmatites; classic from Maine USA, Brazil, Afghanistan.",
+        "variety_name": "watermelon-tourmaline"
+      },
+      {
+        "name": "dravite",
+        "colors": [
+          "brown",
+          "yellow-brown",
+          "golden-brown",
+          "dark-brown"
+        ],
+        "cause": "Mg-dominant Y-site composition; Fe minor.",
+        "conditions": "Metamorphic rocks, marbles, schists; classic dravite from Dobrova, Slovenia (type locality).",
+        "variety_name": "dravite"
+      },
+      {
+        "name": "colorless-achroite",
+        "colors": [
+          "colorless",
+          "pale-white"
+        ],
+        "cause": "Very low Fe, Mn, and other chromophores in elbaite.",
+        "conditions": "Rare; gem-quality achroite from Elba, Italy (type locality for elbaite).",
+        "variety_name": "achroite"
+      }
+    ],
+    "habits": [
+      "prismatic",
+      "acicular",
+      "columnar",
+      "striated-prism",
+      "massive",
+      "radial",
+      "drusy"
+    ],
+    "textures": [
+      "striated",
+      "vitreous",
+      "crystalline"
+    ],
+    "macro_patterns": [
+      "color-zoned",
+      "sector-zoned",
+      "bicolor",
+      "watermelon"
+    ],
+    "common_forms": [
+      "long striated prisms with rounded-triangular cross-sections",
+      "parallel columnar aggregates",
+      "acicular radiating sprays",
+      "polished cabochons and faceted gems"
+    ],
+    "visual_notes": "The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Generally inert to weak; some pink/red elbaite may show weak orange or red under LW UV",
+    "phosphorescence": "",
+    "chatoyancy": "Cat's-eye tourmaline known; parallel tube inclusions or growth channels along c-axis",
+    "asterism": "Rare",
+    "iridescence": "",
+    "pleochroism": "Strong to very strong in most colored varieties. Dichroic. Indicolite: dark blue vs. pale blue/colorless along c vs. perpendicular. Rubellite: deep red vs. pale pink. Green varieties: dark green vs. yellow-green. Pleochroism is one of the strongest in the gem world for indicolite and rubellite.",
+    "optical_notes": "Uniaxial negative. RI varies by composition: ~1.614–1.666 (range across species). Birefringence ~0.014–0.040. Strong pleochroism means gem cutters orient stones to show best color face-up. Paraíba tourmaline shows intense neon saturation visible even in low light."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic",
+      "pegmatitic",
+      "hydrothermal",
+      "metamorphic"
+    ],
+    "geologic_environments": [
+      "granitic pegmatites",
+      "Li-rich granitic pegmatites",
+      "granites and aplites",
+      "metamorphic schists and gneisses",
+      "marbles (dravite, uvite)",
+      "hydrothermal veins"
+    ],
+    "host_rocks": [
+      "granite",
+      "pegmatite",
+      "mica schist",
+      "gneiss",
+      "marble",
+      "quartzite"
+    ],
+    "associated_minerals": [
+      "quartz",
+      "feldspar",
+      "lepidolite",
+      "beryl",
+      "spodumene",
+      "muscovite",
+      "columbite-tantalite",
+      "cassiterite",
+      "apatite",
+      "fluorite"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [
+      "Minas Gerais, Brazil (elbaite, rubellite, indicolite, watermelon — world's premier locality)",
+      "Batalha, Paraíba, Brazil (type Paraíba tourmaline)",
+      "Ogun and Ebonyi states, Nigeria (Paraíba-type Cu-bearing tourmaline)",
+      "Mozambique (Paraíba-type, rubellite, indicolite)",
+      "Kabul and Nuristan, Afghanistan (rubellite, watermelon)",
+      "Anjanabonoina, Madagascar (elbaite, liddicoatite)",
+      "Pala district, San Diego County, California, USA (elbaite, rubellite)",
+      "Mount Mica and Dunton, Maine, USA (watermelon, elbaite)",
+      "Dobrova, Slovenia (type dravite)",
+      "Arusha and Merelani, Tanzania (chrome tourmaline)",
+      "Elba Island, Italy (type elbaite, achroite)"
+    ],
+    "occurrence_notes": "Tourmaline's requirement for boron means it is enriched in B-bearing magmatic systems, especially evolved granitic pegmatites. It is one of the last minerals to crystallize in pegmatitic sequences and can tolerate a wide range of hydrothermal temperatures. It is also a robust detrital mineral in sediments due to its hardness."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "October birthstone (modern alternative alongside opal)",
+      "Rubellite and pink tourmaline recognized for October"
+    ],
+    "zodiac_associations": [
+      "Libra (October)",
+      "Scorpio"
+    ],
+    "historical_uses": [
+      "Dutch traders in the 18th century imported tourmaline from Ceylon (Sri Lanka) and noted that a charged crystal would attract and then repel ash from a pipe — earning the name 'aschentrekker' (ash drawer), reflecting its pyroelectric property",
+      "Empress Dowager Cixi of China was a major collector of pink tourmaline (rubellite) from California's San Diego County mines in the early 1900s",
+      "Used as a gemstone in India for centuries; pink and blue varieties from Sri Lanka known as 'rubies' and 'sapphires' historically"
+    ],
+    "cultural_associations": [
+      "Paraíba tourmaline is one of the most coveted gem discoveries of the 20th century, first found in 1989 by Heitor Dimas Barbosa after years of digging",
+      "Rainbow tourmaline slices used in modern mineral art and jewelry for color zoning display"
+    ],
+    "symbolism": [
+      "creativity",
+      "spectrum",
+      "transformation",
+      "electric-energy"
+    ],
+    "folklore_notes": "Tourmaline was called the 'electric stone' after its pyroelectric properties were described by scientists in the 18th century. It was used to clean tobacco pipes by Dutch sailors because of its ash-attracting properties when heated."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "electric-prism",
+      "all-spectrum-mineral",
+      "striated-column",
+      "tourmaline-lightning",
+      "boron-magic"
+    ],
+    "sensory_keywords": [
+      "striated",
+      "electric",
+      "neon",
+      "crystalline",
+      "saturated"
+    ],
+    "palette_keywords": [
+      "schorl-black",
+      "rubellite-red",
+      "paraiba-neon-blue",
+      "watermelon-bicolor",
+      "verdelite-forest",
+      "indicolite-teal"
+    ],
+    "aesthetic_roles": [
+      "all-color mineral anchor",
+      "gem-spectrum showcase",
+      "electric crystal",
+      "striated column accent"
+    ],
+    "vibe_notes": "Tourmaline is the most compositionally diverse gem mineral group on Earth — it can be literally any color, making it a universal chromatic reference. Watermelon tourmaline cross-sections are one of the most visually iconic mineral forms. Paraíba's neon glow is among the most intense colors in the gem world."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Durable; conchoidal fracture means edges chip. Handle faceted stones carefully. Acicular specimens are delicate.",
+    "care_notes": "Safe for ultrasonic in most cases unless heavily included or fracture-filled. Warm soapy water suitable. Avoid prolonged heat (pyroelectric effect, though not damaging at normal temperatures).",
+    "treatments_or_synthetics": [
+      "Heat treatment: used to improve color in some rubellite and brownish elbaite; not always detectable",
+      "Irradiation: used to produce pink from colorless or pale material; may fade",
+      "Synthetic tourmaline: not commercially significant",
+      "Coating: occasionally used on pale stones",
+      "Fracture filling: rare but known"
+    ],
+    "common_confusions": [
+      "Rubellite vs. ruby, red spinel",
+      "Indicolite vs. sapphire, aquamarine",
+      "Paraíba vs. neon apatite, synthetic spinel",
+      "Green tourmaline vs. emerald, tsavorite garnet",
+      "Schorl vs. black tourmaline vs. hornblende, aegirine"
+    ],
+    "market_notes": "Paraíba tourmaline (Cu-bearing) commands extraordinary prices — top specimens far exceed diamond per carat. Rubellite, indicolite, and chrome tourmaline are premium collector gems. Schorl is inexpensive and abundant."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "emerald",
+      "aquamarine",
+      "ruby",
+      "sapphire",
+      "spinel",
+      "apatite",
+      "hornblende"
+    ],
+    "related_species": [
+      "schorl",
+      "elbaite",
+      "dravite",
+      "uvite",
+      "liddicoatite",
+      "foitite",
+      "rossmanite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "gemstone",
+      "cyclosilicate",
+      "ring-silicate",
+      "boron-silicate",
+      "color-variety",
+      "trigonal",
+      "high-priority",
+      "pegmatite",
+      "piezoelectric"
+    ],
+    "search_boost_terms": [
+      "tourmaline crystal",
+      "schorl",
+      "rubellite",
+      "indicolite",
+      "watermelon tourmaline",
+      "Paraíba tourmaline",
+      "boron silicate",
+      "striated crystal"
+    ],
+    "prompt_fragments": [
+      "striated black schorl prism in pegmatite",
+      "neon Paraíba blue electric tourmaline",
+      "watermelon tourmaline cross-section pink and green",
+      "rubellite hot-pink columnar crystal"
+    ],
+    "ui_color_hint": [
+      "schorl-black",
+      "neon-blue",
+      "rubellite-red",
+      "watermelon-pink-green",
+      "verdelite-green"
+    ],
+    "priority_score": 86
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.88,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-4005.html",
+      "https://www.gia.edu/tourmaline",
+      "https://www.mindat.org/min-3625.html"
+    ],
+    "notes": "Group-level entry covering all major species and gem varieties. Individual species (schorl, elbaite, dravite, etc.) warrant separate entries for full crystallographic detail."
+  }
+}

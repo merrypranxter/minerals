@@ -1,0 +1,79 @@
+{
+  "id": "citrine",
+  "display_name": "Citrine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#FFC200",
+    "#FF8C00",
+    "#FFD700"
+  ],
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange-yellow"
+  ],
+  "color_profiles": [
+    {
+      "name": "Pale Yellow Citrine",
+      "colors": [
+        "lemon-yellow",
+        "pale-yellow",
+        "light-golden"
+      ],
+      "variety_name": null,
+      "cause": "Fe3+ at low concentration; may be natural."
+    },
+    {
+      "name": "Golden Citrine",
+      "colors": [
+        "golden-yellow",
+        "amber-yellow",
+        "honey-yellow"
+      ],
+      "variety_name": null,
+      "cause": "Fe3+ at moderate concentration; most heat-treated amethyst."
+    },
+    {
+      "name": "Madeira Citrine",
+      "colors": [
+        "deep-orange-red",
+        "amber-orange",
+        "cognac",
+        "reddish-orange"
+      ],
+      "variety_name": "madeira-citrine",
+      "cause": "Elevated Fe3+ at high temperature; always heat-treated (amethyst originally)."
+    },
+    {
+      "name": "Ametrine",
+      "colors": [
+        "bicolor purple-yellow in same crystal"
+      ],
+      "variety_name": "ametrine",
+      "cause": "Natural zoning in crystal growth; amethyst zones (Fe4+) and citrine zones (Fe3+) coexist."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "pyramidal",
+    "druse",
+    "massive"
+  ],
+  "textures": [
+    "glassy",
+    "vitreous",
+    "clear to slightly included"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms.",
+  "optical_effects": {
+    "fluorescence": "None typically",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

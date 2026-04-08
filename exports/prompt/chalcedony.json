@@ -1,0 +1,52 @@
+{
+  "id": "chalcedony",
+  "display_name": "Chalcedony",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-blue"
+  ],
+  "visual_notes": "Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz.",
+  "prompt_fragments": [
+    "waxy translucent microcrystalline silica",
+    "smooth ghost-white blue chalcedony surface",
+    "botryoidal cave-milk formations"
+  ],
+  "mood_keywords": [
+    "cave-milk",
+    "smooth-tension",
+    "ghost-layer",
+    "cool-surface"
+  ],
+  "sensory_keywords": [
+    "smooth",
+    "waxy",
+    "cool-to-touch",
+    "translucent",
+    "soft-glowing"
+  ],
+  "palette_keywords": [
+    "blue-gray",
+    "pale-ghost-white",
+    "warm-orange",
+    "apple-green",
+    "cream"
+  ],
+  "aesthetic_roles": [
+    "ghost stone",
+    "smooth backdrop mineral",
+    "ancient seal material",
+    "palette chameleon"
+  ],
+  "vibe_notes": "Chalcedony reads as quiet, cool, and internally lit. The waxy surface has a specific tactile quality — smooth and almost skin-like. The blue form evokes fog, still water, and negative space.",
+  "symbolism": [
+    "protection",
+    "endurance",
+    "calm",
+    "clarity"
+  ],
+  "folklore_summary": "Carnelian (a chalcedony variety) was one of the most important gem materials of the ancient world, used in amulets, seals, and jewelry across Egypt, Mesopotamia, and Rome."
+}

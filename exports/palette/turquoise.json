@@ -1,0 +1,87 @@
+{
+  "id": "turquoise",
+  "display_name": "Turquoise",
+  "chemistry_class": "phosphate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#40E0D0",
+    "#00BCD4",
+    "#5B9BD5"
+  ],
+  "baseline_colors": [
+    "blue",
+    "blue-green",
+    "green"
+  ],
+  "color_profiles": [
+    {
+      "name": "Robin's Egg Blue",
+      "colors": [
+        "sky-blue",
+        "robin-egg-blue",
+        "vivid-blue"
+      ],
+      "variety_name": "persian-turquoise",
+      "cause": "High Cu2+ content; minimal Fe substitution for Al."
+    },
+    {
+      "name": "Matrix Turquoise",
+      "colors": [
+        "blue",
+        "blue-green",
+        "with brown/black/yellow veining"
+      ],
+      "variety_name": "spiderweb-turquoise",
+      "cause": "Host rock (limonite, quartz, pyrite, iron oxides) veining through turquoise mass."
+    },
+    {
+      "name": "Green Turquoise",
+      "colors": [
+        "apple-green",
+        "yellow-green",
+        "olive-green",
+        "teal"
+      ],
+      "variety_name": null,
+      "cause": "Higher Fe3+ substituting for Al3+; or Zn or V substitution."
+    },
+    {
+      "name": "Blue-Green Turquoise",
+      "colors": [
+        "teal",
+        "blue-green",
+        "mint"
+      ],
+      "variety_name": null,
+      "cause": "Mixed Cu2+ and Fe3+ contributions."
+    }
+  ],
+  "habits": [
+    "massive",
+    "microcrystalline aggregate",
+    "nodular",
+    "veins",
+    "botryoidal",
+    "stalactitic",
+    "cryptocrystalline crust",
+    "prismatic crystals (very rare)"
+  ],
+  "textures": [
+    "waxy to earthy",
+    "smooth (polished)",
+    "botryoidal rounded",
+    "matrix-veined"
+  ],
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "visual_notes": "Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds.",
+  "optical_effects": {
+    "fluorescence": "Typically none to faint; some specimens show weak blue-green or yellow under LW UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Rare; fibrous material can show weak cat's eye",
+    "asterism": ""
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "id": "jasper",
+  "slug": "jasper",
+  "display_name": "Jasper",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "silica-group",
+    "species_status": "rock/gem material",
+    "parent_species": "quartz",
+    "related_varieties": [
+      "picture-jasper",
+      "red-jasper",
+      "yellow-jasper",
+      "ocean-jasper",
+      "imperial-jasper",
+      "leopardskin-jasper",
+      "mookaite"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 2021,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "SiO2 (+ impurities)",
+    "simplified_formula": "SiO2",
+    "essential_elements": [
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Mn",
+      "Al",
+      "Ca",
+      "Mg",
+      "C"
+    ],
+    "structural_units": [
+      "SiO4 tetrahedra linked into a 3D framework",
+      "microcrystalline quartz aggregate with abundant inclusions"
+    ],
+    "atomic_structure_notes": "Microcrystalline to cryptocrystalline SiO2 matrix with high proportion of non-silica impurities (iron oxides, clay minerals, organic matter). Impurity content can be high enough to classify some jaspers as silicified mudstones or cherts.",
+    "chemistry_notes": "Broadly SiO2 with significant impurity content (up to 20% or more by weight in some specimens) from iron oxides, clay minerals, and other inclusions. Specific gravity varies accordingly."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "32 trapezohedral (individual microcrystals)",
+    "space_group": "P3121 / P3221",
+    "unit_cell_notes": "Microcrystalline aggregate; no macroscopic crystal structure.",
+    "twinning": "",
+    "crystallography_notes": "No macroscopic crystal faces. Jasper is effectively a rock material — a silicified sedimentary or volcanic deposit — rather than a single mineral."
+  },
+  "physical_properties": {
+    "mohs_hardness": "6.5–7",
+    "specific_gravity": "2.58–2.91",
+    "luster": [
+      "waxy",
+      "earthy"
+    ],
+    "streak": "white",
+    "transparency": [
+      "opaque"
+    ],
+    "cleavage": [],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Opaque is the defining characteristic distinguishing jasper from chalcedony and agate. Specific gravity varies with impurity load. Accepts a very good polish due to microcrystalline structure."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "red",
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "color_profiles": [
+      {
+        "name": "red-jasper",
+        "colors": [
+          "brick-red",
+          "rust-red",
+          "dark-red"
+        ],
+        "cause": "Hematite (iron oxide) inclusions distributed through silica matrix.",
+        "conditions": "Iron-rich formation environment; most common jasper type.",
+        "variety_name": "red-jasper"
+      },
+      {
+        "name": "yellow-brown-jasper",
+        "colors": [
+          "yellow",
+          "tan",
+          "ochre",
+          "brown"
+        ],
+        "cause": "Goethite and limonite (hydrous iron oxides).",
+        "conditions": "Varying degrees of iron hydration.",
+        "variety_name": null
+      },
+      {
+        "name": "green-jasper",
+        "colors": [
+          "olive-green",
+          "dark-green",
+          "gray-green"
+        ],
+        "cause": "Chlorite, actinolite, or iron silicate inclusions.",
+        "conditions": "Metamorphic or iron silicate-bearing formation.",
+        "variety_name": null
+      },
+      {
+        "name": "picture-jasper",
+        "colors": [
+          "tan",
+          "brown",
+          "cream",
+          "dark-brown; landscape patterns"
+        ],
+        "cause": "Differential impurity banding and inclusion patterns creating landscape-like imagery.",
+        "conditions": "Sedimentary jasper with complex layering; Idaho and Oregon are notable sources.",
+        "variety_name": "picture-jasper"
+      },
+      {
+        "name": "ocean-jasper",
+        "colors": [
+          "multicolor with orb-like patterns; green",
+          "pink",
+          "white",
+          "red",
+          "yellow"
+        ],
+        "cause": "Orbicular spherulitic structure in rhyolite-hosted chalcedony/jasper.",
+        "conditions": "Locality-specific (Madagascar coastal deposits).",
+        "variety_name": "ocean-jasper"
+      },
+      {
+        "name": "mookaite",
+        "colors": [
+          "red",
+          "yellow",
+          "purple",
+          "cream; vivid multicolor"
+        ],
+        "cause": "Radiolarite-origin silicite with varied iron and organic impurities.",
+        "conditions": "Windalia Radiolarite formation, Mooka Station, Western Australia.",
+        "variety_name": "mookaite"
+      }
+    ],
+    "habits": [
+      "massive",
+      "nodular",
+      "vein-filling",
+      "bedded"
+    ],
+    "textures": [
+      "waxy",
+      "smooth",
+      "matte",
+      "compact"
+    ],
+    "macro_patterns": [
+      "uniform",
+      "banded",
+      "mottled",
+      "orbicular",
+      "brecciated",
+      "landscape"
+    ],
+    "common_forms": [
+      "massive slabs",
+      "polished cabochons",
+      "tumbled stones",
+      "carved decorative objects",
+      "beads"
+    ],
+    "visual_notes": "Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "",
+    "optical_notes": "No notable optical effects. Opacity is consistent and non-negotiable."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "sedimentary",
+      "hydrothermal",
+      "diagenetic",
+      "metamorphic"
+    ],
+    "geologic_environments": [
+      "silicified sedimentary sequences",
+      "iron-rich marine sediments",
+      "hydrothermal replacement zones",
+      "volcanic tuffs and ash deposits",
+      "iron formations"
+    ],
+    "host_rocks": [
+      "mudstone",
+      "ironstone",
+      "chert beds",
+      "volcanic tuff",
+      "basalt"
+    ],
+    "associated_minerals": [
+      "hematite",
+      "goethite",
+      "chalcedony",
+      "quartz",
+      "chert"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [
+      "India (Deccan Traps; red jasper nodules)",
+      "United States (Idaho — picture jasper; Oregon — various; South Dakota)",
+      "Australia (Western Australia — mookaite)",
+      "Madagascar (ocean jasper)",
+      "Russia (Ural Mountains — Orsk jasper)",
+      "Germany (Idar-Oberstein)",
+      "Egypt (Sinai — historical red jasper)"
+    ],
+    "occurrence_notes": "Jasper forms wherever silica-rich fluids permeate and replace iron-bearing sedimentary or volcanic rocks. Many jaspers are essentially silicified mudstones, cherts, or iron formations."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Prehistoric tool-making (flint/chert/jasper flaked tools)",
+      "Ancient Egyptian and Mesopotamian seal stones and amulets",
+      "Classical Greek and Roman intaglio carving",
+      "Medieval European gem carving",
+      "Native American ceremonial use (red jasper)"
+    ],
+    "cultural_associations": [
+      "Red jasper: associated with blood, strength, and protection in many ancient cultures",
+      "From Greek 'iaspis'; corresponds to the Hebrew 'yashfeh' in Exodus breastplate",
+      "One of the foundation stones in Revelation's heavenly Jerusalem"
+    ],
+    "symbolism": [
+      "endurance",
+      "earth",
+      "protection",
+      "vitality",
+      "grounding"
+    ],
+    "folklore_notes": "One of the oldest named gemstones; 'jasper' appears in texts from ancient Babylonia, Egypt, and the Hebrew Bible. Red jasper was associated with blood and warrior energy across many ancient cultures."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "earth-body",
+      "canyon-floor",
+      "oxidized-terrain",
+      "deep-strata"
+    ],
+    "sensory_keywords": [
+      "opaque",
+      "dense",
+      "matte",
+      "warm",
+      "heavy"
+    ],
+    "palette_keywords": [
+      "iron-red",
+      "ochre-yellow",
+      "canyon-brown",
+      "olive-earth",
+      "rust-oxide"
+    ],
+    "aesthetic_roles": [
+      "earth-matter anchor",
+      "oxidized-terrain mineral",
+      "ancient tool material",
+      "landscape stone"
+    ],
+    "vibe_notes": "Jasper is the most opaque and earthy of the silica minerals. It reads as matter, ground, oxidized earth — the base layer beneath everything. Its matte warmth is fundamentally different from the translucent glow of chalcedony."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Durable and safe for handling. Fine silica dust hazard when cutting; use respiratory protection.",
+    "care_notes": "Generally stable. Avoid strong acids. Most jasper is stable and durable for jewelry and decorative use.",
+    "treatments_or_synthetics": [
+      "Some jaspers dyed to enhance or alter colors",
+      "Impregnation with resins occasionally done on porous specimens",
+      "Synthetic jasper-like materials not common"
+    ],
+    "common_confusions": [
+      "red chert",
+      "chalcedony (translucent vs jasper's opacity is the key difference)",
+      "agate",
+      "ironstone",
+      "dyed howlite"
+    ],
+    "market_notes": "Enormous and diverse market. Many jasper trade names for locality-specific materials. Ocean jasper and mookaite command higher prices. Much material sold as jasper is technically chert or silicified rock."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "agate (transparent forms)",
+      "chert",
+      "flint",
+      "chalcedony",
+      "red ironstone"
+    ],
+    "related_species": [
+      "quartz",
+      "chalcedony",
+      "agate",
+      "chert",
+      "flint"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "opaque",
+      "microcrystalline",
+      "silica",
+      "rock-gem-material",
+      "iron-bearing",
+      "widespread",
+      "ancient-material",
+      "earthy"
+    ],
+    "search_boost_terms": [
+      "jasper",
+      "red jasper",
+      "picture jasper",
+      "ocean jasper",
+      "mookaite",
+      "opaque silica",
+      "chert gemstone"
+    ],
+    "prompt_fragments": [
+      "opaque iron-oxide-stained microcrystalline silica",
+      "canyon-floor earth-body matte mineral",
+      "picture jasper landscape imagery in stone"
+    ],
+    "ui_color_hint": [
+      "brick-red",
+      "ochre",
+      "earth-brown",
+      "olive-green"
+    ],
+    "priority_score": 82
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.8,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-2021.html"
+    ],
+    "notes": ""
+  }
+}

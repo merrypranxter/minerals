@@ -1,0 +1,56 @@
+{
+  "id": "jadeite",
+  "display_name": "Jadeite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-green"
+  ],
+  "visual_notes": "Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders.",
+  "prompt_fragments": [
+    "imperial jade vivid green semi-transparent glow",
+    "waxy jadeite polish cool to touch",
+    "subduction-zone mineral carved to perfection",
+    "lavender jadeite whisper of violet"
+  ],
+  "mood_keywords": [
+    "imperial-silence",
+    "high-pressure-green",
+    "jade-court",
+    "sacred-stone",
+    "subduction-secret"
+  ],
+  "sensory_keywords": [
+    "waxy",
+    "cool",
+    "smooth",
+    "weighty",
+    "translucent-glow"
+  ],
+  "palette_keywords": [
+    "imperial-green",
+    "lavender-whisper",
+    "icy-white",
+    "deep-forest-green"
+  ],
+  "aesthetic_roles": [
+    "sacred imperial gem",
+    "high-pressure formation showcase",
+    "cultural continuity stone",
+    "translucent jade glow"
+  ],
+  "vibe_notes": "Jadeite carries perhaps the heaviest cultural weight of any mineral on Earth — the civilizational stone of China and Mesoamerica simultaneously, formed in the crushing pressure of subduction zones and revered for millennia. Imperial jade's vivid semi-transparent green is one of the most coveted colors in human history.",
+  "symbolism": [
+    "immortality",
+    "imperial-power",
+    "purity",
+    "heaven",
+    "virtue",
+    "healing",
+    "longevity"
+  ],
+  "folklore_summary": "In ancient China, the deceased were sometimes buried with jade pieces placed on bodily orifices to preserve the body — jade burial suits (玉衣) of the Han dynasty, made from thousands of jade plaques sewn with gold, silver, or bronze wire, represent the apex of this tradition. Jade was believed to pre"
+}

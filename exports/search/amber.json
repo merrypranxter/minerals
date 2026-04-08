@@ -1,0 +1,71 @@
+{
+  "id": "amber",
+  "slug": "amber",
+  "display_name": "Amber",
+  "chemistry_class": "organic",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": null,
+  "ima_status": "n/a",
+  "formula": "C10H16O (approximate succinic acid resin)",
+  "essential_elements": [
+    "C",
+    "H",
+    "O"
+  ],
+  "crystal_system": "amorphous",
+  "mohs_hardness": "2–2.5",
+  "luster": [
+    "resinous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange",
+    "honey"
+  ],
+  "genesis": [
+    "organic (fossilized tree resin)",
+    "sedimentary (reworked beach/alluvial accumulation)"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "organic",
+    "mineraloid",
+    "amorphous",
+    "fossilized-resin",
+    "inclusions",
+    "paleontology",
+    "ancient-trade",
+    "yellow",
+    "orange",
+    "warm",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "fossilized resin",
+    "Baltic amber",
+    "succinite",
+    "amber inclusions",
+    "insect in amber",
+    "Jurassic Park amber",
+    "Dominican blue amber",
+    "Burmite",
+    "ancient trade gem",
+    "elektron"
+  ],
+  "priority_score": 90,
+  "mood_keywords": [
+    "fossilized-sunlight",
+    "deep-time-amber",
+    "resin-memory",
+    "prehistoric-warmth",
+    "trapped-ancient-world"
+  ],
+  "_all_text": "Amber amber C10H16O (approximate succinic acid resin) Composition varies by botanical origin and age. Baltic amber (succinite) contains 3–8% succinic acid — a diagnostic marker. Dominican and Burmese amber have different chemical profiles. Amber burns with a pleasant aromatic smell (organic material). Can be dissolved in organic solvents (ether, chloroform), unlike most minerals. Age range: several million years (copal) to over 100 million years (Burmese amber). Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects. Amber has been traded over long distances for at least 13,000 years — Baltic amber has been found in Egyptian and Mycenaean archaeological sites thousands of kilometers from its origin. The Greek myth explained amber as the tears of the Heliades (sisters of Phaëton) who were transformed into poplar trees and wept amber tears of grief. Romans so prized amber that it was more valuable than human slaves by some accounts. Thales of Miletus (~600 BCE) first documented amber's static electricity — planting the etymological seed of 'electricity.' The Amber Room of St. Petersburg (created 1701–1713) remains one of history's greatest lost treasures. preserved time solar energy fossilized memory and the past ancient warmth trapped life Jewelry and ornament since the Neolithic (>8000 years of use) Baltic trade — 'Amber Road' trading network from Baltic to Mediterranean Perfume and incense (burning amber produces aromatic smoke) Medicine (powdered succinic acid in folk medicine) Electrical experiments — first material in which static electricity was systematically studied Paleontological research — fossil inclusions in amber (paleoentomology, paleoecology) Varnish and lacquer (amber dissolved in turpentine) fossilized resin Baltic amber succinite amber inclusions insect in amber Jurassic Park amber Dominican blue amber Burmite ancient trade gem elektron organic mineraloid amorphous fossilized-resin inclusions paleontology ancient-trade yellow orange warm high-priority fossilized-sunlight deep-time-amber resin-memory prehistoric-warmth trapped-ancient-world yellow golden-yellow orange honey"
+}

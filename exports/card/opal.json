@@ -1,0 +1,68 @@
+{
+  "id": "opal",
+  "slug": "opal",
+  "display_name": "Opal",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": "opal-group",
+  "ima_status": "approved",
+  "formula": "SiO2·nH2O",
+  "mohs_hardness": "5.5–6.5",
+  "specific_gravity": "1.98–2.25",
+  "luster": [
+    "vitreous",
+    "resinous",
+    "waxy",
+    "pearly"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "amorphous",
+  "baseline_colors": [
+    "white",
+    "black",
+    "gray",
+    "colorless"
+  ],
+  "color_profiles_available": [
+    "White Precious Opal",
+    "Black Precious Opal",
+    "Crystal Opal",
+    "Boulder Opal",
+    "Common Opal (Potch)"
+  ],
+  "habits": [
+    "massive",
+    "nodular",
+    "botryoidal",
+    "stalactitic",
+    "vein-filling"
+  ],
+  "birthstone_months": [
+    "October birthstone (traditional and modern, alongside tourmaline)",
+    "14th wedding anniversary"
+  ],
+  "tags": [
+    "mineraloid",
+    "silica",
+    "amorphous",
+    "play-of-color",
+    "birthstone",
+    "october",
+    "australia",
+    "high-priority",
+    "iridescent",
+    "precious"
+  ],
+  "priority_score": 94,
+  "ui_color_hint": [
+    "#FFFFFF",
+    "#0D0D0D",
+    "#FF6B6B"
+  ]
+}

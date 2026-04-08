@@ -1,0 +1,51 @@
+{
+  "id": "agate",
+  "display_name": "Agate",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "multicolor-banded",
+    "white-gray-banded"
+  ],
+  "visual_notes": "Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls.",
+  "prompt_fragments": [
+    "concentric fortification banding in cross-section",
+    "earth-strata geologic calendar nodule",
+    "layered silica archive in waxy translucent bands"
+  ],
+  "mood_keywords": [
+    "geologic-calendar",
+    "layer-archive",
+    "earth-strata",
+    "terrestrial-pattern"
+  ],
+  "sensory_keywords": [
+    "layered",
+    "smooth",
+    "patterned",
+    "geological",
+    "cross-sectional"
+  ],
+  "palette_keywords": [
+    "earth-band",
+    "rust-layer",
+    "cream-white-ring",
+    "storm-gray-stratum",
+    "copper-oxide-ring"
+  ],
+  "aesthetic_roles": [
+    "earth-archive stone",
+    "topographic mineral",
+    "geologic cross-section specimen",
+    "texture library anchor"
+  ],
+  "vibe_notes": "Agate is a mineral calendar — each band a record of deposition. In cross-section it reads like geologic stratigraphy compressed into a hand-held nodule. The fortification pattern is one of the most compelling natural geometries.",
+  "symbolism": [
+    "stability",
+    "grounding",
+    "layered-time",
+    "earth-archive"
+  ],
+  "folklore_summary": "The name 'agate' is ancient, recorded by Theophrastus around 315 BCE. Believed to protect against storms, calm thirst, and bring luck in Greek and Roman traditions."
+}

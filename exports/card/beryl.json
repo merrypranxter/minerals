@@ -1,0 +1,62 @@
+{
+  "id": "beryl",
+  "slug": "beryl",
+  "display_name": "Beryl",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "beryl-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Be3Al2Si6O18",
+  "mohs_hardness": "7.5–8",
+  "specific_gravity": "2.63–2.92",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "hexagonal",
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "color_profiles_available": [
+    "goshenite",
+    "emerald",
+    "aquamarine",
+    "morganite",
+    "heliodor",
+    "red-beryl"
+  ],
+  "habits": [
+    "prismatic",
+    "hexagonal-prism",
+    "tabular",
+    "massive"
+  ],
+  "birthstone_months": [
+    "Emerald: May birthstone (traditional and modern)",
+    "Aquamarine: March birthstone (modern)"
+  ],
+  "tags": [
+    "gemstone",
+    "cyclosilicate",
+    "ring-silicate",
+    "beryllium",
+    "color-variety",
+    "hexagonal",
+    "high-priority",
+    "pegmatite"
+  ],
+  "priority_score": 88,
+  "ui_color_hint": [
+    "emerald-green",
+    "aqua-blue",
+    "morganite-rose",
+    "heliodor-gold",
+    "clear-white"
+  ]
+}

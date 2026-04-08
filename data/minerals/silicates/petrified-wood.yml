@@ -5,7 +5,7 @@ display_name: Petrified Wood
 classification:
   chemistry_class: silicate
   mineral_group: silica-group
-  species_status: rock-gem-material
+  species_status: rock/gem material
   parent_species: null
   related_varieties:
     - agatized-wood
@@ -14,7 +14,7 @@ classification:
     - jasperized-wood
 
 identifiers:
-  ima_status: "not-a-species (fossil/gem material — silicified organic wood)"
+  ima_status: not_ima
   mindat_id: null
   other_ids:
     note: "Not a mineral species; no Mindat mineral ID assigned"
@@ -31,7 +31,7 @@ chemical_profile:
   chemistry_notes: "Color is entirely controlled by trace element impurities in the replacing silica: Fe2O3 (hematite) gives red/orange/brown; Fe(OH)3 (limonite/goethite) gives yellow; MnO2 gives black; chromium gives green; copper gives blue-green. The original wood provides no surviving chemical signal — only its structural ghost remains."
 
 crystallography:
-  crystal_system: "trigonal (chalcedony/quartz) to amorphous (opal)"
+  crystal_system: trigonal
   crystal_class: "cryptocrystalline to macrocrystalline — not applicable at macro scale"
   space_group: ""
   unit_cell_notes: "Same as chalcedony/quartz at microscale"
@@ -41,7 +41,7 @@ crystallography:
 physical_properties:
   mohs_hardness: "5.5–7 (varies with silicification completeness; chalcedony-replaced ≈ 6.5–7)"
   specific_gravity: "2.58–2.65 (chalcedony) to lower if incompletely silicified"
-  luster: [waxy, vitreous, dull]
+  luster: [waxy, vitreous, earthy]
   streak: white
   transparency: [opaque, translucent]
   cleavage: []

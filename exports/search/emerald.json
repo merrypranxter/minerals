@@ -1,0 +1,73 @@
+{
+  "id": "emerald",
+  "slug": "emerald",
+  "display_name": "Emerald",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "mineral_group": "beryl-group",
+  "ima_status": "not_ima",
+  "formula": "Be3Al2Si6O18 (with Cr3+ and/or V3+)",
+  "essential_elements": [
+    "Be",
+    "Al",
+    "Si",
+    "O"
+  ],
+  "crystal_system": "hexagonal",
+  "mohs_hardness": "7.5–8",
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "vivid-green",
+    "deep-green",
+    "bluish-green"
+  ],
+  "genesis": [
+    "hydrothermal (low-temperature vein type — Colombian)",
+    "metamorphic (mica schist type — Zambian, Zimbabwean)",
+    "pegmatitic (Brazilian some)"
+  ],
+  "birthstone_status": [
+    "May birthstone (traditional and modern)",
+    "20th and 35th wedding anniversaries"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "beryl",
+    "gemstone",
+    "green",
+    "birthstone",
+    "may",
+    "hexagonal",
+    "beryllium",
+    "high-priority",
+    "jewelry",
+    "colombian"
+  ],
+  "search_boost_terms": [
+    "emerald gemstone",
+    "Colombian emerald",
+    "Muzo emerald",
+    "May birthstone",
+    "vivid green beryl",
+    "Cleopatra mines",
+    "jardin emerald",
+    "Be3Al2Si6O18"
+  ],
+  "priority_score": 96,
+  "mood_keywords": [
+    "Cleopatra-green",
+    "vivid-Cr-jungle",
+    "jardin-within",
+    "Colombian-vein-green",
+    "spring-archetype"
+  ],
+  "_all_text": "Emerald emerald Be3Al2Si6O18 (with Cr3+ and/or V3+) Chromium is the primary chromophore in Colombian emeralds; vanadium dominates in some Brazilian (Salininha) and some African sources. The GIA separates emerald (Cr or V dominantly colored green beryl) from 'green beryl' (Fe-colored green beryl). Colombian emeralds typically have three-phase inclusions (fluid+gas+solid crystal) in characteristic fingerprint patterns — the 'jardin.' Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone. Cleopatra's Mines in Egypt's Eastern Desert were the world's primary emerald source for Roman civilization. The Aztec god Quetzalcoatl was said to reside in emeralds; large emeralds were among the most sacred objects in pre-Columbian Mesoamerica — the Spanish conquest of Peru looted crystals the size of ostrich eggs. Mughal emperors had large emeralds engraved with verses from the Quran as talismans — these 'Mughal emeralds' are among the most prized objects in Islamic art history. Pliny the Elder in Historia Naturalis said that no other green is as intense as that of emerald. spring and rebirth Venus and love wisdom and prophecy abundance and fertility May's promise Gemstone — Egyptian mining at Sikait since ~330 BCE ('Cleopatra's Mines') Aztec and Inca sacred stone — 'esmeralda' — Spanish conquest looted enormous quantities Mughal engraved emeralds (verses from Quran on large crystals) Roman, Byzantine, and medieval European jewelry Oil lamp lanterns in Egyptian temples Magnification lenses (Nero reportedly viewed gladiatorial combat through an emerald lens) emerald gemstone Colombian emerald Muzo emerald May birthstone vivid green beryl Cleopatra mines jardin emerald Be3Al2Si6O18 silicate variety beryl gemstone green birthstone may hexagonal beryllium high-priority jewelry colombian Cleopatra-green vivid-Cr-jungle jardin-within Colombian-vein-green spring-archetype vivid-green deep-green bluish-green"
+}

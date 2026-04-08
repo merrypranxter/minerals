@@ -1,0 +1,67 @@
+{
+  "id": "sulfur",
+  "slug": "sulfur",
+  "display_name": "Sulfur",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "sulfur-group",
+  "ima_status": "approved",
+  "formula": "S",
+  "essential_elements": [
+    "S"
+  ],
+  "crystal_system": "orthorhombic",
+  "mohs_hardness": "1.5–2.5",
+  "luster": [
+    "resinous",
+    "waxy"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "yellow",
+    "pale-yellow",
+    "sulfur-yellow",
+    "orange-yellow",
+    "greenish-yellow"
+  ],
+  "genesis": [
+    "volcanic (fumarolic sublimation)",
+    "biogenic-sedimentary (bacterial sulfate reduction)",
+    "evaporitic",
+    "hydrothermal (minor)"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "native-element",
+    "nonmetal",
+    "volcanic",
+    "fumarolic",
+    "evaporitic",
+    "orthorhombic",
+    "brimstone",
+    "industrial",
+    "alchemical"
+  ],
+  "search_boost_terms": [
+    "S",
+    "brimstone",
+    "native sulfur",
+    "volcanic sulfur",
+    "sulfur crystals",
+    "sicily sulfur",
+    "ijen sulfur",
+    "fumarole mineral"
+  ],
+  "priority_score": 78,
+  "mood_keywords": [
+    "volcanic-yellow",
+    "toxic-bloom",
+    "chemical-alchemy",
+    "sulfurous-crater"
+  ],
+  "_all_text": "Sulfur sulfur S Stable orthorhombic polymorph (alpha-sulfur) at surface conditions. Minor impurities of Se and As contribute to color variation. Strong diagnostic odor when scratched. Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy. Sulfur (brimstone) is one of the oldest known mineral substances — referenced in ancient Vedic texts, Homeric epics, and the Bible. The biblical 'fire and brimstone' likely references volcanic sulfur. Alchemy designated sulfur as one of the three primes representing the soul. Kawah Ijen, Indonesia, continues artisanal sulfur mining under conditions of extraordinary volcanic intensity — miners carry glowing blue-flaming sulfur on their backs through sulfurous fog. transformation and purification through fire volcanic force chemical change hell and damnation (brimstone) sulfurous industry gunpowder formulation (sulfur, charcoal, potassium nitrate) fumigation and pest control (antiquity to modern) sulfuric acid production (Frasch process, contact process) rubber vulcanization (19th century, Goodyear) fungicides and pesticides matches and pyrotechnics bleaching of textiles and paper wine preservation (sulfur dioxide) S brimstone native sulfur volcanic sulfur sulfur crystals sicily sulfur ijen sulfur fumarole mineral native-element nonmetal volcanic fumarolic evaporitic orthorhombic brimstone industrial alchemical volcanic-yellow toxic-bloom chemical-alchemy sulfurous-crater yellow pale-yellow sulfur-yellow orange-yellow greenish-yellow"
+}

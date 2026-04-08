@@ -1,0 +1,74 @@
+{
+  "id": "turquoise",
+  "slug": "turquoise",
+  "display_name": "Turquoise",
+  "chemistry_class": "phosphate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "turquoise-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "CuAl6(PO4)4(OH)8·4H2O",
+  "essential_elements": [
+    "Cu",
+    "Al",
+    "P",
+    "O",
+    "H"
+  ],
+  "crystal_system": "triclinic",
+  "mohs_hardness": "5–6",
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "blue",
+    "blue-green",
+    "green"
+  ],
+  "genesis": [
+    "secondary (supergene)",
+    "weathering of aluminous copper-bearing rocks"
+  ],
+  "birthstone_status": [
+    "December birthstone (traditional and modern, alongside zircon and tanzanite)"
+  ],
+  "tags": [
+    "phosphate",
+    "copper",
+    "aluminum",
+    "secondary",
+    "sky-blue",
+    "sacred",
+    "ancient",
+    "birthstone",
+    "december",
+    "triclinic",
+    "high-priority",
+    "jewelry"
+  ],
+  "search_boost_terms": [
+    "turquoise gemstone",
+    "sky stone",
+    "Sleeping Beauty turquoise",
+    "Persian turquoise",
+    "Nishapur turquoise",
+    "spiderweb turquoise",
+    "Native American turquoise",
+    "December birthstone",
+    "copper phosphate mineral"
+  ],
+  "priority_score": 93,
+  "mood_keywords": [
+    "sky-condensed",
+    "ancient-trade-path",
+    "desert-blue",
+    "sacred-sky-stone",
+    "copper-phosphate-heaven"
+  ],
+  "_all_text": "Turquoise turquoise CuAl6(PO4)4(OH)8·4H2O Color derives primarily from Cu2+ (blue) and Fe3+ (green). High Cu/Al ratio with low Fe = robin's-egg blue; elevated Fe shifts color toward green. Chromium substitution produces vivid green varieties. The famous Persian blue results from very low iron in the Al site. Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds. Turquoise is one of the few gem minerals whose name gave a color its name in European languages ('turquoise' from 'Turkish stone' — via the Turkish trade routes through which Persian turquoise reached Europe). Ancient Persians believed turquoise reflected the color of heaven. In Mesoamerica, turquoise was the material of the divine — Aztec ritual masks covered in turquoise mosaic were worn by deities. Navajo tradition holds that turquoise fell from the sky as holy rain. The oldest known turquoise mining predates Egyptian pharaohs by millennia. the sky protection from evil luck and good fortune truth and communication sacred connection water and life Jewelry and ornament (oldest dated gem material — Sinai mines ~6000 BCE) Mosaic and inlay (Aztec death masks, Egyptian faience parallels) Carved fetish figures (Pueblo peoples, Navajo, Zuni) Trade currency in Mesoamerica and the American Southwest Amulets and talismans — protective stone in Persian, Turkish, and Native American traditions Pigment (rare) Medicine (powdered turquoise in some traditional pharmacopeias) turquoise gemstone sky stone Sleeping Beauty turquoise Persian turquoise Nishapur turquoise spiderweb turquoise Native American turquoise December birthstone copper phosphate mineral phosphate copper aluminum secondary sky-blue sacred ancient birthstone december triclinic high-priority jewelry sky-condensed ancient-trade-path desert-blue sacred-sky-stone copper-phosphate-heaven blue blue-green green"
+}

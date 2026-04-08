@@ -1,0 +1,67 @@
+{
+  "id": "smoky-quartz",
+  "slug": "smoky-quartz",
+  "display_name": "Smoky Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2 (with Al3+ + radiation-induced hole color centers)",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": 7,
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "gray",
+    "brown-gray",
+    "dark-brown"
+  ],
+  "genesis": [
+    "magmatic (pegmatitic)",
+    "hydrothermal (alpine veins)",
+    "metamorphic (veins)"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "silicate",
+    "variety",
+    "quartz",
+    "gray",
+    "brown",
+    "black",
+    "radiation",
+    "alpine",
+    "trigonal",
+    "grounding"
+  ],
+  "search_boost_terms": [
+    "smoky quartz",
+    "cairngorm",
+    "morion",
+    "dark quartz",
+    "smoky crystal",
+    "Colorado smoky quartz",
+    "Swiss alpine quartz",
+    "Al radiation color center"
+  ],
+  "priority_score": 86,
+  "mood_keywords": [
+    "smoke-and-shadow",
+    "alpine-grey-crystal",
+    "underworld-threshold",
+    "radiation-alchemy",
+    "Scottish-moor"
+  ],
+  "_all_text": "Smoky Quartz smoky-quartz SiO2 (with Al3+ + radiation-induced hole color centers) Color requires both aluminum impurity (very small amount — ~1 ppm Al) AND natural irradiation (alpha or gamma from radioactive minerals in host rock or from cosmic rays). Smoky quartz from granites and pegmatites near radioactive minerals (monazite, zircon, uraninite) is most common. Irradiation of clear quartz containing Al produces artificial smoky quartz (used in industry). 'Morion' is the very darkest, nearly opaque black variety. Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity. Cairngorm quartz from the Cairngorm Mountains of Scotland is an iconic national gemstone tradition — large brown-gray crystals were set in the handles of Highland dirks, kilt pins, and traditional brooches. Victorian mourning jewelry used dark stones including morion (black smoky quartz) alongside jet. In Celtic tradition, smoky quartz was a stone of the gods of the underworld. Chinese Daoist tradition associated smoky quartz with the yin principle. grounding and protection shadow and depth the underworld threshold smoke and transformation grounding clarity Carved into bowls, figures, and jewelry in Roman and Chinese antiquity Scottish Highland jewelry tradition — cairngorm in kilt pins and brooches Art Deco smoky quartz in bold settings Buddhist meditation beads (China) Inuit and Arctic peoples carved smoky quartz smoky quartz cairngorm morion dark quartz smoky crystal Colorado smoky quartz Swiss alpine quartz Al radiation color center silicate variety quartz gray brown black radiation alpine trigonal grounding smoke-and-shadow alpine-grey-crystal underworld-threshold radiation-alchemy Scottish-moor gray brown-gray dark-brown"
+}

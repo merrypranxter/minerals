@@ -1,0 +1,109 @@
+{
+  "id": "jasper",
+  "display_name": "Jasper",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "ui_color_hint": [
+    "brick-red",
+    "ochre",
+    "earth-brown",
+    "olive-green"
+  ],
+  "baseline_colors": [
+    "red",
+    "yellow",
+    "brown",
+    "green"
+  ],
+  "color_profiles": [
+    {
+      "name": "red-jasper",
+      "colors": [
+        "brick-red",
+        "rust-red",
+        "dark-red"
+      ],
+      "variety_name": "red-jasper",
+      "cause": "Hematite (iron oxide) inclusions distributed through silica matrix."
+    },
+    {
+      "name": "yellow-brown-jasper",
+      "colors": [
+        "yellow",
+        "tan",
+        "ochre",
+        "brown"
+      ],
+      "variety_name": null,
+      "cause": "Goethite and limonite (hydrous iron oxides)."
+    },
+    {
+      "name": "green-jasper",
+      "colors": [
+        "olive-green",
+        "dark-green",
+        "gray-green"
+      ],
+      "variety_name": null,
+      "cause": "Chlorite, actinolite, or iron silicate inclusions."
+    },
+    {
+      "name": "picture-jasper",
+      "colors": [
+        "tan",
+        "brown",
+        "cream",
+        "dark-brown; landscape patterns"
+      ],
+      "variety_name": "picture-jasper",
+      "cause": "Differential impurity banding and inclusion patterns creating landscape-like imagery."
+    },
+    {
+      "name": "ocean-jasper",
+      "colors": [
+        "multicolor with orb-like patterns; green",
+        "pink",
+        "white",
+        "red",
+        "yellow"
+      ],
+      "variety_name": "ocean-jasper",
+      "cause": "Orbicular spherulitic structure in rhyolite-hosted chalcedony/jasper."
+    },
+    {
+      "name": "mookaite",
+      "colors": [
+        "red",
+        "yellow",
+        "purple",
+        "cream; vivid multicolor"
+      ],
+      "variety_name": "mookaite",
+      "cause": "Radiolarite-origin silicite with varied iron and organic impurities."
+    }
+  ],
+  "habits": [
+    "massive",
+    "nodular",
+    "vein-filling",
+    "bedded"
+  ],
+  "textures": [
+    "waxy",
+    "smooth",
+    "matte",
+    "compact"
+  ],
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "visual_notes": "Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials.",
+  "optical_effects": {
+    "fluorescence": "",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

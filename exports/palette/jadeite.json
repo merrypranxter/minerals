@@ -1,0 +1,96 @@
+{
+  "id": "jadeite",
+  "display_name": "Jadeite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "imperial-green",
+    "lavender",
+    "white",
+    "deep-green"
+  ],
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-green"
+  ],
+  "color_profiles": [
+    {
+      "name": "imperial-jade",
+      "colors": [
+        "vivid-green",
+        "emerald-green",
+        "intense-green"
+      ],
+      "variety_name": "imperial-jade",
+      "cause": "Cr3+ substituting for Al3+ in the M1 octahedral site, producing a chromium absorption spectrum analogous to emerald."
+    },
+    {
+      "name": "fei-cui-green",
+      "colors": [
+        "green",
+        "mottled-green",
+        "apple-green",
+        "leek-green"
+      ],
+      "variety_name": "fei-cui",
+      "cause": "Cr3+ for vivid greens; Fe2+/Fe3+ for duller or bluish greens."
+    },
+    {
+      "name": "lavender-jadeite",
+      "colors": [
+        "lavender",
+        "violet",
+        "mauve",
+        "pale-purple"
+      ],
+      "variety_name": "lavender-jade",
+      "cause": "Mn2+ and/or Fe2+–Fe3+ charge transfer in the structure; exact mechanism debated."
+    },
+    {
+      "name": "white-jadeite",
+      "colors": [
+        "white",
+        "cream",
+        "pale-gray"
+      ],
+      "variety_name": null,
+      "cause": "Low chromophore content; fine-grained texture scatters light."
+    },
+    {
+      "name": "black-jadeite",
+      "colors": [
+        "black",
+        "dark-gray"
+      ],
+      "variety_name": "black-jadeite",
+      "cause": "High Fe3+ (aegirine component) or graphite/carbonaceous inclusions."
+    }
+  ],
+  "habits": [
+    "massive",
+    "granular",
+    "fibrous-aggregate",
+    "interlocking-crystalline",
+    "prismatic (rare isolated crystals)"
+  ],
+  "textures": [
+    "waxy",
+    "smooth",
+    "interlocking-granular",
+    "finely-crystalline"
+  ],
+  "luster": [
+    "waxy",
+    "vitreous",
+    "resinous"
+  ],
+  "visual_notes": "Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders.",
+  "optical_effects": {
+    "fluorescence": "Inert (untreated) to weak white or pale green under LW UV; heavily treated (B-jade) may show blue-white fluorescence",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

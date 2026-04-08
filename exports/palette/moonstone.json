@@ -1,0 +1,94 @@
+{
+  "id": "moonstone",
+  "display_name": "Moonstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "blue-white",
+    "pearl",
+    "silver-fog",
+    "peach-blush"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "pale-gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "blue-moonstone",
+      "colors": [
+        "colorless to white body; blue floating glow"
+      ],
+      "variety_name": "blue-moonstone",
+      "cause": "Thin albite exsolution lamellae (10–100 nm) produce Rayleigh/Tyndall scattering and constructive interference for blue wavelengths."
+    },
+    {
+      "name": "white-moonstone",
+      "colors": [
+        "white body; white to milky-white floating glow"
+      ],
+      "variety_name": null,
+      "cause": "Thicker lamellae scatter all visible wavelengths approximately equally, producing white adularescence."
+    },
+    {
+      "name": "peach-moonstone",
+      "colors": [
+        "peach",
+        "salmon",
+        "warm-beige body; peach to white glow"
+      ],
+      "variety_name": "peach-moonstone",
+      "cause": "Iron impurities impart warm body color; adularescence still present."
+    },
+    {
+      "name": "rainbow-moonstone",
+      "colors": [
+        "colorless to white body; multicolor iridescence — blue",
+        "green",
+        "violet"
+      ],
+      "variety_name": "rainbow-moonstone",
+      "cause": "Trade name for colorless to white labradorite showing adularescence-like labradorescence. Not orthoclase moonstone."
+    },
+    {
+      "name": "gray-moonstone",
+      "colors": [
+        "gray body; blue to white floating glow"
+      ],
+      "variety_name": null,
+      "cause": "Iron or other inclusions giving gray body color; adularescence retained."
+    },
+    {
+      "name": "cat-eye-moonstone",
+      "colors": [
+        "near-colorless to white; chatoyant line"
+      ],
+      "variety_name": "cat-eye-moonstone",
+      "cause": "Needle-like inclusions aligned with exsolution lamellae create chatoyancy in addition to adularescence."
+    }
+  ],
+  "habits": [
+    "massive",
+    "prismatic",
+    "tabular",
+    "anhedral"
+  ],
+  "textures": [
+    "smooth",
+    "silky-pearly",
+    "glassy"
+  ],
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "visual_notes": "Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior.",
+  "optical_effects": {
+    "fluorescence": "Weak bluish or yellowish fluorescence in some specimens under longwave UV.",
+    "iridescence": "Adularescence: the defining optical phenomenon. A floating, billowing blue or white light glow from alternating orthoclase/albite exsolution lamellae. Caused by Rayleigh/Tyndall scattering and constructive thin-film interference. Blue adularescence (from thin lamellae) is most prized. Effect is direction-dependent and orientation-critical in cutting.",
+    "play_of_color": "Adularescence: the defining optical phenomenon. A floating, billowing blue or white light glow from alternating orthoclase/albite exsolution lamellae. Caused by Rayleigh/Tyndall scattering and constructive thin-film interference. Blue adularescence (from thin lamellae) is most prized. Effect is direction-dependent and orientation-critical in cutting.",
+    "chatoyancy": "Rare; cat's eye moonstone exists with needle inclusions.",
+    "asterism": "Very rare; 4-ray star moonstone reported."
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "id": "beryl",
+  "slug": "beryl",
+  "display_name": "Beryl",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "beryl-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "emerald",
+      "aquamarine",
+      "morganite",
+      "heliodor",
+      "goshenite",
+      "red-beryl",
+      "maxixe"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 591,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Be3Al2Si6O18",
+    "simplified_formula": "Be3Al2Si6O18",
+    "essential_elements": [
+      "Be",
+      "Al",
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Cr",
+      "V",
+      "Fe",
+      "Mn",
+      "Na",
+      "Li",
+      "Cs",
+      "Rb"
+    ],
+    "structural_units": [
+      "Si6O18 six-membered rings of SiO4 tetrahedra (cyclosilicate)",
+      "BeO4 tetrahedra connecting rings",
+      "AlO6 octahedra between ring layers"
+    ],
+    "atomic_structure_notes": "Cyclosilicate (ring silicate). Six SiO4 tetrahedra form closed hexagonal rings stacked along the c-axis, creating channels that can accommodate large alkali cations and water molecules.",
+    "chemistry_notes": "Beryllium is the critical essential element. Color varieties arise from trace chromophores in the channels and substituting for Al: Cr3+ and V3+ produce emerald green, Fe2+/Fe3+ yield aquamarine blue-green and heliodor yellow, Mn2+/Mn3+ cause morganite pink, Cs gives maximum rose in pezzottaite."
+  },
+  "crystallography": {
+    "crystal_system": "hexagonal",
+    "crystal_class": "6/mmm (dihexagonal dipyramidal)",
+    "space_group": "P6/mcc",
+    "unit_cell_notes": "a ≈ 9.21 Å, c ≈ 9.19 Å; Z = 2",
+    "twinning": "Rare; polysynthetic twinning occasionally observed",
+    "crystallography_notes": "Typically forms well-developed hexagonal prisms with flat or slightly striated prism faces. Terminations range from simple basal pinacoid to weak dipyramidal faces. Tabular crystals occur in some metamorphic settings. Crystals can reach enormous sizes in pegmatites (multi-meter specimens recorded)."
+  },
+  "physical_properties": {
+    "mohs_hardness": "7.5–8",
+    "specific_gravity": "2.63–2.92",
+    "luster": [
+      "vitreous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "imperfect/poor basal {0001}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "High hardness and relatively low SG for a gemstone. SG varies with composition; Cs-rich varieties (pezzottaite) reach higher values. Emerald commonly has many inclusions (the 'jardin') making it more brittle in practice."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "colorless",
+      "white"
+    ],
+    "color_profiles": [
+      {
+        "name": "goshenite",
+        "colors": [
+          "colorless",
+          "clear",
+          "white"
+        ],
+        "cause": "Absence of chromophore impurities; near-ideal Be3Al2Si6O18 composition.",
+        "conditions": "Pure beryl in pegmatites and granites.",
+        "variety_name": "goshenite"
+      },
+      {
+        "name": "emerald",
+        "colors": [
+          "vivid-green",
+          "deep-green",
+          "bluish-green"
+        ],
+        "cause": "Cr3+ and/or V3+ substituting for Al3+ in the octahedral site.",
+        "conditions": "Hydrothermal and metamorphic beryl in Cr/V-bearing host rocks; Colombia (hydrothermal veins in black shale), Zambia, Zimbabwe, Brazil.",
+        "variety_name": "emerald"
+      },
+      {
+        "name": "aquamarine",
+        "colors": [
+          "pale-blue",
+          "blue-green",
+          "sky-blue",
+          "sea-blue"
+        ],
+        "cause": "Fe2+ in channel sites (and Fe2+→Fe3+ charge transfer) produces blue hues.",
+        "conditions": "Pegmatites worldwide; heat treatment deepens blue by converting Fe3+ to Fe2+.",
+        "variety_name": "aquamarine"
+      },
+      {
+        "name": "morganite",
+        "colors": [
+          "pink",
+          "peach",
+          "rose",
+          "salmon"
+        ],
+        "cause": "Mn2+/Mn3+ substituting in the structure; sometimes Cs-enrichment.",
+        "conditions": "Li-Cs-rich granitic pegmatites; Madagascar, Brazil, California.",
+        "variety_name": "morganite"
+      },
+      {
+        "name": "heliodor",
+        "colors": [
+          "yellow-green",
+          "golden-yellow",
+          "greenish-yellow"
+        ],
+        "cause": "Fe3+ in channel sites producing yellow; combined Fe2+/Fe3+ gives yellow-green.",
+        "conditions": "Pegmatites; Ukraine, Namibia, Brazil.",
+        "variety_name": "heliodor"
+      },
+      {
+        "name": "red-beryl",
+        "colors": [
+          "red",
+          "scarlet",
+          "raspberry"
+        ],
+        "cause": "Mn3+ substituting for Al3+ in the octahedral site.",
+        "conditions": "Extremely rare; topaz-bearing rhyolites of Utah (Wah Wah Mountains) and New Mexico.",
+        "variety_name": "red-beryl"
+      }
+    ],
+    "habits": [
+      "prismatic",
+      "hexagonal-prism",
+      "tabular",
+      "massive"
+    ],
+    "textures": [
+      "glassy",
+      "crystalline",
+      "included (emerald jardin)"
+    ],
+    "macro_patterns": [
+      "clear",
+      "included",
+      "zoned"
+    ],
+    "common_forms": [
+      "long hexagonal prisms with flat basal terminations",
+      "stubby hexagonal tablets",
+      "massive granular aggregates"
+    ],
+    "visual_notes": "Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Weak to none in most varieties; emerald may show weak red fluorescence under LW UV (Cr-bearing); synthetic emerald often stronger red",
+    "phosphorescence": "",
+    "chatoyancy": "Rare cat's-eye beryl known; requires parallel tube inclusions",
+    "asterism": "Six-rayed star beryl extremely rare",
+    "iridescence": "",
+    "pleochroism": "Moderate in colored varieties: aquamarine shows pale blue / near colorless (dichroic); emerald shows blue-green / yellow-green; morganite shows pink / pale pink",
+    "optical_notes": "Uniaxial negative. RI approximately 1.565–1.602. Birefringence low (~0.005–0.009). Strong pleochroism useful in gem identification."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic",
+      "pegmatitic",
+      "hydrothermal",
+      "metamorphic"
+    ],
+    "geologic_environments": [
+      "granitic pegmatites",
+      "Li-Cs-rich granitic pegmatites",
+      "hydrothermal veins in carbonate and black-shale host rocks",
+      "high-grade metamorphic rocks (schists, gneisses)",
+      "greisens"
+    ],
+    "host_rocks": [
+      "granite",
+      "pegmatite",
+      "schist",
+      "gneiss",
+      "black shale (emerald)",
+      "mica schist (emerald)"
+    ],
+    "associated_minerals": [
+      "feldspar",
+      "quartz",
+      "muscovite",
+      "lepidolite",
+      "tourmaline",
+      "topaz",
+      "fluorite",
+      "columbite-tantalite",
+      "spodumene",
+      "pyrite (in emerald deposits)",
+      "calcite (in Colombian emerald deposits)"
+    ],
+    "locality_scope": "uncommon",
+    "notable_localities": [
+      "Muzo and Chivor, Boyacá, Colombia (premier emerald)",
+      "Sandawana and Masvingo, Zimbabwe (emerald)",
+      "Kafubu district, Zambia (emerald)",
+      "Itabira and Nova Era, Minas Gerais, Brazil (aquamarine, heliodor)",
+      "Erongo, Namibia (aquamarine, heliodor)",
+      "Gilgit-Baltistan, Pakistan (emerald, aquamarine)",
+      "Ural Mountains, Russia (emerald, aquamarine)",
+      "Wah Wah Mountains, Utah, USA (red beryl)",
+      "Pala district, California, USA (morganite, goshenite)",
+      "Volhynia, Ukraine (heliodor)",
+      "Madagascar (morganite, aquamarine)"
+    ],
+    "occurrence_notes": "Requires Be enrichment in melts or fluids, which makes it less common than other silicates. Emerald specifically needs intersection of Be-rich fluids with Cr/V-bearing host rocks — a geologically rare coincidence. Pegmatites are the dominant environment globally."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "Emerald: May birthstone (traditional and modern)",
+      "Aquamarine: March birthstone (modern)"
+    ],
+    "zodiac_associations": [
+      "Emerald: Taurus",
+      "Aquamarine: Pisces, Scorpio"
+    ],
+    "historical_uses": [
+      "Emeralds mined in Egypt at Cleopatra's Mines (Sikait) since at least 300 BCE",
+      "Prized by Aztec and Inca civilizations; large specimens taken to Spain during conquest",
+      "Aquamarine used as a talisman by sailors for safe sea voyages in antiquity",
+      "Beryl lenses used as early magnifying glasses in medieval Europe",
+      "The German word for eyeglasses ('Brille') may derive from 'Beryll'"
+    ],
+    "cultural_associations": [
+      "Emerald associated with Venus, love, and rebirth across many cultures",
+      "Mughal emperors engraved verses onto large emeralds as talismans",
+      "Aquamarine linked to the sea, clarity, and calm in European tradition",
+      "Morganite named after financier J.P. Morgan in 1911 (via G.F. Kunz)"
+    ],
+    "symbolism": [
+      "clarity",
+      "rebirth",
+      "spring",
+      "vision",
+      "sea-voyage"
+    ],
+    "folklore_notes": "Ancient legend held that wearing an emerald could reveal truth — placing it under the tongue would supposedly make a person speak truthfully. Aquamarine was believed to be the treasure of mermaids."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "cyclosilicate-palace",
+      "deep-prism",
+      "beryllium-rainbow",
+      "gem-spectrum",
+      "hexagonal-order"
+    ],
+    "sensory_keywords": [
+      "glassy",
+      "prismatic",
+      "cool",
+      "clear",
+      "saturated"
+    ],
+    "palette_keywords": [
+      "emerald-green",
+      "aqua-blue",
+      "morganite-rose",
+      "heliodor-gold",
+      "goshenite-clear"
+    ],
+    "aesthetic_roles": [
+      "gem-spectrum anchor",
+      "prismatic column mineral",
+      "color variety showcase",
+      "beryllium rarity marker"
+    ],
+    "vibe_notes": "Beryl is a color-variety powerhouse — a single species that spans the gem rainbow from green to blue to pink to gold, all from trace chromophore swaps in the same hexagonal prism lattice."
+  },
+  "practical_notes": {
+    "toxicity": "Beryllium-bearing dust is hazardous if inhaled (berylliosis risk). Finished gems and intact specimens are safe to handle. Do not grind or sand without proper respiratory protection.",
+    "handling_notes": "Emerald is relatively brittle due to heavy inclusions; avoid impact. Other gem varieties more durable. Conchoidal fracture means chips are sharp.",
+    "care_notes": "Avoid ultrasonic and steam cleaners (especially for emerald, which is often oil-treated). Clean with warm water and mild soap. Store separately to prevent scratching softer gems.",
+    "treatments_or_synthetics": [
+      "Emerald: routine oiling/resin filling of fractures (F1–F3 on GIA scale) is industry standard",
+      "Aquamarine: heat treatment to remove green/yellow tint and produce pure blue is common and stable",
+      "Synthetic emerald (hydrothermal and flux): widely available; distinguished by inclusions and spectroscopy",
+      "Synthetic aquamarine: less common commercially",
+      "Irradiation: used on some goshenite and heliodor to produce maxixe-type deep blue (unstable, fades)"
+    ],
+    "common_confusions": [
+      "Emerald vs. green tourmaline (tsavorite garnet, demantoid garnet)",
+      "Aquamarine vs. blue topaz, blue glass",
+      "Morganite vs. rose quartz, pink topaz, kunzite",
+      "Heliodor vs. yellow topaz, citrine"
+    ],
+    "market_notes": "Emerald commands premium prices; Colombian emeralds with strong saturation are among the most valuable colored stones per carat. Treatment disclosure essential. Aquamarine and morganite are more affordable and widely available."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [
+      "muscovite",
+      "chlorite",
+      "kaolin (as 'emerylite' pseudomorphs)"
+    ],
+    "lookalikes": [
+      "tourmaline",
+      "topaz",
+      "green apatite",
+      "hiddenite (spodumene)",
+      "green fluorite"
+    ],
+    "related_species": [
+      "pezzottaite",
+      "stoppaniite",
+      "bazzite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "gemstone",
+      "cyclosilicate",
+      "ring-silicate",
+      "beryllium",
+      "color-variety",
+      "hexagonal",
+      "high-priority",
+      "pegmatite"
+    ],
+    "search_boost_terms": [
+      "emerald",
+      "aquamarine",
+      "morganite",
+      "heliodor",
+      "beryl crystal",
+      "goshenite",
+      "beryllium silicate"
+    ],
+    "prompt_fragments": [
+      "hexagonal beryl prism in forest green",
+      "aquamarine sea-glass clarity",
+      "morganite rose-peach pegmatite gem",
+      "emerald jardin vivid green"
+    ],
+    "ui_color_hint": [
+      "emerald-green",
+      "aqua-blue",
+      "morganite-rose",
+      "heliodor-gold",
+      "clear-white"
+    ],
+    "priority_score": 88
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.88,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-591.html",
+      "https://www.gia.edu/emerald",
+      "https://www.gia.edu/aquamarine"
+    ],
+    "notes": "All varieties, color causes, and localities are scientifically verified. Berylliosis toxicity note applies to industrial dust exposure, not normal specimen handling."
+  }
+}

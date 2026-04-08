@@ -1,0 +1,55 @@
+{
+  "id": "corundum",
+  "display_name": "Corundum",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "gray",
+    "brown",
+    "colorless"
+  ],
+  "visual_notes": "Gem-quality crystals prized as ruby and sapphire. Non-gem material is gray-brown and often massive. Silk inclusions produce asterism in star rubies and sapphires.",
+  "prompt_fragments": [
+    "barrel-shaped trigonal corundum crystals",
+    "chromium fire of ruby red",
+    "midnight blue of sapphire iron-titanium charge transfer",
+    "six-rayed asterism from silk inclusions"
+  ],
+  "mood_keywords": [
+    "extreme-hardness",
+    "chromium-fire",
+    "sapphire-night",
+    "crystallographic-pinnacle",
+    "royal-depth"
+  ],
+  "sensory_keywords": [
+    "gemstone-brilliance",
+    "six-rayed-star",
+    "silky-asterism",
+    "blood-red",
+    "midnight-blue"
+  ],
+  "palette_keywords": [
+    "pigeon-blood-red",
+    "cornflower-blue",
+    "golden-yellow",
+    "salmon-padparadscha",
+    "steel-gray"
+  ],
+  "aesthetic_roles": [
+    "apex gemstone",
+    "hardness benchmark",
+    "chromatic extremes",
+    "crown-jewel mineral"
+  ],
+  "vibe_notes": "Corundum occupies the extreme end of mineral hardness and gem value. Ruby and sapphire represent fire and sky — the two poles of corundum's chromatic identity.",
+  "symbolism": [
+    "passion",
+    "royalty",
+    "fidelity",
+    "protection",
+    "wisdom"
+  ],
+  "folklore_summary": "Rubies were called 'ratnaraj' (king of gems) in Sanskrit texts. Sapphire was associated with divine favor in medieval European Christianity."
+}

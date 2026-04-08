@@ -18,7 +18,7 @@ classification:
     - heliotrope
 
 identifiers:
-  ima_status: variety
+  ima_status: not_ima
   mindat_id: 957
   other_ids: {}
 
@@ -44,7 +44,7 @@ crystallography:
 physical_properties:
   mohs_hardness: "6.5–7"
   specific_gravity: "2.58–2.64"
-  luster: [waxy, dull, silky]
+  luster: [waxy, earthy, silky]
   streak: white
   transparency: [translucent, opaque]
   cleavage: []

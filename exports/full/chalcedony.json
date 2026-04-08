@@ -1,0 +1,346 @@
+{
+  "id": "chalcedony",
+  "slug": "chalcedony",
+  "display_name": "Chalcedony",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "silica-group",
+    "species_status": "variety",
+    "parent_species": "quartz",
+    "related_varieties": [
+      "carnelian",
+      "chrysoprase",
+      "agate",
+      "jasper",
+      "onyx",
+      "sard",
+      "bloodstone",
+      "heliotrope"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 957,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "SiO2",
+    "simplified_formula": "SiO2",
+    "essential_elements": [
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Ni",
+      "Mn",
+      "Al",
+      "H"
+    ],
+    "structural_units": [
+      "SiO4 tetrahedra linked into a 3D framework",
+      "microcrystalline fibrous quartz aggregates"
+    ],
+    "atomic_structure_notes": "Cryptocrystalline to microcrystalline silica; individual crystal fibers too small to resolve without electron microscopy.",
+    "chemistry_notes": "Essentially pure SiO2 with trace impurities governing color. Composed of intergrown microcrystalline quartz and moganite in variable proportions."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "32 trapezohedral (individual crystals)",
+    "space_group": "P3121 / P3221",
+    "unit_cell_notes": "Microcrystalline; unit cell as quartz but crystals are submicroscopic.",
+    "twinning": "",
+    "crystallography_notes": "Masses of interlocking microfibers without macroscopic crystal faces. Fibrous chalcedony has fibers oriented perpendicular to growth surfaces."
+  },
+  "physical_properties": {
+    "mohs_hardness": "6.5–7",
+    "specific_gravity": "2.58–2.64",
+    "luster": [
+      "waxy",
+      "earthy",
+      "silky"
+    ],
+    "streak": "white",
+    "transparency": [
+      "translucent",
+      "opaque"
+    ],
+    "cleavage": [],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Lacks distinct cleavage due to microcrystalline structure. Conchoidal fracture typical. More porous than coarse quartz; can absorb water and dyes."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "white",
+      "gray",
+      "pale-blue"
+    ],
+    "color_profiles": [
+      {
+        "name": "chalcedony-blue",
+        "colors": [
+          "blue-gray",
+          "pale-blue",
+          "lavender-gray"
+        ],
+        "cause": "Rayleigh scattering of light through the microporous fibrous structure.",
+        "conditions": "Pure or low-impurity chalcedony.",
+        "variety_name": "blue-chalcedony"
+      },
+      {
+        "name": "carnelian",
+        "colors": [
+          "orange-red",
+          "reddish-brown",
+          "amber-orange"
+        ],
+        "cause": "Iron oxide (hematite/goethite) inclusions.",
+        "conditions": "Iron-bearing chalcedony; color often heat-enhanced in the trade.",
+        "variety_name": "carnelian"
+      },
+      {
+        "name": "chrysoprase",
+        "colors": [
+          "apple-green",
+          "emerald-green",
+          "minty-green"
+        ],
+        "cause": "Nickel (as nickeloan talc or willemseite) imparting green.",
+        "conditions": "Nickel-bearing chalcedony from lateritic weathering zones.",
+        "variety_name": "chrysoprase"
+      },
+      {
+        "name": "onyx",
+        "colors": [
+          "black",
+          "black-and-white banded"
+        ],
+        "cause": "Parallel straight bands; black from carbon or manganese inclusions.",
+        "conditions": "Banded form with straight parallel layers; commonly dyed in trade.",
+        "variety_name": "onyx"
+      },
+      {
+        "name": "bloodstone",
+        "colors": [
+          "dark-green with red spots"
+        ],
+        "cause": "Green from chlorite inclusions; red spots from iron oxide (hematite/jasper).",
+        "conditions": "Specific microinclusion pattern.",
+        "variety_name": "bloodstone"
+      }
+    ],
+    "habits": [
+      "massive",
+      "botryoidal",
+      "stalactitic",
+      "nodular",
+      "mammillary",
+      "vein-filling",
+      "pseudomorphic"
+    ],
+    "textures": [
+      "waxy",
+      "smooth",
+      "silky",
+      "porcelaneous"
+    ],
+    "macro_patterns": [
+      "uniform",
+      "banded",
+      "mottled",
+      "dendritic"
+    ],
+    "common_forms": [
+      "rounded nodules",
+      "botryoidal crusts",
+      "vein fillings",
+      "geode linings",
+      "polished cabochons"
+    ],
+    "visual_notes": "Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Variable; some specimens weakly fluorescent under UV.",
+    "phosphorescence": "",
+    "chatoyancy": "Weak; fibrous varieties can show faint cat's eye in cabochon cut.",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "",
+    "optical_notes": "Blue chalcedony color is partly a scattering effect, not a true absorption color."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "hydrothermal",
+      "sedimentary",
+      "weathering"
+    ],
+    "geologic_environments": [
+      "hydrothermal veins",
+      "vesicles in volcanic rocks",
+      "sedimentary replacement zones",
+      "hot springs deposits",
+      "geodes",
+      "silicified wood and fossils"
+    ],
+    "host_rocks": [
+      "basalt",
+      "andesite",
+      "limestone",
+      "sandstone",
+      "chert beds"
+    ],
+    "associated_minerals": [
+      "quartz",
+      "opal",
+      "zeolites",
+      "calcite",
+      "goethite",
+      "amethyst"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [
+      "Namibia (blue chalcedony)",
+      "Uruguay (botryoidal forms)",
+      "Brazil (agate/chalcedony geodes)",
+      "India (carnelian; carnelian trade)",
+      "Turkey (Sardis; historical carnelian)",
+      "United States (Oregon, California)",
+      "Australia (chrysoprase, Marlborough)",
+      "Poland (chrysoprase, Szklary)"
+    ],
+    "occurrence_notes": "One of the most widespread silica minerals globally. Fills vesicles, veins, and voids across a huge range of geological settings."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Prehistoric tool-making (flint/chert, which are varieties)",
+      "Seal stones and signet rings in antiquity",
+      "Carnelian used extensively in ancient Egyptian, Mesopotamian, and Greek jewelry",
+      "Bloodstone used as a healing amulet in medieval Europe"
+    ],
+    "cultural_associations": [
+      "Carnelian: ancient Egyptian protection and vitality",
+      "Bloodstone: associated with the crucifixion in medieval Christian tradition",
+      "Chrysoprase: prized by Alexander the Great; carried as a talisman"
+    ],
+    "symbolism": [
+      "protection",
+      "endurance",
+      "calm",
+      "clarity"
+    ],
+    "folklore_notes": "Carnelian (a chalcedony variety) was one of the most important gem materials of the ancient world, used in amulets, seals, and jewelry across Egypt, Mesopotamia, and Rome."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "cave-milk",
+      "smooth-tension",
+      "ghost-layer",
+      "cool-surface"
+    ],
+    "sensory_keywords": [
+      "smooth",
+      "waxy",
+      "cool-to-touch",
+      "translucent",
+      "soft-glowing"
+    ],
+    "palette_keywords": [
+      "blue-gray",
+      "pale-ghost-white",
+      "warm-orange",
+      "apple-green",
+      "cream"
+    ],
+    "aesthetic_roles": [
+      "ghost stone",
+      "smooth backdrop mineral",
+      "ancient seal material",
+      "palette chameleon"
+    ],
+    "vibe_notes": "Chalcedony reads as quiet, cool, and internally lit. The waxy surface has a specific tactile quality — smooth and almost skin-like. The blue form evokes fog, still water, and negative space."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Durable and safe for handling. Fine silica dust hazard if grinding or cutting; use respiratory protection.",
+    "care_notes": "Avoid harsh acids or strong alkalies. Porous specimens can absorb chemicals and stains. Ultrasonic cleaning safe for most specimens.",
+    "treatments_or_synthetics": [
+      "Dyeing very common in trade (especially black 'onyx', blue chalcedony)",
+      "Heat treatment of carnelian widespread to intensify color",
+      "Synthetic SiO2 materials exist but not common as chalcedony simulants"
+    ],
+    "common_confusions": [
+      "agate (banded chalcedony)",
+      "opal",
+      "howlite (when dyed blue)",
+      "turquoise (blue-dyed chalcedony frequently sold as turquoise)"
+    ],
+    "market_notes": "Huge and diverse market. Carnelian, chrysoprase, onyx, and bloodstone are major trade categories. Dyed blue 'chalcedony' is pervasive. Some blue chalcedony from Namibia is among the most valuable."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "opal",
+      "blue lace agate",
+      "howlite",
+      "turquoise"
+    ],
+    "related_species": [
+      "quartz",
+      "agate",
+      "jasper",
+      "chert",
+      "flint",
+      "moganite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "microcrystalline",
+      "silica",
+      "waxy",
+      "variety",
+      "widespread",
+      "ancient-material",
+      "translucent"
+    ],
+    "search_boost_terms": [
+      "chalcedony",
+      "microcrystalline quartz",
+      "carnelian",
+      "chrysoprase",
+      "blue chalcedony",
+      "waxy silica",
+      "onyx"
+    ],
+    "prompt_fragments": [
+      "waxy translucent microcrystalline silica",
+      "smooth ghost-white blue chalcedony surface",
+      "botryoidal cave-milk formations"
+    ],
+    "ui_color_hint": [
+      "pale-blue",
+      "gray-white",
+      "warm-orange",
+      "apple-green"
+    ],
+    "priority_score": 85
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.82,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-957.html"
+    ],
+    "notes": ""
+  }
+}

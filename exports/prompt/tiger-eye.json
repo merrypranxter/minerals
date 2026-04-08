@@ -1,0 +1,51 @@
+{
+  "id": "tiger-eye",
+  "display_name": "Tiger's Eye",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "golden-brown",
+    "amber-brown",
+    "yellow-brown"
+  ],
+  "visual_notes": "Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section.",
+  "prompt_fragments": [
+    "golden silky chatoyant cat's eye effect in amber-brown fibrous silica",
+    "predator-eye desert surveillance mineral with shimmering fiber bands",
+    "pseudomorph after crocidolite with iron oxide golden shimmer"
+  ],
+  "mood_keywords": [
+    "predator-eye",
+    "desert-vision",
+    "amber-surveillance",
+    "geological-watchfulness"
+  ],
+  "sensory_keywords": [
+    "silky",
+    "shimmering",
+    "warm",
+    "directional",
+    "fibrous"
+  ],
+  "palette_keywords": [
+    "amber-gold",
+    "dark-honey",
+    "burnt-sienna-band",
+    "iron-shadow"
+  ],
+  "aesthetic_roles": [
+    "chatoyant accent stone",
+    "feral mineral",
+    "desert surveillance material",
+    "optical-effect anchor"
+  ],
+  "vibe_notes": "Tiger's eye has a quality of focused, watchful warmth — it looks like something is looking back. The chatoyancy gives it movement and life. The amber-gold color range places it in hot, dry, predatory aesthetic territory.",
+  "symbolism": [
+    "vigilance",
+    "focus",
+    "predator-awareness",
+    "grounding"
+  ],
+  "folklore_summary": "The cat's eye effect has long been associated with the protective gaze of predatory animals. Tiger's eye has been used as a protective talisman against the evil eye in various traditions."
+}

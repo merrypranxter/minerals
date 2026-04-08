@@ -1,0 +1,3966 @@
+{
+  "format": "palette",
+  "count": 46,
+  "minerals": [
+    {
+      "id": "agate",
+      "display_name": "Agate",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "rust-orange",
+        "cream",
+        "gray-band",
+        "blue-lace"
+      ],
+      "baseline_colors": [
+        "multicolor-banded",
+        "white-gray-banded"
+      ],
+      "color_profiles": [
+        {
+          "name": "classic-banded",
+          "colors": [
+            "white",
+            "gray",
+            "cream",
+            "light-brown"
+          ],
+          "variety_name": null,
+          "cause": "Alternating microporosity and impurity concentration in silica bands."
+        },
+        {
+          "name": "iron-banded",
+          "colors": [
+            "red",
+            "orange",
+            "yellow",
+            "brown",
+            "black"
+          ],
+          "variety_name": null,
+          "cause": "Iron oxides (hematite, goethite, limonite) concentrated in alternating bands."
+        },
+        {
+          "name": "blue-lace-agate",
+          "colors": [
+            "pale-blue",
+            "white",
+            "lavender"
+          ],
+          "variety_name": "blue-lace-agate",
+          "cause": "Scattering effects and trace impurities; very fine banding."
+        },
+        {
+          "name": "fire-agate",
+          "colors": [
+            "iridescent orange",
+            "red",
+            "green",
+            "gold over brown base"
+          ],
+          "variety_name": "fire-agate",
+          "cause": "Thin-film interference from layered iron oxide (goethite) inclusions within silica layers."
+        },
+        {
+          "name": "moss-agate",
+          "colors": [
+            "colorless to white with green or brown moss-like inclusions"
+          ],
+          "variety_name": "moss-agate",
+          "cause": "Dendritic or filiform chlorite, hornblende, or manganese oxide inclusions."
+        },
+        {
+          "name": "onyx",
+          "colors": [
+            "black and white parallel bands"
+          ],
+          "variety_name": "onyx",
+          "cause": "Straight parallel banding with black bands (carbon or manganese) and white bands."
+        }
+      ],
+      "habits": [
+        "nodular",
+        "geode-lining",
+        "vein-filling",
+        "amygdaloidal",
+        "layered slab"
+      ],
+      "textures": [
+        "waxy",
+        "smooth",
+        "layered",
+        "banded"
+      ],
+      "luster": [
+        "waxy",
+        "earthy"
+      ],
+      "visual_notes": "Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls.",
+      "optical_effects": {
+        "fluorescence": "Variable; some specimens show greenish or yellowish fluorescence under UV.",
+        "iridescence": "Fire agate shows vivid iridescence from thin-film interference in iron oxide layers.",
+        "play_of_color": "Fire agate shows vivid iridescence from thin-film interference in iron oxide layers.",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "alexandrite",
+      "display_name": "Alexandrite",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#2ECC71",
+        "#C0392B",
+        "#8E44AD"
+      ],
+      "baseline_colors": [
+        "green (daylight)",
+        "red-purple (incandescent light)"
+      ],
+      "color_profiles": [
+        {
+          "name": "Classic Alexandrite Color Change",
+          "colors": [
+            "emerald-green to bluish-green in daylight; red to purplish-red in incandescent light"
+          ],
+          "variety_name": null,
+          "cause": "Cr3+ in BeAl2O4 orthorhombic field: dual transmission windows in red and blue-green of visible spectrum; daylight (blue-rich) emphasizes green transmission; incandescent (red-rich) emphasizes red transmission."
+        },
+        {
+          "name": "Brazilian Alexandrite",
+          "colors": [
+            "brownish-green to brownish-red; less vivid than Russian"
+          ],
+          "variety_name": null,
+          "cause": "Same Cr3+ mechanism; slight Fe contamination shifts color toward brown."
+        },
+        {
+          "name": "Cat's Eye Alexandrite",
+          "colors": [
+            "color-change + chatoyant white eye"
+          ],
+          "variety_name": "alexandrite-cat-eye",
+          "cause": "Color change from Cr3+ combined with chatoyancy from parallel tube inclusions or needle inclusions."
+        }
+      ],
+      "habits": [
+        "prismatic tabular",
+        "cyclic trillings (pseudohexagonal rosettes)",
+        "heart-shaped twins",
+        "rounded alluvial pebbles"
+      ],
+      "textures": [
+        "glassy",
+        "vitreous luster",
+        "sometimes silk inclusions"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Alexandrite is unique — a single stone with two identities. Under northern daylight or fluorescent light it is distinctly green; under incandescent (candle, tungsten) light it turns vivid red-purple. The best Russian specimens shift from 'emerald' to 'ruby' — an impossible color change nicknamed 'the emerald by day, ruby by night' gem. No other natural gemstone produces such a dramatic and complete color change.",
+      "optical_effects": {
+        "fluorescence": "Moderate red fluorescence under UV (Cr3+ emission, same mechanism as ruby)",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Cat's eye alexandrite — strong chatoyancy from oriented needles; combines color change + cat's eye",
+        "asterism": "Extremely rare four-rayed star alexandrite documented"
+      }
+    },
+    {
+      "id": "amber",
+      "display_name": "Amber",
+      "chemistry_class": "organic",
+      "species_status": "mineraloid",
+      "ui_color_hint": [
+        "#FFBF00",
+        "#D4A017",
+        "#C47A2B"
+      ],
+      "baseline_colors": [
+        "yellow",
+        "golden-yellow",
+        "orange",
+        "honey"
+      ],
+      "color_profiles": [
+        {
+          "name": "Baltic Golden / Honey Amber",
+          "colors": [
+            "golden-yellow",
+            "amber-yellow",
+            "honey",
+            "orange-amber"
+          ],
+          "variety_name": "baltic-amber",
+          "cause": "Oxidation and polymerization of original resin; iron oxide traces may deepen color."
+        },
+        {
+          "name": "Butterscotch / Opaque Amber",
+          "colors": [
+            "creamy-yellow",
+            "pale-orange",
+            "butterscotch"
+          ],
+          "variety_name": null,
+          "cause": "Micro-bubbles of water and air trapped during resin flow; scattering makes amber opaque."
+        },
+        {
+          "name": "Dominican Blue / Green Amber",
+          "colors": [
+            "blue",
+            "blue-green when viewed in reflected light; golden in transmitted light"
+          ],
+          "variety_name": "dominican-amber",
+          "cause": "Fluorescent compounds (polycyclic aromatic hydrocarbons from combustion in ancient forest fires) producing strong blue fluorescence that dominates reflected light view."
+        },
+        {
+          "name": "Red / Cherry Amber",
+          "colors": [
+            "deep-red",
+            "cherry-red",
+            "ox-blood"
+          ],
+          "variety_name": null,
+          "cause": "Prolonged oxidation of surface or ancient oxidized material."
+        },
+        {
+          "name": "Burmese Amber (Burmite)",
+          "colors": [
+            "deep-orange",
+            "red-orange",
+            "dark-brown"
+          ],
+          "variety_name": "burmese-amber",
+          "cause": "Age (100+ Ma — oldest significant amber) and specific resin chemistry of ancient Araucarian trees."
+        }
+      ],
+      "habits": [
+        "massive nodular",
+        "irregular droplets and flows",
+        "stalactitic (resin drips)",
+        "rounded pebbles (beach/alluvial)"
+      ],
+      "textures": [
+        "smooth glassy interior",
+        "weathered rough crust",
+        "resinous",
+        "translucent to opaque"
+      ],
+      "luster": [
+        "resinous"
+      ],
+      "visual_notes": "Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects.",
+      "optical_effects": {
+        "fluorescence": "Significant fluorescence under UV — blue-white fluorescence common in Baltic amber; Dominican amber shows intense blue fluorescence (responsible for its blue color in daylight)",
+        "iridescence": "Dominican blue amber shows strong blue-green iridescence from fluorescence; some amber shows interference colors in reflected light",
+        "play_of_color": "Dominican blue amber shows strong blue-green iridescence from fluorescence; some amber shows interference colors in reflected light",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "amethyst",
+      "display_name": "Amethyst",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#9966CC",
+        "#7B2FBE",
+        "#D8B4FE"
+      ],
+      "baseline_colors": [
+        "purple",
+        "violet",
+        "lavender"
+      ],
+      "color_profiles": [
+        {
+          "name": "Deep Siberian Amethyst",
+          "colors": [
+            "deep-purple",
+            "vivid-violet with red flash"
+          ],
+          "variety_name": null,
+          "cause": "High Fe4+ color center density; optimal iron content and irradiation history."
+        },
+        {
+          "name": "Standard Amethyst",
+          "colors": [
+            "medium-purple",
+            "violet",
+            "lavender-purple"
+          ],
+          "variety_name": null,
+          "cause": "Fe4+ color centers at moderate concentration."
+        },
+        {
+          "name": "Rose de France Amethyst",
+          "colors": [
+            "pale-lavender",
+            "pale-lilac",
+            "light-mauve"
+          ],
+          "variety_name": null,
+          "cause": "Low Fe4+ color center density."
+        },
+        {
+          "name": "Ametrine",
+          "colors": [
+            "purple and yellow-orange bicolor zones"
+          ],
+          "variety_name": "ametrine",
+          "cause": "Temperature and oxidation state gradient during crystal growth produces amethyst (cooler zones) and citrine (warmer/more oxidizing zones) in one crystal."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "pyramidal terminations",
+        "druse (crystal-lined geode interior)",
+        "massive",
+        "phantoms"
+      ],
+      "textures": [
+        "glassy",
+        "crystalline",
+        "angular color zones"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Amethyst geodes from Brazil and Uruguay are among the most recognizable mineral display specimens globally. Hollow cavite filled with violet crystals pointing inward. The finest deep Siberian-grade material shows a red flash under incandescent light. Color zoning in angular patterns is characteristic and diagnostic.",
+      "optical_effects": {
+        "fluorescence": "Typically none to very weak; some pale specimens show weak bluish or greenish fluorescence",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "aquamarine",
+      "display_name": "Aquamarine",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#7FFFD4",
+        "#00BFFF",
+        "#4FC3F7"
+      ],
+      "baseline_colors": [
+        "pale-blue",
+        "blue-green",
+        "blue"
+      ],
+      "color_profiles": [
+        {
+          "name": "Santa Maria Aquamarine",
+          "colors": [
+            "deep-blue",
+            "vivid-blue",
+            "saturated medium-blue"
+          ],
+          "variety_name": null,
+          "cause": "Higher Fe2+ content; optimum Fe2+/Fe3+ ratio for deepest blue."
+        },
+        {
+          "name": "Classic Aquamarine (Pale Blue)",
+          "colors": [
+            "pale-blue",
+            "sky-blue",
+            "light-blue"
+          ],
+          "variety_name": null,
+          "cause": "Fe2+ at moderate concentration."
+        },
+        {
+          "name": "Blue-Green Aquamarine",
+          "colors": [
+            "blue-green",
+            "sea-green-blue",
+            "teal-blue"
+          ],
+          "variety_name": null,
+          "cause": "Mixed Fe2+ (blue) and Fe3+ (yellowish) contributions."
+        },
+        {
+          "name": "Maxixe (Deep Blue — Unstable)",
+          "colors": [
+            "deep-blue",
+            "intense-blue"
+          ],
+          "variety_name": "maxixe",
+          "cause": "Color centers from natural irradiation (not Fe); color fades in light"
+        }
+      ],
+      "habits": [
+        "prismatic hexagonal",
+        "tabular",
+        "massive"
+      ],
+      "textures": [
+        "glassy",
+        "clear to slightly included",
+        "striated prismatic faces"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Aquamarine is the sea captured in hexagonal beryl — pale to deep blue with the clarity of tropical water. The Dom Pedro aquamarine (Smithsonian, carved by Bernd Munsteiner) is the largest faceted aquamarine in the world (10,363 ct). Long prismatic crystal form with striated faces is characteristic of large rough specimens.",
+      "optical_effects": {
+        "fluorescence": "None typically",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Very rare cat's eye aquamarine",
+        "asterism": "Extremely rare"
+      }
+    },
+    {
+      "id": "azurite",
+      "display_name": "Azurite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#1E5799",
+        "#003399",
+        "#2244AA"
+      ],
+      "baseline_colors": [
+        "deep-blue",
+        "azure-blue",
+        "indigo-blue"
+      ],
+      "color_profiles": [
+        {
+          "name": "Azurite Blue",
+          "colors": [
+            "deep-azure-blue",
+            "royal-blue",
+            "vivid-blue",
+            "indigo"
+          ],
+          "variety_name": null,
+          "cause": "Cu2+ d-d electronic transition in distorted Jahn-Teller coordination; same chromophore mechanism as other blue copper minerals."
+        },
+        {
+          "name": "Azurmalachite",
+          "colors": [
+            "blue-green",
+            "teal",
+            "blue with green swirls"
+          ],
+          "variety_name": "azurmalachite",
+          "cause": "Intimate intergrowth of azurite (blue) and malachite (green)."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "tabular",
+        "equant",
+        "radiating",
+        "botryoidal",
+        "nodular",
+        "earthy",
+        "massive",
+        "rosette",
+        "acicular"
+      ],
+      "textures": [
+        "glassy (crystals)",
+        "earthy (massive)",
+        "velvety (fine-grained aggregates)"
+      ],
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "visual_notes": "Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy.",
+      "optical_effects": {
+        "fluorescence": "None typical",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "beryl",
+      "display_name": "Beryl",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "emerald-green",
+        "aqua-blue",
+        "morganite-rose",
+        "heliodor-gold",
+        "clear-white"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white"
+      ],
+      "color_profiles": [
+        {
+          "name": "goshenite",
+          "colors": [
+            "colorless",
+            "clear",
+            "white"
+          ],
+          "variety_name": "goshenite",
+          "cause": "Absence of chromophore impurities; near-ideal Be3Al2Si6O18 composition."
+        },
+        {
+          "name": "emerald",
+          "colors": [
+            "vivid-green",
+            "deep-green",
+            "bluish-green"
+          ],
+          "variety_name": "emerald",
+          "cause": "Cr3+ and/or V3+ substituting for Al3+ in the octahedral site."
+        },
+        {
+          "name": "aquamarine",
+          "colors": [
+            "pale-blue",
+            "blue-green",
+            "sky-blue",
+            "sea-blue"
+          ],
+          "variety_name": "aquamarine",
+          "cause": "Fe2+ in channel sites (and Fe2+→Fe3+ charge transfer) produces blue hues."
+        },
+        {
+          "name": "morganite",
+          "colors": [
+            "pink",
+            "peach",
+            "rose",
+            "salmon"
+          ],
+          "variety_name": "morganite",
+          "cause": "Mn2+/Mn3+ substituting in the structure; sometimes Cs-enrichment."
+        },
+        {
+          "name": "heliodor",
+          "colors": [
+            "yellow-green",
+            "golden-yellow",
+            "greenish-yellow"
+          ],
+          "variety_name": "heliodor",
+          "cause": "Fe3+ in channel sites producing yellow; combined Fe2+/Fe3+ gives yellow-green."
+        },
+        {
+          "name": "red-beryl",
+          "colors": [
+            "red",
+            "scarlet",
+            "raspberry"
+          ],
+          "variety_name": "red-beryl",
+          "cause": "Mn3+ substituting for Al3+ in the octahedral site."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "hexagonal-prism",
+        "tabular",
+        "massive"
+      ],
+      "textures": [
+        "glassy",
+        "crystalline",
+        "included (emerald jardin)"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals.",
+      "optical_effects": {
+        "fluorescence": "Weak to none in most varieties; emerald may show weak red fluorescence under LW UV (Cr-bearing); synthetic emerald often stronger red",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Rare cat's-eye beryl known; requires parallel tube inclusions",
+        "asterism": "Six-rayed star beryl extremely rare"
+      }
+    },
+    {
+      "id": "calcite",
+      "display_name": "Calcite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#FFFEF0",
+        "#F5C5B0",
+        "#F0E6CC"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white",
+        "gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "Colorless / Iceland Spar",
+          "colors": [
+            "colorless",
+            "water-clear"
+          ],
+          "variety_name": "iceland-spar",
+          "cause": "Absence of chromophore impurities; pure CaCO3."
+        },
+        {
+          "name": "White / Chalk / Limestone",
+          "colors": [
+            "white",
+            "cream",
+            "off-white"
+          ],
+          "variety_name": null,
+          "cause": "Microcrystalline or fine-grained aggregate; scattering of light."
+        },
+        {
+          "name": "Mangano-Calcite",
+          "colors": [
+            "pale-pink",
+            "rose-pink",
+            "lavender-pink"
+          ],
+          "variety_name": "mangano-calcite",
+          "cause": "Mn2+ substituting for Ca2+ in the octahedral site."
+        },
+        {
+          "name": "Orange / Amber Calcite",
+          "colors": [
+            "honey-yellow",
+            "orange",
+            "amber"
+          ],
+          "variety_name": null,
+          "cause": "Iron oxides and organic matter inclusions."
+        },
+        {
+          "name": "Green Calcite",
+          "colors": [
+            "pale-green",
+            "celadon-green"
+          ],
+          "variety_name": null,
+          "cause": "Chlorite inclusions or trace impurities."
+        },
+        {
+          "name": "Blue Calcite",
+          "colors": [
+            "sky-blue",
+            "pale-blue"
+          ],
+          "variety_name": null,
+          "cause": "Trace impurities or structural defects; exact mechanism varies."
+        },
+        {
+          "name": "Black Calcite",
+          "colors": [
+            "dark-gray",
+            "black"
+          ],
+          "variety_name": null,
+          "cause": "Organic matter inclusions (bitumen)."
+        }
+      ],
+      "habits": [
+        "scalenohedral (dogtooth)",
+        "rhombohedral (nailhead)",
+        "prismatic",
+        "acicular",
+        "tabular",
+        "massive",
+        "granular",
+        "stalactitic",
+        "botryoidal",
+        "oolitic",
+        "fibrous (satin spar)"
+      ],
+      "textures": [
+        "glassy (single crystals)",
+        "pearly on cleavage faces",
+        "fibrous silky (satin spar)",
+        "granular (marble, limestone)",
+        "chalky"
+      ],
+      "luster": [
+        "vitreous",
+        "pearly",
+        "earthy"
+      ],
+      "visual_notes": "Calcite's extraordinary morphological diversity makes it among the most recognizable minerals despite no single defining habit. Clear Iceland spar shows remarkable double refraction — images appear doubled. Dogtooth clusters are among the most architecturally beautiful mineral specimens.",
+      "optical_effects": {
+        "fluorescence": "Highly variable — many specimens fluoresce red, pink, orange, yellow, or blue under UV; mangano-calcite often fluoresces vivid pink-red under SW UV",
+        "iridescence": "Rare iridescence from thin-film interference in some specimens",
+        "play_of_color": "Rare iridescence from thin-film interference in some specimens",
+        "chatoyancy": "Fibrous satin-spar calcite shows cat's eye effect",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "celestite",
+      "display_name": "Celestite",
+      "chemistry_class": "sulfate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#B0D4E8",
+        "#87CEEB",
+        "#DDEEFF"
+      ],
+      "baseline_colors": [
+        "pale-blue",
+        "colorless",
+        "white"
+      ],
+      "color_profiles": [
+        {
+          "name": "Blue Celestite",
+          "colors": [
+            "sky-blue",
+            "pale-blue",
+            "ice-blue",
+            "cerulean"
+          ],
+          "variety_name": "blue-celestite",
+          "cause": "Color centers from trace impurities and/or radiation effects; mechanism not fully established."
+        },
+        {
+          "name": "Colorless / White Celestite",
+          "colors": [
+            "colorless",
+            "white",
+            "pale-gray"
+          ],
+          "variety_name": null,
+          "cause": "Absence of chromophore; pure SrSO4."
+        },
+        {
+          "name": "Orange / Yellow Celestite",
+          "colors": [
+            "pale-orange",
+            "pale-yellow",
+            "cream-orange"
+          ],
+          "variety_name": null,
+          "cause": "Iron oxide staining or trace impurities."
+        }
+      ],
+      "habits": [
+        "tabular",
+        "prismatic",
+        "fibrous",
+        "massive",
+        "granular",
+        "geode clusters"
+      ],
+      "textures": [
+        "glassy on crystal faces",
+        "pearly on cleavage",
+        "fibrous silky"
+      ],
+      "luster": [
+        "vitreous",
+        "pearly"
+      ],
+      "visual_notes": "Madagascar celestite geodes — hollow limestone nodules lined with pale-blue tabular crystals — are among the most widely sold mineral specimens globally. The celestial blue color is gentle and consistent. Crystals often have a translucent quality with pearly luster on cleavage surfaces.",
+      "optical_effects": {
+        "fluorescence": "Some specimens fluoresce pale blue or white under SW UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Fibrous material may show weak cat's eye",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "chalcedony",
+      "display_name": "Chalcedony",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "pale-blue",
+        "gray-white",
+        "warm-orange",
+        "apple-green"
+      ],
+      "baseline_colors": [
+        "white",
+        "gray",
+        "pale-blue"
+      ],
+      "color_profiles": [
+        {
+          "name": "chalcedony-blue",
+          "colors": [
+            "blue-gray",
+            "pale-blue",
+            "lavender-gray"
+          ],
+          "variety_name": "blue-chalcedony",
+          "cause": "Rayleigh scattering of light through the microporous fibrous structure."
+        },
+        {
+          "name": "carnelian",
+          "colors": [
+            "orange-red",
+            "reddish-brown",
+            "amber-orange"
+          ],
+          "variety_name": "carnelian",
+          "cause": "Iron oxide (hematite/goethite) inclusions."
+        },
+        {
+          "name": "chrysoprase",
+          "colors": [
+            "apple-green",
+            "emerald-green",
+            "minty-green"
+          ],
+          "variety_name": "chrysoprase",
+          "cause": "Nickel (as nickeloan talc or willemseite) imparting green."
+        },
+        {
+          "name": "onyx",
+          "colors": [
+            "black",
+            "black-and-white banded"
+          ],
+          "variety_name": "onyx",
+          "cause": "Parallel straight bands; black from carbon or manganese inclusions."
+        },
+        {
+          "name": "bloodstone",
+          "colors": [
+            "dark-green with red spots"
+          ],
+          "variety_name": "bloodstone",
+          "cause": "Green from chlorite inclusions; red spots from iron oxide (hematite/jasper)."
+        }
+      ],
+      "habits": [
+        "massive",
+        "botryoidal",
+        "stalactitic",
+        "nodular",
+        "mammillary",
+        "vein-filling",
+        "pseudomorphic"
+      ],
+      "textures": [
+        "waxy",
+        "smooth",
+        "silky",
+        "porcelaneous"
+      ],
+      "luster": [
+        "waxy",
+        "earthy",
+        "silky"
+      ],
+      "visual_notes": "Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz.",
+      "optical_effects": {
+        "fluorescence": "Variable; some specimens weakly fluorescent under UV.",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Weak; fibrous varieties can show faint cat's eye in cabochon cut.",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "chrysocolla",
+      "display_name": "Chrysocolla",
+      "chemistry_class": "silicate",
+      "species_status": "mineraloid",
+      "ui_color_hint": [
+        "electric-cyan",
+        "teal",
+        "blue-green",
+        "verdigris"
+      ],
+      "baseline_colors": [
+        "cyan",
+        "blue-green",
+        "turquoise-blue"
+      ],
+      "color_profiles": [
+        {
+          "name": "cyan-chrysocolla",
+          "colors": [
+            "cyan",
+            "electric-blue",
+            "sky-blue"
+          ],
+          "variety_name": null,
+          "cause": "Cu2+ in the structure; high Cu content with low Fe."
+        },
+        {
+          "name": "blue-green-chrysocolla",
+          "colors": [
+            "blue-green",
+            "teal",
+            "verdigris"
+          ],
+          "variety_name": null,
+          "cause": "Cu2+ with minor Fe or Mn shifting hue."
+        },
+        {
+          "name": "gem-silica",
+          "colors": [
+            "translucent-cyan",
+            "blue-green",
+            "aquamarine-blue"
+          ],
+          "variety_name": "gem-silica",
+          "cause": "Cu2+ in chalcedony host; silicification increases hardness and translucency."
+        },
+        {
+          "name": "green-chrysocolla",
+          "colors": [
+            "green",
+            "malachite-green",
+            "olive-green"
+          ],
+          "variety_name": null,
+          "cause": "High Cu with slight oxidation state shift; mixing with malachite."
+        }
+      ],
+      "habits": [
+        "earthy",
+        "massive",
+        "botryoidal",
+        "stalactitic",
+        "crusts",
+        "vein-filling",
+        "coating"
+      ],
+      "textures": [
+        "earthy",
+        "waxy",
+        "smooth",
+        "botryoidal-smooth",
+        "powdery"
+      ],
+      "luster": [
+        "waxy",
+        "earthy",
+        "vitreous"
+      ],
+      "visual_notes": "The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens.",
+      "optical_effects": {
+        "fluorescence": "Generally inert",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "citrine",
+      "display_name": "Citrine",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#FFC200",
+        "#FF8C00",
+        "#FFD700"
+      ],
+      "baseline_colors": [
+        "yellow",
+        "golden-yellow",
+        "orange-yellow"
+      ],
+      "color_profiles": [
+        {
+          "name": "Pale Yellow Citrine",
+          "colors": [
+            "lemon-yellow",
+            "pale-yellow",
+            "light-golden"
+          ],
+          "variety_name": null,
+          "cause": "Fe3+ at low concentration; may be natural."
+        },
+        {
+          "name": "Golden Citrine",
+          "colors": [
+            "golden-yellow",
+            "amber-yellow",
+            "honey-yellow"
+          ],
+          "variety_name": null,
+          "cause": "Fe3+ at moderate concentration; most heat-treated amethyst."
+        },
+        {
+          "name": "Madeira Citrine",
+          "colors": [
+            "deep-orange-red",
+            "amber-orange",
+            "cognac",
+            "reddish-orange"
+          ],
+          "variety_name": "madeira-citrine",
+          "cause": "Elevated Fe3+ at high temperature; always heat-treated (amethyst originally)."
+        },
+        {
+          "name": "Ametrine",
+          "colors": [
+            "bicolor purple-yellow in same crystal"
+          ],
+          "variety_name": "ametrine",
+          "cause": "Natural zoning in crystal growth; amethyst zones (Fe4+) and citrine zones (Fe3+) coexist."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "pyramidal",
+        "druse",
+        "massive"
+      ],
+      "textures": [
+        "glassy",
+        "vitreous",
+        "clear to slightly included"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms.",
+      "optical_effects": {
+        "fluorescence": "None typically",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "copper",
+      "display_name": "Copper",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#B87333",
+        "#CB6D51",
+        "#4A7C59"
+      ],
+      "baseline_colors": [
+        "copper-red",
+        "orange-red",
+        "brown (oxidized)",
+        "blue-green (weathered)"
+      ],
+      "color_profiles": [
+        {
+          "name": "Fresh Native Copper",
+          "colors": [
+            "copper-red",
+            "orange-red",
+            "salmon-pink"
+          ],
+          "variety_name": null,
+          "cause": "metallic copper surface — characteristic d-band optical absorption"
+        },
+        {
+          "name": "Oxidized / Tarnished",
+          "colors": [
+            "brown",
+            "dark-brown",
+            "black"
+          ],
+          "variety_name": null,
+          "cause": "formation of cuprite (Cu2O) or tenorite surface layer"
+        },
+        {
+          "name": "Patinated / Weathered",
+          "colors": [
+            "blue-green",
+            "turquoise",
+            "green",
+            "blue"
+          ],
+          "variety_name": null,
+          "cause": "formation of malachite, azurite, chrysocolla, or brochantite on surface"
+        }
+      ],
+      "habits": [
+        "arborescent",
+        "dendritic",
+        "massive",
+        "wire",
+        "platy",
+        "cubic crystals (rare)",
+        "tetrahexahedral crystals"
+      ],
+      "textures": [
+        "wiry tangled masses",
+        "dendritic branching",
+        "rough granular",
+        "nodular"
+      ],
+      "luster": [
+        "metallic"
+      ],
+      "visual_notes": "Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits.",
+      "optical_effects": {
+        "fluorescence": "none",
+        "iridescence": "tarnish iridescence on oxidized surfaces",
+        "play_of_color": "tarnish iridescence on oxidized surfaces",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "corundum",
+      "display_name": "Corundum",
+      "chemistry_class": "oxide",
+      "species_status": "species",
+      "ui_color_hint": [
+        "deep-red",
+        "cornflower-blue",
+        "gray-brown"
+      ],
+      "baseline_colors": [
+        "gray",
+        "brown",
+        "colorless"
+      ],
+      "color_profiles": [
+        {
+          "name": "colorless",
+          "colors": [
+            "colorless",
+            "white"
+          ],
+          "variety_name": null,
+          "cause": "Absence of chromophore trace elements."
+        },
+        {
+          "name": "ruby",
+          "colors": [
+            "red",
+            "deep-red",
+            "pinkish-red",
+            "pigeon-blood-red"
+          ],
+          "variety_name": "ruby",
+          "cause": "Cr3+ substituting for Al3+; d-d electronic transitions."
+        },
+        {
+          "name": "blue-sapphire",
+          "colors": [
+            "blue",
+            "cornflower-blue",
+            "deep-blue",
+            "navy"
+          ],
+          "variety_name": "sapphire",
+          "cause": "Intervalence charge transfer between Fe2+ and Ti4+ on adjacent octahedral sites."
+        },
+        {
+          "name": "yellow-sapphire",
+          "colors": [
+            "yellow",
+            "golden-yellow"
+          ],
+          "variety_name": "sapphire",
+          "cause": "Fe3+ or color centers."
+        },
+        {
+          "name": "padparadscha",
+          "colors": [
+            "pink-orange",
+            "salmon",
+            "lotus-flower"
+          ],
+          "variety_name": "padparadscha",
+          "cause": "Combined Cr3+ and iron-related centers."
+        },
+        {
+          "name": "pink-sapphire",
+          "colors": [
+            "pink",
+            "pale-pink"
+          ],
+          "variety_name": "sapphire",
+          "cause": "Low Cr3+ concentrations; boundary with ruby is debated."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "tabular",
+        "barrel-shaped",
+        "bipyramidal",
+        "massive",
+        "granular"
+      ],
+      "textures": [
+        "glassy",
+        "striated-faces",
+        "crystalline"
+      ],
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "visual_notes": "Gem-quality crystals prized as ruby and sapphire. Non-gem material is gray-brown and often massive. Silk inclusions produce asterism in star rubies and sapphires.",
+      "optical_effects": {
+        "fluorescence": "Variable; rubies often fluoresce strong red under UV; blue sapphires typically inert.",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Present in star corundums when cut en cabochon.",
+        "asterism": "Six-rayed stars in star ruby and star sapphire from intersecting rutile needle (silk) inclusions along {0001}."
+      }
+    },
+    {
+      "id": "diamond",
+      "display_name": "Diamond",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#F8F8FF",
+        "#E0E8FF",
+        "#B0C4DE"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "yellow",
+        "brown",
+        "gray",
+        "black (carbonado)"
+      ],
+      "color_profiles": [
+        {
+          "name": "Colorless (D–F on GIA scale)",
+          "colors": [
+            "water-clear",
+            "icy-white"
+          ],
+          "variety_name": null,
+          "cause": "structural purity; absence of nitrogen and other chromophores"
+        },
+        {
+          "name": "Cape Yellow / Fancy Yellow",
+          "colors": [
+            "pale-yellow",
+            "canary-yellow",
+            "deep-yellow"
+          ],
+          "variety_name": "Cape (pale); Fancy Yellow (vivid)",
+          "cause": "nitrogen impurities substituting for carbon (Type Ia / Type Ib)"
+        },
+        {
+          "name": "Brown Diamond",
+          "colors": [
+            "champagne",
+            "cognac",
+            "brown"
+          ],
+          "variety_name": "Champagne Diamond, Chocolate Diamond",
+          "cause": "plastic deformation and vacancy clusters along crystal planes"
+        },
+        {
+          "name": "Blue Diamond",
+          "colors": [
+            "light-blue",
+            "steel-blue",
+            "vivid-blue"
+          ],
+          "variety_name": "Fancy Blue Diamond",
+          "cause": "boron impurities (Type IIb)"
+        },
+        {
+          "name": "Pink / Red Diamond",
+          "colors": [
+            "light-pink",
+            "rose",
+            "deep-pink",
+            "red"
+          ],
+          "variety_name": "Argyle Pink, Fancy Pink, Red Diamond",
+          "cause": "structural defects / plastic deformation (precise mechanism still debated)"
+        },
+        {
+          "name": "Green Diamond",
+          "colors": [
+            "pale-green",
+            "vivid-green"
+          ],
+          "variety_name": "Fancy Green Diamond",
+          "cause": "natural radiation exposure (alpha particle irradiation of crystal lattice)"
+        },
+        {
+          "name": "Black Diamond (Carbonado)",
+          "colors": [
+            "black",
+            "dark-gray"
+          ],
+          "variety_name": "Carbonado",
+          "cause": "polycrystalline aggregate with inclusions of graphite, amorphous carbon, and sulfides"
+        }
+      ],
+      "habits": [
+        "octahedral (most common)",
+        "cubic",
+        "dodecahedral",
+        "macles (twinned flat triangular crystals)",
+        "rounded and frosted (alluvial)"
+      ],
+      "textures": [
+        "smooth adamantine luster on fresh crystal faces",
+        "frosted or etched on alluvial grains",
+        "trigon etch pits on octahedral faces"
+      ],
+      "luster": [
+        "adamantine",
+        "greasy"
+      ],
+      "visual_notes": "Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite.",
+      "optical_effects": {
+        "fluorescence": "blue fluorescence common (~25–35% of gem diamonds) under shortwave UV; some fluoresce yellow, orange, or green; many inert",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "emerald",
+      "display_name": "Emerald",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#50C878",
+        "#008000",
+        "#046307"
+      ],
+      "baseline_colors": [
+        "vivid-green",
+        "deep-green",
+        "bluish-green"
+      ],
+      "color_profiles": [
+        {
+          "name": "Colombian Emerald",
+          "colors": [
+            "vivid-green",
+            "pure-green",
+            "slightly bluish-green"
+          ],
+          "variety_name": null,
+          "cause": "Cr3+ dominant chromophore; some V3+. Low Fe keeps color pure without brownish or yellowish cast."
+        },
+        {
+          "name": "Zambian Emerald",
+          "colors": [
+            "deep-green",
+            "slightly bluish-green"
+          ],
+          "variety_name": null,
+          "cause": "Cr3+ + some Fe2+; slightly deeper/darker than Colombian."
+        },
+        {
+          "name": "Brazilian Emerald",
+          "colors": [
+            "medium-green",
+            "yellowish-green"
+          ],
+          "variety_name": null,
+          "cause": "V3+ dominant in some deposits; Fe adds yellowish-green component."
+        },
+        {
+          "name": "Zimbabwe Emerald",
+          "colors": [
+            "vivid-green",
+            "small crystals",
+            "high saturation"
+          ],
+          "variety_name": null,
+          "cause": "High Cr3+ in very small stones from mica schist."
+        }
+      ],
+      "habits": [
+        "prismatic hexagonal",
+        "tabular",
+        "massive"
+      ],
+      "textures": [
+        "glassy",
+        "included (jardin)",
+        "crystal surfaces striated"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone.",
+      "optical_effects": {
+        "fluorescence": "Weak to moderate red fluorescence under LW UV (Cr3+); varies by origin — Colombian often weakly red, synthetic usually stronger red, Fe-rich specimens often inert",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Very rare cat's eye emerald",
+        "asterism": "Extremely rare"
+      }
+    },
+    {
+      "id": "fire-opal",
+      "display_name": "Fire Opal",
+      "chemistry_class": "mineraloid",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#FF6B35",
+        "#FF4500",
+        "#FFB347"
+      ],
+      "baseline_colors": [
+        "orange",
+        "red-orange",
+        "yellow",
+        "red"
+      ],
+      "color_profiles": [
+        {
+          "name": "Classic Fire Opal (Orange)",
+          "colors": [
+            "vivid-orange",
+            "red-orange",
+            "amber-orange"
+          ],
+          "variety_name": null,
+          "cause": "Iron oxide inclusions (hematite/goethite) and structural/organic chromophores in amorphous silica."
+        },
+        {
+          "name": "Yellow Fire Opal",
+          "colors": [
+            "golden-yellow",
+            "amber-yellow",
+            "honey"
+          ],
+          "variety_name": null,
+          "cause": "Lower iron oxide content; other trace chromophores."
+        },
+        {
+          "name": "Red Fire Opal",
+          "colors": [
+            "deep-red",
+            "scarlet-orange",
+            "cherry-red"
+          ],
+          "variety_name": null,
+          "cause": "Higher iron oxide concentration."
+        },
+        {
+          "name": "Precious Fire Opal",
+          "colors": [
+            "orange body with spectral play-of-color"
+          ],
+          "variety_name": "precious-fire-opal",
+          "cause": "Combination of iron-oxide chromophore AND ordered silica sphere diffraction."
+        }
+      ],
+      "habits": [
+        "massive",
+        "nodular",
+        "botryoidal",
+        "vein-filling"
+      ],
+      "textures": [
+        "glassy to waxy",
+        "transparent to translucent",
+        "smooth polished"
+      ],
+      "luster": [
+        "vitreous",
+        "resinous"
+      ],
+      "visual_notes": "Fire opal's vivid orange-to-red body color makes it the only facetable opal variety (when transparent). The color evokes live flame, molten metal, and sunset. In Mexico it is called 'piedra de fuego' (stone of fire) and was sacred to the Aztecs as a symbol of Huitzilopochtli.",
+      "optical_effects": {
+        "fluorescence": "Some specimens fluoresce green or yellow-green under LW UV",
+        "iridescence": "Present in precious fire opal; absent in common fire opal",
+        "play_of_color": "Present in precious fire opal; absent in common fire opal",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "fluorite",
+      "display_name": "Fluorite",
+      "chemistry_class": "halide",
+      "species_status": "species",
+      "ui_color_hint": [
+        "purple",
+        "green",
+        "blue"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "purple",
+        "green"
+      ],
+      "color_profiles": [
+        {
+          "name": "purple-spectrum",
+          "colors": [
+            "purple",
+            "lilac",
+            "violet"
+          ],
+          "variety_name": null,
+          "cause": "Impurity / defect driven coloration."
+        },
+        {
+          "name": "green-spectrum",
+          "colors": [
+            "mint-green",
+            "leaf-green",
+            "deep-green"
+          ],
+          "variety_name": null,
+          "cause": "Impurity / defect driven coloration."
+        },
+        {
+          "name": "warm-spectrum",
+          "colors": [
+            "golden-yellow",
+            "champagne",
+            "brown",
+            "pink",
+            "red"
+          ],
+          "variety_name": null,
+          "cause": "Impurity / defect driven coloration."
+        },
+        {
+          "name": "dark-spectrum",
+          "colors": [
+            "black"
+          ],
+          "variety_name": null,
+          "cause": "Rare dark color expression."
+        }
+      ],
+      "habits": [
+        "cubic",
+        "octahedral",
+        "nodular",
+        "botryoidal",
+        "fibrous",
+        "granular",
+        "massive"
+      ],
+      "textures": [
+        "glassy",
+        "smooth",
+        "translucent",
+        "glowing"
+      ],
+      "luster": [
+        "vitreous",
+        "earthy"
+      ],
+      "visual_notes": "One of the best minerals for geometric crystal logic and surreal color zoning.",
+      "optical_effects": {
+        "fluorescence": "Often notable; the term fluorescence is historically derived from fluorite.",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "gold",
+      "display_name": "Gold",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#FFD700",
+        "#C8960C",
+        "#FFC200"
+      ],
+      "baseline_colors": [
+        "golden-yellow",
+        "pale-yellow",
+        "orange-yellow"
+      ],
+      "color_profiles": [
+        {
+          "name": "Pure Gold",
+          "colors": [
+            "rich-golden-yellow"
+          ],
+          "variety_name": null,
+          "cause": "inherent electronic structure of metallic gold"
+        },
+        {
+          "name": "Electrum",
+          "colors": [
+            "pale-yellow",
+            "silver-yellow",
+            "greenish-yellow"
+          ],
+          "variety_name": "electrum",
+          "cause": "natural silver alloy diluting gold color"
+        },
+        {
+          "name": "Copper-Rich Gold",
+          "colors": [
+            "orange-yellow",
+            "reddish-gold"
+          ],
+          "variety_name": null,
+          "cause": "copper substitution in metallic lattice"
+        }
+      ],
+      "habits": [
+        "arborescent",
+        "dendritic",
+        "massive",
+        "nugget",
+        "leaf",
+        "wire",
+        "octahedral crystals"
+      ],
+      "textures": [
+        "rough granular surface",
+        "wire-like",
+        "spongy"
+      ],
+      "luster": [
+        "metallic"
+      ],
+      "visual_notes": "Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally.",
+      "optical_effects": {
+        "fluorescence": "none",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "graphite",
+      "display_name": "Graphite",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#2C2C2C",
+        "#555555",
+        "#1A1A1A"
+      ],
+      "baseline_colors": [
+        "black",
+        "dark-gray",
+        "steel-gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "Crystalline Graphite",
+          "colors": [
+            "black-with-metallic-sheen",
+            "dark-steel-gray"
+          ],
+          "variety_name": null,
+          "cause": "carbon layers with metallic-character electron delocalization"
+        },
+        {
+          "name": "Massive / Amorphous Graphite",
+          "colors": [
+            "dull-black",
+            "dark-gray"
+          ],
+          "variety_name": null,
+          "cause": "fine-grained or poorly crystallized carbon aggregate"
+        }
+      ],
+      "habits": [
+        "foliated",
+        "platy",
+        "tabular hexagonal plates",
+        "scaly",
+        "massive",
+        "earthy (amorphous)"
+      ],
+      "textures": [
+        "greasy to the touch",
+        "highly foliated / lamellar",
+        "flaky",
+        "layered"
+      ],
+      "luster": [
+        "metallic",
+        "earthy"
+      ],
+      "visual_notes": "Unmistakable greasy feel and extremely dark matte-black color. Marks paper and skin readily. Steel-gray metallic luster on fresh cleavage faces. Often found as disseminated flakes or foliated masses in metamorphic rocks.",
+      "optical_effects": {
+        "fluorescence": "none",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "hematite",
+      "display_name": "Hematite",
+      "chemistry_class": "oxide",
+      "species_status": "species",
+      "ui_color_hint": [
+        "iron-red",
+        "silver-gray",
+        "ochre-brown"
+      ],
+      "baseline_colors": [
+        "red-brown",
+        "black",
+        "silver-gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "earthy-red",
+          "colors": [
+            "red",
+            "red-brown",
+            "orange-red"
+          ],
+          "variety_name": null,
+          "cause": "Fine-grained hematite; surface scattering of light."
+        },
+        {
+          "name": "specular",
+          "colors": [
+            "silver-gray",
+            "black",
+            "mirror-silver"
+          ],
+          "variety_name": "specular-hematite",
+          "cause": "Large platy crystals with near-perfect basal cleavage planes reflecting light."
+        },
+        {
+          "name": "kidney-ore",
+          "colors": [
+            "red-brown",
+            "black"
+          ],
+          "variety_name": "kidney-ore",
+          "cause": "Botryoidal surface morphology; fine-grained interior."
+        },
+        {
+          "name": "iron-rose",
+          "colors": [
+            "silver-gray",
+            "red-brown"
+          ],
+          "variety_name": "iron-rose",
+          "cause": "Penetration twin aggregates forming rosette shapes."
+        }
+      ],
+      "habits": [
+        "tabular",
+        "platy",
+        "botryoidal",
+        "massive",
+        "granular",
+        "oolitic",
+        "rosette",
+        "specular plates"
+      ],
+      "textures": [
+        "metallic-sheen",
+        "mirror-like (specular)",
+        "botryoidal-smooth",
+        "earthy",
+        "crystalline-platy"
+      ],
+      "luster": [
+        "metallic",
+        "earthy"
+      ],
+      "visual_notes": "One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens.",
+      "optical_effects": {
+        "fluorescence": "None.",
+        "iridescence": "Iridescent tarnish colors sometimes visible on specular plates.",
+        "play_of_color": "Iridescent tarnish colors sometimes visible on specular plates.",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "jadeite",
+      "display_name": "Jadeite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "imperial-green",
+        "lavender",
+        "white",
+        "deep-green"
+      ],
+      "baseline_colors": [
+        "white",
+        "gray",
+        "pale-green"
+      ],
+      "color_profiles": [
+        {
+          "name": "imperial-jade",
+          "colors": [
+            "vivid-green",
+            "emerald-green",
+            "intense-green"
+          ],
+          "variety_name": "imperial-jade",
+          "cause": "Cr3+ substituting for Al3+ in the M1 octahedral site, producing a chromium absorption spectrum analogous to emerald."
+        },
+        {
+          "name": "fei-cui-green",
+          "colors": [
+            "green",
+            "mottled-green",
+            "apple-green",
+            "leek-green"
+          ],
+          "variety_name": "fei-cui",
+          "cause": "Cr3+ for vivid greens; Fe2+/Fe3+ for duller or bluish greens."
+        },
+        {
+          "name": "lavender-jadeite",
+          "colors": [
+            "lavender",
+            "violet",
+            "mauve",
+            "pale-purple"
+          ],
+          "variety_name": "lavender-jade",
+          "cause": "Mn2+ and/or Fe2+–Fe3+ charge transfer in the structure; exact mechanism debated."
+        },
+        {
+          "name": "white-jadeite",
+          "colors": [
+            "white",
+            "cream",
+            "pale-gray"
+          ],
+          "variety_name": null,
+          "cause": "Low chromophore content; fine-grained texture scatters light."
+        },
+        {
+          "name": "black-jadeite",
+          "colors": [
+            "black",
+            "dark-gray"
+          ],
+          "variety_name": "black-jadeite",
+          "cause": "High Fe3+ (aegirine component) or graphite/carbonaceous inclusions."
+        }
+      ],
+      "habits": [
+        "massive",
+        "granular",
+        "fibrous-aggregate",
+        "interlocking-crystalline",
+        "prismatic (rare isolated crystals)"
+      ],
+      "textures": [
+        "waxy",
+        "smooth",
+        "interlocking-granular",
+        "finely-crystalline"
+      ],
+      "luster": [
+        "waxy",
+        "vitreous",
+        "resinous"
+      ],
+      "visual_notes": "Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders.",
+      "optical_effects": {
+        "fluorescence": "Inert (untreated) to weak white or pale green under LW UV; heavily treated (B-jade) may show blue-white fluorescence",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "jasper",
+      "display_name": "Jasper",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "ui_color_hint": [
+        "brick-red",
+        "ochre",
+        "earth-brown",
+        "olive-green"
+      ],
+      "baseline_colors": [
+        "red",
+        "yellow",
+        "brown",
+        "green"
+      ],
+      "color_profiles": [
+        {
+          "name": "red-jasper",
+          "colors": [
+            "brick-red",
+            "rust-red",
+            "dark-red"
+          ],
+          "variety_name": "red-jasper",
+          "cause": "Hematite (iron oxide) inclusions distributed through silica matrix."
+        },
+        {
+          "name": "yellow-brown-jasper",
+          "colors": [
+            "yellow",
+            "tan",
+            "ochre",
+            "brown"
+          ],
+          "variety_name": null,
+          "cause": "Goethite and limonite (hydrous iron oxides)."
+        },
+        {
+          "name": "green-jasper",
+          "colors": [
+            "olive-green",
+            "dark-green",
+            "gray-green"
+          ],
+          "variety_name": null,
+          "cause": "Chlorite, actinolite, or iron silicate inclusions."
+        },
+        {
+          "name": "picture-jasper",
+          "colors": [
+            "tan",
+            "brown",
+            "cream",
+            "dark-brown; landscape patterns"
+          ],
+          "variety_name": "picture-jasper",
+          "cause": "Differential impurity banding and inclusion patterns creating landscape-like imagery."
+        },
+        {
+          "name": "ocean-jasper",
+          "colors": [
+            "multicolor with orb-like patterns; green",
+            "pink",
+            "white",
+            "red",
+            "yellow"
+          ],
+          "variety_name": "ocean-jasper",
+          "cause": "Orbicular spherulitic structure in rhyolite-hosted chalcedony/jasper."
+        },
+        {
+          "name": "mookaite",
+          "colors": [
+            "red",
+            "yellow",
+            "purple",
+            "cream; vivid multicolor"
+          ],
+          "variety_name": "mookaite",
+          "cause": "Radiolarite-origin silicite with varied iron and organic impurities."
+        }
+      ],
+      "habits": [
+        "massive",
+        "nodular",
+        "vein-filling",
+        "bedded"
+      ],
+      "textures": [
+        "waxy",
+        "smooth",
+        "matte",
+        "compact"
+      ],
+      "luster": [
+        "waxy",
+        "earthy"
+      ],
+      "visual_notes": "Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials.",
+      "optical_effects": {
+        "fluorescence": "",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "labradorite",
+      "display_name": "Labradorite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "electric-blue",
+        "dark-gunmetal",
+        "peacock-teal",
+        "copper-orange",
+        "spectral-violet"
+      ],
+      "baseline_colors": [
+        "gray",
+        "dark-gray",
+        "black-gray",
+        "greenish-gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "labradorescence-blue-green",
+          "colors": [
+            "electric-blue",
+            "teal",
+            "peacock-blue",
+            "green"
+          ],
+          "variety_name": null,
+          "cause": "Thin-film interference from Ca-rich and Na-rich exsolution lamellae at ~100–300 nm spacing. Shorter lamellar spacing produces blue; longer spacing shifts toward green and gold."
+        },
+        {
+          "name": "labradorescence-gold-copper",
+          "colors": [
+            "gold",
+            "copper-orange",
+            "amber"
+          ],
+          "variety_name": null,
+          "cause": "Longer-spacing exsolution lamellae shifting interference toward yellow-orange wavelengths."
+        },
+        {
+          "name": "spectrolite",
+          "colors": [
+            {
+              "full-spectrum": "blue"
+            },
+            "green",
+            "yellow",
+            "orange",
+            "red",
+            "violet — on near-black matrix"
+          ],
+          "variety_name": "spectrolite",
+          "cause": "Full-range lamellar spacing distribution on a very dark ground mass, producing all visible colors."
+        },
+        {
+          "name": "transparent-gem",
+          "colors": [
+            "colorless",
+            "yellow",
+            "orange",
+            "cognac",
+            "pale-green"
+          ],
+          "variety_name": null,
+          "cause": "Body color from iron or other trace impurities; transparent facetable material."
+        }
+      ],
+      "habits": [
+        "massive",
+        "prismatic",
+        "tabular",
+        "lamellar",
+        "anhedral-granular"
+      ],
+      "textures": [
+        "smooth",
+        "pearly-cleavage-surfaces",
+        "lamellar"
+      ],
+      "luster": [
+        "vitreous",
+        "pearly"
+      ],
+      "visual_notes": "The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face.",
+      "optical_effects": {
+        "fluorescence": "",
+        "iridescence": "Labradorescence: intense thin-film interference iridescence showing blue, green, gold, copper, orange — and in spectrolite, the full visible spectrum — from exsolution lamellae oriented parallel to {010}. The effect is directional and changes with both viewing angle and light angle.",
+        "play_of_color": "Labradorescence: intense thin-film interference iridescence showing blue, green, gold, copper, orange — and in spectrolite, the full visible spectrum — from exsolution lamellae oriented parallel to {010}. The effect is directional and changes with both viewing angle and light angle.",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "lepidolite",
+      "display_name": "Lepidolite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "lavender",
+        "lilac",
+        "rose-pink",
+        "pale-violet",
+        "pearly-white"
+      ],
+      "baseline_colors": [
+        "lavender",
+        "pink",
+        "purple"
+      ],
+      "color_profiles": [
+        {
+          "name": "lavender-lepidolite",
+          "colors": [
+            "lavender",
+            "lilac",
+            "pale-violet",
+            "soft-purple"
+          ],
+          "variety_name": null,
+          "cause": "Mn2+ and/or Mn3+ substituting in octahedral sites; trace amounts produce pastel lavender."
+        },
+        {
+          "name": "pink-lepidolite",
+          "colors": [
+            "pink",
+            "rose-pink",
+            "salmon-pink"
+          ],
+          "variety_name": null,
+          "cause": "Higher Mn content shifting from lavender toward pink."
+        },
+        {
+          "name": "purple-lepidolite",
+          "colors": [
+            "deep-purple",
+            "violet",
+            "grape"
+          ],
+          "variety_name": null,
+          "cause": "Elevated Mn3+ content; sometimes enhanced by inclusions."
+        },
+        {
+          "name": "colorless-white-lepidolite",
+          "colors": [
+            "colorless",
+            "white",
+            "pale-gray"
+          ],
+          "variety_name": null,
+          "cause": "Absence of Mn or other chromophores; high F content typical."
+        },
+        {
+          "name": "yellow-lepidolite",
+          "colors": [
+            "yellow",
+            "pale-yellow",
+            "champagne"
+          ],
+          "variety_name": null,
+          "cause": "Minor Fe3+ or specific structural defects."
+        }
+      ],
+      "habits": [
+        "platy",
+        "tabular",
+        "foliated",
+        "scaly-massive",
+        "pseudo-hexagonal-plates",
+        "book-like-aggregates"
+      ],
+      "textures": [
+        "pearly",
+        "silky",
+        "scaly",
+        "layered",
+        "iridescent-sheen"
+      ],
+      "luster": [
+        "pearly",
+        "vitreous",
+        "silky"
+      ],
+      "visual_notes": "Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality.",
+      "optical_effects": {
+        "fluorescence": "Weak cream to yellow under SW UV in some specimens; generally weak",
+        "iridescence": "Subtle adularescence-like pearly shimmer on cleavage surfaces",
+        "play_of_color": "Subtle adularescence-like pearly shimmer on cleavage surfaces",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "malachite",
+      "display_name": "Malachite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "emerald",
+        "dark-green",
+        "black"
+      ],
+      "baseline_colors": [
+        "green"
+      ],
+      "color_profiles": [
+        {
+          "name": "classic-malachite-green",
+          "colors": [
+            "light-green",
+            "medium-green",
+            "dark-green",
+            "black-green"
+          ],
+          "variety_name": null,
+          "cause": "Copper-bearing chemistry."
+        }
+      ],
+      "habits": [
+        "botryoidal",
+        "mammillary",
+        "crustiform",
+        "fibrous",
+        "acicular",
+        "prismatic",
+        "stalactitic",
+        "massive"
+      ],
+      "textures": [
+        "velvety",
+        "satiny",
+        "glossy",
+        "concentric",
+        "rippled"
+      ],
+      "luster": [
+        "silky",
+        "vitreous",
+        "earthy"
+      ],
+      "visual_notes": "One of the strongest 'ornamental pattern' minerals in existence.",
+      "optical_effects": {
+        "fluorescence": "",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "moonstone",
+      "display_name": "Moonstone",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "blue-white",
+        "pearl",
+        "silver-fog",
+        "peach-blush"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white",
+        "pale-gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "blue-moonstone",
+          "colors": [
+            "colorless to white body; blue floating glow"
+          ],
+          "variety_name": "blue-moonstone",
+          "cause": "Thin albite exsolution lamellae (10–100 nm) produce Rayleigh/Tyndall scattering and constructive interference for blue wavelengths."
+        },
+        {
+          "name": "white-moonstone",
+          "colors": [
+            "white body; white to milky-white floating glow"
+          ],
+          "variety_name": null,
+          "cause": "Thicker lamellae scatter all visible wavelengths approximately equally, producing white adularescence."
+        },
+        {
+          "name": "peach-moonstone",
+          "colors": [
+            "peach",
+            "salmon",
+            "warm-beige body; peach to white glow"
+          ],
+          "variety_name": "peach-moonstone",
+          "cause": "Iron impurities impart warm body color; adularescence still present."
+        },
+        {
+          "name": "rainbow-moonstone",
+          "colors": [
+            "colorless to white body; multicolor iridescence — blue",
+            "green",
+            "violet"
+          ],
+          "variety_name": "rainbow-moonstone",
+          "cause": "Trade name for colorless to white labradorite showing adularescence-like labradorescence. Not orthoclase moonstone."
+        },
+        {
+          "name": "gray-moonstone",
+          "colors": [
+            "gray body; blue to white floating glow"
+          ],
+          "variety_name": null,
+          "cause": "Iron or other inclusions giving gray body color; adularescence retained."
+        },
+        {
+          "name": "cat-eye-moonstone",
+          "colors": [
+            "near-colorless to white; chatoyant line"
+          ],
+          "variety_name": "cat-eye-moonstone",
+          "cause": "Needle-like inclusions aligned with exsolution lamellae create chatoyancy in addition to adularescence."
+        }
+      ],
+      "habits": [
+        "massive",
+        "prismatic",
+        "tabular",
+        "anhedral"
+      ],
+      "textures": [
+        "smooth",
+        "silky-pearly",
+        "glassy"
+      ],
+      "luster": [
+        "vitreous",
+        "pearly"
+      ],
+      "visual_notes": "Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior.",
+      "optical_effects": {
+        "fluorescence": "Weak bluish or yellowish fluorescence in some specimens under longwave UV.",
+        "iridescence": "Adularescence: the defining optical phenomenon. A floating, billowing blue or white light glow from alternating orthoclase/albite exsolution lamellae. Caused by Rayleigh/Tyndall scattering and constructive thin-film interference. Blue adularescence (from thin lamellae) is most prized. Effect is direction-dependent and orientation-critical in cutting.",
+        "play_of_color": "Adularescence: the defining optical phenomenon. A floating, billowing blue or white light glow from alternating orthoclase/albite exsolution lamellae. Caused by Rayleigh/Tyndall scattering and constructive thin-film interference. Blue adularescence (from thin lamellae) is most prized. Effect is direction-dependent and orientation-critical in cutting.",
+        "chatoyancy": "Rare; cat's eye moonstone exists with needle inclusions.",
+        "asterism": "Very rare; 4-ray star moonstone reported."
+      }
+    },
+    {
+      "id": "morganite",
+      "display_name": "Morganite",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#F4A7B9",
+        "#FFB6C1",
+        "#E8927C"
+      ],
+      "baseline_colors": [
+        "pink",
+        "peach",
+        "rose"
+      ],
+      "color_profiles": [
+        {
+          "name": "Rose / Pure Pink Morganite",
+          "colors": [
+            "rose-pink",
+            "pure-pink",
+            "soft-pink"
+          ],
+          "variety_name": null,
+          "cause": "Mn2+/Mn3+ at moderate concentration; ideal ratio for purest rose-pink."
+        },
+        {
+          "name": "Peach Morganite",
+          "colors": [
+            "peach",
+            "salmon-pink",
+            "orange-pink"
+          ],
+          "variety_name": null,
+          "cause": "Higher Mn with Fe contributions or natural irradiation color centers."
+        },
+        {
+          "name": "Deep Pink / Hot Pink Morganite",
+          "colors": [
+            "deep-pink",
+            "vivid-pink",
+            "magenta-edge"
+          ],
+          "variety_name": null,
+          "cause": "Higher Mn3+ concentration."
+        }
+      ],
+      "habits": [
+        "short prismatic",
+        "tabular hexagonal",
+        "massive"
+      ],
+      "textures": [
+        "glassy",
+        "clear with vitreous luster"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Morganite's soft rose-peach color is inherently gentle and warm — less assertive than ruby, less cold than pink sapphire. Large clean crystals are available. The rose-gold + morganite combination became dominant in contemporary jewelry design in the 2010s.",
+      "optical_effects": {
+        "fluorescence": "Weak to none",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Very rare cat's eye morganite",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "nephrite",
+      "display_name": "Nephrite",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "ui_color_hint": [
+        "spinach-green",
+        "mutton-fat-white",
+        "celadon",
+        "dark-green"
+      ],
+      "baseline_colors": [
+        "white",
+        "cream",
+        "pale-green"
+      ],
+      "color_profiles": [
+        {
+          "name": "spinach-jade",
+          "colors": [
+            "spinach-green",
+            "dark-green",
+            "mottled-green"
+          ],
+          "variety_name": "spinach-jade",
+          "cause": "Moderate to high Fe2+ substituting for Mg in actinolite-rich nephrite; Fe-rich composition."
+        },
+        {
+          "name": "mutton-fat-jade",
+          "colors": [
+            "creamy-white",
+            "waxy-white",
+            "off-white"
+          ],
+          "variety_name": "mutton-fat-jade",
+          "cause": "Low Fe content; near-pure tremolite composition; fine texture diffuses light."
+        },
+        {
+          "name": "celadon-jade",
+          "colors": [
+            "pale-green",
+            "celadon",
+            "light-green"
+          ],
+          "variety_name": null,
+          "cause": "Low Fe content with minor chromophores."
+        },
+        {
+          "name": "gray-nephrite",
+          "colors": [
+            "gray",
+            "blue-gray",
+            "smoke-gray"
+          ],
+          "variety_name": null,
+          "cause": "Graphite inclusions or specific Fe oxidation states."
+        },
+        {
+          "name": "black-nephrite",
+          "colors": [
+            "black",
+            "dark-gray"
+          ],
+          "variety_name": null,
+          "cause": "Very high Fe content and/or carbonaceous inclusions."
+        }
+      ],
+      "habits": [
+        "massive",
+        "fibrous-aggregate",
+        "interlocking-bladed",
+        "botryoidal (rare)",
+        "vein-filling"
+      ],
+      "textures": [
+        "waxy",
+        "silky",
+        "smooth",
+        "fibrous-felt",
+        "interlocking-crystalline"
+      ],
+      "luster": [
+        "waxy",
+        "silky",
+        "greasy"
+      ],
+      "visual_notes": "Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass.",
+      "optical_effects": {
+        "fluorescence": "Generally inert; some material shows very weak cream or green fluorescence under LW UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Rare; requires aligned fibrous structure",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "obsidian",
+      "display_name": "Obsidian",
+      "chemistry_class": "mineraloid",
+      "species_status": "mineraloid",
+      "ui_color_hint": [
+        "#0D0D0D",
+        "#1A1A2E",
+        "#4A3728"
+      ],
+      "baseline_colors": [
+        "black",
+        "dark-brown"
+      ],
+      "color_profiles": [
+        {
+          "name": "Classic Black Obsidian",
+          "colors": [
+            "jet-black",
+            "deep-black",
+            "dark-gray"
+          ],
+          "variety_name": null,
+          "cause": "Iron and titanium oxides (magnetite) distributed throughout glass matrix."
+        },
+        {
+          "name": "Rainbow Obsidian",
+          "colors": [
+            "black with rainbow iridescence bands — green",
+            "blue",
+            "purple",
+            "gold"
+          ],
+          "variety_name": "rainbow-obsidian",
+          "cause": "Thin layers of oriented magnetite nanoparticles creating thin-film interference."
+        },
+        {
+          "name": "Snowflake Obsidian",
+          "colors": [
+            "black with white/gray snowflake patterns"
+          ],
+          "variety_name": "snowflake-obsidian",
+          "cause": "Devitrification spherulites of cristobalite (silica) and feldspar crystallizing post-emplacement."
+        },
+        {
+          "name": "Mahogany Obsidian",
+          "colors": [
+            "black and reddish-brown banding"
+          ],
+          "variety_name": "mahogany-obsidian",
+          "cause": "Iron oxide-rich zones (hematite/goethite) banding through black glass."
+        },
+        {
+          "name": "Apache Tears",
+          "colors": [
+            "black to dark gray",
+            "translucent when held to light"
+          ],
+          "variety_name": "apache-tears",
+          "cause": "Small rounded nodules of obsidian that weather from perlite matrix; translucent in thin section."
+        }
+      ],
+      "habits": [
+        "massive (flows)",
+        "nodular (Apache tears within perlite)",
+        "botryoidal (rare)",
+        "conchoidal fracture surfaces"
+      ],
+      "textures": [
+        "glassy smooth",
+        "conchoidal fracture ridges",
+        "vitreous luster",
+        "snowflake devitrification patterns"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Obsidian is pure volcanic glass — the most visually simple and the most dramatically effective black mineral material. Its jet-black vitreous surface reflects light cleanly. Rainbow varieties produce full spectral color from thin-film magnetite layers. Apache tears appear opaque but transmit brownish light when held up.",
+      "optical_effects": {
+        "fluorescence": "None typically",
+        "iridescence": "Rainbow obsidian — full spectral iridescence from nanolaminate magnetite interference layers",
+        "play_of_color": "Rainbow obsidian — full spectral iridescence from nanolaminate magnetite interference layers",
+        "chatoyancy": "Sheen obsidian — silver or gold sheen from parallel nanoparticle layers",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "opal",
+      "display_name": "Opal",
+      "chemistry_class": "mineraloid",
+      "species_status": "mineraloid",
+      "ui_color_hint": [
+        "#FFFFFF",
+        "#0D0D0D",
+        "#FF6B6B"
+      ],
+      "baseline_colors": [
+        "white",
+        "black",
+        "gray",
+        "colorless"
+      ],
+      "color_profiles": [
+        {
+          "name": "White Precious Opal",
+          "colors": [
+            "white body with spectral play-of-color"
+          ],
+          "variety_name": "white-opal",
+          "cause": "White to light-gray body color from common opal base; play-of-color from sphere diffraction."
+        },
+        {
+          "name": "Black Precious Opal",
+          "colors": [
+            "black",
+            "dark-gray",
+            "dark-blue body with vivid spectral play-of-color"
+          ],
+          "variety_name": "black-opal",
+          "cause": "Dark body color (from carbon or iron oxide traces) intensifies play-of-color contrast."
+        },
+        {
+          "name": "Crystal Opal",
+          "colors": [
+            "transparent to semi-transparent with spectral fire"
+          ],
+          "variety_name": "crystal-opal",
+          "cause": "Pure to near-pure silica spheres with no body color obscuring transparency."
+        },
+        {
+          "name": "Boulder Opal",
+          "colors": [
+            "brown ironstone matrix with opal veins showing spectral color"
+          ],
+          "variety_name": "boulder-opal",
+          "cause": "Thin seams of precious opal in ironstone host; cut with matrix."
+        },
+        {
+          "name": "Common Opal (Potch)",
+          "colors": [
+            "white",
+            "green",
+            "yellow",
+            "brown",
+            "pink — no play-of-color"
+          ],
+          "variety_name": "common-opal",
+          "cause": "Irregular or absent sphere arrangement; no diffraction grating."
+        }
+      ],
+      "habits": [
+        "massive",
+        "nodular",
+        "botryoidal",
+        "stalactitic",
+        "vein-filling",
+        "replacement masses",
+        "as petrification medium"
+      ],
+      "textures": [
+        "smooth glassy",
+        "waxy",
+        "resinous",
+        "rough earthy"
+      ],
+      "luster": [
+        "vitreous",
+        "resinous",
+        "waxy",
+        "pearly"
+      ],
+      "visual_notes": "Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously.",
+      "optical_effects": {
+        "fluorescence": "Variable; many specimens fluoresce white, green, yellow, or blue-white under UV; some inert",
+        "iridescence": "Play-of-color is a diffraction phenomenon (not thin-film iridescence); produces spectral flashes across the full visible range",
+        "play_of_color": "Play-of-color is a diffraction phenomenon (not thin-film iridescence); produces spectral flashes across the full visible range",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "petrified-wood",
+      "display_name": "Petrified Wood",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "ui_color_hint": [
+        "rust-red",
+        "honey-brown",
+        "ash-gray",
+        "bark-tan",
+        "agate-white"
+      ],
+      "baseline_colors": [
+        "brown",
+        "tan",
+        "gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "red-orange-petrified-wood",
+          "colors": [
+            "red",
+            "orange",
+            "rust",
+            "brick-red"
+          ],
+          "variety_name": null,
+          "cause": "Fe2O3 (hematite) in the replacing chalcedony; oxidizing conditions during silicification."
+        },
+        {
+          "name": "yellow-brown-petrified-wood",
+          "colors": [
+            "yellow",
+            "brown",
+            "tan",
+            "caramel",
+            "honey"
+          ],
+          "variety_name": null,
+          "cause": "FeO(OH) goethite/limonite; partially hydrated iron oxides."
+        },
+        {
+          "name": "black-petrified-wood",
+          "colors": [
+            "black",
+            "dark-gray",
+            "charcoal"
+          ],
+          "variety_name": null,
+          "cause": "MnO2 (pyrolusite) or carbonaceous material preserved in low-oxygen conditions."
+        },
+        {
+          "name": "gray-petrified-wood",
+          "colors": [
+            "gray",
+            "silver-gray",
+            "ash"
+          ],
+          "variety_name": null,
+          "cause": "Low trace element content in pure silica replacement; minimal chromophores."
+        },
+        {
+          "name": "blue-green-petrified-wood",
+          "colors": [
+            "blue-green",
+            "teal",
+            "pale-green"
+          ],
+          "variety_name": null,
+          "cause": "Cu or Cr in the replacing silica."
+        },
+        {
+          "name": "agatized-wood",
+          "colors": [
+            "banded multicolor — red",
+            "white",
+            "brown",
+            "gray"
+          ],
+          "variety_name": "agatized-wood",
+          "cause": "Multiple silica precipitation events with varying trace element concentrations, producing banding analogous to agate."
+        }
+      ],
+      "habits": [
+        "wood-log-form",
+        "cross-section-disc",
+        "branch-fragment",
+        "root-mass",
+        "bark-surface"
+      ],
+      "textures": [
+        "wood-grain",
+        "annual-ring-pattern",
+        "cellular",
+        "waxy-polish",
+        "rough-bark"
+      ],
+      "luster": [
+        "waxy",
+        "vitreous",
+        "earthy"
+      ],
+      "visual_notes": "The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure.",
+      "optical_effects": {
+        "fluorescence": "Variable; some material fluoresces green or yellow under UV (chalcedony component)",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Rare; some fibrous chalcedony replacements show weak chatoyancy",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "pyrite",
+      "display_name": "Pyrite",
+      "chemistry_class": "sulfide",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#CFB53B",
+        "#B8960C",
+        "#8B7536"
+      ],
+      "baseline_colors": [
+        "brassy-yellow",
+        "pale-gold",
+        "metallic-yellow"
+      ],
+      "color_profiles": [
+        {
+          "name": "Classic Brassy Pyrite",
+          "colors": [
+            "brassy-yellow",
+            "metallic-gold-yellow",
+            "bronze-yellow"
+          ],
+          "variety_name": null,
+          "cause": "Metallic luster from d-band electronic structure of iron sulfide; brass-yellow reflectance."
+        },
+        {
+          "name": "Iridescent Tarnished Pyrite",
+          "colors": [
+            "bronze",
+            "copper-purple",
+            "blue-tarnish",
+            "rainbow iridescence"
+          ],
+          "variety_name": null,
+          "cause": "Thin-film iron oxide/hydroxide layer from surface oxidation (FeS2 → Fe oxide + H2SO4)."
+        },
+        {
+          "name": "Pyrite Sun / Dollar Pyrite",
+          "colors": [
+            "brassy-yellow",
+            "flat disc with radiating crystal striations"
+          ],
+          "variety_name": "pyrite-sun",
+          "cause": "Radial crystal growth in confined space (coal seam cleavage planes)."
+        }
+      ],
+      "habits": [
+        "cubic (striated faces)",
+        "pyritohedral",
+        "octahedral",
+        "massive",
+        "granular",
+        "nodular",
+        "radiating (pyrite suns)",
+        "framboidal (microscopic)"
+      ],
+      "textures": [
+        "bright metallic",
+        "striated cube faces",
+        "tarnished iridescent"
+      ],
+      "luster": [
+        "metallic",
+        "splendent"
+      ],
+      "visual_notes": "Pyrite is mineralogy's great impersonator — 'fool's gold' for millennia. The striated faces of pyrite cubes (from oscillation between cube and pyritohedron) are diagnostic. Iron cross twins — two interlocking pyritohedra — are among mineralogy's most architecturally perfect specimens. Pyrite suns (flat radiating discs) are unique and immediately recognizable forms.",
+      "optical_effects": {
+        "fluorescence": "None",
+        "iridescence": "Surface oxidation produces iridescent tarnish",
+        "play_of_color": "Surface oxidation produces iridescent tarnish",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "quartz",
+      "display_name": "Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "white",
+        "silver",
+        "pale-lavender"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white"
+      ],
+      "color_profiles": [
+        {
+          "name": "rock-crystal",
+          "colors": [
+            "colorless",
+            "clear"
+          ],
+          "variety_name": "rock-crystal",
+          "cause": "Low impurity content / near-ideal composition."
+        },
+        {
+          "name": "smoky",
+          "colors": [
+            "smoky-gray",
+            "brown",
+            "black"
+          ],
+          "variety_name": "smoky-quartz",
+          "cause": "Color centers associated with irradiation and trace impurities."
+        },
+        {
+          "name": "rose",
+          "colors": [
+            "pink",
+            "rose"
+          ],
+          "variety_name": "rose-quartz",
+          "cause": "Variety-specific color mechanism; often treated as inclusion/defect related."
+        },
+        {
+          "name": "amethyst-spectrum",
+          "colors": [
+            "lavender",
+            "violet",
+            "purple"
+          ],
+          "variety_name": "amethyst",
+          "cause": "Impurity / defect-driven color."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "pyramidal",
+        "massive",
+        "granular",
+        "drusy",
+        "vein-filling",
+        "acicular"
+      ],
+      "textures": [
+        "glassy",
+        "sparkling",
+        "crystalline",
+        "sugary"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "One of the most visually flexible minerals on earth.",
+      "optical_effects": {
+        "fluorescence": "",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "rhodochrosite",
+      "display_name": "Rhodochrosite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#E8547A",
+        "#D4496B",
+        "#F2B4C0"
+      ],
+      "baseline_colors": [
+        "pink",
+        "rose-red",
+        "raspberry-red"
+      ],
+      "color_profiles": [
+        {
+          "name": "Raspberry / Crystal Rhodochrosite",
+          "colors": [
+            "raspberry-red",
+            "deep-pink",
+            "vivid-rose",
+            "scarlet-pink"
+          ],
+          "variety_name": "raspberry-rhodochrosite",
+          "cause": "High Mn content with minimal Fe/Ca dilution; Mn2+ d-d transition."
+        },
+        {
+          "name": "Inca Rose (Banded Stalactitic)",
+          "colors": [
+            "pale-pink",
+            "rose-pink",
+            "white",
+            "cream",
+            "orange-pink"
+          ],
+          "variety_name": "inca-rose",
+          "cause": "Alternating layers with varying Mn/Ca/Fe ratios; banding reflects changing fluid chemistry."
+        },
+        {
+          "name": "Orange-Brown Rhodochrosite",
+          "colors": [
+            "orange-pink",
+            "peach",
+            "salmon",
+            "brown-pink"
+          ],
+          "variety_name": null,
+          "cause": "Higher Fe substitution (toward siderite) diluting and warming the pink."
+        }
+      ],
+      "habits": [
+        "rhombohedral (curved faces)",
+        "scalenohedral",
+        "massive",
+        "stalactitic",
+        "botryoidal",
+        "granular",
+        "cleavage rhombs"
+      ],
+      "textures": [
+        "curved glassy faces",
+        "banded (stalactitic)",
+        "concentric layers",
+        "sugary massive"
+      ],
+      "luster": [
+        "vitreous",
+        "pearly",
+        "resinous"
+      ],
+      "visual_notes": "The banded 'Inca Rose' stalactitic form from Argentina — polished to reveal concentric pink-and-white rings — is one of the most recognized ornamental stone patterns in the gem world. Crystallized raspberry-red specimens from Colorado are among the most sought-after collector mineral specimens globally.",
+      "optical_effects": {
+        "fluorescence": "Weak; some specimens show pale pink or orange fluorescence under UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "rose-quartz",
+      "display_name": "Rose Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#FFB7C5",
+        "#F4A7B9",
+        "#FADADD"
+      ],
+      "baseline_colors": [
+        "pale-pink",
+        "rose-pink"
+      ],
+      "color_profiles": [
+        {
+          "name": "Classic Rose Quartz",
+          "colors": [
+            "pale-pink",
+            "rose-pink",
+            "baby-pink",
+            "dusty-rose"
+          ],
+          "variety_name": null,
+          "cause": "Microscopic pink fibrous inclusion of Ti-bearing Al-phosphate hydroxide mineral distributed through massive quartz; optical scattering."
+        },
+        {
+          "name": "Star Rose Quartz",
+          "colors": [
+            "rose-pink with six-rayed white asterism"
+          ],
+          "variety_name": null,
+          "cause": "Rutile needle inclusions in three orientations within quartz produce asterism when cut as cabochon."
+        },
+        {
+          "name": "Deep Rose / Intense Pink",
+          "colors": [
+            "deeper-rose",
+            "medium-pink"
+          ],
+          "variety_name": null,
+          "cause": "Higher concentration of color-bearing inclusions."
+        }
+      ],
+      "habits": [
+        "massive (dominant)",
+        "granular",
+        "veins",
+        "nodular"
+      ],
+      "textures": [
+        "translucent waxy-vitreous",
+        "milky pink",
+        "smooth polished"
+      ],
+      "luster": [
+        "vitreous",
+        "waxy"
+      ],
+      "visual_notes": "Rose quartz has a characteristic soft, diffuse, milky-pink quality from the light-scattering fibrous inclusions. It is never facet-grade transparent in classic form. The color is gentle and warm — not vivid like ruby or pink tourmaline but consistently soft. Star rose quartz cut as cabochon shows the six-rayed star most vividly under a point light source.",
+      "optical_effects": {
+        "fluorescence": "Weak blue or orange-pink under UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Rare cat's eye rose quartz",
+        "asterism": "Star rose quartz — six-rayed star from oriented rutile inclusions; best shown in Sri Lankan and Brazilian material"
+      }
+    },
+    {
+      "id": "ruby",
+      "display_name": "Ruby",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#9B111E",
+        "#CC0000",
+        "#E0115F"
+      ],
+      "baseline_colors": [
+        "red",
+        "deep-red",
+        "pinkish-red"
+      ],
+      "color_profiles": [
+        {
+          "name": "Pigeon's Blood Ruby",
+          "colors": [
+            "vivid-red",
+            "pure-red with slight blue fluorescent overtone"
+          ],
+          "variety_name": "pigeon-blood-ruby",
+          "cause": "Cr3+ at optimal concentration (~0.5–1.5% Cr2O3); strong red fluorescence under UV complements natural redness in daylight."
+        },
+        {
+          "name": "Burmese Ruby (general)",
+          "colors": [
+            "deep-red",
+            "red",
+            "slightly purplish-red"
+          ],
+          "variety_name": null,
+          "cause": "Cr3+ chromophore; trace Fe adds depth."
+        },
+        {
+          "name": "Thai/Cambodian Ruby",
+          "colors": [
+            "dark-red",
+            "brownish-red",
+            "purplish-red"
+          ],
+          "variety_name": null,
+          "cause": "Higher Fe content alongside Cr3+ creates darker, less fluorescent red."
+        },
+        {
+          "name": "Star Ruby",
+          "colors": [
+            "red body with six-rayed white asterism"
+          ],
+          "variety_name": "star-ruby",
+          "cause": "Silk inclusions (rutile needles oriented along three crystallographic directions) producing asterism when cut as cabochon."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "tabular hexagonal",
+        "barrel-shaped",
+        "bipyramidal",
+        "massive",
+        "granular",
+        "rounded alluvial pebbles"
+      ],
+      "textures": [
+        "glassy",
+        "striated crystal faces",
+        "silky (silk inclusions visible under magnification)"
+      ],
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "visual_notes": "Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology.",
+      "optical_effects": {
+        "fluorescence": "Strong red fluorescence under UV (LW and SW) — Cr3+ emission; Burmese/marble-hosted rubies fluoresce more strongly than basalt-hosted Thai rubies (which have higher Fe quenching fluorescence)",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": "Six-rayed star in star ruby — from intersecting rutile (silk) needle inclusions parallel to three directions in {0001} basal plane"
+      }
+    },
+    {
+      "id": "sapphire",
+      "display_name": "Sapphire",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#0F52BA",
+        "#1560BD",
+        "#4B9CD3"
+      ],
+      "baseline_colors": [
+        "blue",
+        "cornflower-blue",
+        "deep-blue"
+      ],
+      "color_profiles": [
+        {
+          "name": "Kashmir Blue Sapphire",
+          "colors": [
+            "velvety-cornflower-blue",
+            "blue with slight violet"
+          ],
+          "variety_name": null,
+          "cause": "Fe2+/Ti4+ IVCT; fine silk inclusions scatter light to produce the famous velvety texture."
+        },
+        {
+          "name": "Burmese / Ceylon Sapphire",
+          "colors": [
+            "royal-blue",
+            "deep-blue",
+            "vivid-blue"
+          ],
+          "variety_name": null,
+          "cause": "Fe2+/Ti4+ charge transfer — less silk than Kashmir; brighter."
+        },
+        {
+          "name": "Padparadscha",
+          "colors": [
+            "orange-pink",
+            "salmon",
+            "lotus-flower"
+          ],
+          "variety_name": "padparadscha",
+          "cause": "Combination of Cr3+ (pink) and iron-related (orange) color centers."
+        },
+        {
+          "name": "Yellow Sapphire",
+          "colors": [
+            "golden-yellow",
+            "canary-yellow",
+            "orange-yellow"
+          ],
+          "variety_name": "yellow-sapphire",
+          "cause": "Fe3+ substitution or color centers."
+        },
+        {
+          "name": "Star Sapphire",
+          "colors": [
+            "blue",
+            "gray",
+            "black body with six-rayed white asterism"
+          ],
+          "variety_name": "star-sapphire",
+          "cause": "Rutile (silk) needle inclusions in three crystallographic orientations producing asterism under cabochon cut."
+        },
+        {
+          "name": "Parti Sapphire",
+          "colors": [
+            "blue-green bicolor",
+            "teal",
+            "blue + yellow zones"
+          ],
+          "variety_name": "parti-sapphire",
+          "cause": "Zoned distribution of different chromophores (Fe, Ti) during crystal growth."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "tabular hexagonal",
+        "barrel-shaped",
+        "bipyramidal",
+        "massive",
+        "rounded alluvial pebbles"
+      ],
+      "textures": [
+        "glassy",
+        "velvety (Kashmir — from silk scattering)",
+        "striated basal faces"
+      ],
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "visual_notes": "Kashmir sapphire produces a 'velvety' blue that seems to glow from within — caused by fine silk inclusions scattering light. Star sapphire at its best shows a perfectly centered six-rayed star that moves over the cabochon surface. Padparadscha's salmon-pink-orange is unique and defies category — it must be evaluated in person to appreciate.",
+      "optical_effects": {
+        "fluorescence": "Blue sapphires typically inert to faint under UV; some Sri Lankan sapphires show orange fluorescence; yellow sapphires may fluoresce orange",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": "Six-rayed star in star sapphire from three sets of rutile needles in basal plane"
+      }
+    },
+    {
+      "id": "silver",
+      "display_name": "Silver",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#C0C0C0",
+        "#A8A9AD",
+        "#E8E8E8"
+      ],
+      "baseline_colors": [
+        "silver-white",
+        "gray",
+        "tarnished gray-black"
+      ],
+      "color_profiles": [
+        {
+          "name": "Fresh Native Silver",
+          "colors": [
+            "bright-silver-white"
+          ],
+          "variety_name": null,
+          "cause": "reflective metallic surface of unoxidized silver"
+        },
+        {
+          "name": "Tarnished Silver",
+          "colors": [
+            "gray",
+            "black",
+            "iridescent-brown-gray"
+          ],
+          "variety_name": null,
+          "cause": "silver sulfide (acanthite) tarnish layer from H2S exposure"
+        }
+      ],
+      "habits": [
+        "arborescent",
+        "dendritic",
+        "wire",
+        "massive",
+        "scalenohedral crystals (rare)",
+        "cubic crystals (rare)"
+      ],
+      "textures": [
+        "wire-tangled masses",
+        "leaf-like plates",
+        "granular"
+      ],
+      "luster": [
+        "metallic"
+      ],
+      "visual_notes": "Fresh specimens show brilliant silver-white metallic luster. Tarnish develops complex gray-black patinas. Kongsberg wire-silver specimens are among the most celebrated native metal mineral specimens in existence.",
+      "optical_effects": {
+        "fluorescence": "none",
+        "iridescence": "tarnish iridescence common on oxidized surfaces",
+        "play_of_color": "tarnish iridescence common on oxidized surfaces",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "smithsonite",
+      "display_name": "Smithsonite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#B0C4E8",
+        "#A8D5A2",
+        "#F0EDE8"
+      ],
+      "baseline_colors": [
+        "white",
+        "colorless",
+        "gray"
+      ],
+      "color_profiles": [
+        {
+          "name": "Cobaltian Smithsonite (Blue / Lavender)",
+          "colors": [
+            "blue",
+            "pale-blue",
+            "lavender",
+            "periwinkle",
+            "sky-blue"
+          ],
+          "variety_name": null,
+          "cause": "Co2+ substituting for Zn2+."
+        },
+        {
+          "name": "Cuprian Smithsonite (Green / Teal)",
+          "colors": [
+            "apple-green",
+            "teal-green",
+            "celadon",
+            "turquoise-green"
+          ],
+          "variety_name": null,
+          "cause": "Cu2+ substituting for Zn2+."
+        },
+        {
+          "name": "Manganian Smithsonite (Pink)",
+          "colors": [
+            "pale-pink",
+            "rose-pink",
+            "salmon"
+          ],
+          "variety_name": null,
+          "cause": "Mn2+ substituting for Zn2+."
+        },
+        {
+          "name": "White / Gray Smithsonite",
+          "colors": [
+            "white",
+            "cream",
+            "pale-gray"
+          ],
+          "variety_name": null,
+          "cause": "Near-pure ZnCO3 with minimal chromophore substitution."
+        },
+        {
+          "name": "Yellow / Brown Smithsonite",
+          "colors": [
+            "pale-yellow",
+            "honey-yellow",
+            "tan"
+          ],
+          "variety_name": null,
+          "cause": "Fe2+/Fe3+ substitution or iron oxide staining."
+        }
+      ],
+      "habits": [
+        "botryoidal",
+        "mammillary",
+        "stalactitic",
+        "massive",
+        "earthy",
+        "cellular",
+        "crusty",
+        "rhombohedral (rare)"
+      ],
+      "textures": [
+        "pearly smooth (botryoidal)",
+        "cellular porous",
+        "granular",
+        "waxy"
+      ],
+      "luster": [
+        "vitreous",
+        "pearly",
+        "silky"
+      ],
+      "visual_notes": "Smithsonite is primarily known as a secondary zinc carbonate with exceptional color range and unusual pearlescent botryoidal habit. Cobalt-bearing blue smithsonite from Tsumeb and copper-bearing green from Arizona are collector favorites. The pearly luster of botryoidal forms is distinctive.",
+      "optical_effects": {
+        "fluorescence": "Some specimens fluoresce pale blue, green, or white under UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "smoky-quartz",
+      "display_name": "Smoky Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "#6B6B6B",
+        "#4A3728",
+        "#2C2C2C"
+      ],
+      "baseline_colors": [
+        "gray",
+        "brown-gray",
+        "dark-brown"
+      ],
+      "color_profiles": [
+        {
+          "name": "Classic Smoky Quartz",
+          "colors": [
+            "smoky-gray",
+            "gray-brown",
+            "taupe",
+            "brownish-gray"
+          ],
+          "variety_name": null,
+          "cause": "Al-hole color centers from moderate irradiation dose."
+        },
+        {
+          "name": "Cairngorm",
+          "colors": [
+            "brown-yellow",
+            "pale brown",
+            "smoky-amber"
+          ],
+          "variety_name": "cairngorm",
+          "cause": "Al-hole color centers with slight Fe contribution; lower irradiation dose."
+        },
+        {
+          "name": "Morion",
+          "colors": [
+            "near-black",
+            "opaque-black",
+            "very dark-brown"
+          ],
+          "variety_name": "morion",
+          "cause": "Very high irradiation dose; very dense color center population."
+        }
+      ],
+      "habits": [
+        "prismatic hexagonal",
+        "pyramidal termination",
+        "massive",
+        "tabular (rare)"
+      ],
+      "textures": [
+        "glassy",
+        "vitreous",
+        "clear transparent to dense opaque"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity.",
+      "optical_effects": {
+        "fluorescence": "None typically",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "sulfur",
+      "display_name": "Sulfur",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#FDD835",
+        "#F9A825",
+        "#C6A700"
+      ],
+      "baseline_colors": [
+        "yellow",
+        "pale-yellow",
+        "sulfur-yellow",
+        "orange-yellow",
+        "greenish-yellow"
+      ],
+      "color_profiles": [
+        {
+          "name": "Volcanic Fumarolic Sulfur",
+          "colors": [
+            "bright-yellow",
+            "orange-yellow",
+            "greenish-yellow"
+          ],
+          "variety_name": null,
+          "cause": "sublimation deposits with minor impurities from volcanic gases"
+        },
+        {
+          "name": "Sedimentary / Biogenic Sulfur",
+          "colors": [
+            "pale-yellow",
+            "yellow-white"
+          ],
+          "variety_name": null,
+          "cause": "bacterial reduction of sulfates (Desulfovibrio spp.)"
+        },
+        {
+          "name": "Orange-Red Variety",
+          "colors": [
+            "orange",
+            "brownish-orange"
+          ],
+          "variety_name": null,
+          "cause": "arsenic or selenium impurities"
+        }
+      ],
+      "habits": [
+        "bipyramidal crystals",
+        "tabular",
+        "massive",
+        "stalactitic",
+        "encrusting",
+        "striated prismatic"
+      ],
+      "textures": [
+        "glassy resinous surface on crystals",
+        "earthy to powdery in massive form",
+        "conchoidal fracture surface"
+      ],
+      "luster": [
+        "resinous",
+        "waxy"
+      ],
+      "visual_notes": "Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy.",
+      "optical_effects": {
+        "fluorescence": "weak yellow-white under UV (some specimens)",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "sunstone",
+      "display_name": "Sunstone",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "copper-orange",
+        "harvest-gold",
+        "deep-red",
+        "champagne"
+      ],
+      "baseline_colors": [
+        "orange",
+        "golden-yellow",
+        "salmon",
+        "copper-red"
+      ],
+      "color_profiles": [
+        {
+          "name": "oregon-sunstone-copper",
+          "colors": [
+            "deep-red",
+            "copper-red",
+            "red-green bicolor",
+            "teal-green",
+            "champagne"
+          ],
+          "variety_name": "oregon-sunstone",
+          "cause": "Native copper inclusions (platelets and dispersed copper) provide both color saturation and metallic aventurescent schiller."
+        },
+        {
+          "name": "norway-sunstone",
+          "colors": [
+            "golden-yellow",
+            "reddish-orange",
+            "peach"
+          ],
+          "variety_name": null,
+          "cause": "Hematite platelet inclusions oriented parallel to {001} in oligoclase matrix."
+        },
+        {
+          "name": "india-sunstone",
+          "colors": [
+            "orange",
+            "red",
+            "gold"
+          ],
+          "variety_name": null,
+          "cause": "Goethite and hematite platelet inclusions in oligoclase."
+        },
+        {
+          "name": "colorless-clear-oregon",
+          "colors": [
+            "colorless",
+            "champagne",
+            "very pale yellow"
+          ],
+          "variety_name": null,
+          "cause": "Very low copper content; body color near-colorless."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "tabular",
+        "massive",
+        "anhedral"
+      ],
+      "textures": [
+        "glassy",
+        "metallic-schiller",
+        "smooth"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality.",
+      "optical_effects": {
+        "fluorescence": "",
+        "iridescence": "Aventurescence: metallic glitter and schiller from oriented hematite, goethite, or native copper platelets. More dramatic than moonstone adularescence — appears as individual flashing points or a broad metallic sheen depending on inclusion density and size.",
+        "play_of_color": "Aventurescence: metallic glitter and schiller from oriented hematite, goethite, or native copper platelets. More dramatic than moonstone adularescence — appears as individual flashing points or a broad metallic sheen depending on inclusion density and size.",
+        "chatoyancy": "Rare cat's eye sunstone reported.",
+        "asterism": "Rare 4-ray star sunstone reported in Oregon material."
+      }
+    },
+    {
+      "id": "tiger-eye",
+      "display_name": "Tiger's Eye",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "ui_color_hint": [
+        "amber-gold",
+        "dark-honey",
+        "burnt-brown",
+        "blue-gray"
+      ],
+      "baseline_colors": [
+        "golden-brown",
+        "amber-brown",
+        "yellow-brown"
+      ],
+      "color_profiles": [
+        {
+          "name": "tiger-eye-classic",
+          "colors": [
+            "golden-yellow",
+            "amber",
+            "rich-brown",
+            "dark-brown"
+          ],
+          "variety_name": "tiger-eye",
+          "cause": "Goethite (iron oxyhydroxide) inclusions within parallel silica fibers, replacing oxidized crocidolite."
+        },
+        {
+          "name": "hawk-eye",
+          "colors": [
+            "blue-gray",
+            "steel-blue",
+            "blue-green"
+          ],
+          "variety_name": "hawk-eye",
+          "cause": "Partial or unoxidized crocidolite fibers preserved or less fully replaced; blue color from original riebeckite amphibole."
+        },
+        {
+          "name": "ox-eye",
+          "colors": [
+            "red-brown",
+            "dark-red",
+            "brick-red"
+          ],
+          "variety_name": "ox-eye",
+          "cause": "Further oxidation of goethite to hematite shifts color toward red-brown."
+        },
+        {
+          "name": "pietersite",
+          "colors": [
+            "swirling blue",
+            "gold",
+            "red; breccia-like patterns"
+          ],
+          "variety_name": "pietersite",
+          "cause": "Brecciated combination of tiger's eye, hawk's eye, and jasper fragments."
+        }
+      ],
+      "habits": [
+        "fibrous",
+        "massive",
+        "veins"
+      ],
+      "textures": [
+        "silky",
+        "fibrous",
+        "oriented",
+        "smooth-when-polished"
+      ],
+      "luster": [
+        "silky"
+      ],
+      "visual_notes": "Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section.",
+      "optical_effects": {
+        "fluorescence": "",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Strong; classic golden-brown cat's eye effect from parallel goethite/iron oxide fibers within the silica matrix. Effect is best in cabochon cut.",
+        "asterism": ""
+      }
+    },
+    {
+      "id": "tourmaline",
+      "display_name": "Tourmaline",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "schorl-black",
+        "neon-blue",
+        "rubellite-red",
+        "watermelon-pink-green",
+        "verdelite-green"
+      ],
+      "baseline_colors": [
+        "black",
+        "colorless"
+      ],
+      "color_profiles": [
+        {
+          "name": "schorl",
+          "colors": [
+            "black",
+            "dark-brown",
+            "opaque-black"
+          ],
+          "variety_name": "schorl",
+          "cause": "High Fe2+ and Fe3+ content; Fe2+–Fe3+ intervalence charge transfer."
+        },
+        {
+          "name": "rubellite",
+          "colors": [
+            "red",
+            "hot-pink",
+            "raspberry",
+            "crimson"
+          ],
+          "variety_name": "rubellite",
+          "cause": "Mn2+ and Mn3+ in the Y-site of elbaite."
+        },
+        {
+          "name": "indicolite",
+          "colors": [
+            "blue",
+            "teal",
+            "blue-green",
+            "deep-blue"
+          ],
+          "variety_name": "indicolite",
+          "cause": "Fe2+ and Fe3+ in elbaite (Li-Al-rich end member) producing blue hues."
+        },
+        {
+          "name": "verdelite",
+          "colors": [
+            "green",
+            "leaf-green",
+            "olive-green",
+            "yellow-green"
+          ],
+          "variety_name": "verdelite",
+          "cause": "Fe2+ and mixed Fe2+/Fe3+ in elbaite; Cr3+ in chrome tourmaline (dravite/uvite)."
+        },
+        {
+          "name": "paraiba-tourmaline",
+          "colors": [
+            "neon-blue",
+            "electric-blue",
+            "mint-green",
+            "turquoise"
+          ],
+          "variety_name": "paraiba-tourmaline",
+          "cause": "Cu2+ (and Mn for violet tones) in the Y-site; extremely rare Cu-bearing elbaite."
+        },
+        {
+          "name": "watermelon-tourmaline",
+          "colors": [
+            "pink-core",
+            "green-rim",
+            "white-intermediate"
+          ],
+          "variety_name": "watermelon-tourmaline",
+          "cause": "Growth zoning: Mn-rich (pink) core crystallized before Fe-richer (green) outer zones."
+        },
+        {
+          "name": "dravite",
+          "colors": [
+            "brown",
+            "yellow-brown",
+            "golden-brown",
+            "dark-brown"
+          ],
+          "variety_name": "dravite",
+          "cause": "Mg-dominant Y-site composition; Fe minor."
+        },
+        {
+          "name": "colorless-achroite",
+          "colors": [
+            "colorless",
+            "pale-white"
+          ],
+          "variety_name": "achroite",
+          "cause": "Very low Fe, Mn, and other chromophores in elbaite."
+        }
+      ],
+      "habits": [
+        "prismatic",
+        "acicular",
+        "columnar",
+        "striated-prism",
+        "massive",
+        "radial",
+        "drusy"
+      ],
+      "textures": [
+        "striated",
+        "vitreous",
+        "crystalline"
+      ],
+      "luster": [
+        "vitreous"
+      ],
+      "visual_notes": "The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally.",
+      "optical_effects": {
+        "fluorescence": "Generally inert to weak; some pink/red elbaite may show weak orange or red under LW UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Cat's-eye tourmaline known; parallel tube inclusions or growth channels along c-axis",
+        "asterism": "Rare"
+      }
+    },
+    {
+      "id": "turquoise",
+      "display_name": "Turquoise",
+      "chemistry_class": "phosphate",
+      "species_status": "species",
+      "ui_color_hint": [
+        "#40E0D0",
+        "#00BCD4",
+        "#5B9BD5"
+      ],
+      "baseline_colors": [
+        "blue",
+        "blue-green",
+        "green"
+      ],
+      "color_profiles": [
+        {
+          "name": "Robin's Egg Blue",
+          "colors": [
+            "sky-blue",
+            "robin-egg-blue",
+            "vivid-blue"
+          ],
+          "variety_name": "persian-turquoise",
+          "cause": "High Cu2+ content; minimal Fe substitution for Al."
+        },
+        {
+          "name": "Matrix Turquoise",
+          "colors": [
+            "blue",
+            "blue-green",
+            "with brown/black/yellow veining"
+          ],
+          "variety_name": "spiderweb-turquoise",
+          "cause": "Host rock (limonite, quartz, pyrite, iron oxides) veining through turquoise mass."
+        },
+        {
+          "name": "Green Turquoise",
+          "colors": [
+            "apple-green",
+            "yellow-green",
+            "olive-green",
+            "teal"
+          ],
+          "variety_name": null,
+          "cause": "Higher Fe3+ substituting for Al3+; or Zn or V substitution."
+        },
+        {
+          "name": "Blue-Green Turquoise",
+          "colors": [
+            "teal",
+            "blue-green",
+            "mint"
+          ],
+          "variety_name": null,
+          "cause": "Mixed Cu2+ and Fe3+ contributions."
+        }
+      ],
+      "habits": [
+        "massive",
+        "microcrystalline aggregate",
+        "nodular",
+        "veins",
+        "botryoidal",
+        "stalactitic",
+        "cryptocrystalline crust",
+        "prismatic crystals (very rare)"
+      ],
+      "textures": [
+        "waxy to earthy",
+        "smooth (polished)",
+        "botryoidal rounded",
+        "matrix-veined"
+      ],
+      "luster": [
+        "waxy",
+        "earthy"
+      ],
+      "visual_notes": "Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds.",
+      "optical_effects": {
+        "fluorescence": "Typically none to faint; some specimens show weak blue-green or yellow under LW UV",
+        "iridescence": "",
+        "play_of_color": "",
+        "chatoyancy": "Rare; fibrous material can show weak cat's eye",
+        "asterism": ""
+      }
+    }
+  ]
+}

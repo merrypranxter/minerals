@@ -1,0 +1,51 @@
+{
+  "id": "copper",
+  "display_name": "Copper",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "copper-red",
+    "orange-red",
+    "brown (oxidized)",
+    "blue-green (weathered)"
+  ],
+  "visual_notes": "Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits.",
+  "prompt_fragments": [
+    "copper-red arborescent mass with blue-green malachite bloom",
+    "wiry dendritic copper on basalt matrix",
+    "warm metallic red fading to verdigris teal"
+  ],
+  "mood_keywords": [
+    "primal-metal",
+    "oxidation-spectrum",
+    "archaic-technology",
+    "warm-metallic"
+  ],
+  "sensory_keywords": [
+    "warm penny smell",
+    "verdigris bloom",
+    "heat-conducting warmth",
+    "ancient tang"
+  ],
+  "palette_keywords": [
+    "raw copper-red",
+    "verdigris teal",
+    "oxidized bronze",
+    "patina green"
+  ],
+  "aesthetic_roles": [
+    "earthy warmth anchor",
+    "patina-beauty reference",
+    "industrial-ancient bridge",
+    "tonal contrast with blue-green secondary minerals"
+  ],
+  "vibe_notes": "Copper is the first chapter of human metallurgy — warm, workable, transformative. Its slow oxidation into blues and greens is one of nature's most beautiful chemical reactions.",
+  "symbolism": [
+    "technology and progress",
+    "warmth and earthiness",
+    "the dawn of metallurgy",
+    "conductivity and connection"
+  ],
+  "folklore_summary": "The word 'copper' derives from Latin 'cuprum', itself from Greek 'Kuprios' meaning 'of Cyprus', where copper was extensively mined in antiquity. Copper was the first metal systematically worked by humans, defining the Chalcolithic period. The Lake Superior copper deposits in Michigan supported one o"
+}

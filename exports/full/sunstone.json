@@ -1,0 +1,329 @@
+{
+  "id": "sunstone",
+  "slug": "sunstone",
+  "display_name": "Sunstone",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "feldspar-group",
+    "species_status": "variety",
+    "parent_species": "oligoclase",
+    "related_varieties": [
+      "oregon-sunstone",
+      "norway-sunstone",
+      "aventurine-feldspar"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": null,
+    "other_ids": {
+      "note": "Sunstone is a trade/variety name; parent mineral varies (oligoclase, labradorite, or orthoclase depending on source). No single Mindat ID covers all sunstones.",
+      "oligoclase_mindat": "2968",
+      "labradorite_mindat": "2231"
+    }
+  },
+  "chemical_profile": {
+    "ideal_formula": "Variable: (Na,Ca)(Al,Si)AlSi2O8 (oligoclase/labradorite) or KAlSi3O8 (orthoclase)",
+    "simplified_formula": "Variable by source",
+    "essential_elements": [
+      "Na",
+      "Ca",
+      "Al",
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Cu",
+      "K",
+      "Ba"
+    ],
+    "structural_units": [
+      "TO4 framework tetrahedra in 3D feldspar framework",
+      "metallic platelet inclusions (hematite, goethite, or native copper)"
+    ],
+    "atomic_structure_notes": "Sunstone is defined by its inclusions, not a distinct feldspar composition. The optical effect (aventurescence) comes from oriented metallic platelets — hematite or goethite in oligoclase sunstone, or native copper in Oregon labradorite sunstone — oriented parallel to crystallographic planes in the feldspar host.",
+    "chemistry_notes": "Oregon sunstone is a labradorite-composition plagioclase (An45–An68) with native copper inclusions. Norwegian sunstone is oligoclase with hematite platelets. Indian and other commercial sunstone is typically oligoclase with hematite or goethite inclusions. Copper-bearing Oregon sunstone is unique globally."
+  },
+  "crystallography": {
+    "crystal_system": "triclinic",
+    "crystal_class": "1-bar (plagioclase) or 2/m (orthoclase)",
+    "space_group": "P-1 (plagioclase) or C2/m (orthoclase)",
+    "unit_cell_notes": "Varies with parent feldspar species.",
+    "twinning": "Polysynthetic albite and pericline twinning in plagioclase varieties.",
+    "crystallography_notes": "The metallic inclusions responsible for aventurescence are aligned parallel to {001} or other crystallographic planes, which is why the schiller is directional."
+  },
+  "physical_properties": {
+    "mohs_hardness": "6–6.5",
+    "specific_gravity": "2.62–2.72",
+    "luster": [
+      "vitreous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "perfect {001}",
+      "good {010}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Two cleavage directions typical of feldspars. Oregon sunstone ranges from colorless through yellow, orange, red, and deep copper-red/green. The more copper present, the deeper and more saturated the color and the stronger the aventurescence."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "orange",
+      "golden-yellow",
+      "salmon",
+      "copper-red"
+    ],
+    "color_profiles": [
+      {
+        "name": "oregon-sunstone-copper",
+        "colors": [
+          "deep-red",
+          "copper-red",
+          "red-green bicolor",
+          "teal-green",
+          "champagne"
+        ],
+        "cause": "Native copper inclusions (platelets and dispersed copper) provide both color saturation and metallic aventurescent schiller.",
+        "conditions": "Oregon, USA (Lake County — Ponderosa Mine and associated claims). The copper content varies by growth zone, creating color-zoned and bicolor stones unique globally.",
+        "variety_name": "oregon-sunstone"
+      },
+      {
+        "name": "norway-sunstone",
+        "colors": [
+          "golden-yellow",
+          "reddish-orange",
+          "peach"
+        ],
+        "cause": "Hematite platelet inclusions oriented parallel to {001} in oligoclase matrix.",
+        "conditions": "Tvedestrand district, Norway. Feldspar pegmatites.",
+        "variety_name": null
+      },
+      {
+        "name": "india-sunstone",
+        "colors": [
+          "orange",
+          "red",
+          "gold"
+        ],
+        "cause": "Goethite and hematite platelet inclusions in oligoclase.",
+        "conditions": "India; common commercial sunstone.",
+        "variety_name": null
+      },
+      {
+        "name": "colorless-clear-oregon",
+        "colors": [
+          "colorless",
+          "champagne",
+          "very pale yellow"
+        ],
+        "cause": "Very low copper content; body color near-colorless.",
+        "conditions": "Oregon; facetable transparent material without strong color.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "prismatic",
+      "tabular",
+      "massive",
+      "anhedral"
+    ],
+    "textures": [
+      "glassy",
+      "metallic-schiller",
+      "smooth"
+    ],
+    "macro_patterns": [
+      "aventurescent-glitter",
+      "metallic-flash",
+      "color-zoning"
+    ],
+    "common_forms": [
+      "faceted transparent gems",
+      "cabochons",
+      "beads",
+      "tumbled stones"
+    ],
+    "visual_notes": "Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "",
+    "phosphorescence": "",
+    "chatoyancy": "Rare cat's eye sunstone reported.",
+    "asterism": "Rare 4-ray star sunstone reported in Oregon material.",
+    "iridescence": "Aventurescence: metallic glitter and schiller from oriented hematite, goethite, or native copper platelets. More dramatic than moonstone adularescence — appears as individual flashing points or a broad metallic sheen depending on inclusion density and size.",
+    "pleochroism": "Oregon sunstone shows moderate to strong pleochroism: colorless to pale yellow to deep orange-red depending on crystal orientation.",
+    "optical_notes": "Aventurescence differs from adularescence (moonstone) and labradorescence (labradorite) in mechanism: it is reflection from individual metallic platelet surfaces, not thin-film interference. Oregon sunstone's pleochroism is notable and important for cutting orientation. The copper gives it an absorption spectrum distinct from hematite-bearing sunstone."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic",
+      "pegmatitic"
+    ],
+    "geologic_environments": [
+      "basaltic lava flows (Oregon sunstone — in basalt flows, not pegmatites)",
+      "pegmatites (Norwegian and Indian sunstone)",
+      "granitic pegmatites"
+    ],
+    "host_rocks": [
+      "basalt (Oregon)",
+      "pegmatite (Norway, India)",
+      "granite"
+    ],
+    "associated_minerals": [
+      "other feldspars",
+      "quartz",
+      "native copper (Oregon)",
+      "hematite",
+      "olivine (in basalt)"
+    ],
+    "locality_scope": "localized",
+    "notable_localities": [
+      "Oregon, USA (Lake County — Ponderosa Mine and Glass Buttes; labradorite with native copper; official state gemstone of Oregon since 1987)",
+      "Norway (Tvedestrand, Aust-Agder — oligoclase with hematite; original European sunstone)",
+      "India (Rajasthan — oligoclase/labradorite with hematite/goethite; large commercial source)",
+      "Tanzania",
+      "Canada (Labrador — some sunstone adjacent to labradorite occurrences)",
+      "Australia"
+    ],
+    "occurrence_notes": "Oregon sunstone occurs uniquely in basaltic lava flows of the Miocene age. The copper precipitated as native metal within the crystallizing feldspar. This formation in basalt (rather than pegmatite) is the primary geological distinction of Oregon sunstone."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Norwegian sunstone historically collected and used as ornamental stone",
+      "Oregon sunstone designated official state gemstone of Oregon in 1987",
+      "Viking sunstone (sólarsteinn): some researchers propose that Viking navigators used a transparent birefringent crystal — possibly calcite (Iceland spar) or cordierite — as a navigation tool; rarely associated with feldspar sunstone"
+    ],
+    "cultural_associations": [
+      "Associated with the sun, solar energy, and warmth across modern crystal traditions",
+      "Oregon sunstone: symbol of Pacific Northwest geology"
+    ],
+    "symbolism": [
+      "solar-energy",
+      "vitality",
+      "warmth",
+      "abundance"
+    ],
+    "folklore_notes": "The term 'sólarsteinn' (sunstone) from Norse sagas refers to a navigational crystal, which has generated scholarly debate. Most evidence points to calcite (Iceland spar) or cordierite as the actual navigational stone, not feldspar sunstone — the overlap of the trade name with the saga reference is a modern confusion."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "solar-fragment",
+      "copper-harvest",
+      "warm-metallic-scatter",
+      "autumn-mineral"
+    ],
+    "sensory_keywords": [
+      "sparkling",
+      "warm",
+      "metallic",
+      "glittering",
+      "saturated"
+    ],
+    "palette_keywords": [
+      "copper-orange",
+      "deep-harvest-red",
+      "champagne-gold",
+      "warm-metallic",
+      "autumn-sunset"
+    ],
+    "aesthetic_roles": [
+      "solar mineral",
+      "warm metallic accent stone",
+      "copper-fire gemstone",
+      "autumn-palette anchor"
+    ],
+    "vibe_notes": "Sunstone has a grounded, warm, solar quality that contrasts with the cool lunar depth of moonstone. The aventurescent glitter reads as scattered light, like sunlight on moving water or the scatter of a copper fire. Oregon sunstone, with its native copper and rich saturated color, is among the most texturally and chromatically complex feldspars."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Safe for handling. Two cleavage directions mean it can chip if struck. Moderate hardness (6–6.5) makes it vulnerable to scratching with daily wear.",
+    "care_notes": "Do not use ultrasonic or steam cleaners. Clean with damp cloth. Avoid hard knocks. Remove before physical activity.",
+    "treatments_or_synthetics": [
+      "Glass with copper aventurine (goldstone/aventurine glass) is a common imitation widely confused with sunstone",
+      "Goldstone is man-made glass with copper particles — not a mineral",
+      "Some commercial 'sunstone' is dyed or treated material",
+      "Synthetic sunstone exists as lab-grown feldspar but is not widespread commercially"
+    ],
+    "common_confusions": [
+      "goldstone (aventurine glass — man-made copper-glass imitation extremely common and widely mislabeled)",
+      "aventurine quartz (quartz-based aventurescence, different mechanism)",
+      "orange sapphire",
+      "hessonite garnet"
+    ],
+    "market_notes": "Oregon sunstone is the prestige variety; fine deep-red and bicolor stones command premium prices. The Ponderosa Mine offers public dig opportunities. Norwegian sunstone is less common commercially. Most inexpensive commercial sunstone is Indian oligoclase. Goldstone (glass) is pervasively sold as sunstone; buyers should verify."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "goldstone (aventurine glass)",
+      "aventurine quartz",
+      "orange sapphire",
+      "hessonite garnet",
+      "fire opal"
+    ],
+    "related_species": [
+      "oligoclase",
+      "labradorite",
+      "orthoclase",
+      "albite",
+      "andesine",
+      "moonstone"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "feldspar",
+      "aventurescent",
+      "optical-effect",
+      "variety",
+      "gemstone",
+      "copper",
+      "solar",
+      "oregon"
+    ],
+    "search_boost_terms": [
+      "sunstone",
+      "Oregon sunstone",
+      "aventurescent feldspar",
+      "copper feldspar",
+      "schiller feldspar",
+      "solar gem",
+      "oligoclase sunstone"
+    ],
+    "prompt_fragments": [
+      "warm copper-orange metallic glitter in transparent feldspar",
+      "solar fragment scattered-light aventurescence",
+      "Oregon native copper feldspar with deep bicolor red-green pleochroism"
+    ],
+    "ui_color_hint": [
+      "copper-orange",
+      "harvest-gold",
+      "deep-red",
+      "champagne"
+    ],
+    "priority_score": 82
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.8,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-2968.html"
+    ],
+    "notes": "No single Mindat ID covers all sunstones; oligoclase ID used as primary reference. Goldstone confusion documented — important for market notes."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "calcite",
+  "display_name": "Calcite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "gray"
+  ],
+  "visual_notes": "Calcite's extraordinary morphological diversity makes it among the most recognizable minerals despite no single defining habit. Clear Iceland spar shows remarkable double refraction — images appear doubled. Dogtooth clusters are among the most architecturally beautiful mineral specimens.",
+  "prompt_fragments": [
+    "dogtooth scalenohedral calcite — pale gold clusters on dark matrix",
+    "Iceland spar rhombohedron doubling every letter beneath it",
+    "cave stalactite drip-built calcite — slow geometry",
+    "mangano-calcite pink in hydrothermal veins"
+  ],
+  "mood_keywords": [
+    "crystalline-foundation",
+    "cave-architecture",
+    "morphological-diversity",
+    "ghost-clarity",
+    "civilization-stone"
+  ],
+  "sensory_keywords": [
+    "cool-smooth-cleavage",
+    "acid-fizz-in-the-hand",
+    "doubled-image-refraction",
+    "cave-drip-slow"
+  ],
+  "palette_keywords": [
+    "Iceland-clear",
+    "mangano-pink",
+    "amber-honey",
+    "chalk-white",
+    "travertine-cream"
+  ],
+  "aesthetic_roles": [
+    "foundation mineral",
+    "cave-architecture element",
+    "clarity and light reference",
+    "warm-toned accent crystal"
+  ],
+  "vibe_notes": "Calcite is the mineral that built civilization's monuments and floors its caves with crystal cathedrals. It reacts with acid — a rare dramatic chemistry demonstration in geology. The most morphologically diverse mineral on Earth; no two habits look alike.",
+  "symbolism": [
+    "clarity",
+    "structure",
+    "foundation",
+    "purity",
+    "amplification"
+  ],
+  "folklore_summary": "Iceland spar's double refraction fascinated early scientists — it was central to Huygens' (1690) wave theory of light and was used in early polarimetry. Some researchers have proposed Viking navigators used Iceland spar to locate the sun in cloudy Arctic skies, though evidence remains debated. Calci"
+}

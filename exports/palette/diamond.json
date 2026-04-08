@@ -1,0 +1,112 @@
+{
+  "id": "diamond",
+  "display_name": "Diamond",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#F8F8FF",
+    "#E0E8FF",
+    "#B0C4DE"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "yellow",
+    "brown",
+    "gray",
+    "black (carbonado)"
+  ],
+  "color_profiles": [
+    {
+      "name": "Colorless (D–F on GIA scale)",
+      "colors": [
+        "water-clear",
+        "icy-white"
+      ],
+      "variety_name": null,
+      "cause": "structural purity; absence of nitrogen and other chromophores"
+    },
+    {
+      "name": "Cape Yellow / Fancy Yellow",
+      "colors": [
+        "pale-yellow",
+        "canary-yellow",
+        "deep-yellow"
+      ],
+      "variety_name": "Cape (pale); Fancy Yellow (vivid)",
+      "cause": "nitrogen impurities substituting for carbon (Type Ia / Type Ib)"
+    },
+    {
+      "name": "Brown Diamond",
+      "colors": [
+        "champagne",
+        "cognac",
+        "brown"
+      ],
+      "variety_name": "Champagne Diamond, Chocolate Diamond",
+      "cause": "plastic deformation and vacancy clusters along crystal planes"
+    },
+    {
+      "name": "Blue Diamond",
+      "colors": [
+        "light-blue",
+        "steel-blue",
+        "vivid-blue"
+      ],
+      "variety_name": "Fancy Blue Diamond",
+      "cause": "boron impurities (Type IIb)"
+    },
+    {
+      "name": "Pink / Red Diamond",
+      "colors": [
+        "light-pink",
+        "rose",
+        "deep-pink",
+        "red"
+      ],
+      "variety_name": "Argyle Pink, Fancy Pink, Red Diamond",
+      "cause": "structural defects / plastic deformation (precise mechanism still debated)"
+    },
+    {
+      "name": "Green Diamond",
+      "colors": [
+        "pale-green",
+        "vivid-green"
+      ],
+      "variety_name": "Fancy Green Diamond",
+      "cause": "natural radiation exposure (alpha particle irradiation of crystal lattice)"
+    },
+    {
+      "name": "Black Diamond (Carbonado)",
+      "colors": [
+        "black",
+        "dark-gray"
+      ],
+      "variety_name": "Carbonado",
+      "cause": "polycrystalline aggregate with inclusions of graphite, amorphous carbon, and sulfides"
+    }
+  ],
+  "habits": [
+    "octahedral (most common)",
+    "cubic",
+    "dodecahedral",
+    "macles (twinned flat triangular crystals)",
+    "rounded and frosted (alluvial)"
+  ],
+  "textures": [
+    "smooth adamantine luster on fresh crystal faces",
+    "frosted or etched on alluvial grains",
+    "trigon etch pits on octahedral faces"
+  ],
+  "luster": [
+    "adamantine",
+    "greasy"
+  ],
+  "visual_notes": "Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite.",
+  "optical_effects": {
+    "fluorescence": "blue fluorescence common (~25–35% of gem diamonds) under shortwave UV; some fluoresce yellow, orange, or green; many inert",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fluorite",
+  "slug": "fluorite",
+  "display_name": "Fluorite",
+  "chemistry_class": "halide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "fluorite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "CaF2",
+  "mohs_hardness": 4,
+  "specific_gravity": null,
+  "luster": [
+    "vitreous",
+    "earthy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "isometric",
+  "baseline_colors": [
+    "colorless",
+    "purple",
+    "green"
+  ],
+  "color_profiles_available": [
+    "purple-spectrum",
+    "green-spectrum",
+    "warm-spectrum",
+    "dark-spectrum"
+  ],
+  "habits": [
+    "cubic",
+    "octahedral",
+    "nodular",
+    "botryoidal",
+    "fibrous"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "halide",
+    "fluorescent",
+    "cubic",
+    "colorful",
+    "translucent",
+    "high-priority"
+  ],
+  "priority_score": 96,
+  "ui_color_hint": [
+    "purple",
+    "green",
+    "blue"
+  ]
+}

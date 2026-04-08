@@ -1,0 +1,65 @@
+{
+  "id": "sunstone",
+  "slug": "sunstone",
+  "display_name": "Sunstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "oligoclase",
+  "mineral_group": "feldspar-group",
+  "ima_status": "not_ima",
+  "formula": "Variable: (Na,Ca)(Al,Si)AlSi2O8 (oligoclase/labradorite) or KAlSi3O8 (orthoclase)",
+  "essential_elements": [
+    "Na",
+    "Ca",
+    "Al",
+    "Si",
+    "O"
+  ],
+  "crystal_system": "triclinic",
+  "mohs_hardness": "6–6.5",
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "orange",
+    "golden-yellow",
+    "salmon",
+    "copper-red"
+  ],
+  "genesis": [
+    "magmatic",
+    "pegmatitic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "feldspar",
+    "aventurescent",
+    "optical-effect",
+    "variety",
+    "gemstone",
+    "copper",
+    "solar",
+    "oregon"
+  ],
+  "search_boost_terms": [
+    "sunstone",
+    "Oregon sunstone",
+    "aventurescent feldspar",
+    "copper feldspar",
+    "schiller feldspar",
+    "solar gem",
+    "oligoclase sunstone"
+  ],
+  "priority_score": 82,
+  "mood_keywords": [
+    "solar-fragment",
+    "copper-harvest",
+    "warm-metallic-scatter",
+    "autumn-mineral"
+  ],
+  "_all_text": "Sunstone sunstone Variable: (Na,Ca)(Al,Si)AlSi2O8 (oligoclase/labradorite) or KAlSi3O8 (orthoclase) Oregon sunstone is a labradorite-composition plagioclase (An45–An68) with native copper inclusions. Norwegian sunstone is oligoclase with hematite platelets. Indian and other commercial sunstone is typically oligoclase with hematite or goethite inclusions. Copper-bearing Oregon sunstone is unique globally. Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality. The term 'sólarsteinn' (sunstone) from Norse sagas refers to a navigational crystal, which has generated scholarly debate. Most evidence points to calcite (Iceland spar) or cordierite as the actual navigational stone, not feldspar sunstone — the overlap of the trade name with the saga reference is a modern confusion. solar-energy vitality warmth abundance Norwegian sunstone historically collected and used as ornamental stone Oregon sunstone designated official state gemstone of Oregon in 1987 Viking sunstone (sólarsteinn): some researchers propose that Viking navigators used a transparent birefringent crystal — possibly calcite (Iceland spar) or cordierite — as a navigation tool; rarely associated with feldspar sunstone sunstone Oregon sunstone aventurescent feldspar copper feldspar schiller feldspar solar gem oligoclase sunstone feldspar aventurescent optical-effect variety gemstone copper solar oregon solar-fragment copper-harvest warm-metallic-scatter autumn-mineral orange golden-yellow salmon copper-red"
+}

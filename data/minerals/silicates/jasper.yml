@@ -5,7 +5,7 @@ display_name: Jasper
 classification:
   chemistry_class: silicate
   mineral_group: silica-group
-  species_status: rock-gem-material
+  species_status: rock/gem material
   parent_species: quartz
   related_varieties:
     - picture-jasper
@@ -17,7 +17,7 @@ classification:
     - mookaite
 
 identifiers:
-  ima_status: variety
+  ima_status: not_ima
   mindat_id: 2021
   other_ids: {}
 
@@ -43,7 +43,7 @@ crystallography:
 physical_properties:
   mohs_hardness: "6.5–7"
   specific_gravity: "2.58–2.91"
-  luster: [waxy, dull]
+  luster: [waxy, earthy]
   streak: white
   transparency: [opaque]
   cleavage: []
@@ -237,7 +237,7 @@ app_metadata:
     - opaque
     - microcrystalline
     - silica
-    - rock-gem-material
+    - rock-gem-material  # tag (different from controlled vocab species_status)
     - iron-bearing
     - widespread
     - ancient-material

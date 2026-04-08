@@ -1,0 +1,77 @@
+{
+  "id": "opal",
+  "slug": "opal",
+  "display_name": "Opal",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": "opal-group",
+  "ima_status": "approved",
+  "formula": "SiO2·nH2O",
+  "essential_elements": [
+    "Si",
+    "O",
+    "H"
+  ],
+  "crystal_system": "amorphous",
+  "mohs_hardness": "5.5–6.5",
+  "luster": [
+    "vitreous",
+    "resinous",
+    "waxy",
+    "pearly"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "white",
+    "black",
+    "gray",
+    "colorless"
+  ],
+  "genesis": [
+    "sedimentary (low-temperature silica precipitation)",
+    "volcanic (silica-rich hydrothermal)",
+    "biogenic (siliceous organisms — diatomite)",
+    "secondary (replacing organic matter — opalized wood, shells)"
+  ],
+  "birthstone_status": [
+    "October birthstone (traditional and modern, alongside tourmaline)",
+    "14th wedding anniversary"
+  ],
+  "tags": [
+    "mineraloid",
+    "silica",
+    "amorphous",
+    "play-of-color",
+    "birthstone",
+    "october",
+    "australia",
+    "high-priority",
+    "iridescent",
+    "precious"
+  ],
+  "search_boost_terms": [
+    "precious opal",
+    "play of color",
+    "opalescence",
+    "black opal",
+    "white opal",
+    "Lightning Ridge",
+    "Coober Pedy",
+    "October birthstone",
+    "fire in stone"
+  ],
+  "priority_score": 94,
+  "mood_keywords": [
+    "prismatic-fire",
+    "all-spectrum-at-once",
+    "shifting-light-archive",
+    "October-veil",
+    "diffraction-magic"
+  ],
+  "_all_text": "Opal opal SiO2·nH2O Water is structurally important — dehydration causes crazing (cracking). Water content affects SG (1.98–2.25) and stability. Fire opal (orange body color) differs in having fewer structural water molecules and often comes from volcanic rhyolite. Opal-CT (cristobalite-tridymite) is the most common variety in sedimentary environments. Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously. Opal has the most dramatic reputation reversal in gem history. Ancient Romans paid extravagant sums — Pliny wrote that a Roman senator was exiled rather than sell his opal to Mark Antony. Medieval tradition held opal lucky — a stone containing all gem colors in one. Sir Walter Scott's 1829 novel Anne of Geierstein featured an opal that was destroyed by holy water — and Victorian superstition about opal bad luck was born. The European market collapsed for 50 years. The superstition persists despite being entirely literary in origin. all-color embodied hope and wish-fulfillment protection and prophecy October renewal shifting truth Gemstone — prized since Roman antiquity Talisman and amulet across ancient Europe and the Near East Symbol of hope, luck, and prophecy in medieval Europe Australian Aboriginal sacred stone in some traditions precious opal play of color opalescence black opal white opal Lightning Ridge Coober Pedy October birthstone fire in stone mineraloid silica amorphous play-of-color birthstone october australia high-priority iridescent precious prismatic-fire all-spectrum-at-once shifting-light-archive October-veil diffraction-magic white black gray colorless"
+}

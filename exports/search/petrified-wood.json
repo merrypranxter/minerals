@@ -1,0 +1,63 @@
+{
+  "id": "petrified-wood",
+  "slug": "petrified-wood",
+  "display_name": "Petrified Wood",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": null,
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2 (replacing original wood cellulose and lignin)",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "5.5–7 (varies with silicification completeness; chalcedony-replaced ≈ 6.5–7)",
+  "luster": [
+    "waxy",
+    "vitreous",
+    "earthy"
+  ],
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "brown",
+    "tan",
+    "gray"
+  ],
+  "genesis": [
+    "sedimentary",
+    "diagenetic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "fossil",
+    "gem-material",
+    "chalcedony",
+    "silicification",
+    "deep-time",
+    "wood-replacement",
+    "desert",
+    "paleobotany"
+  ],
+  "search_boost_terms": [
+    "petrified wood",
+    "fossilized wood",
+    "silicified wood",
+    "agatized wood",
+    "fossil wood",
+    "Petrified Forest Arizona"
+  ],
+  "priority_score": 74,
+  "mood_keywords": [
+    "fossil-time",
+    "temporal-stone",
+    "wood-become-mineral",
+    "ancient-patience",
+    "deep-time-anchor"
+  ],
+  "_all_text": "Petrified Wood petrified-wood SiO2 (replacing original wood cellulose and lignin) Color is entirely controlled by trace element impurities in the replacing silica: Fe2O3 (hematite) gives red/orange/brown; Fe(OH)3 (limonite/goethite) gives yellow; MnO2 gives black; chromium gives green; copper gives blue-green. The original wood provides no surviving chemical signal — only its structural ghost remains. The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure. Many Indigenous traditions of the American Southwest regard petrified wood as sacred — the bones of ancient beings or the material remains of primordial forests. The Navajo creation narrative describes a primordial world with vast forests; the scattered logs of the Petrified Forest are explained in some accounts as the remains of a giant's arrow shafts. deep-time transformation patience permanence life-become-stone Indigenous peoples of the American Southwest used petrified wood for tools (scrapers, projectile points) due to its hardness and conchoidal fracture — treated identically to chert Navajo, Hopi, and other Southwestern nations incorporated petrified wood into cultural practices; the Petrified Forest area was known and visited for thousands of years before European contact Petrified Forest National Park (established 1906) was one of the first US federal land protections specifically for paleontological/geological resources, partly because collectors were removing massive quantities of material Egyptian petrified forest near Cairo (Oligocene age) was known to ancient Egyptians Lesvos, Greece: the petrified forest has been known since antiquity; Theophrastus may have referenced it petrified wood fossilized wood silicified wood agatized wood fossil wood Petrified Forest Arizona fossil gem-material chalcedony silicification deep-time wood-replacement desert paleobotany fossil-time temporal-stone wood-become-mineral ancient-patience deep-time-anchor brown tan gray"
+}

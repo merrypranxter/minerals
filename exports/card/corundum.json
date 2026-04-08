@@ -1,0 +1,63 @@
+{
+  "id": "corundum",
+  "slug": "corundum",
+  "display_name": "Corundum",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "corundum-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Al2O3",
+  "mohs_hardness": 9,
+  "specific_gravity": "3.95–4.10",
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "gray",
+    "brown",
+    "colorless"
+  ],
+  "color_profiles_available": [
+    "colorless",
+    "ruby",
+    "blue-sapphire",
+    "yellow-sapphire",
+    "padparadscha",
+    "pink-sapphire"
+  ],
+  "habits": [
+    "prismatic",
+    "tabular",
+    "barrel-shaped",
+    "bipyramidal",
+    "massive"
+  ],
+  "birthstone_months": [
+    "Ruby: July birthstone",
+    "Sapphire: September birthstone"
+  ],
+  "tags": [
+    "oxide",
+    "gemstone",
+    "hard",
+    "ruby",
+    "sapphire",
+    "high-priority",
+    "trigonal"
+  ],
+  "priority_score": 90,
+  "ui_color_hint": [
+    "deep-red",
+    "cornflower-blue",
+    "gray-brown"
+  ]
+}

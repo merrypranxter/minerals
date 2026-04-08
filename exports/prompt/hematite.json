@@ -1,0 +1,55 @@
+{
+  "id": "hematite",
+  "display_name": "Hematite",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "red-brown",
+    "black",
+    "silver-gray"
+  ],
+  "visual_notes": "One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens.",
+  "prompt_fragments": [
+    "mirror-bright specular hematite plates",
+    "red ochre ancient pigment dust",
+    "botryoidal kidney ore cross-section",
+    "iron rose rosette from Alpine fissure"
+  ],
+  "mood_keywords": [
+    "blood-iron",
+    "ancient-pigment",
+    "red-earth",
+    "iron-mirror",
+    "primordial-color"
+  ],
+  "sensory_keywords": [
+    "mirror-silver",
+    "red-dust",
+    "heavy",
+    "metallic-cold",
+    "ochre-warmth"
+  ],
+  "palette_keywords": [
+    "iron-red",
+    "ochre",
+    "mirror-silver",
+    "rust-brown",
+    "blood-red"
+  ],
+  "aesthetic_roles": [
+    "ancient pigment mineral",
+    "iron-earth archetype",
+    "metallic-contrast stone",
+    "industrial ore"
+  ],
+  "vibe_notes": "Hematite bridges the prehistoric and the industrial — the first pigment and a global iron ore. Red streak as diagnostic clue is an unforgettable mineralogical moment.",
+  "symbolism": [
+    "blood",
+    "earth",
+    "protection",
+    "grounding",
+    "strength"
+  ],
+  "folklore_summary": "Name from Greek 'haima' (blood) for the red streak and powder. Ancient amulets believed to stop bleeding. Ochre use predates all other known pigments."
+}

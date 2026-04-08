@@ -1,0 +1,63 @@
+{
+  "id": "amethyst",
+  "slug": "amethyst",
+  "display_name": "Amethyst",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2:Fe",
+  "mohs_hardness": 7,
+  "specific_gravity": "2.65",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "purple",
+    "violet",
+    "lavender"
+  ],
+  "color_profiles_available": [
+    "Deep Siberian Amethyst",
+    "Standard Amethyst",
+    "Rose de France Amethyst",
+    "Ametrine"
+  ],
+  "habits": [
+    "prismatic",
+    "pyramidal terminations",
+    "druse (crystal-lined geode interior)",
+    "massive",
+    "phantoms"
+  ],
+  "birthstone_months": [
+    "February birthstone (traditional and modern)",
+    "6th and 17th wedding anniversaries"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "quartz",
+    "gemstone",
+    "purple",
+    "violet",
+    "birthstone",
+    "february",
+    "geode",
+    "trigonal",
+    "high-priority"
+  ],
+  "priority_score": 93,
+  "ui_color_hint": [
+    "#9966CC",
+    "#7B2FBE",
+    "#D8B4FE"
+  ]
+}

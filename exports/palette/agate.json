@@ -1,0 +1,103 @@
+{
+  "id": "agate",
+  "display_name": "Agate",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "rust-orange",
+    "cream",
+    "gray-band",
+    "blue-lace"
+  ],
+  "baseline_colors": [
+    "multicolor-banded",
+    "white-gray-banded"
+  ],
+  "color_profiles": [
+    {
+      "name": "classic-banded",
+      "colors": [
+        "white",
+        "gray",
+        "cream",
+        "light-brown"
+      ],
+      "variety_name": null,
+      "cause": "Alternating microporosity and impurity concentration in silica bands."
+    },
+    {
+      "name": "iron-banded",
+      "colors": [
+        "red",
+        "orange",
+        "yellow",
+        "brown",
+        "black"
+      ],
+      "variety_name": null,
+      "cause": "Iron oxides (hematite, goethite, limonite) concentrated in alternating bands."
+    },
+    {
+      "name": "blue-lace-agate",
+      "colors": [
+        "pale-blue",
+        "white",
+        "lavender"
+      ],
+      "variety_name": "blue-lace-agate",
+      "cause": "Scattering effects and trace impurities; very fine banding."
+    },
+    {
+      "name": "fire-agate",
+      "colors": [
+        "iridescent orange",
+        "red",
+        "green",
+        "gold over brown base"
+      ],
+      "variety_name": "fire-agate",
+      "cause": "Thin-film interference from layered iron oxide (goethite) inclusions within silica layers."
+    },
+    {
+      "name": "moss-agate",
+      "colors": [
+        "colorless to white with green or brown moss-like inclusions"
+      ],
+      "variety_name": "moss-agate",
+      "cause": "Dendritic or filiform chlorite, hornblende, or manganese oxide inclusions."
+    },
+    {
+      "name": "onyx",
+      "colors": [
+        "black and white parallel bands"
+      ],
+      "variety_name": "onyx",
+      "cause": "Straight parallel banding with black bands (carbon or manganese) and white bands."
+    }
+  ],
+  "habits": [
+    "nodular",
+    "geode-lining",
+    "vein-filling",
+    "amygdaloidal",
+    "layered slab"
+  ],
+  "textures": [
+    "waxy",
+    "smooth",
+    "layered",
+    "banded"
+  ],
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "visual_notes": "Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls.",
+  "optical_effects": {
+    "fluorescence": "Variable; some specimens show greenish or yellowish fluorescence under UV.",
+    "iridescence": "Fire agate shows vivid iridescence from thin-film interference in iron oxide layers.",
+    "play_of_color": "Fire agate shows vivid iridescence from thin-film interference in iron oxide layers.",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

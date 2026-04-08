@@ -1,0 +1,61 @@
+{
+  "id": "gold",
+  "slug": "gold",
+  "display_name": "Gold",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "gold-group",
+  "ima_status": "approved",
+  "formula": "Au",
+  "essential_elements": [
+    "Au"
+  ],
+  "crystal_system": "isometric",
+  "mohs_hardness": "2.5–3",
+  "luster": [
+    "metallic"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "golden-yellow",
+    "pale-yellow",
+    "orange-yellow"
+  ],
+  "genesis": [
+    "hydrothermal",
+    "placer (alluvial)",
+    "magmatic-hydrothermal"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "native-element",
+    "metal",
+    "precious",
+    "gold-group",
+    "placer",
+    "hydrothermal",
+    "jewelry",
+    "currency",
+    "isometric"
+  ],
+  "search_boost_terms": [
+    "Au",
+    "fool's gold comparison",
+    "placer gold",
+    "native gold",
+    "gold nugget",
+    "electrum",
+    "gold crystal"
+  ],
+  "priority_score": 95,
+  "mood_keywords": [
+    "titan-gold",
+    "ancient-wealth",
+    "solar-alchemy",
+    "incandescent-metal"
+  ],
+  "_all_text": "Gold gold Au Naturally forms alloys with silver (electrum) and copper. High purity specimens have SG near 19.3; silver-rich electrum may be below 16. Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally. Gold has been considered sacred across virtually every ancient civilization. The alchemical pursuit of turning base metals into gold (chrysopoeia) dominated medieval science. Ancient Egyptians considered gold the flesh of the gods. In Hindu tradition, gold is associated with Lakshmi and prosperity. The California Gold Rush (1848–1855) and Klondike Gold Rush (1896–1899) shaped modern North America. solar energy incorruptibility divine favor wealth perfection eternity currency and coinage (earliest coins ~600 BCE, Lydia) jewelry and adornment (prehistoric to present) Egyptian funerary objects (death masks, sarcophagi) Byzantine icon art (gold leaf backgrounds) electronics and technology (modern) dentistry investment and financial reserves (gold standard era) Au fool's gold comparison placer gold native gold gold nugget electrum gold crystal native-element metal precious gold-group placer hydrothermal jewelry currency isometric titan-gold ancient-wealth solar-alchemy incandescent-metal golden-yellow pale-yellow orange-yellow"
+}

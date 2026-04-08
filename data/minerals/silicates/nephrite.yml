@@ -5,7 +5,7 @@ display_name: Nephrite
 classification:
   chemistry_class: silicate
   mineral_group: amphibole-group
-  species_status: rock-gem-material
+  species_status: rock/gem material
   parent_species: null
   related_varieties:
     - mutton-fat-jade
@@ -14,7 +14,7 @@ classification:
     - bowenite (simulant, not related)
 
 identifiers:
-  ima_status: "not-a-species (rock/gem material composed of tremolite-actinolite amphibole)"
+  ima_status: not_ima
   mindat_id: 2878
   other_ids:
     nephrite_mindat: "https://www.mindat.org/min-2878.html"

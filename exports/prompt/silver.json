@@ -1,0 +1,52 @@
+{
+  "id": "silver",
+  "display_name": "Silver",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "silver-white",
+    "gray",
+    "tarnished gray-black"
+  ],
+  "visual_notes": "Fresh specimens show brilliant silver-white metallic luster. Tarnish develops complex gray-black patinas. Kongsberg wire-silver specimens are among the most celebrated native metal mineral specimens in existence.",
+  "prompt_fragments": [
+    "twisted wire silver on black matrix",
+    "brilliant silver-white metallic gleam fading to tarnished gray",
+    "arborescent silver branches like frozen lightning"
+  ],
+  "mood_keywords": [
+    "lunar-mirror",
+    "cold-noble-metal",
+    "mercury-adjacent",
+    "aristocratic-cool"
+  ],
+  "sensory_keywords": [
+    "cool to touch",
+    "mirror-bright",
+    "crisp reflection",
+    "tarnishing edge"
+  ],
+  "palette_keywords": [
+    "sterling grey",
+    "moon-white",
+    "pewter shadow",
+    "oxidized silver"
+  ],
+  "aesthetic_roles": [
+    "cool metallic counterpoint",
+    "lunar motif",
+    "elegant restraint",
+    "tarnish-beauty reference"
+  ],
+  "vibe_notes": "Silver is gold's lunar twin — cooler, more mysterious, marked by its tendency to darken and tarnish over time into complex gray-black patinas.",
+  "symbolism": [
+    "lunar energy",
+    "clarity",
+    "reflection",
+    "purity",
+    "mystery",
+    "second place (silver medal)"
+  ],
+  "folklore_summary": "Silver has been mined since at least 3000 BCE in Anatolia. The Laurion mines near Athens funded Athenian naval power. Kongsberg, Norway produced extraordinary arborescent silver specimens prized by collectors since the 17th century. In mythology, silver is the metal of the moon — opposite gold's sol"
+}

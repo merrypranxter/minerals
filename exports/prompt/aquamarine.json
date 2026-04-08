@@ -1,0 +1,52 @@
+{
+  "id": "aquamarine",
+  "display_name": "Aquamarine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "baseline_colors": [
+    "pale-blue",
+    "blue-green",
+    "blue"
+  ],
+  "visual_notes": "Aquamarine is the sea captured in hexagonal beryl — pale to deep blue with the clarity of tropical water. The Dom Pedro aquamarine (Smithsonian, carved by Bernd Munsteiner) is the largest faceted aquamarine in the world (10,363 ct). Long prismatic crystal form with striated faces is characteristic of large rough specimens.",
+  "prompt_fragments": [
+    "aquamarine hexagonal prism — tropical sea-blue iron beryl from Brazil",
+    "Santa Maria deep-blue: compressed Atlantic light in beryllium silicate",
+    "sailor's gemstone — blue water clarity in Mohs-8 crystal"
+  ],
+  "mood_keywords": [
+    "sea-glass-clarity",
+    "tropical-water-blue",
+    "sailor-talisman",
+    "iron-sky-light",
+    "clear-ocean-prism"
+  ],
+  "sensory_keywords": [
+    "cool sea-blue",
+    "clear transparent weight",
+    "calm and steady",
+    "water-held-in-crystal"
+  ],
+  "palette_keywords": [
+    "Santa-Maria-blue",
+    "pale-sky-aqua",
+    "sea-glass-teal",
+    "tropical-water-blue"
+  ],
+  "aesthetic_roles": [
+    "sea-color anchor",
+    "March gem reference",
+    "clarity and calm metaphor",
+    "large-crystal showcase"
+  ],
+  "vibe_notes": "Aquamarine is the color of shallow tropical sea over white sand — pale to deep blue-green, vitreous clear, the hexagonal form of ocean. The Dom Pedro obelisk in the Smithsonian is an 18-inch tower of the stuff. Sailors carried it for calm and protection. It still has that quality: cool, honest, clarifying.",
+  "symbolism": [
+    "the sea",
+    "safe voyages",
+    "clarity and calm",
+    "communication and truth",
+    "March and early spring"
+  ],
+  "folklore_summary": "Ancient mariners believed aquamarine was the sacred gemstone of mermaids, cast up from the sea floor. Carrying aquamarine on a sea voyage was thought to bring calm seas, prevent seasickness, and protect against drowning. In Roman tradition it was sacred to Neptune. The association with water, clarit"
+}

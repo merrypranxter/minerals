@@ -1,0 +1,64 @@
+{
+  "id": "lepidolite",
+  "slug": "lepidolite",
+  "display_name": "Lepidolite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "mica-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "K(Li,Al)3(AlSi3)O10(F,OH)2",
+  "mohs_hardness": "2.5–4",
+  "specific_gravity": "2.8–3.0",
+  "luster": [
+    "pearly",
+    "vitreous",
+    "silky"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "monoclinic",
+  "baseline_colors": [
+    "lavender",
+    "pink",
+    "purple"
+  ],
+  "color_profiles_available": [
+    "lavender-lepidolite",
+    "pink-lepidolite",
+    "purple-lepidolite",
+    "colorless-white-lepidolite",
+    "yellow-lepidolite"
+  ],
+  "habits": [
+    "platy",
+    "tabular",
+    "foliated",
+    "scaly-massive",
+    "pseudo-hexagonal-plates"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "mica",
+    "phyllosilicate",
+    "sheet-silicate",
+    "lithium",
+    "pegmatite",
+    "lavender",
+    "pink",
+    "high-priority",
+    "LCT-pegmatite",
+    "flux-mineral"
+  ],
+  "priority_score": 82,
+  "ui_color_hint": [
+    "lavender",
+    "lilac",
+    "rose-pink",
+    "pale-violet",
+    "pearly-white"
+  ]
+}

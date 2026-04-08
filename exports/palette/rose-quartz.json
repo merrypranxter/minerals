@@ -1,0 +1,68 @@
+{
+  "id": "rose-quartz",
+  "display_name": "Rose Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#FFB7C5",
+    "#F4A7B9",
+    "#FADADD"
+  ],
+  "baseline_colors": [
+    "pale-pink",
+    "rose-pink"
+  ],
+  "color_profiles": [
+    {
+      "name": "Classic Rose Quartz",
+      "colors": [
+        "pale-pink",
+        "rose-pink",
+        "baby-pink",
+        "dusty-rose"
+      ],
+      "variety_name": null,
+      "cause": "Microscopic pink fibrous inclusion of Ti-bearing Al-phosphate hydroxide mineral distributed through massive quartz; optical scattering."
+    },
+    {
+      "name": "Star Rose Quartz",
+      "colors": [
+        "rose-pink with six-rayed white asterism"
+      ],
+      "variety_name": null,
+      "cause": "Rutile needle inclusions in three orientations within quartz produce asterism when cut as cabochon."
+    },
+    {
+      "name": "Deep Rose / Intense Pink",
+      "colors": [
+        "deeper-rose",
+        "medium-pink"
+      ],
+      "variety_name": null,
+      "cause": "Higher concentration of color-bearing inclusions."
+    }
+  ],
+  "habits": [
+    "massive (dominant)",
+    "granular",
+    "veins",
+    "nodular"
+  ],
+  "textures": [
+    "translucent waxy-vitreous",
+    "milky pink",
+    "smooth polished"
+  ],
+  "luster": [
+    "vitreous",
+    "waxy"
+  ],
+  "visual_notes": "Rose quartz has a characteristic soft, diffuse, milky-pink quality from the light-scattering fibrous inclusions. It is never facet-grade transparent in classic form. The color is gentle and warm — not vivid like ruby or pink tourmaline but consistently soft. Star rose quartz cut as cabochon shows the six-rayed star most vividly under a point light source.",
+  "optical_effects": {
+    "fluorescence": "Weak blue or orange-pink under UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Rare cat's eye rose quartz",
+    "asterism": "Star rose quartz — six-rayed star from oriented rutile inclusions; best shown in Sri Lankan and Brazilian material"
+  }
+}

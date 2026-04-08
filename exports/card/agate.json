@@ -1,0 +1,60 @@
+{
+  "id": "agate",
+  "slug": "agate",
+  "display_name": "Agate",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "mohs_hardness": "6.5–7",
+  "specific_gravity": "2.58–2.64",
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "multicolor-banded",
+    "white-gray-banded"
+  ],
+  "color_profiles_available": [
+    "classic-banded",
+    "iron-banded",
+    "blue-lace-agate",
+    "fire-agate",
+    "moss-agate",
+    "onyx"
+  ],
+  "habits": [
+    "nodular",
+    "geode-lining",
+    "vein-filling",
+    "amygdaloidal",
+    "layered slab"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "banded",
+    "microcrystalline",
+    "silica",
+    "variety",
+    "patterned",
+    "widespread",
+    "ancient-material",
+    "geologic-record"
+  ],
+  "priority_score": 87,
+  "ui_color_hint": [
+    "rust-orange",
+    "cream",
+    "gray-band",
+    "blue-lace"
+  ]
+}

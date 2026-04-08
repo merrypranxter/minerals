@@ -1,0 +1,73 @@
+{
+  "id": "sulfur",
+  "display_name": "Sulfur",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#FDD835",
+    "#F9A825",
+    "#C6A700"
+  ],
+  "baseline_colors": [
+    "yellow",
+    "pale-yellow",
+    "sulfur-yellow",
+    "orange-yellow",
+    "greenish-yellow"
+  ],
+  "color_profiles": [
+    {
+      "name": "Volcanic Fumarolic Sulfur",
+      "colors": [
+        "bright-yellow",
+        "orange-yellow",
+        "greenish-yellow"
+      ],
+      "variety_name": null,
+      "cause": "sublimation deposits with minor impurities from volcanic gases"
+    },
+    {
+      "name": "Sedimentary / Biogenic Sulfur",
+      "colors": [
+        "pale-yellow",
+        "yellow-white"
+      ],
+      "variety_name": null,
+      "cause": "bacterial reduction of sulfates (Desulfovibrio spp.)"
+    },
+    {
+      "name": "Orange-Red Variety",
+      "colors": [
+        "orange",
+        "brownish-orange"
+      ],
+      "variety_name": null,
+      "cause": "arsenic or selenium impurities"
+    }
+  ],
+  "habits": [
+    "bipyramidal crystals",
+    "tabular",
+    "massive",
+    "stalactitic",
+    "encrusting",
+    "striated prismatic"
+  ],
+  "textures": [
+    "glassy resinous surface on crystals",
+    "earthy to powdery in massive form",
+    "conchoidal fracture surface"
+  ],
+  "luster": [
+    "resinous",
+    "waxy"
+  ],
+  "visual_notes": "Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy.",
+  "optical_effects": {
+    "fluorescence": "weak yellow-white under UV (some specimens)",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

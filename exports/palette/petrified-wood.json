@@ -1,0 +1,111 @@
+{
+  "id": "petrified-wood",
+  "display_name": "Petrified Wood",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "ui_color_hint": [
+    "rust-red",
+    "honey-brown",
+    "ash-gray",
+    "bark-tan",
+    "agate-white"
+  ],
+  "baseline_colors": [
+    "brown",
+    "tan",
+    "gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "red-orange-petrified-wood",
+      "colors": [
+        "red",
+        "orange",
+        "rust",
+        "brick-red"
+      ],
+      "variety_name": null,
+      "cause": "Fe2O3 (hematite) in the replacing chalcedony; oxidizing conditions during silicification."
+    },
+    {
+      "name": "yellow-brown-petrified-wood",
+      "colors": [
+        "yellow",
+        "brown",
+        "tan",
+        "caramel",
+        "honey"
+      ],
+      "variety_name": null,
+      "cause": "FeO(OH) goethite/limonite; partially hydrated iron oxides."
+    },
+    {
+      "name": "black-petrified-wood",
+      "colors": [
+        "black",
+        "dark-gray",
+        "charcoal"
+      ],
+      "variety_name": null,
+      "cause": "MnO2 (pyrolusite) or carbonaceous material preserved in low-oxygen conditions."
+    },
+    {
+      "name": "gray-petrified-wood",
+      "colors": [
+        "gray",
+        "silver-gray",
+        "ash"
+      ],
+      "variety_name": null,
+      "cause": "Low trace element content in pure silica replacement; minimal chromophores."
+    },
+    {
+      "name": "blue-green-petrified-wood",
+      "colors": [
+        "blue-green",
+        "teal",
+        "pale-green"
+      ],
+      "variety_name": null,
+      "cause": "Cu or Cr in the replacing silica."
+    },
+    {
+      "name": "agatized-wood",
+      "colors": [
+        "banded multicolor — red",
+        "white",
+        "brown",
+        "gray"
+      ],
+      "variety_name": "agatized-wood",
+      "cause": "Multiple silica precipitation events with varying trace element concentrations, producing banding analogous to agate."
+    }
+  ],
+  "habits": [
+    "wood-log-form",
+    "cross-section-disc",
+    "branch-fragment",
+    "root-mass",
+    "bark-surface"
+  ],
+  "textures": [
+    "wood-grain",
+    "annual-ring-pattern",
+    "cellular",
+    "waxy-polish",
+    "rough-bark"
+  ],
+  "luster": [
+    "waxy",
+    "vitreous",
+    "earthy"
+  ],
+  "visual_notes": "The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure.",
+  "optical_effects": {
+    "fluorescence": "Variable; some material fluoresces green or yellow under UV (chalcedony component)",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Rare; some fibrous chalcedony replacements show weak chatoyancy",
+    "asterism": ""
+  }
+}

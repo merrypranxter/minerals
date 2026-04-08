@@ -1,0 +1,62 @@
+{
+  "id": "emerald",
+  "slug": "emerald",
+  "display_name": "Emerald",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "mineral_group": "beryl-group",
+  "ima_status": "not_ima",
+  "formula": "Be3Al2Si6O18:Cr,V",
+  "mohs_hardness": "7.5–8",
+  "specific_gravity": "2.67–2.78",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "hexagonal",
+  "baseline_colors": [
+    "vivid-green",
+    "deep-green",
+    "bluish-green"
+  ],
+  "color_profiles_available": [
+    "Colombian Emerald",
+    "Zambian Emerald",
+    "Brazilian Emerald",
+    "Zimbabwe Emerald"
+  ],
+  "habits": [
+    "prismatic hexagonal",
+    "tabular",
+    "massive"
+  ],
+  "birthstone_months": [
+    "May birthstone (traditional and modern)",
+    "20th and 35th wedding anniversaries"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "beryl",
+    "gemstone",
+    "green",
+    "birthstone",
+    "may",
+    "hexagonal",
+    "beryllium",
+    "high-priority",
+    "jewelry",
+    "colombian"
+  ],
+  "priority_score": 96,
+  "ui_color_hint": [
+    "#50C878",
+    "#008000",
+    "#046307"
+  ]
+}

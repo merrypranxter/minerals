@@ -1,0 +1,64 @@
+{
+  "id": "jasper",
+  "slug": "jasper",
+  "display_name": "Jasper",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2 (+ impurities)",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "6.5–7",
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "red",
+    "yellow",
+    "brown",
+    "green"
+  ],
+  "genesis": [
+    "sedimentary",
+    "hydrothermal",
+    "diagenetic",
+    "metamorphic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "opaque",
+    "microcrystalline",
+    "silica",
+    "rock-gem-material",
+    "iron-bearing",
+    "widespread",
+    "ancient-material",
+    "earthy"
+  ],
+  "search_boost_terms": [
+    "jasper",
+    "red jasper",
+    "picture jasper",
+    "ocean jasper",
+    "mookaite",
+    "opaque silica",
+    "chert gemstone"
+  ],
+  "priority_score": 82,
+  "mood_keywords": [
+    "earth-body",
+    "canyon-floor",
+    "oxidized-terrain",
+    "deep-strata"
+  ],
+  "_all_text": "Jasper jasper SiO2 (+ impurities) Broadly SiO2 with significant impurity content (up to 20% or more by weight in some specimens) from iron oxides, clay minerals, and other inclusions. Specific gravity varies accordingly. Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials. One of the oldest named gemstones; 'jasper' appears in texts from ancient Babylonia, Egypt, and the Hebrew Bible. Red jasper was associated with blood and warrior energy across many ancient cultures. endurance earth protection vitality grounding Prehistoric tool-making (flint/chert/jasper flaked tools) Ancient Egyptian and Mesopotamian seal stones and amulets Classical Greek and Roman intaglio carving Medieval European gem carving Native American ceremonial use (red jasper) jasper red jasper picture jasper ocean jasper mookaite opaque silica chert gemstone opaque microcrystalline silica rock-gem-material iron-bearing widespread ancient-material earthy earth-body canyon-floor oxidized-terrain deep-strata red yellow brown green"
+}

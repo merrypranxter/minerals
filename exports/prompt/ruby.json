@@ -1,0 +1,53 @@
+{
+  "id": "ruby",
+  "display_name": "Ruby",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "corundum",
+  "baseline_colors": [
+    "red",
+    "deep-red",
+    "pinkish-red"
+  ],
+  "visual_notes": "Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology.",
+  "prompt_fragments": [
+    "pigeon's blood ruby — chromium fire glowing in Mogok marble",
+    "star ruby cabochon with six-rayed silk asterism",
+    "vivid red fluorescent corundum — blood of gems"
+  ],
+  "mood_keywords": [
+    "pigeon-blood-fire",
+    "king-of-gems",
+    "chromium-glow",
+    "Mogok-valley-red",
+    "royal-blood"
+  ],
+  "sensory_keywords": [
+    "deep-red-warmth",
+    "fluorescent-inner-glow",
+    "hard-and-heavy",
+    "blood-vivid"
+  ],
+  "palette_keywords": [
+    "pigeon-blood-red",
+    "Burmese-deep-red",
+    "fluorescent-crimson",
+    "star-ruby-silk"
+  ],
+  "aesthetic_roles": [
+    "apex colored gemstone",
+    "royal red anchor",
+    "July fire reference",
+    "fluorescent red chromophore"
+  ],
+  "vibe_notes": "Ruby holds the deep-red that human eyes are tuned to desire — the color of blood, roses, and fire condensed into Mohs-9 corundum. In strong daylight, Burmese pigeon's blood ruby appears to glow from within — the chromium fluorescence adding spectral energy that no mere pigment can produce.",
+  "symbolism": [
+    "passion and love",
+    "blood and vitality",
+    "royal power",
+    "protection in war",
+    "divine fire",
+    "July and summer heat"
+  ],
+  "folklore_summary": "Ruby is the 'king of gems' — a title given in Sanskrit texts that has persisted across cultures. Burmese warriors inserted rubies under their skin before battle believing it would make them invincible. Medieval European tradition held that a ruby's color deepened to warn its wearer of approaching da"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "lepidolite",
+  "slug": "lepidolite",
+  "display_name": "Lepidolite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "mica-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "K(Li,Al)3(Si,Al)4O10(F,OH)2",
+  "essential_elements": [
+    "K",
+    "Li",
+    "Al",
+    "Si",
+    "O",
+    "F",
+    "H"
+  ],
+  "crystal_system": "monoclinic",
+  "mohs_hardness": "2.5–4",
+  "luster": [
+    "pearly",
+    "vitreous",
+    "silky"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "lavender",
+    "pink",
+    "purple"
+  ],
+  "genesis": [
+    "magmatic",
+    "pegmatitic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "mica",
+    "phyllosilicate",
+    "sheet-silicate",
+    "lithium",
+    "pegmatite",
+    "lavender",
+    "pink",
+    "high-priority",
+    "LCT-pegmatite",
+    "flux-mineral"
+  ],
+  "search_boost_terms": [
+    "lepidolite",
+    "lavender mica",
+    "lithium mica",
+    "pink mica",
+    "purple mica",
+    "lepidolite crystal",
+    "lithium mineral"
+  ],
+  "priority_score": 82,
+  "mood_keywords": [
+    "lavender-mica",
+    "lithium-shimmer",
+    "gentle-mineral",
+    "soft-metallic",
+    "pegmatite-pastel"
+  ],
+  "_all_text": "Lepidolite lepidolite K(Li,Al)3(Si,Al)4O10(F,OH)2 Lepidolite is the most common lithium-bearing mica. Li content (reported as Li2O) is typically 3–7 wt%. It also concentrates Rb and Cs, which substitute for K in the interlayer — making lepidolite a potential indicator mineral and minor source of these rare alkali metals. Mn2+/Mn3+ produces the characteristic lavender/pink/purple color. The F:OH ratio varies; more fluorine-rich lepidolite tends to be whiter. IMA now recognizes lepidolite as a series between polylithionite and trilithionite. Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality. The lavender color and lithium-bearing nature have combined in popular imagination to make lepidolite a stone of 'calm and peace' in New Age traditions. The real lithium connection — as one of the oldest lithium mineral sources — gives it an unexpected industrial modernity beneath its gentle pastel appearance. calm transition softness lithium-light Lepidolite was an early commercial lithium mineral; lithium was first isolated from petalite in 1817, but lepidolite was one of the main industrial Li sources in the late 19th and early 20th centuries before spodumene deposits became dominant Used as a flux in glass and ceramic glazes; its high F content and flux properties are commercially relevant In the 20th century, large masses of lepidolite were mined in Brazil and California as a minor Li ore and as a fluxing agent in specialty glasses Modern lithium demand (EV batteries, pharmaceuticals) has renewed interest in all Li-bearing pegmatite minerals including lepidolite lepidolite lavender mica lithium mica pink mica purple mica lepidolite crystal lithium mineral mica phyllosilicate sheet-silicate lithium pegmatite lavender pink high-priority LCT-pegmatite flux-mineral lavender-mica lithium-shimmer gentle-mineral soft-metallic pegmatite-pastel lavender pink purple"
+}

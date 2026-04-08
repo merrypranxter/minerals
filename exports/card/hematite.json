@@ -1,0 +1,56 @@
+{
+  "id": "hematite",
+  "slug": "hematite",
+  "display_name": "Hematite",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "hematite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Fe2O3",
+  "mohs_hardness": "5.5–6.5",
+  "specific_gravity": "4.9–5.3",
+  "luster": [
+    "metallic",
+    "earthy"
+  ],
+  "streak": "red to red-brown (diagnostic)",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "red-brown",
+    "black",
+    "silver-gray"
+  ],
+  "color_profiles_available": [
+    "earthy-red",
+    "specular",
+    "kidney-ore",
+    "iron-rose"
+  ],
+  "habits": [
+    "tabular",
+    "platy",
+    "botryoidal",
+    "massive",
+    "granular"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "oxide",
+    "iron-ore",
+    "pigment",
+    "widespread",
+    "metallic",
+    "high-priority",
+    "trigonal"
+  ],
+  "priority_score": 86,
+  "ui_color_hint": [
+    "iron-red",
+    "silver-gray",
+    "ochre-brown"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "petrified-wood",
+  "display_name": "Petrified Wood",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": null,
+  "baseline_colors": [
+    "brown",
+    "tan",
+    "gray"
+  ],
+  "visual_notes": "The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure.",
+  "prompt_fragments": [
+    "petrified wood cross-section showing ancient tree rings in chalcedony",
+    "rust-red Triassic log silicified in Arizona desert",
+    "agatized wood banded multicolor fossil",
+    "deep time mineral wood grain preserved in stone"
+  ],
+  "mood_keywords": [
+    "fossil-time",
+    "temporal-stone",
+    "wood-become-mineral",
+    "ancient-patience",
+    "deep-time-anchor"
+  ],
+  "sensory_keywords": [
+    "grainy",
+    "warm",
+    "woody-pattern",
+    "smooth-polished",
+    "dense"
+  ],
+  "palette_keywords": [
+    "rust-red",
+    "honey-brown",
+    "ash-gray",
+    "bark-tan",
+    "annual-ring-white"
+  ],
+  "aesthetic_roles": [
+    "deep-time exhibit piece",
+    "biological-to-mineral transition",
+    "ancient forest ghost",
+    "warm desert palette"
+  ],
+  "vibe_notes": "Petrified wood is the most legible deep-time object — a tree that became a stone, grain by grain, over millions of years, while preserving every ring and vessel. It is the bridge between biology and mineralogy, and one of the most emotionally resonant materials in the natural world.",
+  "symbolism": [
+    "deep-time",
+    "transformation",
+    "patience",
+    "permanence",
+    "life-become-stone"
+  ],
+  "folklore_summary": "Many Indigenous traditions of the American Southwest regard petrified wood as sacred — the bones of ancient beings or the material remains of primordial forests. The Navajo creation narrative describes a primordial world with vast forests; the scattered logs of the Petrified Forest are explained in "
+}

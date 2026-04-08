@@ -1,0 +1,56 @@
+{
+  "id": "graphite",
+  "slug": "graphite",
+  "display_name": "Graphite",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "graphite-group",
+  "ima_status": "approved",
+  "formula": "C",
+  "mohs_hardness": "1–2",
+  "specific_gravity": "2.09–2.23",
+  "luster": [
+    "metallic",
+    "earthy"
+  ],
+  "streak": "black to dark gray (greasy)",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "hexagonal",
+  "baseline_colors": [
+    "black",
+    "dark-gray",
+    "steel-gray"
+  ],
+  "color_profiles_available": [
+    "Crystalline Graphite",
+    "Massive / Amorphous Graphite"
+  ],
+  "habits": [
+    "foliated",
+    "platy",
+    "tabular hexagonal plates",
+    "scaly",
+    "massive"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "native-element",
+    "nonmetal",
+    "carbon",
+    "metamorphic",
+    "hexagonal",
+    "industrial",
+    "lubricant",
+    "pencil",
+    "polymorph-of-diamond"
+  ],
+  "priority_score": 75,
+  "ui_color_hint": [
+    "#2C2C2C",
+    "#555555",
+    "#1A1A1A"
+  ]
+}

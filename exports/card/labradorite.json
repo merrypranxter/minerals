@@ -1,0 +1,63 @@
+{
+  "id": "labradorite",
+  "slug": "labradorite",
+  "display_name": "Labradorite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "feldspar-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "(Ca,Na)(Al,Si)4O8",
+  "mohs_hardness": "6–6.5",
+  "specific_gravity": "2.68–2.72",
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque",
+    "transparent"
+  ],
+  "crystal_system": "triclinic",
+  "baseline_colors": [
+    "gray",
+    "dark-gray",
+    "black-gray",
+    "greenish-gray"
+  ],
+  "color_profiles_available": [
+    "labradorescence-blue-green",
+    "labradorescence-gold-copper",
+    "spectrolite",
+    "transparent-gem"
+  ],
+  "habits": [
+    "massive",
+    "prismatic",
+    "tabular",
+    "lamellar",
+    "anhedral-granular"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "feldspar",
+    "plagioclase",
+    "iridescent",
+    "labradorescence",
+    "species",
+    "igneous",
+    "gemstone",
+    "high-priority",
+    "optical-effect"
+  ],
+  "priority_score": 90,
+  "ui_color_hint": [
+    "electric-blue",
+    "dark-gunmetal",
+    "peacock-teal",
+    "copper-orange",
+    "spectral-violet"
+  ]
+}

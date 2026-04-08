@@ -1,0 +1,63 @@
+{
+  "id": "copper",
+  "slug": "copper",
+  "display_name": "Copper",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "gold-group",
+  "ima_status": "approved",
+  "formula": "Cu",
+  "essential_elements": [
+    "Cu"
+  ],
+  "crystal_system": "isometric",
+  "mohs_hardness": "2.5–3",
+  "luster": [
+    "metallic"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "copper-red",
+    "orange-red",
+    "brown (oxidized)",
+    "blue-green (weathered)"
+  ],
+  "genesis": [
+    "secondary (supergene)",
+    "primary hydrothermal",
+    "volcanogenic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "native-element",
+    "metal",
+    "gold-group",
+    "secondary",
+    "hydrothermal",
+    "volcanogenic",
+    "isometric",
+    "first-metal",
+    "patina"
+  ],
+  "search_boost_terms": [
+    "Cu",
+    "native copper",
+    "copper nugget",
+    "copper wire",
+    "verdigris",
+    "copper patina",
+    "keweenaw copper",
+    "dendritic copper"
+  ],
+  "priority_score": 87,
+  "mood_keywords": [
+    "primal-metal",
+    "oxidation-spectrum",
+    "archaic-technology",
+    "warm-metallic"
+  ],
+  "_all_text": "Copper copper Cu Softest of the three noble native metals in practice. Forms natural alloys with silver. Excellent electrical and thermal conductor; third-highest electrical conductivity of any element after silver and gold. Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits. The word 'copper' derives from Latin 'cuprum', itself from Greek 'Kuprios' meaning 'of Cyprus', where copper was extensively mined in antiquity. Copper was the first metal systematically worked by humans, defining the Chalcolithic period. The Lake Superior copper deposits in Michigan supported one of the world's earliest known mining cultures (Old Copper Complex, ~5000–1000 BCE). technology and progress warmth and earthiness the dawn of metallurgy conductivity and connection first metal systematically worked by humans (Chalcolithic, ~9000 BCE) bronze production (copper + tin alloy, ~3300 BCE) coins (Roman aes, US penny historically copper) electrical wiring and electronics plumbing roofing and architectural cladding (develops green patina) cookware and utensils Cu native copper copper nugget copper wire verdigris copper patina keweenaw copper dendritic copper native-element metal gold-group secondary hydrothermal volcanogenic isometric first-metal patina primal-metal oxidation-spectrum archaic-technology warm-metallic copper-red orange-red brown (oxidized) blue-green (weathered)"
+}

@@ -1,0 +1,341 @@
+{
+  "id": "emerald",
+  "slug": "emerald",
+  "display_name": "Emerald",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "beryl-group",
+    "species_status": "variety",
+    "parent_species": "beryl",
+    "related_varieties": []
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 1405,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Be3Al2Si6O18 (with Cr3+ and/or V3+)",
+    "simplified_formula": "Be3Al2Si6O18:Cr,V",
+    "essential_elements": [
+      "Be",
+      "Al",
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Cr",
+      "V",
+      "Fe",
+      "Na",
+      "Cs",
+      "Li"
+    ],
+    "structural_units": [
+      "Si6O18 six-membered cyclosilicate rings",
+      "BeO4 tetrahedra",
+      "AlO6 octahedra"
+    ],
+    "atomic_structure_notes": "Cyclosilicate (ring silicate). Cr3+ and/or V3+ substitute for Al3+ in octahedral sites, creating the vivid green color. The channel cavities in the beryl structure may contain H2O, CO2, and Na. High Cr content (>0.1%) or V content defines emerald from green beryl.",
+    "chemistry_notes": "Chromium is the primary chromophore in Colombian emeralds; vanadium dominates in some Brazilian (Salininha) and some African sources. The GIA separates emerald (Cr or V dominantly colored green beryl) from 'green beryl' (Fe-colored green beryl). Colombian emeralds typically have three-phase inclusions (fluid+gas+solid crystal) in characteristic fingerprint patterns — the 'jardin.'"
+  },
+  "crystallography": {
+    "crystal_system": "hexagonal",
+    "crystal_class": "6/mmm (dihexagonal dipyramidal)",
+    "space_group": "P6/mcc",
+    "unit_cell_notes": "a ≈ 9.21 Å, c ≈ 9.19 Å",
+    "twinning": "Rare",
+    "crystallography_notes": "Well-developed hexagonal prisms, typically with flat basal terminations. Prismatic faces often striated parallel to c-axis. Colombian emerald crystals from black shale-hosted hydrothermal veins often hexagonal and doubly terminated. Inclusions ('jardin') are characteristic and numerous — fine emerald is described as a garden (jardin) within."
+  },
+  "physical_properties": {
+    "mohs_hardness": "7.5–8",
+    "specific_gravity": "2.67–2.78",
+    "luster": [
+      "vitreous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "imperfect basal {0001}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Lower SG than most colored gemstones due to light beryllium composition. High inclusion density ('jardin') makes emerald the most included major gemstone — often more brittle in practice than hardness suggests. Colombian emerald jardin is characteristic and expected; overly clean emerald raises treatment concerns."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "vivid-green",
+      "deep-green",
+      "bluish-green"
+    ],
+    "color_profiles": [
+      {
+        "name": "Colombian Emerald",
+        "colors": [
+          "vivid-green",
+          "pure-green",
+          "slightly bluish-green"
+        ],
+        "cause": "Cr3+ dominant chromophore; some V3+. Low Fe keeps color pure without brownish or yellowish cast.",
+        "conditions": "Hydrothermal veins in black shale (Cretaceous flysch), Boyacá, Colombia.",
+        "variety_name": null
+      },
+      {
+        "name": "Zambian Emerald",
+        "colors": [
+          "deep-green",
+          "slightly bluish-green"
+        ],
+        "cause": "Cr3+ + some Fe2+; slightly deeper/darker than Colombian.",
+        "conditions": "Mica schist, Kafubu area, Zambia.",
+        "variety_name": null
+      },
+      {
+        "name": "Brazilian Emerald",
+        "colors": [
+          "medium-green",
+          "yellowish-green"
+        ],
+        "cause": "V3+ dominant in some deposits; Fe adds yellowish-green component.",
+        "conditions": "Pegmatitic and hydrothermal, Minas Gerais; various types.",
+        "variety_name": null
+      },
+      {
+        "name": "Zimbabwe Emerald",
+        "colors": [
+          "vivid-green",
+          "small crystals",
+          "high saturation"
+        ],
+        "cause": "High Cr3+ in very small stones from mica schist.",
+        "conditions": "Sandawana, Zimbabwe — noted for small but intensely colored stones.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "prismatic hexagonal",
+      "tabular",
+      "massive"
+    ],
+    "textures": [
+      "glassy",
+      "included (jardin)",
+      "crystal surfaces striated"
+    ],
+    "macro_patterns": [
+      "vivid green prismatic crystal form",
+      "jardin inclusions internally",
+      "hexagonal cross-section"
+    ],
+    "common_forms": [
+      "hexagonal prism crystals (sometimes doubly terminated)",
+      "faceted rectangular 'emerald cut' gems",
+      "cabochons (opaque/heavily included)"
+    ],
+    "visual_notes": "Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Weak to moderate red fluorescence under LW UV (Cr3+); varies by origin — Colombian often weakly red, synthetic usually stronger red, Fe-rich specimens often inert",
+    "phosphorescence": "",
+    "chatoyancy": "Very rare cat's eye emerald",
+    "asterism": "Extremely rare",
+    "iridescence": "",
+    "pleochroism": "Dichroic: bluish-green / yellowish-green (moderate)",
+    "optical_notes": "Uniaxial negative. RI approximately 1.565–1.602. Birefringence ~0.005–0.009. Characteristic three-phase inclusions (fluid cavities with bubble and daughter crystals) in Colombian material are diagnostic of natural origin. UV fluorescence distinguishes natural from synthetic."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "hydrothermal (low-temperature vein type — Colombian)",
+      "metamorphic (mica schist type — Zambian, Zimbabwean)",
+      "pegmatitic (Brazilian some)"
+    ],
+    "geologic_environments": [
+      "black shale-hosted hydrothermal veins (Colombian type)",
+      "Cr-bearing mica schists and phlogopite-bearing rocks (metamorphic type)",
+      "Li-Be rich granitic pegmatites with Cr-bearing host"
+    ],
+    "host_rocks": [
+      "carbonaceous black shale and carbonate (Colombia)",
+      "mica schist (Zambia, Zimbabwe)",
+      "phlogopite schist",
+      "pegmatite (Brazil some)"
+    ],
+    "associated_minerals": [
+      "pyrite",
+      "calcite",
+      "albite",
+      "parisite",
+      "fluorite",
+      "quartz",
+      "phlogopite",
+      "actinolite"
+    ],
+    "locality_scope": "uncommon",
+    "notable_localities": [
+      "Muzo, Boyacá, Colombia (world's finest — Colombian type)",
+      "Chivor (Somondoco), Boyacá, Colombia (classic three-phase inclusions)",
+      "Coscuez, Boyacá, Colombia",
+      "Kafubu / Musakashi, Copperbelt, Zambia (second largest production)",
+      "Sandawana, Zimbabwe (small but vivid stones)",
+      "Itabira (Nova Era) and Salininha, Minas Gerais, Brazil",
+      "Habachtal, Salzburg, Austria (historic)",
+      "Swat Valley (Mingora), Pakistan",
+      "Ural Mountains, Russia (historical Malysheva mine)",
+      "Sikait, Eastern Desert, Egypt (Cleopatra's Mines — one of world's oldest gem mines)"
+    ],
+    "occurrence_notes": "Emerald requires a very unusual geological coincidence: beryllium-rich granitic fluids or magmas must interact with chromium or vanadium-bearing rocks (black shale, peridotite, or ultramafic lithologies). This convergence is geologically rare, explaining emerald's scarcity relative to other beryls. Colombia's unique black-shale/carbonate hydrothermal system produces the finest material."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "May birthstone (traditional and modern)",
+      "20th and 35th wedding anniversaries"
+    ],
+    "zodiac_associations": [
+      "Taurus (May)",
+      "Cancer (some traditions)",
+      "Gemini (Vedic)"
+    ],
+    "historical_uses": [
+      "Gemstone — Egyptian mining at Sikait since ~330 BCE ('Cleopatra's Mines')",
+      "Aztec and Inca sacred stone — 'esmeralda' — Spanish conquest looted enormous quantities",
+      "Mughal engraved emeralds (verses from Quran on large crystals)",
+      "Roman, Byzantine, and medieval European jewelry",
+      "Oil lamp lanterns in Egyptian temples",
+      "Magnification lenses (Nero reportedly viewed gladiatorial combat through an emerald lens)"
+    ],
+    "cultural_associations": [
+      "Associated with Venus, fertility, and rebirth in Greco-Roman tradition",
+      "Inca: sacred to Pachacamac, offered to gods",
+      "Mughal emperors used large emeralds as talismans engraved with sacred texts",
+      "Duchess of Devonshire's emerald parure",
+      "The Tropic of Cancer passes through Colombia — emerald country"
+    ],
+    "symbolism": [
+      "spring and rebirth",
+      "Venus and love",
+      "wisdom and prophecy",
+      "abundance and fertility",
+      "May's promise"
+    ],
+    "folklore_notes": "Cleopatra's Mines in Egypt's Eastern Desert were the world's primary emerald source for Roman civilization. The Aztec god Quetzalcoatl was said to reside in emeralds; large emeralds were among the most sacred objects in pre-Columbian Mesoamerica — the Spanish conquest of Peru looted crystals the size of ostrich eggs. Mughal emperors had large emeralds engraved with verses from the Quran as talismans — these 'Mughal emeralds' are among the most prized objects in Islamic art history. Pliny the Elder in Historia Naturalis said that no other green is as intense as that of emerald."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "Cleopatra-green",
+      "vivid-Cr-jungle",
+      "jardin-within",
+      "Colombian-vein-green",
+      "spring-archetype"
+    ],
+    "sensory_keywords": [
+      "saturated-cool-green",
+      "included-garden",
+      "heavy-hexagonal",
+      "deep-tropical"
+    ],
+    "palette_keywords": [
+      "Colombian-vivid-green",
+      "Zambian-deep-green",
+      "bluish-teal-emerald",
+      "spring-renewal-green"
+    ],
+    "aesthetic_roles": [
+      "May birthstone anchor",
+      "vivid green luxury reference",
+      "included-beauty archetype",
+      "ancient sacred gem"
+    ],
+    "vibe_notes": "Emerald is living green crystallized — the color of growth, deep jungle, and spring. Its jardin is not imperfection but biography — three-phase Colombian inclusions tell the story of the hydrothermal fluid that made it. The finest stones have a depth that no synthetic can replicate."
+  },
+  "practical_notes": {
+    "toxicity": "Beryllium-bearing; dust from grinding is hazardous (berylliosis risk). Finished gems and specimens safe to handle.",
+    "handling_notes": "Relatively brittle due to inclusions and fractures. Avoid impact, especially on edges. The emerald cut was specifically designed to reduce mechanical stress on the stone.",
+    "care_notes": "Avoid ultrasonic and steam cleaners — both can damage oil/resin-filled fractures and may cause stone fracture. Clean with warm water and soft brush only. Oil treatment is routine; never soak in water for extended periods or use harsh cleaners.",
+    "treatments_or_synthetics": [
+      "Oiling / resin filling: industry standard F1-F3 scale (GIA); must be disclosed; all commercial emerald is assumed treated unless certified otherwise",
+      "Synthetic emerald (flux and hydrothermal): Chatham, Gilson, Biron brands; distinguished by inclusions under magnification",
+      "Triplet simulants: quartz or beryl top/bottom + green glass core — common in historical jewelry"
+    ],
+    "common_confusions": [
+      "Green tourmaline (tsavorite garnet if red-included green; tourmaline biaxial)",
+      "Tsavorite garnet (no inclusions typical; isometric; different RI)",
+      "Green beryl (Fe-colored, not Cr/V — less vivid; different classification)",
+      "Chrome diopside (different structure; lower hardness)",
+      "Synthetic emerald (requires inclusion and spectroscopic analysis)"
+    ],
+    "market_notes": "Emerald is the most valuable colored transparent gemstone per carat at top quality, often exceeding sapphire and rivaling ruby. Colombian origin commands premium. Treatment disclosure essential and affects value significantly. Unheated, unoiled Colombian fine-quality emerald is extremely rare. Synthetic widely available and openly sold."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [
+      "muscovite",
+      "chlorite"
+    ],
+    "lookalikes": [
+      "tsavorite-garnet",
+      "green-tourmaline",
+      "green-beryl",
+      "chrome-diopside"
+    ],
+    "related_species": [
+      "beryl",
+      "aquamarine",
+      "morganite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "silicate",
+      "variety",
+      "beryl",
+      "gemstone",
+      "green",
+      "birthstone",
+      "may",
+      "hexagonal",
+      "beryllium",
+      "high-priority",
+      "jewelry",
+      "colombian"
+    ],
+    "search_boost_terms": [
+      "emerald gemstone",
+      "Colombian emerald",
+      "Muzo emerald",
+      "May birthstone",
+      "vivid green beryl",
+      "Cleopatra mines",
+      "jardin emerald",
+      "Be3Al2Si6O18"
+    ],
+    "prompt_fragments": [
+      "Colombian emerald hexagonal prism — vivid chromium green with jardin inclusions",
+      "Muzo mine: hydrothermal green from black shale, spring-vivid Cr3+",
+      "Cleopatra's mine: 2000 years of green from Egypt's Eastern Desert"
+    ],
+    "ui_color_hint": [
+      "#50C878",
+      "#008000",
+      "#046307"
+    ],
+    "priority_score": 96
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.93,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-1405.html",
+      "https://www.gia.edu/emerald"
+    ],
+    "notes": "Emerald is a variety of beryl. mindat_id 1405 is the emerald variety listing."
+  }
+}

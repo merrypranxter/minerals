@@ -1,0 +1,67 @@
+{
+  "id": "corundum",
+  "slug": "corundum",
+  "display_name": "Corundum",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "corundum-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Al2O3",
+  "essential_elements": [
+    "Al",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": 9,
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "gray",
+    "brown",
+    "colorless"
+  ],
+  "genesis": [
+    "metamorphic",
+    "magmatic",
+    "sedimentary (placer)"
+  ],
+  "birthstone_status": [
+    "Ruby: July birthstone",
+    "Sapphire: September birthstone"
+  ],
+  "tags": [
+    "oxide",
+    "gemstone",
+    "hard",
+    "ruby",
+    "sapphire",
+    "high-priority",
+    "trigonal"
+  ],
+  "search_boost_terms": [
+    "ruby",
+    "sapphire",
+    "corundum",
+    "star sapphire",
+    "star ruby",
+    "emery",
+    "padparadscha"
+  ],
+  "priority_score": 90,
+  "mood_keywords": [
+    "extreme-hardness",
+    "chromium-fire",
+    "sapphire-night",
+    "crystallographic-pinnacle",
+    "royal-depth"
+  ],
+  "_all_text": "Corundum corundum Al2O3 Pure corundum is colorless; trace elements produce gem varieties. Cr3+ gives ruby red; Fe2+/Ti4+ gives blue sapphire; other traces yield yellows, greens, purples, and pink. Gem-quality crystals prized as ruby and sapphire. Non-gem material is gray-brown and often massive. Silk inclusions produce asterism in star rubies and sapphires. Rubies were called 'ratnaraj' (king of gems) in Sanskrit texts. Sapphire was associated with divine favor in medieval European Christianity. passion royalty fidelity protection wisdom Abrasive (emery) for grinding and polishing Gemstones; ruby and sapphire used in jewelry for millennia Watch bearings and precision instruments (synthetic corundum) Laser medium (ruby laser, first working laser 1960) ruby sapphire corundum star sapphire star ruby emery padparadscha oxide gemstone hard ruby sapphire high-priority trigonal extreme-hardness chromium-fire sapphire-night crystallographic-pinnacle royal-depth gray brown colorless"
+}

@@ -1,0 +1,262 @@
+id: amethyst
+slug: amethyst
+display_name: Amethyst
+
+classification:
+  chemistry_class: silicate
+  mineral_group: silica-group
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - ametrine
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 1332
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (with Fe4+ color centers)"
+  simplified_formula: "SiO2:Fe"
+  essential_elements: [Si, O]
+  trace_elements_common: [Fe, Al, Ti, Mn, H]
+  structural_units:
+    - "SiO4 tetrahedra in 3D framework (quartz structure)"
+  atomic_structure_notes: "Trigonal quartz framework. Color from Fe4+ color centers (radiation-induced conversion of Fe3+/Fe2+ impurities to Fe4+ in tetrahedral sites). Natural radiation (from host rock radioactivity) converts trace iron to the color-active state. Heat destroys the color center, producing citrine."
+  chemistry_notes: "The purple color requires both trace iron (as Fe3+ impurity in Al3+ sites) and natural gamma irradiation. Neither alone produces the color. This explains why geologically young, radiation-poor environments rarely produce amethyst. Amethyst-to-citrine color change by heat at ~300–500°C is the basis of commercial citrine production and ametrine (bicolor zones)."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "32 (trapezohedral)"
+  space_group: "P3121 / P3221"
+  unit_cell_notes: ""
+  twinning: "Brazil-law twinning (optical twinning) common — responsible for color zoning"
+  crystallography_notes: "Prismatic hexagonal crystals with rhombohedral and trapezoidal terminations (like all quartz). Color zoning — often in angular zones following crystal faces — is characteristic. Color concentration typically in pyramidal terminations. Druse coatings in geodes are the classic occurrence."
+
+physical_properties:
+  mohs_hardness: 7
+  specific_gravity: "2.65"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: [none]
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Standard quartz properties. Hardness 7 makes it reasonably durable for jewelry (some care needed against harder gems). No cleavage is an advantage. Color fades if heated above ~300°C or prolonged strong UV exposure."
+
+appearance:
+  baseline_colors:
+    - purple
+    - violet
+    - lavender
+  color_profiles:
+    - name: Deep Siberian Amethyst
+      colors: [deep-purple, vivid-violet with red flash]
+      cause: "High Fe4+ color center density; optimal iron content and irradiation history."
+      conditions: "Historically Ural Mountains, Russia ('Siberian amethyst'); now also Uruguay and Zambia material matches this grade."
+      variety_name: null
+    - name: Standard Amethyst
+      colors: [medium-purple, violet, lavender-purple]
+      cause: "Fe4+ color centers at moderate concentration."
+      conditions: "Most commercial material; Brazil, Uruguay, Zambia, Madagascar."
+      variety_name: null
+    - name: Rose de France Amethyst
+      colors: [pale-lavender, pale-lilac, light-mauve]
+      cause: "Low Fe4+ color center density."
+      conditions: "Light-colored amethyst; often from Brazil."
+      variety_name: null
+    - name: Ametrine
+      colors: [purple and yellow-orange bicolor zones]
+      cause: "Temperature and oxidation state gradient during crystal growth produces amethyst (cooler zones) and citrine (warmer/more oxidizing zones) in one crystal."
+      conditions: "Anahi mine, Santa Cruz, Bolivia — virtually the only natural ametrine source."
+      variety_name: ametrine
+  habits:
+    - prismatic
+    - pyramidal terminations
+    - druse (crystal-lined geode interior)
+    - massive
+    - phantoms
+  textures:
+    - glassy
+    - crystalline
+    - angular color zones
+  macro_patterns:
+    - geode cavity fill — crystal points radiating inward
+    - angular color zoning parallel to rhombohedral faces
+    - phantoms (growth zones visible)
+  common_forms:
+    - geode clusters
+    - crystal points
+    - faceted gems (oval, cushion, round)
+    - massive cabs
+  visual_notes: "Amethyst geodes from Brazil and Uruguay are among the most recognizable mineral display specimens globally. Hollow cavite filled with violet crystals pointing inward. The finest deep Siberian-grade material shows a red flash under incandescent light. Color zoning in angular patterns is characteristic and diagnostic."
+
+optical_and_special_effects:
+  fluorescence: "Typically none to very weak; some pale specimens show weak bluish or greenish fluorescence"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: "Weak: bluish-violet / reddish-purple (weak; uniaxial)"
+  optical_notes: "Uniaxial positive. RI = 1.544–1.553. Standard quartz optical properties. Color fades with prolonged UV exposure and heat — avoid extended sunlight display."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal
+    - magmatic (in volcanic vugs/geodes)
+    - metamorphic (veins)
+  geologic_environments:
+    - volcanic geodes in basalt and rhyolite flows (primary — Brazil/Uruguay)
+    - hydrothermal veins
+    - pegmatites
+    - alluvial placers (secondary)
+  host_rocks:
+    - basalt (geode formation in vesicles)
+    - rhyolite
+    - granite and pegmatite
+    - vein systems in metamorphic rocks
+  associated_minerals:
+    - calcite
+    - goethite
+    - other quartz varieties
+    - agate
+  locality_scope: worldwide
+  notable_localities:
+    - "Rio Grande do Sul, Brazil (Ametista do Sul — largest geode source globally)"
+    - "Artigas Department, Uruguay (large dark geodes)"
+    - "Anahi Mine, Santa Cruz Department, Bolivia (ametrine and amethyst)"
+    - "Maissau, Lower Austria (historical European source)"
+    - "Mpwapwa, Tanzania (fine crystals)"
+    - "Zambia (Kariba area — deep violet, minimal zoning)"
+    - "Ural Mountains, Russia ('Siberian' amethyst — largely depleted)"
+    - "Thunder Bay, Ontario, Canada (hematite-included 'auralite')"
+    - "Vera Cruz, Mexico (fine pale crystals)"
+    - "South Korea"
+  occurrence_notes: "Amethyst is the most commercially important quartz variety. Brazilian and Uruguayan amethyst forms in secondary silica-filled vesicles in Paleocene-Eocene flood basalts of the Paraná Basin — the world's largest geode deposit. Zambian amethyst comes from veins in schists and is typically darker with less zoning."
+
+cultural_and_historical:
+  birthstone_status:
+    - "February birthstone (traditional and modern)"
+    - "6th and 17th wedding anniversaries"
+  zodiac_associations:
+    - "Aquarius (February)"
+    - "Pisces"
+    - "Virgo (Vedic)"
+  historical_uses:
+    - "Gemstone since Egyptian antiquity — found in Pharaonic jewelry"
+    - "Greek and Roman wine goblets (believed to prevent intoxication)"
+    - "Medieval Christian bishops' rings and episcopal jewelry"
+    - "Catherine the Great's major amethyst collection"
+    - "Victorian and Art Nouveau jewelry"
+    - "Crown jewels of many European monarchies"
+  cultural_associations:
+    - "Dionysus/Bacchus association — Greek myth: Amethystos = 'not drunk' (a-methystos)"
+    - "Catholic Church: episcopal and papal rings traditionally amethyst"
+    - "Associated with royalty and spirituality across cultures"
+    - "Scottish Highlanders wore amethyst as a protective stone"
+    - "Until amethyst deposits found in Brazil (19th century), was as valuable as ruby and sapphire"
+  symbolism:
+    - sobriety and clear thinking
+    - spiritual wisdom
+    - royalty and nobility
+    - February's protection
+    - tranquility and meditation
+  folklore_notes: "The name 'amethyst' comes from Greek 'amethystos' (not intoxicated). Greek myth: Dionysus, god of wine, pursued a maiden named Amethystos who prayed to the goddess Artemis for protection; Artemis turned her to white quartz. Dionysus, repentant, poured wine over the crystal — turning it purple. Ancient Greeks and Romans wore amethyst and carved wine goblets from it believing it prevented drunkenness. Until large Brazilian deposits were found in the 19th century, amethyst was priced alongside diamond, ruby, and emerald in the crown jewels of Europe. Discovery of massive deposits in Brazil dramatically crashed the price."
+
+interpretive_vibe:
+  mood_keywords:
+    - grape-cathedral
+    - dionysus-purple
+    - episcopal-royal
+    - radiation-alchemy
+    - geode-interior
+  sensory_keywords:
+    - cool-violet
+    - crystalline cluster
+    - grape-purple
+    - February-calm
+  palette_keywords:
+    - deep-Siberian-violet
+    - lavender-rose-de-france
+    - geode-purple
+    - reddish-purple flash
+  aesthetic_roles:
+    - February birthstone anchor
+    - purple royalty reference
+    - geode aesthetic centerpiece
+    - Dionysiac ritual reference
+  vibe_notes: "Amethyst is the purple of wine, prayer, and power — used by bishops, kings, and Dionysus worshippers alike. A geode of amethyst is a cathedral floor inside a stone egg: thousands of violet crystals pointing inward at nothing and everything."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Color fades with prolonged UV exposure and heat above ~300°C. Avoid extended sunlight display. Safe for most jewelry use."
+  care_notes: "Clean with warm soapy water. Ultrasonic generally safe. Avoid prolonged sunlight display. Do not steam-clean (heat risk). Store in dark when not displayed."
+  treatments_or_synthetics:
+    - "Heat treatment produces citrine from amethyst (commercial practice for citrine production)"
+    - "Irradiation can deepen pale amethyst color (less common)"
+    - "Synthetic amethyst (hydrothermal) widely produced — identified by inclusions and growth patterns"
+    - "Glass simulants common in costume jewelry"
+  common_confusions:
+    - "Purple fluorite (softer — Mohs 4; cubic; different RI; cleavage)"
+    - "Iolite (dichroic; biaxial; different RI)"
+    - "Purple glass (different properties)"
+    - "Kunzite (very strong pleochroism; biaxial; perfect cleavage)"
+  market_notes: "Extremely abundant and affordable. Fine deep Zambian and deep Uruguayan material commands modest premium. 'Siberian' grade (deep with red flash) most prized. Mass market driven by Brazilian geodes. Synthetic widely produced but market not heavily affected (natural so cheap)."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - purple-fluorite
+    - iolite
+    - purple-glass
+    - kunzite
+  related_species:
+    - quartz
+    - citrine
+    - rose-quartz
+    - smoky-quartz
+
+app_metadata:
+  tags:
+    - silicate
+    - variety
+    - quartz
+    - gemstone
+    - purple
+    - violet
+    - birthstone
+    - february
+    - geode
+    - trigonal
+    - high-priority
+  search_boost_terms:
+    - amethyst gemstone
+    - purple quartz
+    - February birthstone
+    - amethyst geode
+    - Siberian amethyst
+    - Uruguayan amethyst
+    - Brazilian amethyst
+    - dionysus stone
+    - episcopal gem
+  prompt_fragments:
+    - "amethyst geode cross-section — violet crystal cathedral in basalt egg"
+    - "deep Siberian amethyst with red flash under incandescent light"
+    - "Dionysus purple: iron-radiation alchemy crystallized in quartz"
+  ui_color_hint:
+    - "#9966CC"
+    - "#7B2FBE"
+    - "#D8B4FE"
+  priority_score: 93
+
+provenance:
+  source_status: draft
+  completeness: 0.92
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1332.html"
+    - "https://www.gia.edu/amethyst"
+  notes: "Amethyst is a variety of quartz. mindat_id 1332 is the amethyst variety listing."

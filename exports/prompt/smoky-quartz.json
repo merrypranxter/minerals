@@ -1,0 +1,52 @@
+{
+  "id": "smoky-quartz",
+  "display_name": "Smoky Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "gray",
+    "brown-gray",
+    "dark-brown"
+  ],
+  "visual_notes": "Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity.",
+  "prompt_fragments": [
+    "large smoky quartz prism — alpine gray crystal from radiation alchemy",
+    "morion quartz near-black opacity — shadow crystallized",
+    "phantom smoky quartz: clear-to-dark growth zones visible in transparent gray"
+  ],
+  "mood_keywords": [
+    "smoke-and-shadow",
+    "alpine-grey-crystal",
+    "underworld-threshold",
+    "radiation-alchemy",
+    "Scottish-moor"
+  ],
+  "sensory_keywords": [
+    "dark-glass-cool",
+    "phantom-depth",
+    "heavy-clear-gray",
+    "smoke-captured"
+  ],
+  "palette_keywords": [
+    "smoky-gray-transparent",
+    "dark-brown-morion",
+    "cairngorm-amber-gray",
+    "phantom-clear-to-dark"
+  ],
+  "aesthetic_roles": [
+    "grounding dark anchor",
+    "shadow and depth reference",
+    "Scottish Highland material",
+    "large-crystal showcase"
+  ],
+  "vibe_notes": "Smoky quartz is where quartz goes dark — radiation absorbed in aluminum defects, the landscape of granite made visible in crystal. Phantoms within large stones show the history of growth: clear to smoky to clearer again, time made visible.",
+  "symbolism": [
+    "grounding and protection",
+    "shadow and depth",
+    "the underworld threshold",
+    "smoke and transformation",
+    "grounding clarity"
+  ],
+  "folklore_summary": "Cairngorm quartz from the Cairngorm Mountains of Scotland is an iconic national gemstone tradition — large brown-gray crystals were set in the handles of Highland dirks, kilt pins, and traditional brooches. Victorian mourning jewelry used dark stones including morion (black smoky quartz) alongside j"
+}

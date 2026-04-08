@@ -1,0 +1,239 @@
+id: morganite
+slug: morganite
+display_name: Morganite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: beryl-group
+  species_status: variety
+  parent_species: beryl
+  related_varieties: []
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 2756
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Be3Al2Si6O18 (with Mn2+/Mn3+)"
+  simplified_formula: "Be3Al2Si6O18:Mn"
+  essential_elements: [Be, Al, Si, O]
+  trace_elements_common: [Mn, Cs, Li, Na, Fe]
+  structural_units:
+    - "Si6O18 six-membered cyclosilicate rings"
+    - "BeO4 tetrahedra"
+    - "AlO6 octahedra"
+  atomic_structure_notes: "Cyclosilicate structure. Mn2+ and Mn3+ substituting for Al3+ in octahedral sites produce the pink-to-peach color. Cs is often elevated in morganite compared to other beryl varieties (reflecting Cs-rich pegmatite environments). Li may occupy channel sites."
+  chemistry_notes: "Manganese is the primary chromophore. Mn2+ gives pink; Mn3+ gives deeper pink to purplish. Cesium-rich Cs-beryl (pezzottaite) is related but is a distinct species (Cs-dominant). Irradiation produces orange tones; heat treatment removes these to give cleaner pink. Fe contamination produces brownish-orange overcast."
+
+crystallography:
+  crystal_system: hexagonal
+  crystal_class: "6/mmm (dihexagonal dipyramidal)"
+  space_group: "P6/mcc"
+  unit_cell_notes: "a ≈ 9.21 Å, c ≈ 9.19 Å"
+  twinning: "Rare"
+  crystallography_notes: "Typically short prismatic to tabular hexagonal crystals, reflecting the Cs-enriched pegmatite environment which produces broader, flatter crystal habits. Prismatic faces often striated. Crystals can be large in Cs-Li pegmatites."
+
+physical_properties:
+  mohs_hardness: "7.5–8"
+  specific_gravity: "2.71–2.90"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "imperfect basal {0001}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Higher SG than other beryls due to Cs enrichment in crystal structure. Good hardness and durability for jewelry use. Generally cleaner (fewer inclusions) than emerald."
+
+appearance:
+  baseline_colors:
+    - pink
+    - peach
+    - rose
+  color_profiles:
+    - name: Rose / Pure Pink Morganite
+      colors: [rose-pink, pure-pink, soft-pink]
+      cause: "Mn2+/Mn3+ at moderate concentration; ideal ratio for purest rose-pink."
+      conditions: "Madagascar, California; heat-treated to remove orangey cast."
+      variety_name: null
+    - name: Peach Morganite
+      colors: [peach, salmon-pink, orange-pink]
+      cause: "Higher Mn with Fe contributions or natural irradiation color centers."
+      conditions: "Common unheated rough; heat treatment removes orange to produce cleaner pink."
+      variety_name: null
+    - name: Deep Pink / Hot Pink Morganite
+      colors: [deep-pink, vivid-pink, magenta-edge]
+      cause: "Higher Mn3+ concentration."
+      conditions: "Rare; most prized morganite color."
+      variety_name: null
+  habits:
+    - short prismatic
+    - tabular hexagonal
+    - massive
+  textures:
+    - glassy
+    - clear with vitreous luster
+  macro_patterns:
+    - short hexagonal prism form
+    - sometimes bicolor (core/rim zones)
+    - clear to slightly included
+  common_forms:
+    - tabular hexagonal crystals
+    - faceted oval, cushion, round gems
+  visual_notes: "Morganite's soft rose-peach color is inherently gentle and warm — less assertive than ruby, less cold than pink sapphire. Large clean crystals are available. The rose-gold + morganite combination became dominant in contemporary jewelry design in the 2010s."
+
+optical_and_special_effects:
+  fluorescence: "Weak to none"
+  phosphorescence: ""
+  chatoyancy: "Very rare cat's eye morganite"
+  asterism: ""
+  iridescence: ""
+  pleochroism: "Dichroic: pink / pale-pink (weak to moderate)"
+  optical_notes: "Uniaxial negative. RI approximately 1.570–1.600. Birefringence ~0.008. Typically clean and well-suited for faceting. Pleochroism mild."
+
+formation_and_occurrence:
+  genesis:
+    - magmatic (pegmatitic)
+    - hydrothermal
+  geologic_environments:
+    - Li-Cs-rich granitic pegmatites (primary environment)
+    - complex pegmatites with lepidolite, tourmaline, spodumene
+  host_rocks:
+    - complex Li-Cs-rich granitic pegmatite
+    - granite
+  associated_minerals:
+    - lepidolite
+    - tourmaline (elbaite)
+    - spodumene
+    - topaz
+    - columbite-tantalite
+    - feldspar
+    - quartz
+    - goshenite
+  locality_scope: uncommon
+  notable_localities:
+    - "Anjanabonoina, Fianarantsoa, Madagascar (world class — finest and largest)"
+    - "Pala district (Pala Chief Mine), San Diego County, California, USA"
+    - "Urucum and Golconda, Minas Gerais, Brazil"
+    - "Pakistan (Gilgit-Baltistan)"
+    - "Mozambique"
+    - "Afghanistan (Kunar Province)"
+    - "Minas Gerais, Brazil (various)"
+  occurrence_notes: "Morganite is primarily a product of lithium-cesium-tantalum (LCT) granitic pegmatites. It requires Mn-rich fluids and a relatively evolved (late-stage) pegmatite environment. Madagascar's Anjanabonoina is the premier locality for gem-quality material. Named after financier J.P. Morgan in 1911 by George Frederick Kunz."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Libra (some traditions)"
+    - "Pisces"
+  historical_uses:
+    - "Named in 1911 by George Frederick Kunz (Tiffany & Co. head gemologist) for financier J.P. Morgan"
+    - "J.P. Morgan donated major mineral collections to AMNH and Harvard"
+    - "Gemstone use since naming; rose-gold combination popularized post-2010"
+  cultural_associations:
+    - "Named for J.P. Morgan — reflects early 20th-century patronage of mineralogy"
+    - "Rose-gold + morganite aesthetic became 2010s jewelry trend"
+    - "Often positioned as an alternative/complement to pink diamond and pink sapphire"
+  symbolism:
+    - love and tenderness
+    - feminine warmth
+    - compassion
+    - rose-gold aesthetic
+    - gentle strength
+  folklore_notes: "Morganite is a relatively recently named gem variety (1911) compared to emerald and aquamarine. George Frederick Kunz named it for J.P. Morgan, one of the great mineral collectors of the Gilded Age — whose collections are now at the American Museum of Natural History and Harvard's Mineralogical Museum. The 'morganite + rose gold' combination became a defining aesthetic of 2010s jewelry design, particularly in engagement rings."
+
+interpretive_vibe:
+  mood_keywords:
+    - peach-rose-warm
+    - manganese-tenderness
+    - J.P.-Morgan-gem
+    - rose-gold-companion
+    - soft-beryl
+  sensory_keywords:
+    - warm soft pink
+    - peach-gentle weight
+    - clear rose-glass
+    - blush and warmth
+  palette_keywords:
+    - rose-quartz-rival
+    - peach-morganite
+    - Madagascar-pink
+    - warm-blush-gem
+  aesthetic_roles:
+    - warm pink gem anchor
+    - rose-gold pairing stone
+    - gentle luxury reference
+    - Cs-Li pegmatite marker
+  vibe_notes: "Morganite is the warm, quiet sister of emerald and aquamarine — the peachy pink end of beryl's spectrum. It lacks the drama of other beryls but has a consistent warmth and gentleness. The rose-gold era made it a design archetype."
+
+practical_notes:
+  toxicity: "Beryllium-bearing; dust from grinding hazardous. Finished gems safe."
+  handling_notes: "Good hardness and durability. Heat treatment (to remove orange-peach cast) standard and undisclosed. Similar jewelry durability to aquamarine."
+  care_notes: "Clean with warm soapy water. Ultrasonic generally safe. Avoid strong acids and heavy impacts."
+  treatments_or_synthetics:
+    - "Heat treatment: standard and accepted; removes orange/peach from irradiated-color centers, giving cleaner pink"
+    - "Irradiation: sometimes used to produce or deepen orange-pink (less stable)"
+    - "Synthetic morganite: uncommon commercially"
+  common_confusions:
+    - "Rose quartz (softer; lower RI; massive habit)"
+    - "Pink topaz (biaxial; different SG and RI)"
+    - "Kunzite (spodumene — biaxial; very strong pleochroism; cleaves perfectly)"
+    - "Pink sapphire (much harder; uniaxial; different RI)"
+    - "Pink tourmaline (biaxial; higher RI)"
+  market_notes: "Increasingly popular. Large clean stones are available and relatively affordable compared to emerald. Madagascar is the primary source of premium material. Rose-gold setting trend drove significant market growth. Heat treatment universal and accepted."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - rose-quartz
+    - pink-topaz
+    - kunzite
+    - pink-sapphire
+  related_species:
+    - beryl
+    - aquamarine
+    - emerald
+    - pezzottaite
+
+app_metadata:
+  tags:
+    - silicate
+    - variety
+    - beryl
+    - gemstone
+    - pink
+    - peach
+    - hexagonal
+    - beryllium
+    - manganese
+    - pegmatite
+  search_boost_terms:
+    - morganite gemstone
+    - pink beryl
+    - peach beryl
+    - rose gold morganite
+    - J.P. Morgan gem
+    - Madagascar beryl
+    - Be3Al2Si6O18 manganese
+  prompt_fragments:
+    - "morganite: peach-rose beryl from Cs-Li pegmatite — warm manganese hexagonal form"
+    - "Madagascar morganite tabular crystal — blush warmth in beryllium silicate"
+    - "rose-gold + morganite: 2010s design archetype in soft pink beryl"
+  ui_color_hint:
+    - "#F4A7B9"
+    - "#FFB6C1"
+    - "#E8927C"
+  priority_score: 86
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2756.html"
+    - "https://www.gia.edu/morganite"
+  notes: "Morganite is a variety of beryl. mindat_id 2756 is the morganite variety listing."

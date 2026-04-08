@@ -1,0 +1,100 @@
+{
+  "id": "smithsonite",
+  "display_name": "Smithsonite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#B0C4E8",
+    "#A8D5A2",
+    "#F0EDE8"
+  ],
+  "baseline_colors": [
+    "white",
+    "colorless",
+    "gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "Cobaltian Smithsonite (Blue / Lavender)",
+      "colors": [
+        "blue",
+        "pale-blue",
+        "lavender",
+        "periwinkle",
+        "sky-blue"
+      ],
+      "variety_name": null,
+      "cause": "Co2+ substituting for Zn2+."
+    },
+    {
+      "name": "Cuprian Smithsonite (Green / Teal)",
+      "colors": [
+        "apple-green",
+        "teal-green",
+        "celadon",
+        "turquoise-green"
+      ],
+      "variety_name": null,
+      "cause": "Cu2+ substituting for Zn2+."
+    },
+    {
+      "name": "Manganian Smithsonite (Pink)",
+      "colors": [
+        "pale-pink",
+        "rose-pink",
+        "salmon"
+      ],
+      "variety_name": null,
+      "cause": "Mn2+ substituting for Zn2+."
+    },
+    {
+      "name": "White / Gray Smithsonite",
+      "colors": [
+        "white",
+        "cream",
+        "pale-gray"
+      ],
+      "variety_name": null,
+      "cause": "Near-pure ZnCO3 with minimal chromophore substitution."
+    },
+    {
+      "name": "Yellow / Brown Smithsonite",
+      "colors": [
+        "pale-yellow",
+        "honey-yellow",
+        "tan"
+      ],
+      "variety_name": null,
+      "cause": "Fe2+/Fe3+ substitution or iron oxide staining."
+    }
+  ],
+  "habits": [
+    "botryoidal",
+    "mammillary",
+    "stalactitic",
+    "massive",
+    "earthy",
+    "cellular",
+    "crusty",
+    "rhombohedral (rare)"
+  ],
+  "textures": [
+    "pearly smooth (botryoidal)",
+    "cellular porous",
+    "granular",
+    "waxy"
+  ],
+  "luster": [
+    "vitreous",
+    "pearly",
+    "silky"
+  ],
+  "visual_notes": "Smithsonite is primarily known as a secondary zinc carbonate with exceptional color range and unusual pearlescent botryoidal habit. Cobalt-bearing blue smithsonite from Tsumeb and copper-bearing green from Arizona are collector favorites. The pearly luster of botryoidal forms is distinctive.",
+  "optical_effects": {
+    "fluorescence": "Some specimens fluoresce pale blue, green, or white under UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

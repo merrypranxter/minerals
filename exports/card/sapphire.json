@@ -1,0 +1,66 @@
+{
+  "id": "sapphire",
+  "slug": "sapphire",
+  "display_name": "Sapphire",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "corundum",
+  "mineral_group": "corundum-group",
+  "ima_status": "not_ima",
+  "formula": "Al2O3:Fe,Ti",
+  "mohs_hardness": 9,
+  "specific_gravity": "3.95–4.10",
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "blue",
+    "cornflower-blue",
+    "deep-blue"
+  ],
+  "color_profiles_available": [
+    "Kashmir Blue Sapphire",
+    "Burmese / Ceylon Sapphire",
+    "Padparadscha",
+    "Yellow Sapphire",
+    "Star Sapphire",
+    "Parti Sapphire"
+  ],
+  "habits": [
+    "prismatic",
+    "tabular hexagonal",
+    "barrel-shaped",
+    "bipyramidal",
+    "massive"
+  ],
+  "birthstone_months": [
+    "September birthstone (traditional and modern)",
+    "5th and 45th wedding anniversaries"
+  ],
+  "tags": [
+    "oxide",
+    "variety",
+    "corundum",
+    "gemstone",
+    "blue",
+    "birthstone",
+    "september",
+    "trigonal",
+    "high-priority",
+    "jewelry",
+    "royal"
+  ],
+  "priority_score": 96,
+  "ui_color_hint": [
+    "#0F52BA",
+    "#1560BD",
+    "#4B9CD3"
+  ]
+}

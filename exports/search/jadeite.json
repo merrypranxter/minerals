@@ -1,0 +1,69 @@
+{
+  "id": "jadeite",
+  "slug": "jadeite",
+  "display_name": "Jadeite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "pyroxene-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "NaAlSi2O6",
+  "essential_elements": [
+    "Na",
+    "Al",
+    "Si",
+    "O"
+  ],
+  "crystal_system": "monoclinic",
+  "mohs_hardness": "6.5–7",
+  "luster": [
+    "waxy",
+    "vitreous",
+    "resinous"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-green"
+  ],
+  "genesis": [
+    "metamorphic"
+  ],
+  "birthstone_status": [
+    "Not a traditional Western birthstone, but recognized in some systems for March or August"
+  ],
+  "tags": [
+    "gemstone",
+    "inosilicate",
+    "single-chain-silicate",
+    "pyroxene",
+    "jade",
+    "high-pressure",
+    "cultural",
+    "high-priority",
+    "subduction"
+  ],
+  "search_boost_terms": [
+    "jade",
+    "jadeite",
+    "imperial jade",
+    "fei cui",
+    "Chinese jade",
+    "Myanmar jade",
+    "Burmese jade",
+    "Mesoamerican jade"
+  ],
+  "priority_score": 86,
+  "mood_keywords": [
+    "imperial-silence",
+    "high-pressure-green",
+    "jade-court",
+    "sacred-stone",
+    "subduction-secret"
+  ],
+  "_all_text": "Jadeite jadeite NaAlSi2O6 Jadeite is the Na-Al end member of the clinopyroxene solid solution series. It grades toward omphacite (with Ca-Mg aegirine substitution) and augite. Chromium substituting for Al3+ in the M1 octahedral site produces the vivid emerald-green of Imperial jade. Fe3+ (aegirine component) produces black. Mn produces lavender in some varieties. Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders. In ancient China, the deceased were sometimes buried with jade pieces placed on bodily orifices to preserve the body — jade burial suits (玉衣) of the Han dynasty, made from thousands of jade plaques sewn with gold, silver, or bronze wire, represent the apex of this tradition. Jade was believed to prevent decomposition and ensure immortality. immortality imperial-power purity heaven virtue healing longevity Chinese jade carving tradition spans more than 7,000 years; Neolithic cultures (Hongshan, Liangzhu) produced ritual jades including bi discs and cong tubes, though many early 'jade' artifacts are nephrite Jadeite from Myanmar only became the dominant Chinese imperial jade material after the 18th century, when Burmese trade routes opened under Qing dynasty patronage — Empress Dowager Cixi was a particularly devoted collector The Olmec civilization of Mesoamerica (1500–400 BCE) and the Maya (250 BCE–900 CE) worked Guatemalan jadeite into masks, pendants, and celts of great ritual significance; jade was more valuable than gold in Mesoamerican cultures Aztec mosaic masks incorporating jadeite and other green stones were among the most prized gifts sent to Hernán Cortés, who dismissed them in favor of gold — a historic cultural misvaluation Itoigawa jadeite in Japan (Niigata Prefecture) has been worked since the Jomon period (~5000 BCE), making it one of the earliest jade-working traditions; Itoigawa jade has been found in Jomon-period sites across Japan Spanish conquistadors observed Mesoamerican peoples pressing jade stones to their sides to cure 'piedra de ijada' (loin pain/kidney pain) — the origin of the Spanish word 'jade' and the belief in jade's kidney-healing properties jade jadeite imperial jade fei cui Chinese jade Myanmar jade Burmese jade Mesoamerican jade gemstone inosilicate single-chain-silicate pyroxene jade high-pressure cultural high-priority subduction imperial-silence high-pressure-green jade-court sacred-stone subduction-secret white gray pale-green"
+}

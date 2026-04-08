@@ -1,0 +1,62 @@
+{
+  "id": "amber",
+  "slug": "amber",
+  "display_name": "Amber",
+  "chemistry_class": "organic",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": null,
+  "ima_status": "n/a",
+  "formula": "C10H16O (approximate)",
+  "mohs_hardness": "2–2.5",
+  "specific_gravity": "1.05–1.096",
+  "luster": [
+    "resinous"
+  ],
+  "streak": "white (soft enough to produce streak but organic)",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "amorphous",
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange",
+    "honey"
+  ],
+  "color_profiles_available": [
+    "Baltic Golden / Honey Amber",
+    "Butterscotch / Opaque Amber",
+    "Dominican Blue / Green Amber",
+    "Red / Cherry Amber",
+    "Burmese Amber (Burmite)"
+  ],
+  "habits": [
+    "massive nodular",
+    "irregular droplets and flows",
+    "stalactitic (resin drips)",
+    "rounded pebbles (beach/alluvial)"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "organic",
+    "mineraloid",
+    "amorphous",
+    "fossilized-resin",
+    "inclusions",
+    "paleontology",
+    "ancient-trade",
+    "yellow",
+    "orange",
+    "warm",
+    "high-priority"
+  ],
+  "priority_score": 90,
+  "ui_color_hint": [
+    "#FFBF00",
+    "#D4A017",
+    "#C47A2B"
+  ]
+}

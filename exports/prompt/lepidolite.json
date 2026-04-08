@@ -1,0 +1,54 @@
+{
+  "id": "lepidolite",
+  "display_name": "Lepidolite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "lavender",
+    "pink",
+    "purple"
+  ],
+  "visual_notes": "Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality.",
+  "prompt_fragments": [
+    "lavender scaly lepidolite mica in pegmatite",
+    "soft lilac pearly shimmer mineral",
+    "lithium-bearing pink mica books",
+    "lepidolite intergrown with pink tourmaline"
+  ],
+  "mood_keywords": [
+    "lavender-mica",
+    "lithium-shimmer",
+    "gentle-mineral",
+    "soft-metallic",
+    "pegmatite-pastel"
+  ],
+  "sensory_keywords": [
+    "silky",
+    "layered",
+    "pearly",
+    "soft",
+    "cool-lavender"
+  ],
+  "palette_keywords": [
+    "soft-lavender",
+    "lilac",
+    "rose-pink",
+    "pale-violet",
+    "mica-white"
+  ],
+  "aesthetic_roles": [
+    "pastel pegmatite accent",
+    "lavender mica anchor",
+    "soft shimmer mineral",
+    "lithium-flux marker"
+  ],
+  "vibe_notes": "Lepidolite is the gentlest common pegmatite mineral — a pastel lavender mica shimmer against stark feldspar and quartz. Its lithium content gives it a surprising industrial dimension hidden beneath its soft aesthetic. In combination with pink tourmaline and rose quartz, it creates some of the most feminine-coded pegmatite assemblages.",
+  "symbolism": [
+    "calm",
+    "transition",
+    "softness",
+    "lithium-light"
+  ],
+  "folklore_summary": "The lavender color and lithium-bearing nature have combined in popular imagination to make lepidolite a stone of 'calm and peace' in New Age traditions. The real lithium connection — as one of the oldest lithium mineral sources — gives it an unexpected industrial modernity beneath its gentle pastel "
+}

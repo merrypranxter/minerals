@@ -1,0 +1,54 @@
+{
+  "id": "beryl",
+  "display_name": "Beryl",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "visual_notes": "Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals.",
+  "prompt_fragments": [
+    "hexagonal beryl prism in forest green",
+    "aquamarine sea-glass clarity",
+    "morganite rose-peach pegmatite gem",
+    "emerald jardin vivid green"
+  ],
+  "mood_keywords": [
+    "cyclosilicate-palace",
+    "deep-prism",
+    "beryllium-rainbow",
+    "gem-spectrum",
+    "hexagonal-order"
+  ],
+  "sensory_keywords": [
+    "glassy",
+    "prismatic",
+    "cool",
+    "clear",
+    "saturated"
+  ],
+  "palette_keywords": [
+    "emerald-green",
+    "aqua-blue",
+    "morganite-rose",
+    "heliodor-gold",
+    "goshenite-clear"
+  ],
+  "aesthetic_roles": [
+    "gem-spectrum anchor",
+    "prismatic column mineral",
+    "color variety showcase",
+    "beryllium rarity marker"
+  ],
+  "vibe_notes": "Beryl is a color-variety powerhouse — a single species that spans the gem rainbow from green to blue to pink to gold, all from trace chromophore swaps in the same hexagonal prism lattice.",
+  "symbolism": [
+    "clarity",
+    "rebirth",
+    "spring",
+    "vision",
+    "sea-voyage"
+  ],
+  "folklore_summary": "Ancient legend held that wearing an emerald could reveal truth — placing it under the tongue would supposedly make a person speak truthfully. Aquamarine was believed to be the treasure of mermaids."
+}

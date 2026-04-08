@@ -1,0 +1,266 @@
+id: obsidian
+slug: obsidian
+display_name: Obsidian
+
+classification:
+  chemistry_class: mineraloid
+  mineral_group: null
+  species_status: mineraloid
+  parent_species: null
+  related_varieties:
+    - rainbow-obsidian
+    - snowflake-obsidian
+    - mahogany-obsidian
+    - apache-tears
+    - sheen-obsidian
+
+identifiers:
+  ima_status: n/a
+  mindat_id: 2950
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (approximately 70–75%) with Al2O3, FeO, Fe2O3, MgO, CaO, K2O, Na2O"
+  simplified_formula: "Rhyolitic volcanic glass"
+  essential_elements: [Si, O, Al, Fe, K, Na]
+  trace_elements_common: [Ti, Mn, Ca, Mg, P, Rb, Sr, Ba, Zr]
+  structural_units:
+    - "Disordered silicate network — amorphous (no long-range order)"
+    - "Quenched high-silica rhyolitic melt"
+  atomic_structure_notes: "Volcanic glass — a supercooled liquid with no crystalline structure. Chemically equivalent to rhyolite or high-silica granite compositions, quenched so rapidly that crystals had no time to form. The SiO2 content is typically 70–75%. Geochemical fingerprinting (trace elements) allows obsidian to be sourced to specific volcanic flows."
+  chemistry_notes: "Color and optical effects depend on Fe content, gas bubble distribution, and crystallite inclusions. Black obsidian is colored by iron and magnetite. Snowflake obsidian contains spherulites of cristobalite (white). Rainbow obsidian gets its iridescence from nanolaminate magnetite layers. Mahogany obsidian has reddish-brown bands from Fe oxidation."
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: ""
+  space_group: ""
+  unit_cell_notes: ""
+  twinning: ""
+  crystallography_notes: "No crystalline structure — volcanic glass. Conchoidal fracture with razor-sharp edges is the defining physical feature. Some specimens contain phenocrysts of quartz, feldspar, or pyroxene (not truly porphyritic obsidian — these are xenocrysts). Spherulitic devitrification (cristobalite/feldspar) creates snowflake patterns."
+
+physical_properties:
+  mohs_hardness: "5–5.5"
+  specific_gravity: "2.35–2.60"
+  luster: [vitreous]
+  streak: white
+  transparency: [opaque, translucent]
+  cleavage: [none]
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Perfect conchoidal fracture produces razor-sharp edges — among the sharpest natural edges possible. Obsidian blades have been used in surgery and approach monoatomic-edge sharpness, far exceeding surgical steel in edge acuity. Lower hardness than quartz but forms sharper edges due to amorphous structure."
+
+appearance:
+  baseline_colors:
+    - black
+    - dark-brown
+  color_profiles:
+    - name: Classic Black Obsidian
+      colors: [jet-black, deep-black, dark-gray]
+      cause: "Iron and titanium oxides (magnetite) distributed throughout glass matrix."
+      conditions: "Most common obsidian; widespread in all volcanic obsidian flows."
+      variety_name: null
+    - name: Rainbow Obsidian
+      colors: [black with rainbow iridescence bands — green, blue, purple, gold]
+      cause: "Thin layers of oriented magnetite nanoparticles creating thin-film interference."
+      conditions: "Specific flows — notably Napa Valley, California; Mexico."
+      variety_name: rainbow-obsidian
+    - name: Snowflake Obsidian
+      colors: [black with white/gray snowflake patterns]
+      cause: "Devitrification spherulites of cristobalite (silica) and feldspar crystallizing post-emplacement."
+      conditions: "Common; widespread in many obsidian flows."
+      variety_name: snowflake-obsidian
+    - name: Mahogany Obsidian
+      colors: [black and reddish-brown banding]
+      cause: "Iron oxide-rich zones (hematite/goethite) banding through black glass."
+      conditions: "Many localities; common."
+      variety_name: mahogany-obsidian
+    - name: Apache Tears
+      colors: [black to dark gray, translucent when held to light]
+      cause: "Small rounded nodules of obsidian that weather from perlite matrix; translucent in thin section."
+      conditions: "Arizona, Nevada — perlitic volcanic rocks."
+      variety_name: apache-tears
+  habits:
+    - massive (flows)
+    - nodular (Apache tears within perlite)
+    - botryoidal (rare)
+    - conchoidal fracture surfaces
+  textures:
+    - glassy smooth
+    - conchoidal fracture ridges
+    - vitreous luster
+    - snowflake devitrification patterns
+  macro_patterns:
+    - flow banding
+    - snowflake spherulites
+    - rainbow iridescent layers
+    - mahogany banding
+  common_forms:
+    - massive flow material
+    - Apache tear nodules
+    - worked flakes and blades (archaeological)
+    - polished slabs and spheres
+  visual_notes: "Obsidian is pure volcanic glass — the most visually simple and the most dramatically effective black mineral material. Its jet-black vitreous surface reflects light cleanly. Rainbow varieties produce full spectral color from thin-film magnetite layers. Apache tears appear opaque but transmit brownish light when held up."
+
+optical_and_special_effects:
+  fluorescence: "None typically"
+  phosphorescence: ""
+  chatoyancy: "Sheen obsidian — silver or gold sheen from parallel nanoparticle layers"
+  asterism: ""
+  iridescence: "Rainbow obsidian — full spectral iridescence from nanolaminate magnetite interference layers"
+  pleochroism: "None (amorphous)"
+  optical_notes: "RI approximately 1.48–1.51. Isotropic (amorphous glass). Relatively low RI compared to crystalline minerals. Flow banding and bubble trains sometimes visible internally. Conchoidal fracture surfaces show characteristic curved ridges."
+
+formation_and_occurrence:
+  genesis:
+    - volcanic (rapid quenching of silicic lava)
+  geologic_environments:
+    - rhyolite and dacite lava flows
+    - volcanic domes
+    - pyroclastic deposits (limited)
+    - obsidian cliffs and flows in silicic volcanic terrain
+  host_rocks:
+    - rhyolite flows
+    - volcanic tuff
+    - perlite (hydrated obsidian)
+  associated_minerals:
+    - cristobalite (devitrification)
+    - feldspar (phenocrysts)
+    - quartz (phenocrysts)
+    - magnetite
+    - pyroxene
+  locality_scope: worldwide (volcanic belts)
+  notable_localities:
+    - "Obsidian Cliff, Yellowstone, Wyoming, USA (major Ancestral Puebloan source)"
+    - "Glass Buttes, Lake County, Oregon, USA"
+    - "Pachuca and Teotihuacan sources, Hidalgo/Mexico State, Mexico"
+    - "Jalisco and Michoacán, Mexico (Aztec workshop sources)"
+    - "Lipari Island, Sicily, Italy (ancient Mediterranean trade source)"
+    - "Mount Ararat and Nemrut Dağ, Turkey (Neolithic obsidian trade)"
+    - "Mount Hekla, Iceland"
+    - "Eolie Islands, Italy"
+    - "Sardinia (Monte Arci)"
+    - "Ethiopia, Kenya (East African Rift — important Acheulean and Later Stone Age sources)"
+    - "New Zealand (Mayor Island / Tuhua)"
+    - "Japan (multiple Pleistocene sources)"
+  occurrence_notes: "Forms in continental and island arc volcanic settings where high-silica magma erupts and cools extremely rapidly — faster than crystallization can occur. Obsidian flows are geologically young (most < 700,000 years — older obsidian devitrifies to crystalline materials). Obsidian sourcing by trace element fingerprinting has revolutionized archaeology — distribution maps reveal ancient trade networks."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Sagittarius (some traditions)"
+    - "Scorpio (some traditions)"
+  historical_uses:
+    - "Stone tools — blades, knives, scrapers (Lower Paleolithic to historically in some regions)"
+    - "Surgical blades (modern surgical use — some cardiothoracic surgeons prefer obsidian scalpels)"
+    - "Mirrors (Aztec; polished obsidian mirrors for divination)"
+    - "Trade commodity (obsidian exchange networks documented from Neolithic through Bronze Age)"
+    - "Ritual and ceremonial objects (Aztec, Mesoamerican, and many other cultures)"
+    - "Arrowheads and projectile points"
+  cultural_associations:
+    - "Aztec obsidian mirrors — 'Tezcatlipoca' (smoking mirror) — a deity and divination tool"
+    - "Obsidian blade craft was among the highest artisanal skills in Mesoamerica"
+    - "Neolithic obsidian trade — Anatolian obsidian reached Egypt and Cyprus"
+    - "Apache tears — legend of Apache warriors who died in battle; tears of their wives turned to stone"
+    - "Japanese and Polynesian tool-making traditions"
+    - "Mexican folk art and lapidary tradition (obsidian carvings of skulls, animals)"
+  symbolism:
+    - truth-revealing mirror
+    - the void and shadow-self
+    - protection from negative energy
+    - warrior sharpness
+    - volcanic creation and destruction
+  folklore_notes: "Tezcatlipoca, the Aztec god of night, sorcery, and the north, is symbolized by a black obsidian smoking mirror — his attribute and the means by which he could see all things in the universe including human sin and fate. Obsidian mirrors were used by priests for scrying and divination. The Apache tears legend holds that women of an Apache band wept when their warriors were killed in battle; their tears fell and crystallized as obsidian nodules. In modern metaphysical tradition, obsidian is a 'truth stone' associated with shadow work."
+
+interpretive_vibe:
+  mood_keywords:
+    - volcanic-void
+    - obsidian-mirror
+    - razor-blade-truth
+    - shadow-surface
+    - night-glass
+  sensory_keywords:
+    - cold glass
+    - razor edge
+    - jet-black-reflection
+    - volcanic-weight
+  palette_keywords:
+    - absolute-black
+    - rainbow-on-void
+    - night-mirror
+    - mahogany-flow
+  aesthetic_roles:
+    - absolute-black anchor
+    - volcanic creation reference
+    - mirror/void element
+    - surgical-edge material
+  vibe_notes: "Obsidian is the void made solid — a black mirror that reflects what you put in front of it. It is simultaneously the sharpest natural material and the darkest. Tezcatlipoca's smoking mirror sees all. Apache tears carry grief transformed into translucent darkness."
+
+practical_notes:
+  toxicity: "Non-toxic in handled form. Sharp fractured edges are a serious laceration hazard — handle broken pieces with extreme care."
+  handling_notes: "Conchoidal fracture creates razor-sharp edges that can cause severe cuts. Store with edges protected. Handle knapped pieces as you would a surgical blade. Polish reduces hazard."
+  care_notes: "Wipe with soft cloth. Avoid impacts — brittle and fractures easily. Sharp edges on raw material are a handling hazard."
+  treatments_or_synthetics:
+    - "No treatments common for natural obsidian"
+    - "Glass simulants (black glass, jet glass) are widespread but heavier and with different RI"
+    - "Some 'obsidian' sold commercially is slag glass or black glass (volcanic glass without natural origin)"
+  common_confusions:
+    - "Black glass (man-made — bubbles, higher SG)"
+    - "Jet (lignite variety — very soft; carving material)"
+    - "Black tourmaline (columnar crystals; much harder)"
+    - "Basalt (crystalline rock; no conchoidal fracture; different texture)"
+    - "Slag glass (industrial waste glass — similar appearance)"
+  market_notes: "Common and affordable as raw material. Carved Mexican obsidian objects (skulls, animals) widely available. Rainbow and sheen obsidian cabochons are popular. Apache tears common in the market. Lapidary-quality material inexpensive."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by:
+    - "perlite (hydration of obsidian)"
+  lookalikes:
+    - jet
+    - black-glass
+    - black-tourmaline
+    - basalt
+  related_species: []
+
+app_metadata:
+  tags:
+    - mineraloid
+    - volcanic-glass
+    - amorphous
+    - black
+    - silica
+    - tool-stone
+    - aztec
+    - ancient-trade
+    - surgical
+    - high-priority
+  search_boost_terms:
+    - volcanic glass
+    - obsidian blade
+    - Apache tears
+    - snowflake obsidian
+    - rainbow obsidian
+    - Aztec mirror
+    - Tezcatlipoca
+    - stone tool
+    - Neolithic obsidian trade
+  prompt_fragments:
+    - "jet-black volcanic glass with conchoidal fracture — razor edge from deep time"
+    - "rainbow obsidian — full spectral iridescence on absolute black surface"
+    - "Aztec smoking mirror: Tezcatlipoca sees all in volcanic glass"
+  ui_color_hint:
+    - "#0D0D0D"
+    - "#1A1A2E"
+    - "#4A3728"
+  priority_score: 90
+
+provenance:
+  source_status: draft
+  completeness: 0.91
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2950.html"
+    - "https://geology.com/rocks/obsidian.shtml"
+  notes: "Obsidian is a mineraloid volcanic glass — not a true mineral. No fixed composition."

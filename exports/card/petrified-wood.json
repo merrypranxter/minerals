@@ -1,0 +1,63 @@
+{
+  "id": "petrified-wood",
+  "slug": "petrified-wood",
+  "display_name": "Petrified Wood",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": null,
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "mohs_hardness": "5.5–7 (varies with silicification completeness; chalcedony-replaced ≈ 6.5–7)",
+  "specific_gravity": "2.58–2.65 (chalcedony) to lower if incompletely silicified",
+  "luster": [
+    "waxy",
+    "vitreous",
+    "earthy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "brown",
+    "tan",
+    "gray"
+  ],
+  "color_profiles_available": [
+    "red-orange-petrified-wood",
+    "yellow-brown-petrified-wood",
+    "black-petrified-wood",
+    "gray-petrified-wood",
+    "blue-green-petrified-wood",
+    "agatized-wood"
+  ],
+  "habits": [
+    "wood-log-form",
+    "cross-section-disc",
+    "branch-fragment",
+    "root-mass",
+    "bark-surface"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "fossil",
+    "gem-material",
+    "chalcedony",
+    "silicification",
+    "deep-time",
+    "wood-replacement",
+    "desert",
+    "paleobotany"
+  ],
+  "priority_score": 74,
+  "ui_color_hint": [
+    "rust-red",
+    "honey-brown",
+    "ash-gray",
+    "bark-tan",
+    "agate-white"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "graphite",
+  "display_name": "Graphite",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "black",
+    "dark-gray",
+    "steel-gray"
+  ],
+  "visual_notes": "Unmistakable greasy feel and extremely dark matte-black color. Marks paper and skin readily. Steel-gray metallic luster on fresh cleavage faces. Often found as disseminated flakes or foliated masses in metamorphic rocks.",
+  "prompt_fragments": [
+    "foliated dark graphite plates with greasy metallic sheen",
+    "matte black scaly graphite in white marble matrix",
+    "carbon's humble terrestrial form — dark and slippery"
+  ],
+  "mood_keywords": [
+    "carbon-void",
+    "dark-lattice",
+    "primordial-carbon",
+    "matte-eclipse"
+  ],
+  "sensory_keywords": [
+    "greasy slide on paper",
+    "dark smudge",
+    "hexagonal molecular layering",
+    "matte-black absorption"
+  ],
+  "palette_keywords": [
+    "graphite black",
+    "slate gray",
+    "carbon dark",
+    "matte charcoal"
+  ],
+  "aesthetic_roles": [
+    "dark neutral anchor",
+    "industrial texture reference",
+    "carbon duality (with diamond)",
+    "matte contrast element"
+  ],
+  "vibe_notes": "Graphite is diamond's humble alter ego — same element, opposite outcome. Where diamond captures and refracts, graphite absorbs and slides. It is carbon in its most pragmatic, terrestrial form.",
+  "symbolism": [
+    "darkness and hidden form",
+    "carbon's humble guise",
+    "the unrecognized twin of diamond",
+    "utility over glamour"
+  ],
+  "folklore_summary": "Graphite was initially called 'plumbago' (black lead) when discovered in Borrowdale in the 1560s — mistaken for a form of lead. The Borrowdale deposit was so pure and massive it could be sawn into sticks directly for writing, and so valuable that miners were searched leaving the mines. Graphite and "
+}

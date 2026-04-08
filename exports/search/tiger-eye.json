@@ -1,0 +1,60 @@
+{
+  "id": "tiger-eye",
+  "slug": "tiger-eye",
+  "display_name": "Tiger's Eye",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2 (pseudomorph after crocidolite)",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "5.5–6",
+  "luster": [
+    "silky"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "golden-brown",
+    "amber-brown",
+    "yellow-brown"
+  ],
+  "genesis": [
+    "metamorphic",
+    "hydrothermal-replacement"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "chatoyant",
+    "fibrous",
+    "pseudomorph",
+    "silica",
+    "variety",
+    "iron-bearing",
+    "optical-effect",
+    "south-africa"
+  ],
+  "search_boost_terms": [
+    "tiger's eye",
+    "tigers eye",
+    "chatoyant quartz",
+    "cat's eye stone",
+    "fibrous silica",
+    "hawk's eye",
+    "golden brown chatoyant"
+  ],
+  "priority_score": 83,
+  "mood_keywords": [
+    "predator-eye",
+    "desert-vision",
+    "amber-surveillance",
+    "geological-watchfulness"
+  ],
+  "_all_text": "Tiger's Eye tiger-eye SiO2 (pseudomorph after crocidolite) Bulk composition is predominantly SiO2. Residual iron as goethite (FeO(OH)) or hematite (Fe2O3) within the silica fiber matrix drives both color and optical effect. In hawk's eye (unoxidized form), original crocidolite iron is less altered. Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section. The cat's eye effect has long been associated with the protective gaze of predatory animals. Tiger's eye has been used as a protective talisman against the evil eye in various traditions. vigilance focus predator-awareness grounding Popular ornamental stone for carvings and amulets in 19th and 20th century Used in Victorian jewelry Carved into scarabs, figurines, and decorative objects in South African craft traditions tiger's eye tigers eye chatoyant quartz cat's eye stone fibrous silica hawk's eye golden brown chatoyant chatoyant fibrous pseudomorph silica variety iron-bearing optical-effect south-africa predator-eye desert-vision amber-surveillance geological-watchfulness golden-brown amber-brown yellow-brown"
+}

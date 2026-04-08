@@ -1,0 +1,85 @@
+{
+  "id": "hematite",
+  "display_name": "Hematite",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "ui_color_hint": [
+    "iron-red",
+    "silver-gray",
+    "ochre-brown"
+  ],
+  "baseline_colors": [
+    "red-brown",
+    "black",
+    "silver-gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "earthy-red",
+      "colors": [
+        "red",
+        "red-brown",
+        "orange-red"
+      ],
+      "variety_name": null,
+      "cause": "Fine-grained hematite; surface scattering of light."
+    },
+    {
+      "name": "specular",
+      "colors": [
+        "silver-gray",
+        "black",
+        "mirror-silver"
+      ],
+      "variety_name": "specular-hematite",
+      "cause": "Large platy crystals with near-perfect basal cleavage planes reflecting light."
+    },
+    {
+      "name": "kidney-ore",
+      "colors": [
+        "red-brown",
+        "black"
+      ],
+      "variety_name": "kidney-ore",
+      "cause": "Botryoidal surface morphology; fine-grained interior."
+    },
+    {
+      "name": "iron-rose",
+      "colors": [
+        "silver-gray",
+        "red-brown"
+      ],
+      "variety_name": "iron-rose",
+      "cause": "Penetration twin aggregates forming rosette shapes."
+    }
+  ],
+  "habits": [
+    "tabular",
+    "platy",
+    "botryoidal",
+    "massive",
+    "granular",
+    "oolitic",
+    "rosette",
+    "specular plates"
+  ],
+  "textures": [
+    "metallic-sheen",
+    "mirror-like (specular)",
+    "botryoidal-smooth",
+    "earthy",
+    "crystalline-platy"
+  ],
+  "luster": [
+    "metallic",
+    "earthy"
+  ],
+  "visual_notes": "One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens.",
+  "optical_effects": {
+    "fluorescence": "None.",
+    "iridescence": "Iridescent tarnish colors sometimes visible on specular plates.",
+    "play_of_color": "Iridescent tarnish colors sometimes visible on specular plates.",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

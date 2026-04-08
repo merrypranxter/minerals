@@ -1,0 +1,60 @@
+{
+  "id": "sulfur",
+  "slug": "sulfur",
+  "display_name": "Sulfur",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "sulfur-group",
+  "ima_status": "approved",
+  "formula": "S",
+  "mohs_hardness": "1.5–2.5",
+  "specific_gravity": 2.07,
+  "luster": [
+    "resinous",
+    "waxy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "orthorhombic",
+  "baseline_colors": [
+    "yellow",
+    "pale-yellow",
+    "sulfur-yellow",
+    "orange-yellow",
+    "greenish-yellow"
+  ],
+  "color_profiles_available": [
+    "Volcanic Fumarolic Sulfur",
+    "Sedimentary / Biogenic Sulfur",
+    "Orange-Red Variety"
+  ],
+  "habits": [
+    "bipyramidal crystals",
+    "tabular",
+    "massive",
+    "stalactitic",
+    "encrusting"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "native-element",
+    "nonmetal",
+    "volcanic",
+    "fumarolic",
+    "evaporitic",
+    "orthorhombic",
+    "brimstone",
+    "industrial",
+    "alchemical"
+  ],
+  "priority_score": 78,
+  "ui_color_hint": [
+    "#FDD835",
+    "#F9A825",
+    "#C6A700"
+  ]
+}

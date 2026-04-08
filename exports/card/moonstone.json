@@ -1,0 +1,64 @@
+{
+  "id": "moonstone",
+  "slug": "moonstone",
+  "display_name": "Moonstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "orthoclase",
+  "mineral_group": "feldspar-group",
+  "ima_status": "not_ima",
+  "formula": "KAlSi3O8",
+  "mohs_hardness": "6–6.5",
+  "specific_gravity": "2.56–2.62",
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "monoclinic",
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "pale-gray"
+  ],
+  "color_profiles_available": [
+    "blue-moonstone",
+    "white-moonstone",
+    "peach-moonstone",
+    "rainbow-moonstone",
+    "gray-moonstone",
+    "cat-eye-moonstone"
+  ],
+  "habits": [
+    "massive",
+    "prismatic",
+    "tabular",
+    "anhedral"
+  ],
+  "birthstone_months": [
+    "June birthstone (traditional; along with pearl and alexandrite)",
+    "Modern June birthstone (along with pearl and alexandrite)"
+  ],
+  "tags": [
+    "feldspar",
+    "adularescent",
+    "optical-effect",
+    "variety",
+    "gemstone",
+    "birthstone",
+    "lunar",
+    "june",
+    "high-priority"
+  ],
+  "priority_score": 88,
+  "ui_color_hint": [
+    "blue-white",
+    "pearl",
+    "silver-fog",
+    "peach-blush"
+  ]
+}

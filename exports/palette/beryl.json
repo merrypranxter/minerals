@@ -1,0 +1,103 @@
+{
+  "id": "beryl",
+  "display_name": "Beryl",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "emerald-green",
+    "aqua-blue",
+    "morganite-rose",
+    "heliodor-gold",
+    "clear-white"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "color_profiles": [
+    {
+      "name": "goshenite",
+      "colors": [
+        "colorless",
+        "clear",
+        "white"
+      ],
+      "variety_name": "goshenite",
+      "cause": "Absence of chromophore impurities; near-ideal Be3Al2Si6O18 composition."
+    },
+    {
+      "name": "emerald",
+      "colors": [
+        "vivid-green",
+        "deep-green",
+        "bluish-green"
+      ],
+      "variety_name": "emerald",
+      "cause": "Cr3+ and/or V3+ substituting for Al3+ in the octahedral site."
+    },
+    {
+      "name": "aquamarine",
+      "colors": [
+        "pale-blue",
+        "blue-green",
+        "sky-blue",
+        "sea-blue"
+      ],
+      "variety_name": "aquamarine",
+      "cause": "Fe2+ in channel sites (and Fe2+→Fe3+ charge transfer) produces blue hues."
+    },
+    {
+      "name": "morganite",
+      "colors": [
+        "pink",
+        "peach",
+        "rose",
+        "salmon"
+      ],
+      "variety_name": "morganite",
+      "cause": "Mn2+/Mn3+ substituting in the structure; sometimes Cs-enrichment."
+    },
+    {
+      "name": "heliodor",
+      "colors": [
+        "yellow-green",
+        "golden-yellow",
+        "greenish-yellow"
+      ],
+      "variety_name": "heliodor",
+      "cause": "Fe3+ in channel sites producing yellow; combined Fe2+/Fe3+ gives yellow-green."
+    },
+    {
+      "name": "red-beryl",
+      "colors": [
+        "red",
+        "scarlet",
+        "raspberry"
+      ],
+      "variety_name": "red-beryl",
+      "cause": "Mn3+ substituting for Al3+ in the octahedral site."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "hexagonal-prism",
+    "tabular",
+    "massive"
+  ],
+  "textures": [
+    "glassy",
+    "crystalline",
+    "included (emerald jardin)"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals.",
+  "optical_effects": {
+    "fluorescence": "Weak to none in most varieties; emerald may show weak red fluorescence under LW UV (Cr-bearing); synthetic emerald often stronger red",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Rare cat's-eye beryl known; requires parallel tube inclusions",
+    "asterism": "Six-rayed star beryl extremely rare"
+  }
+}

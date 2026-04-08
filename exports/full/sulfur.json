@@ -1,0 +1,320 @@
+{
+  "id": "sulfur",
+  "slug": "sulfur",
+  "display_name": "Sulfur",
+  "classification": {
+    "chemistry_class": "native-element",
+    "mineral_group": "sulfur-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": []
+  },
+  "identifiers": {
+    "ima_status": "approved",
+    "mindat_id": 3852,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "S",
+    "simplified_formula": "S",
+    "essential_elements": [
+      "S"
+    ],
+    "trace_elements_common": [
+      "Se",
+      "Te",
+      "As"
+    ],
+    "structural_units": [
+      "S8 crown-shaped ring molecules packed in orthorhombic lattice"
+    ],
+    "atomic_structure_notes": "Stable alpha-sulfur consists of S8 ring molecules arranged in an orthorhombic framework. Converts to monoclinic beta-sulfur above 96°C.",
+    "chemistry_notes": "Stable orthorhombic polymorph (alpha-sulfur) at surface conditions. Minor impurities of Se and As contribute to color variation. Strong diagnostic odor when scratched."
+  },
+  "crystallography": {
+    "crystal_system": "orthorhombic",
+    "crystal_class": "dipyramidal (mmm)",
+    "space_group": "Fddd",
+    "unit_cell_notes": "",
+    "twinning": "Contact twins occasionally reported.",
+    "crystallography_notes": "Well-formed bipyramidal crystals common from sedimentary and volcanic deposits. Crystals often striated on prism faces. Converts to monoclinic beta-sulfur above 96°C — handle below this temperature."
+  },
+  "physical_properties": {
+    "mohs_hardness": "1.5–2.5",
+    "specific_gravity": 2.07,
+    "luster": [
+      "resinous",
+      "waxy"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "imperfect on {001}",
+      "imperfect on {110}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Very low melting point (~113°C). Poor thermal conductor — can crack if heated suddenly (thermal shock). Strong diagnostic odor when scratched or struck. Excellent electrical insulator."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "yellow",
+      "pale-yellow",
+      "sulfur-yellow",
+      "orange-yellow",
+      "greenish-yellow"
+    ],
+    "color_profiles": [
+      {
+        "name": "Volcanic Fumarolic Sulfur",
+        "colors": [
+          "bright-yellow",
+          "orange-yellow",
+          "greenish-yellow"
+        ],
+        "cause": "sublimation deposits with minor impurities from volcanic gases",
+        "conditions": "active volcanic fumaroles",
+        "variety_name": null
+      },
+      {
+        "name": "Sedimentary / Biogenic Sulfur",
+        "colors": [
+          "pale-yellow",
+          "yellow-white"
+        ],
+        "cause": "bacterial reduction of sulfates (Desulfovibrio spp.)",
+        "conditions": "cap rock of salt domes, evaporitic sediments",
+        "variety_name": null
+      },
+      {
+        "name": "Orange-Red Variety",
+        "colors": [
+          "orange",
+          "brownish-orange"
+        ],
+        "cause": "arsenic or selenium impurities",
+        "conditions": "specific localities with elevated impurity content",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "bipyramidal crystals",
+      "tabular",
+      "massive",
+      "stalactitic",
+      "encrusting",
+      "striated prismatic"
+    ],
+    "textures": [
+      "glassy resinous surface on crystals",
+      "earthy to powdery in massive form",
+      "conchoidal fracture surface"
+    ],
+    "macro_patterns": [
+      "bipyramidal crystal clusters",
+      "encrusting masses",
+      "stalactitic drapes"
+    ],
+    "common_forms": [
+      "bipyramidal single crystals",
+      "crystal clusters on matrix",
+      "massive granular aggregates",
+      "stalactitic encrustations"
+    ],
+    "visual_notes": "Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "weak yellow-white under UV (some specimens)",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "none",
+    "optical_notes": "Transparent crystals show resinous internal luster. Biaxial positive optical character."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "volcanic (fumarolic sublimation)",
+      "biogenic-sedimentary (bacterial sulfate reduction)",
+      "evaporitic",
+      "hydrothermal (minor)"
+    ],
+    "geologic_environments": [
+      "volcanic crater rims and fumarole fields",
+      "salt dome cap rock (Gulf Coast USA, Poland, Sicily)",
+      "evaporite sequences",
+      "hot spring deposits"
+    ],
+    "host_rocks": [
+      "volcanic tuff and lava",
+      "limestone and dolomite (cap rock)",
+      "gypsum and anhydrite layers",
+      "evaporite sequences"
+    ],
+    "associated_minerals": [
+      "gypsum",
+      "anhydrite",
+      "calcite",
+      "celestine",
+      "barite",
+      "aragonite",
+      "bitumen",
+      "realgar",
+      "orpiment"
+    ],
+    "locality_scope": "worldwide",
+    "notable_localities": [
+      "Agrigento (Girgenti), Sicily, Italy (historically most famous crystals)",
+      "Caltanissetta, Sicily, Italy",
+      "Gulf Coast salt domes, Louisiana and Texas, USA",
+      "Vulcano Island, Aeolian Islands, Italy",
+      "Conil de la Frontera, Spain",
+      "Poás Volcano, Costa Rica",
+      "Kawah Ijen, Java, Indonesia (active artisanal mining)",
+      "White Island (Whakaari), New Zealand"
+    ],
+    "occurrence_notes": "Two principal modes: fumarolic sublimation in volcanic settings and biogenic bacterial reduction of sulfate in evaporitic/salt dome environments. Sicilian sedimentary deposits historically yielded the finest collector crystals."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "gunpowder formulation (sulfur, charcoal, potassium nitrate)",
+      "fumigation and pest control (antiquity to modern)",
+      "sulfuric acid production (Frasch process, contact process)",
+      "rubber vulcanization (19th century, Goodyear)",
+      "fungicides and pesticides",
+      "matches and pyrotechnics",
+      "bleaching of textiles and paper",
+      "wine preservation (sulfur dioxide)"
+    ],
+    "cultural_associations": [
+      "brimstone (biblical term — fire and brimstone)",
+      "hellfire imagery in Christian tradition",
+      "alchemical sulfur as one of three primes (tria prima: sulfur, mercury, salt)",
+      "volcanic deity offerings",
+      "Japanese traditional firework ingredient"
+    ],
+    "symbolism": [
+      "transformation and purification through fire",
+      "volcanic force",
+      "chemical change",
+      "hell and damnation (brimstone)",
+      "sulfurous industry"
+    ],
+    "folklore_notes": "Sulfur (brimstone) is one of the oldest known mineral substances — referenced in ancient Vedic texts, Homeric epics, and the Bible. The biblical 'fire and brimstone' likely references volcanic sulfur. Alchemy designated sulfur as one of the three primes representing the soul. Kawah Ijen, Indonesia, continues artisanal sulfur mining under conditions of extraordinary volcanic intensity — miners carry glowing blue-flaming sulfur on their backs through sulfurous fog."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "volcanic-yellow",
+      "toxic-bloom",
+      "chemical-alchemy",
+      "sulfurous-crater"
+    ],
+    "sensory_keywords": [
+      "rotten-egg sharpness",
+      "waxy tactile surface",
+      "heated rock smell",
+      "acrid volcanic air"
+    ],
+    "palette_keywords": [
+      "sulfur yellow",
+      "volcanic orange",
+      "acid-lake chartreuse",
+      "pale parchment yellow"
+    ],
+    "aesthetic_roles": [
+      "volcanic environment signature",
+      "chemical hazard aesthetic",
+      "alchemical yellow",
+      "natural neon accent"
+    ],
+    "vibe_notes": "Sulfur smells like the beginning and the end of the world. At Kawah Ijen, miners carry glowing blue flames of burning sulfur on their backs in the dark — one of Earth's most alien industrial scenes."
+  },
+  "practical_notes": {
+    "toxicity": "low direct toxicity from mineral contact; sulfur dust is combustible and explosive in air; burning sulfur produces SO2 (severe respiratory irritant and toxic gas); prolonged exposure to SO2/H2S in volcanic environments is dangerous",
+    "handling_notes": "Do not heat specimens — risk of thermal shock cracking and production of toxic SO2 gas. Handle brittle crystals carefully. Avoid creating dust. Store away from heat sources.",
+    "care_notes": "Store away from heat and direct sunlight (above 96°C alters crystal structure to monoclinic). Clean with soft dry brush only — avoid water and acids. Do not steam clean.",
+    "treatments_or_synthetics": [
+      "industrial sulfur produced by Frasch process (hot water injection into underground deposits)",
+      "by-product sulfur recovered from petroleum refining (Claus process)"
+    ],
+    "common_confusions": [
+      "orpiment (arsenic trisulfide — similar yellow, but higher luster, different streak)",
+      "wulfenite (tabular, orange-yellow, but denser and different crystal habits)",
+      "yellow fluorite (harder, cubic, different crystal habit)",
+      "yellow calcite (effervesces in HCl, different crystal habits)"
+    ],
+    "market_notes": "Fine crystallized specimens from Sicily (Agrigento/Caltanissetta) highly prized by collectors. Volcanic specimens from Ijen and Vulcano also collected. Industrial sulfur is a major commodity chemical."
+  },
+  "relationships": {
+    "polymorphs": [
+      "beta-sulfur (monoclinic, metastable above 96°C)",
+      "gamma-sulfur (monoclinic)",
+      "rosickyite"
+    ],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "orpiment",
+      "wulfenite",
+      "yellow fluorite",
+      "yellow calcite"
+    ],
+    "related_species": [
+      "selenium",
+      "tellurium"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "native-element",
+      "nonmetal",
+      "volcanic",
+      "fumarolic",
+      "evaporitic",
+      "orthorhombic",
+      "brimstone",
+      "industrial",
+      "alchemical"
+    ],
+    "search_boost_terms": [
+      "S",
+      "brimstone",
+      "native sulfur",
+      "volcanic sulfur",
+      "sulfur crystals",
+      "sicily sulfur",
+      "ijen sulfur",
+      "fumarole mineral"
+    ],
+    "prompt_fragments": [
+      "vivid sulfur-yellow bipyramidal crystals on white matrix",
+      "volcanic fumarole encrustation in acid yellow and orange",
+      "glowing brimstone — ancient and alien"
+    ],
+    "ui_color_hint": [
+      "#FDD835",
+      "#F9A825",
+      "#C6A700"
+    ],
+    "priority_score": 78
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.88,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-3852.html",
+      "https://www.webmineral.com/data/Sulfur.shtml"
+    ],
+    "notes": ""
+  }
+}

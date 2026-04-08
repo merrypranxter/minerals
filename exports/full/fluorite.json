@@ -1,0 +1,275 @@
+{
+  "id": "fluorite",
+  "slug": "fluorite",
+  "display_name": "Fluorite",
+  "classification": {
+    "chemistry_class": "halide",
+    "mineral_group": "fluorite-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": []
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 1576,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "CaF2",
+    "simplified_formula": "CaF2",
+    "essential_elements": [
+      "Ca",
+      "F"
+    ],
+    "trace_elements_common": [],
+    "structural_units": [
+      "calcium-fluoride lattice"
+    ],
+    "atomic_structure_notes": "Classic fluorite-type structure.",
+    "chemistry_notes": "Major mineral source related to the element fluorine."
+  },
+  "crystallography": {
+    "crystal_system": "isometric",
+    "crystal_class": "",
+    "space_group": "",
+    "unit_cell_notes": "",
+    "twinning": "",
+    "crystallography_notes": "Often strongly associated with cubic / octahedral visual logic."
+  },
+  "physical_properties": {
+    "mohs_hardness": 4,
+    "specific_gravity": null,
+    "luster": [
+      "vitreous",
+      "earthy"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "perfect octahedral"
+    ],
+    "fracture": [],
+    "tenacity": "brittle",
+    "physical_notes": "Softer than many people expect."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "colorless",
+      "purple",
+      "green"
+    ],
+    "color_profiles": [
+      {
+        "name": "purple-spectrum",
+        "colors": [
+          "purple",
+          "lilac",
+          "violet"
+        ],
+        "cause": "Impurity / defect driven coloration.",
+        "conditions": "Common.",
+        "variety_name": null
+      },
+      {
+        "name": "green-spectrum",
+        "colors": [
+          "mint-green",
+          "leaf-green",
+          "deep-green"
+        ],
+        "cause": "Impurity / defect driven coloration.",
+        "conditions": "Common.",
+        "variety_name": null
+      },
+      {
+        "name": "warm-spectrum",
+        "colors": [
+          "golden-yellow",
+          "champagne",
+          "brown",
+          "pink",
+          "red"
+        ],
+        "cause": "Impurity / defect driven coloration.",
+        "conditions": "Less standard but documented.",
+        "variety_name": null
+      },
+      {
+        "name": "dark-spectrum",
+        "colors": [
+          "black"
+        ],
+        "cause": "Rare dark color expression.",
+        "conditions": "Documented.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "cubic",
+      "octahedral",
+      "nodular",
+      "botryoidal",
+      "fibrous",
+      "granular",
+      "massive"
+    ],
+    "textures": [
+      "glassy",
+      "smooth",
+      "translucent",
+      "glowing"
+    ],
+    "macro_patterns": [
+      "color-zoned",
+      "phantom",
+      "banded",
+      "stepped"
+    ],
+    "common_forms": [
+      "cubes",
+      "octahedra",
+      "intergrown cubic clusters",
+      "colorful translucent masses"
+    ],
+    "visual_notes": "One of the best minerals for geometric crystal logic and surreal color zoning."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Often notable; the term fluorescence is historically derived from fluorite.",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "",
+    "optical_notes": "Especially useful in light-reactive or UV-aware datasets."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "hydrothermal",
+      "magmatic",
+      "metamorphic"
+    ],
+    "geologic_environments": [
+      "hydrothermal veins",
+      "lead-zinc vein systems",
+      "greisens",
+      "granites",
+      "pegmatites",
+      "high-temperature veins",
+      "marbles",
+      "metamorphic rocks"
+    ],
+    "host_rocks": [
+      "vein systems",
+      "granite",
+      "marble",
+      "pegmatite"
+    ],
+    "associated_minerals": [
+      "galena",
+      "sphalerite",
+      "quartz",
+      "calcite"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [],
+    "occurrence_notes": "Especially common as a gangue mineral in hydrothermal systems."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [],
+    "cultural_associations": [],
+    "symbolism": [],
+    "folklore_notes": ""
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "neon-cube",
+      "spectral-order",
+      "ultraviolet-dream",
+      "crystalline-candy",
+      "geometric-lucidity"
+    ],
+    "sensory_keywords": [
+      "cool",
+      "bright",
+      "glass-sugar",
+      "soft-glow"
+    ],
+    "palette_keywords": [
+      "electric-violet",
+      "acid-green",
+      "champagne-gold",
+      "ghost-blue"
+    ],
+    "aesthetic_roles": [
+      "geometry crystal",
+      "UV crystal",
+      "color-zoning star",
+      "candy-mineral"
+    ],
+    "vibe_notes": "Great for apps that need cubes, zones, fluorescence, or impossible-looking candy color."
+  },
+  "practical_notes": {
+    "toxicity": "low_to_moderate_context_dependent",
+    "handling_notes": "Cleavage can make clean-looking crystals chip.",
+    "care_notes": "Avoid rough treatment.",
+    "treatments_or_synthetics": [],
+    "common_confusions": [
+      "calcite",
+      "glass",
+      "dyed material"
+    ],
+    "market_notes": "Popular with collectors because the color range is insane."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "calcite",
+      "glass"
+    ],
+    "related_species": []
+  },
+  "app_metadata": {
+    "tags": [
+      "halide",
+      "fluorescent",
+      "cubic",
+      "colorful",
+      "translucent",
+      "high-priority"
+    ],
+    "search_boost_terms": [
+      "cubic colorful mineral",
+      "fluorescent crystal",
+      "purple green crystal",
+      "fluorite cube"
+    ],
+    "prompt_fragments": [
+      "translucent cubic crystal zoning",
+      "acid-violet fluorite geometry",
+      "UV-reactive candy mineral"
+    ],
+    "ui_color_hint": [
+      "purple",
+      "green",
+      "blue"
+    ],
+    "priority_score": 96
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.78,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-1576.html"
+    ],
+    "notes": "Starter example entry."
+  }
+}

@@ -35,7 +35,7 @@ crystallography:
 physical_properties:
   mohs_hardness: "1–2"
   specific_gravity: "2.09–2.23"
-  luster: [metallic, dull, earthy]
+  luster: [metallic, earthy]
   streak: "black to dark gray (greasy)"
   transparency: [opaque]
   cleavage: ["perfect basal {0001}"]

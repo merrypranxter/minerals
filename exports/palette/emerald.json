@@ -1,0 +1,77 @@
+{
+  "id": "emerald",
+  "display_name": "Emerald",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#50C878",
+    "#008000",
+    "#046307"
+  ],
+  "baseline_colors": [
+    "vivid-green",
+    "deep-green",
+    "bluish-green"
+  ],
+  "color_profiles": [
+    {
+      "name": "Colombian Emerald",
+      "colors": [
+        "vivid-green",
+        "pure-green",
+        "slightly bluish-green"
+      ],
+      "variety_name": null,
+      "cause": "Cr3+ dominant chromophore; some V3+. Low Fe keeps color pure without brownish or yellowish cast."
+    },
+    {
+      "name": "Zambian Emerald",
+      "colors": [
+        "deep-green",
+        "slightly bluish-green"
+      ],
+      "variety_name": null,
+      "cause": "Cr3+ + some Fe2+; slightly deeper/darker than Colombian."
+    },
+    {
+      "name": "Brazilian Emerald",
+      "colors": [
+        "medium-green",
+        "yellowish-green"
+      ],
+      "variety_name": null,
+      "cause": "V3+ dominant in some deposits; Fe adds yellowish-green component."
+    },
+    {
+      "name": "Zimbabwe Emerald",
+      "colors": [
+        "vivid-green",
+        "small crystals",
+        "high saturation"
+      ],
+      "variety_name": null,
+      "cause": "High Cr3+ in very small stones from mica schist."
+    }
+  ],
+  "habits": [
+    "prismatic hexagonal",
+    "tabular",
+    "massive"
+  ],
+  "textures": [
+    "glassy",
+    "included (jardin)",
+    "crystal surfaces striated"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone.",
+  "optical_effects": {
+    "fluorescence": "Weak to moderate red fluorescence under LW UV (Cr3+); varies by origin — Colombian often weakly red, synthetic usually stronger red, Fe-rich specimens often inert",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Very rare cat's eye emerald",
+    "asterism": "Extremely rare"
+  }
+}

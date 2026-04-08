@@ -1,0 +1,128 @@
+{
+  "id": "tourmaline",
+  "display_name": "Tourmaline",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "schorl-black",
+    "neon-blue",
+    "rubellite-red",
+    "watermelon-pink-green",
+    "verdelite-green"
+  ],
+  "baseline_colors": [
+    "black",
+    "colorless"
+  ],
+  "color_profiles": [
+    {
+      "name": "schorl",
+      "colors": [
+        "black",
+        "dark-brown",
+        "opaque-black"
+      ],
+      "variety_name": "schorl",
+      "cause": "High Fe2+ and Fe3+ content; Fe2+–Fe3+ intervalence charge transfer."
+    },
+    {
+      "name": "rubellite",
+      "colors": [
+        "red",
+        "hot-pink",
+        "raspberry",
+        "crimson"
+      ],
+      "variety_name": "rubellite",
+      "cause": "Mn2+ and Mn3+ in the Y-site of elbaite."
+    },
+    {
+      "name": "indicolite",
+      "colors": [
+        "blue",
+        "teal",
+        "blue-green",
+        "deep-blue"
+      ],
+      "variety_name": "indicolite",
+      "cause": "Fe2+ and Fe3+ in elbaite (Li-Al-rich end member) producing blue hues."
+    },
+    {
+      "name": "verdelite",
+      "colors": [
+        "green",
+        "leaf-green",
+        "olive-green",
+        "yellow-green"
+      ],
+      "variety_name": "verdelite",
+      "cause": "Fe2+ and mixed Fe2+/Fe3+ in elbaite; Cr3+ in chrome tourmaline (dravite/uvite)."
+    },
+    {
+      "name": "paraiba-tourmaline",
+      "colors": [
+        "neon-blue",
+        "electric-blue",
+        "mint-green",
+        "turquoise"
+      ],
+      "variety_name": "paraiba-tourmaline",
+      "cause": "Cu2+ (and Mn for violet tones) in the Y-site; extremely rare Cu-bearing elbaite."
+    },
+    {
+      "name": "watermelon-tourmaline",
+      "colors": [
+        "pink-core",
+        "green-rim",
+        "white-intermediate"
+      ],
+      "variety_name": "watermelon-tourmaline",
+      "cause": "Growth zoning: Mn-rich (pink) core crystallized before Fe-richer (green) outer zones."
+    },
+    {
+      "name": "dravite",
+      "colors": [
+        "brown",
+        "yellow-brown",
+        "golden-brown",
+        "dark-brown"
+      ],
+      "variety_name": "dravite",
+      "cause": "Mg-dominant Y-site composition; Fe minor."
+    },
+    {
+      "name": "colorless-achroite",
+      "colors": [
+        "colorless",
+        "pale-white"
+      ],
+      "variety_name": "achroite",
+      "cause": "Very low Fe, Mn, and other chromophores in elbaite."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "acicular",
+    "columnar",
+    "striated-prism",
+    "massive",
+    "radial",
+    "drusy"
+  ],
+  "textures": [
+    "striated",
+    "vitreous",
+    "crystalline"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally.",
+  "optical_effects": {
+    "fluorescence": "Generally inert to weak; some pink/red elbaite may show weak orange or red under LW UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Cat's-eye tourmaline known; parallel tube inclusions or growth channels along c-axis",
+    "asterism": "Rare"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "silver",
+  "display_name": "Silver",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#C0C0C0",
+    "#A8A9AD",
+    "#E8E8E8"
+  ],
+  "baseline_colors": [
+    "silver-white",
+    "gray",
+    "tarnished gray-black"
+  ],
+  "color_profiles": [
+    {
+      "name": "Fresh Native Silver",
+      "colors": [
+        "bright-silver-white"
+      ],
+      "variety_name": null,
+      "cause": "reflective metallic surface of unoxidized silver"
+    },
+    {
+      "name": "Tarnished Silver",
+      "colors": [
+        "gray",
+        "black",
+        "iridescent-brown-gray"
+      ],
+      "variety_name": null,
+      "cause": "silver sulfide (acanthite) tarnish layer from H2S exposure"
+    }
+  ],
+  "habits": [
+    "arborescent",
+    "dendritic",
+    "wire",
+    "massive",
+    "scalenohedral crystals (rare)",
+    "cubic crystals (rare)"
+  ],
+  "textures": [
+    "wire-tangled masses",
+    "leaf-like plates",
+    "granular"
+  ],
+  "luster": [
+    "metallic"
+  ],
+  "visual_notes": "Fresh specimens show brilliant silver-white metallic luster. Tarnish develops complex gray-black patinas. Kongsberg wire-silver specimens are among the most celebrated native metal mineral specimens in existence.",
+  "optical_effects": {
+    "fluorescence": "none",
+    "iridescence": "tarnish iridescence common on oxidized surfaces",
+    "play_of_color": "tarnish iridescence common on oxidized surfaces",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

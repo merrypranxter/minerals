@@ -1,0 +1,52 @@
+{
+  "id": "azurite",
+  "display_name": "Azurite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "deep-blue",
+    "azure-blue",
+    "indigo-blue"
+  ],
+  "visual_notes": "Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy.",
+  "prompt_fragments": [
+    "deep azure radiating rosettes on copper-stained gossan matrix",
+    "azurmalachite swirl — blue fire meeting green venom",
+    "medieval painter's pigment ground from vivid copper-heaven blue"
+  ],
+  "mood_keywords": [
+    "copper-heaven",
+    "azurite-depth",
+    "medieval-pigment",
+    "celestial-blue",
+    "oxidized-brilliance"
+  ],
+  "sensory_keywords": [
+    "cold-blue-weight",
+    "velvet-crust",
+    "radiating-cobalt",
+    "deep-cave-blue"
+  ],
+  "palette_keywords": [
+    "royal-azure",
+    "lapis-rival",
+    "midnight-copper-blue",
+    "teal-edge"
+  ],
+  "aesthetic_roles": [
+    "intense-blue accent",
+    "pigment-history reference",
+    "copper-mineral jewel",
+    "deep celestial color anchor"
+  ],
+  "vibe_notes": "Azurite is blue fire from copper chemistry — secondary, unstable, perpetually converting to malachite. The medieval painters who ground it to pigment knew it would fade and green. That fragility is part of its identity.",
+  "symbolism": [
+    "heaven",
+    "insight",
+    "the sky above Egypt",
+    "depth and mystery",
+    "copper-fire blue"
+  ],
+  "folklore_summary": "In medieval Europe, azurite was called 'azzurrum' and was ground to produce blue paint; it was one of the few ways to achieve true blue before synthetic pigments. Many old paintings now show greenish skies where azurite has converted to malachite due to moisture exposure over centuries. Ancient Egyp"
+}

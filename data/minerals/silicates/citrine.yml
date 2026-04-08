@@ -1,0 +1,248 @@
+id: citrine
+slug: citrine
+display_name: Citrine
+
+classification:
+  chemistry_class: silicate
+  mineral_group: silica-group
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - madeira-citrine
+    - ametrine
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 1099
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (with Fe3+ color centers)"
+  simplified_formula: "SiO2:Fe"
+  essential_elements: [Si, O]
+  trace_elements_common: [Fe, Al, Ti]
+  structural_units:
+    - "SiO4 tetrahedra in 3D framework (quartz structure)"
+  atomic_structure_notes: "Trigonal quartz framework. Color from Fe3+ impurities in tetrahedral Al3+ sites — these create color centers absorbing in blue-violet range, transmitting yellow-orange. Natural citrine is uncommon; most commercial 'citrine' is heat-treated amethyst or smoky quartz (Fe4+ color centers destroyed/rearranged by heating)."
+  chemistry_notes: "Natural citrine is rare — far rarer than amethyst. Most commercial citrine is produced by heating amethyst (destroys purple Fe4+ centers, leaving Fe3+ yellow) or smoky quartz. Natural citrine tends to be paler and less saturated than heat-treated material. The famous 'Madeira' deep orange-red citrine is effectively always heat-treated amethyst."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "32 (trapezohedral)"
+  space_group: "P3121 / P3221"
+  unit_cell_notes: ""
+  twinning: "Brazil-law twinning common"
+  crystallography_notes: "Identical structure to all quartz. Prismatic hexagonal crystals. Natural citrine crystals indistinguishable in form from other quartz. Heat-treated material takes the form of whatever starting material (amethyst or smoky quartz) was used."
+
+physical_properties:
+  mohs_hardness: 7
+  specific_gravity: "2.65"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: [none]
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Standard quartz properties. Color stable to heat beyond the temperatures already used in treatment (commercial citrine has already been heated). UV exposure may gradually lighten color. Stable for normal jewelry use."
+
+appearance:
+  baseline_colors:
+    - yellow
+    - golden-yellow
+    - orange-yellow
+  color_profiles:
+    - name: Pale Yellow Citrine
+      colors: [lemon-yellow, pale-yellow, light-golden]
+      cause: "Fe3+ at low concentration; may be natural."
+      conditions: "Natural citrine from pegmatites and hydrothermal veins; also lightly treated."
+      variety_name: null
+    - name: Golden Citrine
+      colors: [golden-yellow, amber-yellow, honey-yellow]
+      cause: "Fe3+ at moderate concentration; most heat-treated amethyst."
+      conditions: "Most common commercial citrine; Brazilian heated material."
+      variety_name: null
+    - name: Madeira Citrine
+      colors: [deep-orange-red, amber-orange, cognac, reddish-orange]
+      cause: "Elevated Fe3+ at high temperature; always heat-treated (amethyst originally)."
+      conditions: "Heat-treated Brazilian amethyst at higher temperatures — named for Madeira wine color."
+      variety_name: madeira-citrine
+    - name: Ametrine
+      colors: [bicolor purple-yellow in same crystal]
+      cause: "Natural zoning in crystal growth; amethyst zones (Fe4+) and citrine zones (Fe3+) coexist."
+      conditions: "Natural: Anahi mine, Bolivia only. Heat-treated bicolor also produced."
+      variety_name: ametrine
+  habits:
+    - prismatic
+    - pyramidal
+    - druse
+    - massive
+  textures:
+    - glassy
+    - vitreous
+    - clear to slightly included
+  macro_patterns:
+    - color zoning (faint in natural; uniform in heat-treated)
+    - hexagonal prism form
+  common_forms:
+    - faceted oval, cushion, round, fancy gems
+    - crystal points and clusters
+    - massive cabs
+  visual_notes: "Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms."
+
+optical_and_special_effects:
+  fluorescence: "None typically"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: "Very weak; uniaxial"
+  optical_notes: "Uniaxial positive. RI = 1.544–1.553. Standard quartz optics. Color stable to light but may fade slightly with prolonged UV in extreme cases."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal
+    - magmatic (pegmatitic)
+    - produced from amethyst by natural geothermal heating
+  geologic_environments:
+    - hydrothermal veins
+    - pegmatites
+    - metamorphic veins
+  host_rocks:
+    - granite
+    - pegmatite
+    - metamorphic rocks
+  associated_minerals:
+    - feldspar
+    - mica
+    - amethyst
+    - smoky quartz
+  locality_scope: worldwide
+  notable_localities:
+    - "Rio Grande do Sul, Brazil (largest producer of heat-treated citrine from amethyst)"
+    - "Minas Gerais, Brazil"
+    - "Salamanca, Spain (some natural citrine)"
+    - "Ural Mountains, Russia"
+    - "Madagascar"
+    - "Scotland (Cairngorm area — natural smoky/citrine)"
+    - "Namibia"
+  occurrence_notes: "Natural citrine is genuinely rare — estimated less than 1% of the commercial market is natural (unheated). Most commercial citrine originates as Brazilian amethyst geode material that is heated. The heat treatment is permanent, stable, and widely accepted in the trade, though disclosure is technically required."
+
+cultural_and_historical:
+  birthstone_status:
+    - "November birthstone (modern — alongside topaz)"
+    - "13th wedding anniversary"
+  zodiac_associations:
+    - "Scorpio (November)"
+    - "Sagittarius"
+    - "Virgo (some traditions)"
+  historical_uses:
+    - "Used as a gem since antiquity (ancient Greek and Roman jewelry)"
+    - "Art Deco jewelry (1920s-30s — large yellow stones fashionable)"
+    - "Victorian jewelry"
+    - "Called 'topaz' historically — much confusion between citrine and topaz in old records"
+  cultural_associations:
+    - "The 'merchant's stone' in modern crystal traditions"
+    - "November birthstone"
+    - "Citrine and topaz long confused — 'Spanish topaz' was often citrine from Brazil"
+    - "Art Deco Hollywood: large yellow/orange gems in bold settings"
+  symbolism:
+    - warmth and sunshine
+    - abundance and prosperity
+    - clarity and positivity
+    - November and autumn
+    - creative energy
+  folklore_notes: "Citrine has been confused with topaz throughout most of gem history — 'Spanish topaz,' 'Brazilian topaz,' and 'Madeira topaz' were all actually citrine. The confusion was only definitively resolved in the early 20th century. In contemporary crystal culture, citrine is heavily associated with prosperity and abundance — 'the merchant's stone.'"
+
+interpretive_vibe:
+  mood_keywords:
+    - autumn-golden
+    - warm-solar-quartz
+    - Madeira-amber
+    - merchant-prosperity
+    - November-warmth
+  sensory_keywords:
+    - warm golden glow
+    - amber-honey color
+    - clear-warm weight
+    - autumn-light
+  palette_keywords:
+    - lemon-yellow
+    - madeira-cognac-orange
+    - golden-amber
+    - honey-warm-quartz
+  aesthetic_roles:
+    - warm yellow gem anchor
+    - Art Deco reference
+    - November birthstone element
+    - solar warmth color
+  vibe_notes: "Citrine is bottled autumn sunlight — the yellow-to-amber warmth of October afternoons in crystalline quartz. Madeira citrine burns like cognac held up to candlelight. The Art Deco period knew what to do with it."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Durable for jewelry. Color stable under normal conditions. Avoid prolonged direct UV in extreme cases."
+  care_notes: "Clean with warm soapy water. Ultrasonic safe. Store away from extreme heat or prolonged sunlight if cautious."
+  treatments_or_synthetics:
+    - "Heat treatment of amethyst or smoky quartz: ubiquitous in commercial market; permanent and stable"
+    - "Synthetic citrine: quartz is commercially synthesized but sold as synthetic/lab"
+  common_confusions:
+    - "Yellow topaz (biaxial; different SG; harder)"
+    - "Yellow beryl / heliodor (harder; different SG)"
+    - "Yellow tourmaline (biaxial; different RI)"
+    - "Golden beryl / heliodor (commonly confused)"
+  market_notes: "Inexpensive and widely available. Large clean faceted stones at low per-carat prices. Madeira-grade (deep orange) most valued. Art Deco pieces featuring large citrine have collector market. November birthstone alternative to topaz."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - yellow-topaz
+    - heliodor
+    - yellow-tourmaline
+    - golden-beryl
+  related_species:
+    - quartz
+    - amethyst
+    - smoky-quartz
+    - rose-quartz
+
+app_metadata:
+  tags:
+    - silicate
+    - variety
+    - quartz
+    - gemstone
+    - yellow
+    - orange
+    - birthstone
+    - november
+    - trigonal
+    - art-deco
+  search_boost_terms:
+    - citrine gemstone
+    - yellow quartz
+    - Madeira citrine
+    - November birthstone
+    - heated amethyst
+    - merchant's stone
+    - Spanish topaz (historical)
+    - golden quartz
+  prompt_fragments:
+    - "Madeira citrine: cognac-amber hexagonal quartz — warm iron-glow"
+    - "golden citrine faceted cushion — Art Deco sunshine in quartz"
+    - "November amber warmth in SiO2 — heated amethyst becomes solar"
+  ui_color_hint:
+    - "#FFC200"
+    - "#FF8C00"
+    - "#FFD700"
+  priority_score: 88
+
+provenance:
+  source_status: draft
+  completeness: 0.89
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1099.html"
+    - "https://www.gia.edu/citrine"
+  notes: "Citrine is a variety of quartz. mindat_id 1099 is the citrine variety listing. Most commercial citrine is heat-treated amethyst."

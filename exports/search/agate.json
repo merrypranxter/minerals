@@ -1,0 +1,63 @@
+{
+  "id": "agate",
+  "slug": "agate",
+  "display_name": "Agate",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "6.5–7",
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "multicolor-banded",
+    "white-gray-banded"
+  ],
+  "genesis": [
+    "hydrothermal",
+    "sedimentary",
+    "low-temperature-silica-gel-precipitation"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "banded",
+    "microcrystalline",
+    "silica",
+    "variety",
+    "patterned",
+    "widespread",
+    "ancient-material",
+    "geologic-record"
+  ],
+  "search_boost_terms": [
+    "agate",
+    "banded chalcedony",
+    "agate nodule",
+    "geode agate",
+    "fortification agate",
+    "blue lace agate",
+    "fire agate",
+    "moss agate"
+  ],
+  "priority_score": 87,
+  "mood_keywords": [
+    "geologic-calendar",
+    "layer-archive",
+    "earth-strata",
+    "terrestrial-pattern"
+  ],
+  "_all_text": "Agate agate SiO2 Compositionally SiO2 with trace impurities. Color banding reflects periodic changes in impurity concentration (Fe, Mn, Al) or microporosity during hydrothermal or silica-gel precipitation. Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls. The name 'agate' is ancient, recorded by Theophrastus around 315 BCE. Believed to protect against storms, calm thirst, and bring luck in Greek and Roman traditions. stability grounding layered-time earth-archive One of the oldest gem materials used by humans; Neolithic agate tools documented Ancient Egyptian amulets and seals Mesopotamian cylinder seals Medieval European gem carving and intaglio Idar-Oberstein, Germany: major agate-cutting industry since the 15th century Brazilian agate exported globally since the 19th century for industry and gems agate banded chalcedony agate nodule geode agate fortification agate blue lace agate fire agate moss agate banded microcrystalline silica variety patterned widespread ancient-material geologic-record geologic-calendar layer-archive earth-strata terrestrial-pattern multicolor-banded white-gray-banded"
+}

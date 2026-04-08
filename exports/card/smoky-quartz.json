@@ -1,0 +1,58 @@
+{
+  "id": "smoky-quartz",
+  "slug": "smoky-quartz",
+  "display_name": "Smoky Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2:Al (irradiated)",
+  "mohs_hardness": 7,
+  "specific_gravity": "2.65",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "gray",
+    "brown-gray",
+    "dark-brown"
+  ],
+  "color_profiles_available": [
+    "Classic Smoky Quartz",
+    "Cairngorm",
+    "Morion"
+  ],
+  "habits": [
+    "prismatic hexagonal",
+    "pyramidal termination",
+    "massive",
+    "tabular (rare)"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "silicate",
+    "variety",
+    "quartz",
+    "gray",
+    "brown",
+    "black",
+    "radiation",
+    "alpine",
+    "trigonal",
+    "grounding"
+  ],
+  "priority_score": 86,
+  "ui_color_hint": [
+    "#6B6B6B",
+    "#4A3728",
+    "#2C2C2C"
+  ]
+}

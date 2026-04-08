@@ -1,0 +1,82 @@
+{
+  "id": "tiger-eye",
+  "display_name": "Tiger's Eye",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "amber-gold",
+    "dark-honey",
+    "burnt-brown",
+    "blue-gray"
+  ],
+  "baseline_colors": [
+    "golden-brown",
+    "amber-brown",
+    "yellow-brown"
+  ],
+  "color_profiles": [
+    {
+      "name": "tiger-eye-classic",
+      "colors": [
+        "golden-yellow",
+        "amber",
+        "rich-brown",
+        "dark-brown"
+      ],
+      "variety_name": "tiger-eye",
+      "cause": "Goethite (iron oxyhydroxide) inclusions within parallel silica fibers, replacing oxidized crocidolite."
+    },
+    {
+      "name": "hawk-eye",
+      "colors": [
+        "blue-gray",
+        "steel-blue",
+        "blue-green"
+      ],
+      "variety_name": "hawk-eye",
+      "cause": "Partial or unoxidized crocidolite fibers preserved or less fully replaced; blue color from original riebeckite amphibole."
+    },
+    {
+      "name": "ox-eye",
+      "colors": [
+        "red-brown",
+        "dark-red",
+        "brick-red"
+      ],
+      "variety_name": "ox-eye",
+      "cause": "Further oxidation of goethite to hematite shifts color toward red-brown."
+    },
+    {
+      "name": "pietersite",
+      "colors": [
+        "swirling blue",
+        "gold",
+        "red; breccia-like patterns"
+      ],
+      "variety_name": "pietersite",
+      "cause": "Brecciated combination of tiger's eye, hawk's eye, and jasper fragments."
+    }
+  ],
+  "habits": [
+    "fibrous",
+    "massive",
+    "veins"
+  ],
+  "textures": [
+    "silky",
+    "fibrous",
+    "oriented",
+    "smooth-when-polished"
+  ],
+  "luster": [
+    "silky"
+  ],
+  "visual_notes": "Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section.",
+  "optical_effects": {
+    "fluorescence": "",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Strong; classic golden-brown cat's eye effect from parallel goethite/iron oxide fibers within the silica matrix. Effect is best in cabochon cut.",
+    "asterism": ""
+  }
+}

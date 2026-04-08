@@ -1,0 +1,70 @@
+{
+  "id": "diamond",
+  "slug": "diamond",
+  "display_name": "Diamond",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "diamond-group",
+  "ima_status": "approved",
+  "formula": "C",
+  "mohs_hardness": 10,
+  "specific_gravity": "3.50–3.53",
+  "luster": [
+    "adamantine",
+    "greasy"
+  ],
+  "streak": "none (too hard to leave a streak)",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "isometric",
+  "baseline_colors": [
+    "colorless",
+    "yellow",
+    "brown",
+    "gray",
+    "black (carbonado)"
+  ],
+  "color_profiles_available": [
+    "Colorless (D–F on GIA scale)",
+    "Cape Yellow / Fancy Yellow",
+    "Brown Diamond",
+    "Blue Diamond",
+    "Pink / Red Diamond",
+    "Green Diamond",
+    "Black Diamond (Carbonado)"
+  ],
+  "habits": [
+    "octahedral (most common)",
+    "cubic",
+    "dodecahedral",
+    "macles (twinned flat triangular crystals)",
+    "rounded and frosted (alluvial)"
+  ],
+  "birthstone_months": [
+    "April birthstone (modern and traditional)",
+    "60th and 75th wedding anniversaries"
+  ],
+  "tags": [
+    "native-element",
+    "nonmetal",
+    "carbon",
+    "gemstone",
+    "birthstone",
+    "isometric",
+    "kimberlite",
+    "mantle",
+    "polymorph-of-graphite",
+    "hardest-mineral",
+    "april"
+  ],
+  "priority_score": 97,
+  "ui_color_hint": [
+    "#F8F8FF",
+    "#E0E8FF",
+    "#B0C4DE"
+  ]
+}

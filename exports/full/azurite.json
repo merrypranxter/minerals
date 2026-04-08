@@ -1,0 +1,310 @@
+{
+  "id": "azurite",
+  "slug": "azurite",
+  "display_name": "Azurite",
+  "classification": {
+    "chemistry_class": "carbonate",
+    "mineral_group": "azurite-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "azurmalachite"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 443,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Cu3(CO3)2(OH)2",
+    "simplified_formula": "Cu3(CO3)2(OH)2",
+    "essential_elements": [
+      "Cu",
+      "C",
+      "O",
+      "H"
+    ],
+    "trace_elements_common": [],
+    "structural_units": [
+      "CO3 planar triangular groups",
+      "CuO4 square planar and CuO6 octahedral units (Jahn-Teller distorted)"
+    ],
+    "atomic_structure_notes": "Monoclinic structure with strongly distorted copper coordination due to Jahn-Teller effect on Cu2+. Two crystallographically distinct Cu sites, each with different geometry. Copper hydroxycarbonate.",
+    "chemistry_notes": "Secondary copper mineral forming in oxidized zones of copper deposits. Chemical partner to malachite Cu2(CO3)(OH)2 — azurite forms where CO2 activity is higher, malachite where H2O activity is higher. Azurite converts to malachite (pseudomorphic replacement) under moist surface conditions over geologic time."
+  },
+  "crystallography": {
+    "crystal_system": "monoclinic",
+    "crystal_class": "2/m prismatic",
+    "space_group": "P21/c",
+    "unit_cell_notes": "a ≈ 5.01 Å, b ≈ 5.85 Å, c ≈ 10.35 Å, β ≈ 92.4°",
+    "twinning": "Uncommon",
+    "crystallography_notes": "Forms tabular, prismatic, or equant crystals with excellent terminations. Also found as radiating aggregates, rosettes, nodular masses, and earthy crusts. Crystal faces often show deep azure-blue color with vitreous to adamantine luster."
+  },
+  "physical_properties": {
+    "mohs_hardness": "3.5–4",
+    "specific_gravity": "3.77–3.89",
+    "luster": [
+      "vitreous",
+      "adamantine"
+    ],
+    "streak": "light-blue",
+    "transparency": [
+      "transparent",
+      "translucent",
+      "opaque"
+    ],
+    "cleavage": [
+      "perfect {011}",
+      "fair {100}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "irregular"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Notably heavy for a non-metallic mineral (SG ~3.8). Perfect cleavage produces clean faces. Individual crystals can be transparent and brilliantly blue. Earthy azurite is much less lustrous."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "deep-blue",
+      "azure-blue",
+      "indigo-blue"
+    ],
+    "color_profiles": [
+      {
+        "name": "Azurite Blue",
+        "colors": [
+          "deep-azure-blue",
+          "royal-blue",
+          "vivid-blue",
+          "indigo"
+        ],
+        "cause": "Cu2+ d-d electronic transition in distorted Jahn-Teller coordination; same chromophore mechanism as other blue copper minerals.",
+        "conditions": "All azurite specimens; color intensity varies with crystal size and purity.",
+        "variety_name": null
+      },
+      {
+        "name": "Azurmalachite",
+        "colors": [
+          "blue-green",
+          "teal",
+          "blue with green swirls"
+        ],
+        "cause": "Intimate intergrowth of azurite (blue) and malachite (green).",
+        "conditions": "Interface zones where azurite is actively converting to malachite.",
+        "variety_name": "azurmalachite"
+      }
+    ],
+    "habits": [
+      "prismatic",
+      "tabular",
+      "equant",
+      "radiating",
+      "botryoidal",
+      "nodular",
+      "earthy",
+      "massive",
+      "rosette",
+      "acicular"
+    ],
+    "textures": [
+      "glassy (crystals)",
+      "earthy (massive)",
+      "velvety (fine-grained aggregates)"
+    ],
+    "macro_patterns": [
+      "radiating rosettes",
+      "nodular blue masses",
+      "azurmalachite swirl patterns",
+      "encrusting blue films"
+    ],
+    "common_forms": [
+      "tabular crystal clusters",
+      "radiating sprays on matrix",
+      "azurmalachite nodules",
+      "earthy blue crusts"
+    ],
+    "visual_notes": "Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "None typical",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "Weak to moderate; crystals may show pale-blue / deep-blue variation",
+    "optical_notes": "Biaxial negative. RI approximately 1.730–1.838. Strongly pleochroic in some orientations."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "secondary (supergene)",
+      "oxidation-zone"
+    ],
+    "geologic_environments": [
+      "oxidized zones of copper sulfide deposits",
+      "cavities and fractures in copper-bearing rocks",
+      "contact zones with carbonate country rocks"
+    ],
+    "host_rocks": [
+      "limestone and dolostone (Cu deposit host)",
+      "sandstone",
+      "oxidized gossan zones"
+    ],
+    "associated_minerals": [
+      "malachite",
+      "chrysocolla",
+      "cuprite",
+      "native copper",
+      "tenorite",
+      "calcite",
+      "limonite",
+      "pseudomalachite"
+    ],
+    "locality_scope": "widespread but deposit-linked",
+    "notable_localities": [
+      "Tsumeb, Namibia (world-class crystals)",
+      "Chessy-les-Mines (Chessy), Lyon, France (type locality for 'chessylite' historic name)",
+      "Bisbee, Cochise County, Arizona, USA (Bisbee Blue — famous specimens)",
+      "Shimen, Hunan, China (large nodular masses)",
+      "Touissit, Morocco",
+      "Broken Hill, New South Wales, Australia",
+      "Siziwang Banner, Inner Mongolia, China (recent fine crystals)"
+    ],
+    "occurrence_notes": "Strictly secondary, forming by oxidation of primary copper sulfides (chalcopyrite, chalcocite, bornite) in the presence of CO2-bearing groundwater. Typically found above the water table in the gossanous oxidized cap of copper deposits. Thermodynamically unstable — converts progressively to malachite with increasing moisture over time."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Pigment (azurite ground to blue pigment — used in Egyptian, Greek, and medieval European painting)",
+      "Substitute for lapis lazuli in medieval manuscripts and panel paintings",
+      "Copper ore (minor; too small quantities)",
+      "Ornamental use in beads and carvings (ancient Egypt, pre-Columbian Americas)",
+      "Blue pigment known as 'mountain blue' (German: Bergblau) in European painting through 17th century"
+    ],
+    "cultural_associations": [
+      "Used alongside lapis lazuli in Egyptian manuscripts and decorations",
+      "Medieval European painters used azurite for blue skies until replaced by smalt and then ultramarine",
+      "The blue in many Renaissance paintings (Vermeer, Van Eyck workshops) is partly azurite that has greened to malachite over centuries",
+      "Aztec and other Mesoamerican cultures used copper minerals as pigments and ornaments"
+    ],
+    "symbolism": [
+      "heaven",
+      "insight",
+      "the sky above Egypt",
+      "depth and mystery",
+      "copper-fire blue"
+    ],
+    "folklore_notes": "In medieval Europe, azurite was called 'azzurrum' and was ground to produce blue paint; it was one of the few ways to achieve true blue before synthetic pigments. Many old paintings now show greenish skies where azurite has converted to malachite due to moisture exposure over centuries. Ancient Egyptians used azurite in ornaments and burial goods alongside lapis lazuli."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "copper-heaven",
+      "azurite-depth",
+      "medieval-pigment",
+      "celestial-blue",
+      "oxidized-brilliance"
+    ],
+    "sensory_keywords": [
+      "cold-blue-weight",
+      "velvet-crust",
+      "radiating-cobalt",
+      "deep-cave-blue"
+    ],
+    "palette_keywords": [
+      "royal-azure",
+      "lapis-rival",
+      "midnight-copper-blue",
+      "teal-edge"
+    ],
+    "aesthetic_roles": [
+      "intense-blue accent",
+      "pigment-history reference",
+      "copper-mineral jewel",
+      "deep celestial color anchor"
+    ],
+    "vibe_notes": "Azurite is blue fire from copper chemistry — secondary, unstable, perpetually converting to malachite. The medieval painters who ground it to pigment knew it would fade and green. That fragility is part of its identity."
+  },
+  "practical_notes": {
+    "toxicity": "Copper-bearing mineral — avoid ingesting powder or dust. Fine dust from cutting or grinding is hazardous. Handle finished specimens normally; wash hands after.",
+    "handling_notes": "Relatively brittle with perfect cleavage — handle crystals gently. Soft matrix specimens may be delicate. Avoid water immersion as it may accelerate conversion to malachite.",
+    "care_notes": "Keep dry; avoid acids (acetic acid in vinegar will dissolve). Do not use ultrasonic cleaners. Dust gently with a soft brush. Avoid high humidity storage.",
+    "treatments_or_synthetics": [
+      "Some azurite specimens stabilized with resin before cutting",
+      "Synthetic azurite exists but rarely in gem market",
+      "Azurmalachite may be resin-stabilized for lapidary use"
+    ],
+    "common_confusions": [
+      "Lapis lazuli (aggregate rock with pyrite; different chemistry; lazurite is the blue mineral)",
+      "Blue chrysocolla (softer, earthy, amorphous)",
+      "Shattuckite (blue copper silicate hydroxide; different structure)",
+      "Cavansite (blue vanadium silicate; different SG and habit)"
+    ],
+    "market_notes": "Premium collector mineral. Fine crystallized specimens from Tsumeb and Bisbee are highly prized. Azurmalachite nodules popular as cabochon material. Earthy specimens affordable; excellent crystals can be expensive. Copper mine source-linked."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [
+      "malachite",
+      "chrysocolla",
+      "cuprite"
+    ],
+    "lookalikes": [
+      "lapis-lazuli",
+      "chrysocolla",
+      "shattuckite",
+      "cavansite"
+    ],
+    "related_species": [
+      "malachite",
+      "chrysocolla",
+      "rosasite",
+      "pseudomalachite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "carbonate",
+      "copper",
+      "secondary",
+      "oxidized-zone",
+      "blue",
+      "pigment-history",
+      "monoclinic",
+      "high-priority"
+    ],
+    "search_boost_terms": [
+      "copper carbonate",
+      "chessylite",
+      "Bisbee blue",
+      "azurite crystal",
+      "azurmalachite",
+      "blue copper mineral",
+      "medieval pigment blue"
+    ],
+    "prompt_fragments": [
+      "deep azure radiating rosettes on copper-stained gossan matrix",
+      "azurmalachite swirl — blue fire meeting green venom",
+      "medieval painter's pigment ground from vivid copper-heaven blue"
+    ],
+    "ui_color_hint": [
+      "#1E5799",
+      "#003399",
+      "#2244AA"
+    ],
+    "priority_score": 90
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.9,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-443.html",
+      "https://www.webmineral.com/data/Azurite.shtml"
+    ],
+    "notes": ""
+  }
+}

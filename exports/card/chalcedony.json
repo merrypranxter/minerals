@@ -1,0 +1,60 @@
+{
+  "id": "chalcedony",
+  "slug": "chalcedony",
+  "display_name": "Chalcedony",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "mohs_hardness": "6.5–7",
+  "specific_gravity": "2.58–2.64",
+  "luster": [
+    "waxy",
+    "earthy",
+    "silky"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-blue"
+  ],
+  "color_profiles_available": [
+    "chalcedony-blue",
+    "carnelian",
+    "chrysoprase",
+    "onyx",
+    "bloodstone"
+  ],
+  "habits": [
+    "massive",
+    "botryoidal",
+    "stalactitic",
+    "nodular",
+    "mammillary"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "microcrystalline",
+    "silica",
+    "waxy",
+    "variety",
+    "widespread",
+    "ancient-material",
+    "translucent"
+  ],
+  "priority_score": 85,
+  "ui_color_hint": [
+    "pale-blue",
+    "gray-white",
+    "warm-orange",
+    "apple-green"
+  ]
+}

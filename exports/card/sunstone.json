@@ -1,0 +1,58 @@
+{
+  "id": "sunstone",
+  "slug": "sunstone",
+  "display_name": "Sunstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "oligoclase",
+  "mineral_group": "feldspar-group",
+  "ima_status": "not_ima",
+  "formula": "Variable by source",
+  "mohs_hardness": "6–6.5",
+  "specific_gravity": "2.62–2.72",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "triclinic",
+  "baseline_colors": [
+    "orange",
+    "golden-yellow",
+    "salmon",
+    "copper-red"
+  ],
+  "color_profiles_available": [
+    "oregon-sunstone-copper",
+    "norway-sunstone",
+    "india-sunstone",
+    "colorless-clear-oregon"
+  ],
+  "habits": [
+    "prismatic",
+    "tabular",
+    "massive",
+    "anhedral"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "feldspar",
+    "aventurescent",
+    "optical-effect",
+    "variety",
+    "gemstone",
+    "copper",
+    "solar",
+    "oregon"
+  ],
+  "priority_score": 82,
+  "ui_color_hint": [
+    "copper-orange",
+    "harvest-gold",
+    "deep-red",
+    "champagne"
+  ]
+}

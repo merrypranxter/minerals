@@ -1,0 +1,251 @@
+id: smoky-quartz
+slug: smoky-quartz
+display_name: Smoky Quartz
+
+classification:
+  chemistry_class: silicate
+  mineral_group: silica-group
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - cairngorm
+    - morion
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 3684
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (with Al3+ + radiation-induced hole color centers)"
+  simplified_formula: "SiO2:Al (irradiated)"
+  essential_elements: [Si, O]
+  trace_elements_common: [Al, Fe, Ti, Na, Li, H]
+  structural_units:
+    - "SiO4 tetrahedra in 3D framework"
+  atomic_structure_notes: "Trigonal quartz framework. Color from Al3+ substituting for Si4+ in tetrahedral sites, combined with natural gamma irradiation creating trapped-hole color centers (Al-O-Al or Al-O-Si electron hole centers). The color is stable at low temperatures but anneals (destroys) at ~300°C — used to produce amethyst or pale quartz from smoky by heating."
+  chemistry_notes: "Color requires both aluminum impurity (very small amount — ~1 ppm Al) AND natural irradiation (alpha or gamma from radioactive minerals in host rock or from cosmic rays). Smoky quartz from granites and pegmatites near radioactive minerals (monazite, zircon, uraninite) is most common. Irradiation of clear quartz containing Al produces artificial smoky quartz (used in industry). 'Morion' is the very darkest, nearly opaque black variety."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "32 (trapezohedral)"
+  space_group: "P3121 / P3221"
+  unit_cell_notes: ""
+  twinning: "Brazil and Dauphiné law twinning common"
+  crystallography_notes: "Identical prismatic hexagonal form to other quartz varieties. Large clear smoky quartz crystals are common — some of the largest quartz crystals known are smoky (multi-kilogram specimens from Alps, Brazil, Colorado). Terminations often complete and well-formed. Phantoms (growth zones) visible in some specimens."
+
+physical_properties:
+  mohs_hardness: 7
+  specific_gravity: "2.65"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage: [none]
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Standard quartz properties. Large transparent crystals common. Color bleaches on heating above ~300°C. Cosmic-ray irradiation can produce smoky color in surface quartz over geologic time — some high-altitude smoky quartz is naturally irradiated by cosmic rays."
+
+appearance:
+  baseline_colors:
+    - gray
+    - brown-gray
+    - dark-brown
+  color_profiles:
+    - name: Classic Smoky Quartz
+      colors: [smoky-gray, gray-brown, taupe, brownish-gray]
+      cause: "Al-hole color centers from moderate irradiation dose."
+      conditions: "Widespread in granites, pegmatites, and alpine veins."
+      variety_name: null
+    - name: Cairngorm
+      colors: [brown-yellow, pale brown, smoky-amber]
+      cause: "Al-hole color centers with slight Fe contribution; lower irradiation dose."
+      conditions: "Cairngorm Mountains, Scotland — traditional Scottish variety."
+      variety_name: cairngorm
+    - name: Morion
+      colors: [near-black, opaque-black, very dark-brown]
+      cause: "Very high irradiation dose; very dense color center population."
+      conditions: "High radiation environments; some Colorado, European specimens."
+      variety_name: morion
+  habits:
+    - prismatic hexagonal
+    - pyramidal termination
+    - massive
+    - tabular (rare)
+  textures:
+    - glassy
+    - vitreous
+    - clear transparent to dense opaque
+  macro_patterns:
+    - phantom zones
+    - clear-to-smoky gradients
+    - hexagonal prism form
+  common_forms:
+    - large prismatic crystals
+    - crystal clusters
+    - faceted gems
+    - spheres and carvings
+  visual_notes: "Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity."
+
+optical_and_special_effects:
+  fluorescence: "None typically"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: "Very weak; uniaxial"
+  optical_notes: "Uniaxial positive. RI = 1.544–1.553. Standard quartz optics. Color anneals at ~300°C."
+
+formation_and_occurrence:
+  genesis:
+    - magmatic (pegmatitic)
+    - hydrothermal (alpine veins)
+    - metamorphic (veins)
+  geologic_environments:
+    - granitic pegmatites
+    - alpine fissure veins (classic occurrence in Alps, Himalayas)
+    - granite cavities
+    - areas with natural radioactivity
+  host_rocks:
+    - granite
+    - pegmatite
+    - alpine metamorphic fissure veins
+    - quartz veins in metamorphic rocks
+  associated_minerals:
+    - feldspar
+    - muscovite
+    - topaz
+    - fluorite
+    - chlorite
+    - albite
+    - adularia
+    - pyrite
+  locality_scope: worldwide
+  notable_localities:
+    - "Pike's Peak and Lake George, Colorado, USA (large dark smoky crystals with amazonite)"
+    - "Swiss Alps (Grimsel, Zermatt — alpine fissure veins)"
+    - "Cairngorm Mountains, Scotland (traditional source)"
+    - "Minas Gerais, Brazil (large commercial specimens)"
+    - "Virgen del Pilar mine, Catamarca, Argentina"
+    - "Ural Mountains, Russia"
+    - "Namibia"
+    - "Pakistan (Gilgit — alpine-style)"
+  occurrence_notes: "Smoky quartz is common worldwide wherever granitic rocks contain trace aluminum (universal) and natural radioactive minerals. Alpine fissure veins in the Swiss and Austrian Alps are famous for large, clear, well-formed smoky crystals deposited by hydrothermal solutions. The Cairngorm Mountains of Scotland historically supplied the Scottish Highland jewelry tradition. Colorado produces spectacular smoky crystals with amazonite feldspar."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Scorpio (some traditions)"
+    - "Capricorn"
+  historical_uses:
+    - "Carved into bowls, figures, and jewelry in Roman and Chinese antiquity"
+    - "Scottish Highland jewelry tradition — cairngorm in kilt pins and brooches"
+    - "Art Deco smoky quartz in bold settings"
+    - "Buddhist meditation beads (China)"
+    - "Inuit and Arctic peoples carved smoky quartz"
+  cultural_associations:
+    - "Scottish national gem tradition — cairngorm in Highland dress"
+    - "Smoky quartz as 'Morion' in medieval European gem records"
+    - "Victorian mourning jewelry used dark stones including morion"
+    - "Japanese tradition: smoky quartz (kurosuishō) as a meditation stone"
+  symbolism:
+    - grounding and protection
+    - shadow and depth
+    - the underworld threshold
+    - smoke and transformation
+    - grounding clarity
+  folklore_notes: "Cairngorm quartz from the Cairngorm Mountains of Scotland is an iconic national gemstone tradition — large brown-gray crystals were set in the handles of Highland dirks, kilt pins, and traditional brooches. Victorian mourning jewelry used dark stones including morion (black smoky quartz) alongside jet. In Celtic tradition, smoky quartz was a stone of the gods of the underworld. Chinese Daoist tradition associated smoky quartz with the yin principle."
+
+interpretive_vibe:
+  mood_keywords:
+    - smoke-and-shadow
+    - alpine-grey-crystal
+    - underworld-threshold
+    - radiation-alchemy
+    - Scottish-moor
+  sensory_keywords:
+    - dark-glass-cool
+    - phantom-depth
+    - heavy-clear-gray
+    - smoke-captured
+  palette_keywords:
+    - smoky-gray-transparent
+    - dark-brown-morion
+    - cairngorm-amber-gray
+    - phantom-clear-to-dark
+  aesthetic_roles:
+    - grounding dark anchor
+    - shadow and depth reference
+    - Scottish Highland material
+    - large-crystal showcase
+  vibe_notes: "Smoky quartz is where quartz goes dark — radiation absorbed in aluminum defects, the landscape of granite made visible in crystal. Phantoms within large stones show the history of growth: clear to smoky to clearer again, time made visible."
+
+practical_notes:
+  toxicity: "Non-toxic. Some radioactive-source material from high-radiation zones may have trace radioactivity but nowhere near hazardous for normal handling."
+  handling_notes: "Durable standard quartz. Color stable in normal use. Avoid heating above 300°C (destroys color). Alpine vein crystals sometimes have delicate terminations worth protecting."
+  care_notes: "Clean with warm soapy water. Ultrasonic safe. Avoid heat."
+  treatments_or_synthetics:
+    - "Irradiation: clear quartz artificially irradiated to produce smoky color — common; disclosed in professional settings"
+    - "Heating: to remove or modify color (yields pale or colorless quartz)"
+    - "Synthetic smoky quartz: produced industrially"
+  common_confusions:
+    - "Brown topaz (harder; biaxial; different SG)"
+    - "Morion vs. black tourmaline (elongated crystals; different habit)"
+    - "Brown fluorite (softer; cubic cleavage)"
+    - "Obsidian (no crystals; lower hardness; different occurrence)"
+  market_notes: "Inexpensive and widely available. Large faceted gems very affordable. Alpine specimens (Swiss, Colorado) command collector premium for quality. Most market material is from Brazil. Dark morion specimens rarer and slightly more prized."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - brown-topaz
+    - brown-fluorite
+    - obsidian
+    - morion-tourmaline
+  related_species:
+    - quartz
+    - amethyst
+    - citrine
+    - rose-quartz
+
+app_metadata:
+  tags:
+    - silicate
+    - variety
+    - quartz
+    - gray
+    - brown
+    - black
+    - radiation
+    - alpine
+    - trigonal
+    - grounding
+  search_boost_terms:
+    - smoky quartz
+    - cairngorm
+    - morion
+    - dark quartz
+    - smoky crystal
+    - Colorado smoky quartz
+    - Swiss alpine quartz
+    - Al radiation color center
+  prompt_fragments:
+    - "large smoky quartz prism — alpine gray crystal from radiation alchemy"
+    - "morion quartz near-black opacity — shadow crystallized"
+    - "phantom smoky quartz: clear-to-dark growth zones visible in transparent gray"
+  ui_color_hint:
+    - "#6B6B6B"
+    - "#4A3728"
+    - "#2C2C2C"
+  priority_score: 86
+
+provenance:
+  source_status: draft
+  completeness: 0.87
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3684.html"
+    - "https://www.gia.edu/smoky-quartz"
+  notes: "Smoky quartz is a variety of quartz. mindat_id 3684 is the smoky quartz variety listing."

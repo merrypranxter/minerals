@@ -29,7 +29,7 @@ chemical_profile:
   chemistry_notes: "The formula is highly variable and debated; Cu content, Al content, and water vary significantly between specimens. The vivid cyan/blue-green color is entirely due to Cu2+. Pure chrysocolla without impurities is relatively soft and light; when intimately intergrown with quartz or chalcedony it forms the harder gem-silica material."
 
 crystallography:
-  crystal_system: monoclinic
+  crystal_system: amorphous
   crystal_class: "effectively amorphous to poorly crystalline"
   space_group: ""
   unit_cell_notes: "Not well defined; essentially amorphous to nanocrystalline"
@@ -39,7 +39,7 @@ crystallography:
 physical_properties:
   mohs_hardness: "2–4"
   specific_gravity: "1.9–2.4"
-  luster: [waxy, earthy, dull, vitreous]
+  luster: [waxy, earthy, vitreous]
   streak: "white to pale blue-green"
   transparency: [translucent, opaque]
   cleavage: []

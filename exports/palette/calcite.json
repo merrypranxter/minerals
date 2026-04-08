@@ -1,0 +1,117 @@
+{
+  "id": "calcite",
+  "display_name": "Calcite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#FFFEF0",
+    "#F5C5B0",
+    "#F0E6CC"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "Colorless / Iceland Spar",
+      "colors": [
+        "colorless",
+        "water-clear"
+      ],
+      "variety_name": "iceland-spar",
+      "cause": "Absence of chromophore impurities; pure CaCO3."
+    },
+    {
+      "name": "White / Chalk / Limestone",
+      "colors": [
+        "white",
+        "cream",
+        "off-white"
+      ],
+      "variety_name": null,
+      "cause": "Microcrystalline or fine-grained aggregate; scattering of light."
+    },
+    {
+      "name": "Mangano-Calcite",
+      "colors": [
+        "pale-pink",
+        "rose-pink",
+        "lavender-pink"
+      ],
+      "variety_name": "mangano-calcite",
+      "cause": "Mn2+ substituting for Ca2+ in the octahedral site."
+    },
+    {
+      "name": "Orange / Amber Calcite",
+      "colors": [
+        "honey-yellow",
+        "orange",
+        "amber"
+      ],
+      "variety_name": null,
+      "cause": "Iron oxides and organic matter inclusions."
+    },
+    {
+      "name": "Green Calcite",
+      "colors": [
+        "pale-green",
+        "celadon-green"
+      ],
+      "variety_name": null,
+      "cause": "Chlorite inclusions or trace impurities."
+    },
+    {
+      "name": "Blue Calcite",
+      "colors": [
+        "sky-blue",
+        "pale-blue"
+      ],
+      "variety_name": null,
+      "cause": "Trace impurities or structural defects; exact mechanism varies."
+    },
+    {
+      "name": "Black Calcite",
+      "colors": [
+        "dark-gray",
+        "black"
+      ],
+      "variety_name": null,
+      "cause": "Organic matter inclusions (bitumen)."
+    }
+  ],
+  "habits": [
+    "scalenohedral (dogtooth)",
+    "rhombohedral (nailhead)",
+    "prismatic",
+    "acicular",
+    "tabular",
+    "massive",
+    "granular",
+    "stalactitic",
+    "botryoidal",
+    "oolitic",
+    "fibrous (satin spar)"
+  ],
+  "textures": [
+    "glassy (single crystals)",
+    "pearly on cleavage faces",
+    "fibrous silky (satin spar)",
+    "granular (marble, limestone)",
+    "chalky"
+  ],
+  "luster": [
+    "vitreous",
+    "pearly",
+    "earthy"
+  ],
+  "visual_notes": "Calcite's extraordinary morphological diversity makes it among the most recognizable minerals despite no single defining habit. Clear Iceland spar shows remarkable double refraction — images appear doubled. Dogtooth clusters are among the most architecturally beautiful mineral specimens.",
+  "optical_effects": {
+    "fluorescence": "Highly variable — many specimens fluoresce red, pink, orange, yellow, or blue under UV; mangano-calcite often fluoresces vivid pink-red under SW UV",
+    "iridescence": "Rare iridescence from thin-film interference in some specimens",
+    "play_of_color": "Rare iridescence from thin-film interference in some specimens",
+    "chatoyancy": "Fibrous satin-spar calcite shows cat's eye effect",
+    "asterism": ""
+  }
+}

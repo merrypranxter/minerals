@@ -1,0 +1,58 @@
+{
+  "id": "malachite",
+  "slug": "malachite",
+  "display_name": "Malachite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "rosasite-group-related",
+  "ima_status": "grandfathered_approved",
+  "formula": "Cu2(CO3)(OH)2",
+  "essential_elements": [
+    "Cu",
+    "C",
+    "O",
+    "H"
+  ],
+  "crystal_system": "monoclinic",
+  "mohs_hardness": null,
+  "luster": [
+    "silky",
+    "vitreous",
+    "earthy"
+  ],
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "green"
+  ],
+  "genesis": [
+    "secondary",
+    "oxidation-zone"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "green",
+    "copper",
+    "banded",
+    "botryoidal",
+    "ornamental",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "banded green mineral",
+    "botryoidal green stone",
+    "copper carbonate mineral"
+  ],
+  "priority_score": 94,
+  "mood_keywords": [
+    "jungle-opulence",
+    "venom-luxury",
+    "antique-magic",
+    "regal-poison",
+    "serpent-ornament"
+  ],
+  "_all_text": "Malachite malachite Cu2(CO3)(OH)2 Secondary copper mineral. One of the strongest 'ornamental pattern' minerals in existence. banded green mineral botryoidal green stone copper carbonate mineral green copper banded botryoidal ornamental high-priority jungle-opulence venom-luxury antique-magic regal-poison serpent-ornament green"
+}
