@@ -1,0 +1,177 @@
+id: nepheline
+slug: nepheline
+display_name: Nepheline
+
+classification:
+  chemistry_class: silicate
+  mineral_group: nepheline-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2880
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Na3K(Al4Si4O16)"
+  simplified_formula: "NaAlSiO4"
+  essential_elements: [Na, K, Al, Si, O]
+  trace_elements_common: [Ca, Fe, Mg, Ti]
+  structural_units:
+    - "AlO4 and SiO4 tetrahedra in 6-membered rings"
+    - "open channels accommodating Na and K"
+  atomic_structure_notes: "Tectosilicate (framework) with stuffed tridymite structure. Large channels in the framework accommodate Na⁺ and K⁺ cations. The Si:Al ratio is 1:1 — strictly ordered Al-Si alternation. This strict ordering prevents coexistence with quartz (which would react with excess Al)."
+  chemistry_notes: "The most abundant feldspathoid mineral. Defines the 'nepheline' norm in igneous petrology. Cannot coexist with quartz (SiO₂) in the same rock. When crushed and treated with acid, it becomes 'greasy' looking (Greek 'nephele' = cloud). Used industrially as a glass and ceramic raw material."
+
+crystallography:
+  crystal_system: hexagonal
+  crystal_class: "ditrigonal pyramidal"
+  space_group: "P63"
+  unit_cell_notes: "a ≈ 9.997 Å, c ≈ 8.385 Å"
+  twinning: "Uncommon."
+  crystallography_notes: "Forms short prismatic hexagonal crystals. More commonly massive, granular, or as irregular grains in rock. Well-formed crystals are less common."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.55–2.66"
+  luster: [vitreous, greasy]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage:
+    - "poor {1010}"
+    - "poor {0001}"
+  fracture: [subconchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Greasy luster on weathered surfaces (diagnostic). Often colorless or gray. HCl test: dissolves and leaves gelatinous silica — helpful identification test."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - gray
+    - pale-yellowish
+  color_profiles:
+    - name: white-gray
+      colors: [white, gray, colorless, pale-yellow]
+      cause: "No significant chromophore; colorless to gray depending on purity."
+      conditions: "Most nepheline in igneous rocks."
+      variety_name: null
+  habits:
+    - prismatic
+    - massive
+    - granular
+    - anhedral grains
+  textures:
+    - greasy on weathered surface
+    - vitreous fresh
+    - granular
+  macro_patterns:
+    - gray or white masses in nepheline syenite
+    - anhedral grains with greasy surfaces
+  common_forms:
+    - massive in nepheline syenite
+    - granular in alkaline igneous rocks
+    - rarely well-formed crystals
+  visual_notes: "Nepheline is not visually spectacular — it is a gray or white rock-forming mineral known primarily by its greasy luster and geological role. In certain nepheline syenite rocks, it creates a pale bluish-gray groundmass. Not a primary collector specimen mineral but essential context for the feldspathoid suite."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "variable; sometimes orange"
+    longwave_uv: "variable"
+    fluorescence_color: variable
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+
+formation_and_occurrence:
+  genesis:
+    - igneous (nepheline syenite, phonolite, tephrite)
+    - metasomatic
+  geologic_environments:
+    - nepheline syenite
+    - phonolite
+    - alkaline basalt
+    - ijolite
+    - carbonatite-related rocks
+  associated_minerals:
+    - sodalite
+    - cancrinite
+    - orthoclase
+    - albite
+    - pyroxene
+    - amphibole
+    - titanite
+  locality_scope: worldwide
+  notable_localities:
+    - "Khibiny, Kola Peninsula, Russia (enormous deposits)"
+    - "Bancroft, Ontario, Canada"
+    - "Elba, Italy"
+    - "Mount Vesuvius, Italy"
+    - "Ice River, British Columbia, Canada"
+    - "Litchfield, Maine, USA"
+  occurrence_notes: "Rock-forming mineral in silica-undersaturated alkaline igneous rocks. The Kola Peninsula, Russia hosts some of the world's largest nepheline deposits, used industrially as a substitute for feldspar in glass and ceramics."
+
+cultural_and_historical:
+  historical_uses:
+    - "Industrial use: glass, ceramics, and alumina production."
+    - "Named from Greek 'nephele' (cloud) for its greasy/cloudy appearance in acid test."
+  folklore_notes: "Nepheline has no ornamental or cultural history. Primarily industrial and petrological importance."
+
+interpretive_vibe:
+  mood_keywords:
+    - rock-foundation
+    - alkaline-gray
+    - feldspathoid-standard
+    - industrial-mineral
+  palette_keywords:
+    - pale-gray
+    - white
+    - colorless
+  vibe_notes: "Nepheline is the invisible workhorse of the feldspathoid world — abundant, essential, and visually unremarkable."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Handle normally."
+  care_notes: "Standard."
+  common_confusions:
+    - "Feldspar (harder; different acid response — feldspar does not produce gelatinous SiO₂ in HCl as dramatically)"
+    - "Sodalite (usually more vivid blue)"
+  market_notes: "Not a commonly sold collector mineral. Nepheline syenite rock specimens are widely available."
+
+relationships:
+  polymorphs: [carnegieite]
+  lookalikes:
+    - feldspar
+    - sodalite
+  related_species:
+    - sodalite
+    - leucite
+    - cancrinite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - feldspathoid
+    - gray
+    - igneous
+    - hexagonal
+    - industrial
+  prompt_fragments:
+    - "gray greasy nepheline in nepheline syenite"
+    - "colorless hexagonal nepheline prism in alkaline rock"
+  ui_color_hint:
+    - "#D0D0C0"
+    - "#B8B8A8"
+  priority_score: 65
+
+provenance:
+  source_status: draft
+  completeness: 0.76
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2880.html"
+  notes: ""
