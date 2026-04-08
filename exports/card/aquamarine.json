@@ -1,0 +1,61 @@
+{
+  "id": "aquamarine",
+  "slug": "aquamarine",
+  "display_name": "Aquamarine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "mineral_group": "beryl-group",
+  "ima_status": "not_ima",
+  "formula": "Be3Al2Si6O18:Fe",
+  "mohs_hardness": "7.5–8",
+  "specific_gravity": "2.63–2.80",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "hexagonal",
+  "baseline_colors": [
+    "pale-blue",
+    "blue-green",
+    "blue"
+  ],
+  "color_profiles_available": [
+    "Santa Maria Aquamarine",
+    "Classic Aquamarine (Pale Blue)",
+    "Blue-Green Aquamarine",
+    "Maxixe (Deep Blue — Unstable)"
+  ],
+  "habits": [
+    "prismatic hexagonal",
+    "tabular",
+    "massive"
+  ],
+  "birthstone_months": [
+    "March birthstone (modern)",
+    "19th wedding anniversary"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "beryl",
+    "gemstone",
+    "blue",
+    "birthstone",
+    "march",
+    "hexagonal",
+    "beryllium",
+    "sea",
+    "high-priority"
+  ],
+  "priority_score": 92,
+  "ui_color_hint": [
+    "#7FFFD4",
+    "#00BFFF",
+    "#4FC3F7"
+  ]
+}

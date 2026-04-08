@@ -1,0 +1,332 @@
+{
+  "id": "aquamarine",
+  "slug": "aquamarine",
+  "display_name": "Aquamarine",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "beryl-group",
+    "species_status": "variety",
+    "parent_species": "beryl",
+    "related_varieties": [
+      "maxixe"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 421,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Be3Al2Si6O18 (with Fe2+/Fe3+)",
+    "simplified_formula": "Be3Al2Si6O18:Fe",
+    "essential_elements": [
+      "Be",
+      "Al",
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Na",
+      "Cs",
+      "Li"
+    ],
+    "structural_units": [
+      "Si6O18 six-membered cyclosilicate rings",
+      "BeO4 tetrahedra",
+      "AlO6 octahedra"
+    ],
+    "atomic_structure_notes": "Cyclosilicate structure identical to all beryl. Fe2+ in channel sites (L sites) primarily responsible for blue color; Fe2+/Fe3+ charge transfer also contributes. Heated stones have Fe3+ reduced to Fe2+, producing cleaner blue.",
+    "chemistry_notes": "Blue color from Fe2+ ions in the structural channel sites. Unheated aquamarine often has a greenish tint from Fe3+ mixing with Fe2+ — heat treatment converts Fe3+ to Fe2+, producing a purer blue. Deep pure-blue specimens (Santa Maria) are most valued. The deepest-blue 'Santa Maria' color (from Santa Maria de Itabira, Brazil) is a benchmark color grade."
+  },
+  "crystallography": {
+    "crystal_system": "hexagonal",
+    "crystal_class": "6/mmm (dihexagonal dipyramidal)",
+    "space_group": "P6/mcc",
+    "unit_cell_notes": "a ≈ 9.21 Å, c ≈ 9.19 Å",
+    "twinning": "Rare",
+    "crystallography_notes": "Well-developed hexagonal prisms, often long, with flat basal terminations. Crystals commonly striated parallel to c-axis. Aquamarine can form spectacular large crystals in pegmatites — gem-quality crystals of many kilograms are known (Dom Pedro, 26 kg, carved obelisk in Smithsonian)."
+  },
+  "physical_properties": {
+    "mohs_hardness": "7.5–8",
+    "specific_gravity": "2.63–2.80",
+    "luster": [
+      "vitreous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "imperfect basal {0001}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Good hardness and durability for jewelry use. Typically cleaner (fewer inclusions) than emerald. Large clean crystals are relatively common in pegmatites. Heat treatment (producing or deepening blue from greenish stones) is standard and undisclosed in trade."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "pale-blue",
+      "blue-green",
+      "blue"
+    ],
+    "color_profiles": [
+      {
+        "name": "Santa Maria Aquamarine",
+        "colors": [
+          "deep-blue",
+          "vivid-blue",
+          "saturated medium-blue"
+        ],
+        "cause": "Higher Fe2+ content; optimum Fe2+/Fe3+ ratio for deepest blue.",
+        "conditions": "Santa Maria de Itabira, Minas Gerais, Brazil — benchmark color grade; also applied to matching stones from other origins.",
+        "variety_name": null
+      },
+      {
+        "name": "Classic Aquamarine (Pale Blue)",
+        "colors": [
+          "pale-blue",
+          "sky-blue",
+          "light-blue"
+        ],
+        "cause": "Fe2+ at moderate concentration.",
+        "conditions": "Most aquamarine on market; widespread.",
+        "variety_name": null
+      },
+      {
+        "name": "Blue-Green Aquamarine",
+        "colors": [
+          "blue-green",
+          "sea-green-blue",
+          "teal-blue"
+        ],
+        "cause": "Mixed Fe2+ (blue) and Fe3+ (yellowish) contributions.",
+        "conditions": "Unheated material; common in rough form; converted to pure blue by heat treatment.",
+        "variety_name": null
+      },
+      {
+        "name": "Maxixe (Deep Blue — Unstable)",
+        "colors": [
+          "deep-blue",
+          "intense-blue"
+        ],
+        "cause": "Color centers from natural irradiation (not Fe); color fades in light",
+        "conditions": "Maxixe mine, Minas Gerais; also irradiated-treated material sold as maxixe-type",
+        "variety_name": "maxixe"
+      }
+    ],
+    "habits": [
+      "prismatic hexagonal",
+      "tabular",
+      "massive"
+    ],
+    "textures": [
+      "glassy",
+      "clear to slightly included",
+      "striated prismatic faces"
+    ],
+    "macro_patterns": [
+      "long prismatic form",
+      "color zoning (rare)",
+      "clear vitreous interior"
+    ],
+    "common_forms": [
+      "long hexagonal prism crystals",
+      "faceted oval, emerald-cut, cushion gems",
+      "large carved objects"
+    ],
+    "visual_notes": "Aquamarine is the sea captured in hexagonal beryl — pale to deep blue with the clarity of tropical water. The Dom Pedro aquamarine (Smithsonian, carved by Bernd Munsteiner) is the largest faceted aquamarine in the world (10,363 ct). Long prismatic crystal form with striated faces is characteristic of large rough specimens."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "None typically",
+    "phosphorescence": "",
+    "chatoyancy": "Very rare cat's eye aquamarine",
+    "asterism": "Extremely rare",
+    "iridescence": "",
+    "pleochroism": "Dichroic: pale-blue or near-colorless / blue (moderate); orientation critical for color in faceting",
+    "optical_notes": "Uniaxial negative. RI approximately 1.567–1.590. Birefringence ~0.005–0.009. Lower RI than most colored gemstones. Characteristically clean — few inclusions compared to emerald."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic (pegmatitic)",
+      "hydrothermal",
+      "metamorphic"
+    ],
+    "geologic_environments": [
+      "granitic pegmatites (primary source)",
+      "high-temperature hydrothermal veins",
+      "alluvial placers (secondary)"
+    ],
+    "host_rocks": [
+      "pegmatite",
+      "granite",
+      "alluvial gravel"
+    ],
+    "associated_minerals": [
+      "feldspar",
+      "quartz",
+      "muscovite",
+      "tourmaline",
+      "topaz",
+      "lepidolite",
+      "columbite-tantalite"
+    ],
+    "locality_scope": "uncommon",
+    "notable_localities": [
+      "Santa Maria de Itabira, Minas Gerais, Brazil (benchmark deep-blue — largely depleted)",
+      "Marambaia and Nova Era, Minas Gerais, Brazil (major production)",
+      "Erongo, Namibia (fine crystals)",
+      "Nagar, Gilgit-Baltistan, Pakistan (excellent crystals)",
+      "Shigar, Gilgit-Baltistan, Pakistan",
+      "Mount Antero, Colorado, USA",
+      "Volhynia, Ukraine",
+      "Madagascar (Ilakaka area)",
+      "Mozambique",
+      "Tajikistan"
+    ],
+    "occurrence_notes": "Aquamarine is the most widely distributed beryl variety — found in granitic pegmatites worldwide. Brazil is the dominant commercial producer. Large single crystals are more common in aquamarine than in any other beryl variety, as aquamarine grows in Be-rich pegmatite environments with fewer inclusions. Heat treatment to remove greenish tint is standard and universally accepted in the trade."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "March birthstone (modern)",
+      "19th wedding anniversary"
+    ],
+    "zodiac_associations": [
+      "Pisces (March)",
+      "Scorpio (some traditions)",
+      "Aries"
+    ],
+    "historical_uses": [
+      "Sailor's talisman for protection at sea — Roman and Greek traditions",
+      "Glasses / magnifying lenses (beryl lenses used in medieval Europe)",
+      "Jewelry since antiquity",
+      "Carving and decorative arts (large crystals)"
+    ],
+    "cultural_associations": [
+      "Sailor's gemstone — believed to calm seas and protect against drowning",
+      "Mermaid's treasure in folklore",
+      "Roman belief: aquamarine from the sea-god's treasury",
+      "German word for spectacles ('Brille') possibly derived from 'Beryll'",
+      "Victorian revival as a fashion gem"
+    ],
+    "symbolism": [
+      "the sea",
+      "safe voyages",
+      "clarity and calm",
+      "communication and truth",
+      "March and early spring"
+    ],
+    "folklore_notes": "Ancient mariners believed aquamarine was the sacred gemstone of mermaids, cast up from the sea floor. Carrying aquamarine on a sea voyage was thought to bring calm seas, prevent seasickness, and protect against drowning. In Roman tradition it was sacred to Neptune. The association with water, clarity, and truth persists in contemporary use. The 'Dom Pedro Aquamarine' (Smithsonian's National Gem Collection) — a 10,363 ct carved obelisk — is the largest faceted aquamarine in the world."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "sea-glass-clarity",
+      "tropical-water-blue",
+      "sailor-talisman",
+      "iron-sky-light",
+      "clear-ocean-prism"
+    ],
+    "sensory_keywords": [
+      "cool sea-blue",
+      "clear transparent weight",
+      "calm and steady",
+      "water-held-in-crystal"
+    ],
+    "palette_keywords": [
+      "Santa-Maria-blue",
+      "pale-sky-aqua",
+      "sea-glass-teal",
+      "tropical-water-blue"
+    ],
+    "aesthetic_roles": [
+      "sea-color anchor",
+      "March gem reference",
+      "clarity and calm metaphor",
+      "large-crystal showcase"
+    ],
+    "vibe_notes": "Aquamarine is the color of shallow tropical sea over white sand — pale to deep blue-green, vitreous clear, the hexagonal form of ocean. The Dom Pedro obelisk in the Smithsonian is an 18-inch tower of the stuff. Sailors carried it for calm and protection. It still has that quality: cool, honest, clarifying."
+  },
+  "practical_notes": {
+    "toxicity": "Beryllium-bearing; dust from grinding hazardous. Finished gems safe.",
+    "handling_notes": "Relatively durable and clean — good for jewelry. Less included than emerald. Heat treatment is standard and accepted.",
+    "care_notes": "Clean with warm soapy water. Ultrasonic generally safe (no fractures to fill). Avoid strong acids and physical impact.",
+    "treatments_or_synthetics": [
+      "Heat treatment: standard and universally accepted; converts blue-green to pure blue",
+      "Irradiation (maxixe type): unstable; color fades in light — not standard",
+      "Synthetic aquamarine: uncommon commercially; identified by inclusions"
+    ],
+    "common_confusions": [
+      "Blue topaz (biaxial; different SG and RI; no pleochroism in same way)",
+      "Blue glass (inclusions, bubbles; different properties)",
+      "Sapphire (harder; higher SG; uniaxial)",
+      "Tanzanite (trichroic; much softer; different color profile)"
+    ],
+    "market_notes": "Most affordable of the major colored gemstones. Santa Maria deep-blue is most valued but largely depleted at source. Large clean crystals command premium. Treatment (heat) universal and accepted. Wide commercial availability worldwide."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "blue-topaz",
+      "blue-glass",
+      "sapphire",
+      "tanzanite"
+    ],
+    "related_species": [
+      "beryl",
+      "emerald",
+      "morganite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "silicate",
+      "variety",
+      "beryl",
+      "gemstone",
+      "blue",
+      "birthstone",
+      "march",
+      "hexagonal",
+      "beryllium",
+      "sea",
+      "high-priority"
+    ],
+    "search_boost_terms": [
+      "aquamarine gemstone",
+      "Santa Maria aquamarine",
+      "blue beryl",
+      "March birthstone",
+      "sailor gemstone",
+      "Dom Pedro aquamarine",
+      "Be3Al2Si6O18 iron"
+    ],
+    "prompt_fragments": [
+      "aquamarine hexagonal prism — tropical sea-blue iron beryl from Brazil",
+      "Santa Maria deep-blue: compressed Atlantic light in beryllium silicate",
+      "sailor's gemstone — blue water clarity in Mohs-8 crystal"
+    ],
+    "ui_color_hint": [
+      "#7FFFD4",
+      "#00BFFF",
+      "#4FC3F7"
+    ],
+    "priority_score": 92
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.9,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-421.html",
+      "https://www.gia.edu/aquamarine"
+    ],
+    "notes": "Aquamarine is a variety of beryl. mindat_id 421 is the aquamarine variety listing."
+  }
+}

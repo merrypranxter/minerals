@@ -40,7 +40,7 @@ crystallography:
 physical_properties:
   mohs_hardness: "5.5–6.5"
   specific_gravity: "4.9–5.3"
-  luster: [metallic, dull, earthy]
+  luster: [metallic, earthy]
   streak: "red to red-brown (diagnostic)"
   transparency: [opaque]
   cleavage: ["none; parting on {0001} and {10-11}"]

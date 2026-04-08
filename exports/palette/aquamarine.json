@@ -1,0 +1,78 @@
+{
+  "id": "aquamarine",
+  "display_name": "Aquamarine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#7FFFD4",
+    "#00BFFF",
+    "#4FC3F7"
+  ],
+  "baseline_colors": [
+    "pale-blue",
+    "blue-green",
+    "blue"
+  ],
+  "color_profiles": [
+    {
+      "name": "Santa Maria Aquamarine",
+      "colors": [
+        "deep-blue",
+        "vivid-blue",
+        "saturated medium-blue"
+      ],
+      "variety_name": null,
+      "cause": "Higher Fe2+ content; optimum Fe2+/Fe3+ ratio for deepest blue."
+    },
+    {
+      "name": "Classic Aquamarine (Pale Blue)",
+      "colors": [
+        "pale-blue",
+        "sky-blue",
+        "light-blue"
+      ],
+      "variety_name": null,
+      "cause": "Fe2+ at moderate concentration."
+    },
+    {
+      "name": "Blue-Green Aquamarine",
+      "colors": [
+        "blue-green",
+        "sea-green-blue",
+        "teal-blue"
+      ],
+      "variety_name": null,
+      "cause": "Mixed Fe2+ (blue) and Fe3+ (yellowish) contributions."
+    },
+    {
+      "name": "Maxixe (Deep Blue — Unstable)",
+      "colors": [
+        "deep-blue",
+        "intense-blue"
+      ],
+      "variety_name": "maxixe",
+      "cause": "Color centers from natural irradiation (not Fe); color fades in light"
+    }
+  ],
+  "habits": [
+    "prismatic hexagonal",
+    "tabular",
+    "massive"
+  ],
+  "textures": [
+    "glassy",
+    "clear to slightly included",
+    "striated prismatic faces"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Aquamarine is the sea captured in hexagonal beryl — pale to deep blue with the clarity of tropical water. The Dom Pedro aquamarine (Smithsonian, carved by Bernd Munsteiner) is the largest faceted aquamarine in the world (10,363 ct). Long prismatic crystal form with striated faces is characteristic of large rough specimens.",
+  "optical_effects": {
+    "fluorescence": "None typically",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Very rare cat's eye aquamarine",
+    "asterism": "Extremely rare"
+  }
+}

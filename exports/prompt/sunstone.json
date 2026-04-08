@@ -1,0 +1,53 @@
+{
+  "id": "sunstone",
+  "display_name": "Sunstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "oligoclase",
+  "baseline_colors": [
+    "orange",
+    "golden-yellow",
+    "salmon",
+    "copper-red"
+  ],
+  "visual_notes": "Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality.",
+  "prompt_fragments": [
+    "warm copper-orange metallic glitter in transparent feldspar",
+    "solar fragment scattered-light aventurescence",
+    "Oregon native copper feldspar with deep bicolor red-green pleochroism"
+  ],
+  "mood_keywords": [
+    "solar-fragment",
+    "copper-harvest",
+    "warm-metallic-scatter",
+    "autumn-mineral"
+  ],
+  "sensory_keywords": [
+    "sparkling",
+    "warm",
+    "metallic",
+    "glittering",
+    "saturated"
+  ],
+  "palette_keywords": [
+    "copper-orange",
+    "deep-harvest-red",
+    "champagne-gold",
+    "warm-metallic",
+    "autumn-sunset"
+  ],
+  "aesthetic_roles": [
+    "solar mineral",
+    "warm metallic accent stone",
+    "copper-fire gemstone",
+    "autumn-palette anchor"
+  ],
+  "vibe_notes": "Sunstone has a grounded, warm, solar quality that contrasts with the cool lunar depth of moonstone. The aventurescent glitter reads as scattered light, like sunlight on moving water or the scatter of a copper fire. Oregon sunstone, with its native copper and rich saturated color, is among the most texturally and chromatically complex feldspars.",
+  "symbolism": [
+    "solar-energy",
+    "vitality",
+    "warmth",
+    "abundance"
+  ],
+  "folklore_summary": "The term 'sólarsteinn' (sunstone) from Norse sagas refers to a navigational crystal, which has generated scholarly debate. Most evidence points to calcite (Iceland spar) or cordierite as the actual navigational stone, not feldspar sunstone — the overlap of the trade name with the saga reference is a"
+}

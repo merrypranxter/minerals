@@ -1,0 +1,54 @@
+{
+  "id": "diamond",
+  "display_name": "Diamond",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "colorless",
+    "yellow",
+    "brown",
+    "gray",
+    "black (carbonado)"
+  ],
+  "visual_notes": "Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite.",
+  "prompt_fragments": [
+    "octahedral rough diamond with adamantine luster and trigon etch pits",
+    "prism-clear light prison — cold fire and spectral flashes",
+    "kimberlite blue ground yielding crystallographic perfection"
+  ],
+  "mood_keywords": [
+    "supreme-hardness",
+    "light-prison",
+    "crystallographic-perfection",
+    "cold-fire"
+  ],
+  "sensory_keywords": [
+    "ice-cold to touch (extreme thermal conductivity)",
+    "scintillating light scatter",
+    "razor-sharp geometry",
+    "silent brilliance"
+  ],
+  "palette_keywords": [
+    "prism-white",
+    "adamantine clarity",
+    "spectral fire",
+    "void-clarity"
+  ],
+  "aesthetic_roles": [
+    "ultimate light-play gemstone",
+    "perfection archetype",
+    "cold luxury anchor",
+    "rainbow dispersion element"
+  ],
+  "vibe_notes": "Diamond is crystallographic perfection distilled from the Earth's mantle. It holds light like a prison — refracting, dispersing, returning it transformed. The hardest thing on Earth, yet cleavable with a single skilled blow.",
+  "symbolism": [
+    "eternal love and commitment",
+    "invincibility and strength (Sanskrit: vajra)",
+    "clarity and truth",
+    "wealth and status",
+    "perfection and completeness",
+    "April's promise"
+  ],
+  "folklore_summary": "Diamond's name comes from Greek 'adamas' (unconquerable). Ancient Indians recognized diamond's hardness millennia before European contact. Hindu mythology associates vajra (diamond thunderbolt) with Indra's weapon. Medieval Europeans believed diamonds were tears of gods or splinters of stars. The De"
+}

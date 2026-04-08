@@ -1,0 +1,86 @@
+{
+  "id": "obsidian",
+  "display_name": "Obsidian",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "ui_color_hint": [
+    "#0D0D0D",
+    "#1A1A2E",
+    "#4A3728"
+  ],
+  "baseline_colors": [
+    "black",
+    "dark-brown"
+  ],
+  "color_profiles": [
+    {
+      "name": "Classic Black Obsidian",
+      "colors": [
+        "jet-black",
+        "deep-black",
+        "dark-gray"
+      ],
+      "variety_name": null,
+      "cause": "Iron and titanium oxides (magnetite) distributed throughout glass matrix."
+    },
+    {
+      "name": "Rainbow Obsidian",
+      "colors": [
+        "black with rainbow iridescence bands — green",
+        "blue",
+        "purple",
+        "gold"
+      ],
+      "variety_name": "rainbow-obsidian",
+      "cause": "Thin layers of oriented magnetite nanoparticles creating thin-film interference."
+    },
+    {
+      "name": "Snowflake Obsidian",
+      "colors": [
+        "black with white/gray snowflake patterns"
+      ],
+      "variety_name": "snowflake-obsidian",
+      "cause": "Devitrification spherulites of cristobalite (silica) and feldspar crystallizing post-emplacement."
+    },
+    {
+      "name": "Mahogany Obsidian",
+      "colors": [
+        "black and reddish-brown banding"
+      ],
+      "variety_name": "mahogany-obsidian",
+      "cause": "Iron oxide-rich zones (hematite/goethite) banding through black glass."
+    },
+    {
+      "name": "Apache Tears",
+      "colors": [
+        "black to dark gray",
+        "translucent when held to light"
+      ],
+      "variety_name": "apache-tears",
+      "cause": "Small rounded nodules of obsidian that weather from perlite matrix; translucent in thin section."
+    }
+  ],
+  "habits": [
+    "massive (flows)",
+    "nodular (Apache tears within perlite)",
+    "botryoidal (rare)",
+    "conchoidal fracture surfaces"
+  ],
+  "textures": [
+    "glassy smooth",
+    "conchoidal fracture ridges",
+    "vitreous luster",
+    "snowflake devitrification patterns"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Obsidian is pure volcanic glass — the most visually simple and the most dramatically effective black mineral material. Its jet-black vitreous surface reflects light cleanly. Rainbow varieties produce full spectral color from thin-film magnetite layers. Apache tears appear opaque but transmit brownish light when held up.",
+  "optical_effects": {
+    "fluorescence": "None typically",
+    "iridescence": "Rainbow obsidian — full spectral iridescence from nanolaminate magnetite interference layers",
+    "play_of_color": "Rainbow obsidian — full spectral iridescence from nanolaminate magnetite interference layers",
+    "chatoyancy": "Sheen obsidian — silver or gold sheen from parallel nanoparticle layers",
+    "asterism": ""
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "nephrite",
+  "display_name": "Nephrite",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": null,
+  "baseline_colors": [
+    "white",
+    "cream",
+    "pale-green"
+  ],
+  "visual_notes": "Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass.",
+  "prompt_fragments": [
+    "waxy spinach-green nephrite with fibrous felt texture",
+    "mutton-fat white jade soft luminosity",
+    "pounamu greenstone sacred Pacific stone",
+    "ancient jade carving millennia of tradition"
+  ],
+  "mood_keywords": [
+    "ancient-carving",
+    "nephrite-endurance",
+    "jade-empire",
+    "imperial-touch",
+    "felt-stone"
+  ],
+  "sensory_keywords": [
+    "waxy",
+    "smooth",
+    "warm-cool",
+    "dense",
+    "silky"
+  ],
+  "palette_keywords": [
+    "spinach-green",
+    "mutton-fat-white",
+    "celadon-pale",
+    "dark-mottled-forest"
+  ],
+  "aesthetic_roles": [
+    "sacred cultural stone",
+    "toughness archetype",
+    "ancient jade ancestor",
+    "mana-bearing mineral"
+  ],
+  "vibe_notes": "Nephrite is the older jade — the stone that launched millennia of Chinese and Pacific jade culture before jadeite arrived. Its mutton-fat white and spinach green are among the most culturally loaded color-material combinations in human history. It is not the most beautiful stone, but it may be the most meaningful.",
+  "symbolism": [
+    "endurance",
+    "immortality",
+    "purity",
+    "heaven",
+    "mana",
+    "continuity",
+    "virtue",
+    "protection"
+  ],
+  "folklore_summary": "In Chinese tradition, jade is said to have a 'living' quality — it absorbs the essence of its wearer over time and gives back healing energy. It is said to feel alive in a way that other stones do not. A jade bangle that breaks is said to have 'sacrificed itself' to protect its owner from harm."
+}

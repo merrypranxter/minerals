@@ -1,0 +1,64 @@
+{
+  "id": "chrysocolla",
+  "slug": "chrysocolla",
+  "display_name": "Chrysocolla",
+  "chemistry_class": "silicate",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": null,
+  "ima_status": "grandfathered_approved",
+  "formula": "(Cu,Al)2H2Si2O5(OH)4·nH2O",
+  "essential_elements": [
+    "Cu",
+    "Si",
+    "O",
+    "H"
+  ],
+  "crystal_system": "amorphous",
+  "mohs_hardness": "2–4",
+  "luster": [
+    "waxy",
+    "earthy",
+    "vitreous"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "cyan",
+    "blue-green",
+    "turquoise-blue"
+  ],
+  "genesis": [
+    "secondary"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "mineraloid",
+    "copper-mineral",
+    "secondary",
+    "oxidation-zone",
+    "cyan",
+    "blue-green",
+    "high-priority",
+    "phyllosilicate-like"
+  ],
+  "search_boost_terms": [
+    "chrysocolla",
+    "copper silicate",
+    "cyan mineral",
+    "blue-green copper",
+    "gem silica",
+    "turquoise alternative"
+  ],
+  "priority_score": 86,
+  "mood_keywords": [
+    "drowned-city",
+    "aqua-decay",
+    "copper-patina",
+    "tropical-ruin",
+    "oxidation-bloom"
+  ],
+  "_all_text": "Chrysocolla chrysocolla (Cu,Al)2H2Si2O5(OH)4·nH2O The formula is highly variable and debated; Cu content, Al content, and water vary significantly between specimens. The vivid cyan/blue-green color is entirely due to Cu2+. Pure chrysocolla without impurities is relatively soft and light; when intimately intergrown with quartz or chalcedony it forms the harder gem-silica material. The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens. The ancient Greek name means 'gold solder' — reflecting its actual historical use as a flux material in gold soldering. In modern crystal markets it is often conflated with turquoise due to color similarity. communication water copper-earth turquoise-kin Chrysocolla was described by Theophrastus (~315 BCE) and named from Greek chrysos (gold) + kolla (glue) — it was used as a flux for soldering gold in antiquity Egyptian blue pigment and some green-blue decorative materials in ancient contexts may involve chrysocolla Cleopatra reportedly wore chrysocolla jewelry; Pliny the Elder describes it in Natural History Used as a blue-green pigment in ancient Egypt, Rome, and South America Timna Valley, Israel: one of the world's earliest copper mining sites (active from Chalcolithic through Roman periods); chrysocolla abundant chrysocolla copper silicate cyan mineral blue-green copper gem silica turquoise alternative mineraloid copper-mineral secondary oxidation-zone cyan blue-green high-priority phyllosilicate-like drowned-city aqua-decay copper-patina tropical-ruin oxidation-bloom cyan blue-green turquoise-blue"
+}

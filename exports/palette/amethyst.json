@@ -1,0 +1,78 @@
+{
+  "id": "amethyst",
+  "display_name": "Amethyst",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#9966CC",
+    "#7B2FBE",
+    "#D8B4FE"
+  ],
+  "baseline_colors": [
+    "purple",
+    "violet",
+    "lavender"
+  ],
+  "color_profiles": [
+    {
+      "name": "Deep Siberian Amethyst",
+      "colors": [
+        "deep-purple",
+        "vivid-violet with red flash"
+      ],
+      "variety_name": null,
+      "cause": "High Fe4+ color center density; optimal iron content and irradiation history."
+    },
+    {
+      "name": "Standard Amethyst",
+      "colors": [
+        "medium-purple",
+        "violet",
+        "lavender-purple"
+      ],
+      "variety_name": null,
+      "cause": "Fe4+ color centers at moderate concentration."
+    },
+    {
+      "name": "Rose de France Amethyst",
+      "colors": [
+        "pale-lavender",
+        "pale-lilac",
+        "light-mauve"
+      ],
+      "variety_name": null,
+      "cause": "Low Fe4+ color center density."
+    },
+    {
+      "name": "Ametrine",
+      "colors": [
+        "purple and yellow-orange bicolor zones"
+      ],
+      "variety_name": "ametrine",
+      "cause": "Temperature and oxidation state gradient during crystal growth produces amethyst (cooler zones) and citrine (warmer/more oxidizing zones) in one crystal."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "pyramidal terminations",
+    "druse (crystal-lined geode interior)",
+    "massive",
+    "phantoms"
+  ],
+  "textures": [
+    "glassy",
+    "crystalline",
+    "angular color zones"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Amethyst geodes from Brazil and Uruguay are among the most recognizable mineral display specimens globally. Hollow cavite filled with violet crystals pointing inward. The finest deep Siberian-grade material shows a red flash under incandescent light. Color zoning in angular patterns is characteristic and diagnostic.",
+  "optical_effects": {
+    "fluorescence": "Typically none to very weak; some pale specimens show weak bluish or greenish fluorescence",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

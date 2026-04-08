@@ -1,0 +1,45 @@
+{
+  "id": "quartz",
+  "display_name": "Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "visual_notes": "One of the most visually flexible minerals on earth.",
+  "prompt_fragments": [
+    "glassy trigonal crystal logic",
+    "clear silica prisms",
+    "drusy quartz glitter"
+  ],
+  "mood_keywords": [
+    "clarity",
+    "signal-amplifier",
+    "crystalline-order",
+    "cold-light",
+    "cathedral-air"
+  ],
+  "sensory_keywords": [
+    "glassy",
+    "bright",
+    "ringing",
+    "clean"
+  ],
+  "palette_keywords": [
+    "ice-white",
+    "spectral-violet",
+    "smoke-brown",
+    "rose-haze"
+  ],
+  "aesthetic_roles": [
+    "universal crystal",
+    "signal crystal",
+    "clarity anchor",
+    "framework mineral"
+  ],
+  "vibe_notes": "Useful as a baseline mineral, a structure mineral, and a palette-shifting species.",
+  "symbolism": [],
+  "folklore_summary": ""
+}

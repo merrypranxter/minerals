@@ -1,0 +1,60 @@
+{
+  "id": "quartz",
+  "slug": "quartz",
+  "display_name": "Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "silica-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "SiO2",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": 7,
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "genesis": [
+    "magmatic",
+    "hydrothermal",
+    "metamorphic",
+    "sedimentary"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "common",
+    "crystal",
+    "silica",
+    "geometric",
+    "versatile",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "quartz crystal",
+    "rock crystal",
+    "silica mineral",
+    "crystal point",
+    "geode"
+  ],
+  "priority_score": 100,
+  "mood_keywords": [
+    "clarity",
+    "signal-amplifier",
+    "crystalline-order",
+    "cold-light",
+    "cathedral-air"
+  ],
+  "_all_text": "Quartz quartz SiO2 Extremely common silica mineral with many varieties. One of the most visually flexible minerals on earth. quartz crystal rock crystal silica mineral crystal point geode common crystal silica geometric versatile high-priority clarity signal-amplifier crystalline-order cold-light cathedral-air colorless white"
+}

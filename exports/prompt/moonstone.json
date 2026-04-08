@@ -1,0 +1,55 @@
+{
+  "id": "moonstone",
+  "display_name": "Moonstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "orthoclase",
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "pale-gray"
+  ],
+  "visual_notes": "Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior.",
+  "prompt_fragments": [
+    "floating blue light billowing under translucent feldspar surface",
+    "lunar milk adularescence in near-colorless K-feldspar cabochon",
+    "night-water cool glow of Sri Lankan blue moonstone"
+  ],
+  "mood_keywords": [
+    "lunar-milk",
+    "adular-glow",
+    "night-water",
+    "floating-light"
+  ],
+  "sensory_keywords": [
+    "silky",
+    "glowing",
+    "cool",
+    "billowing",
+    "weightless",
+    "water-like"
+  ],
+  "palette_keywords": [
+    "blue-white-mist",
+    "pearl-ghost",
+    "night-water",
+    "peach-dusk",
+    "silver-fog"
+  ],
+  "aesthetic_roles": [
+    "lunar mineral",
+    "adularescent glow anchor",
+    "night-light material",
+    "feminine mystery stone"
+  ],
+  "vibe_notes": "Moonstone has one of the most evocative optical effects in mineralogy — the adularescence gives it a liquid, otherworldly quality as if light is floating just beneath the surface. The blue variety in particular has an electric, cold, lunar quality. It is the mineral most consistently associated with water, night, and the feminine across unconnected cultures.",
+  "symbolism": [
+    "lunar-energy",
+    "femininity",
+    "intuition",
+    "cycles",
+    "mystery",
+    "fertility"
+  ],
+  "folklore_summary": "Pliny the Elder wrote that moonstone's appearance changed with the phases of the moon. Roman legend held that it was formed from moonlight solidified. In India, moonstone is considered a sacred stone and a dream stone — sleeping with it is said to bring beautiful visions. The Art Nouveau jewelers of"
+}

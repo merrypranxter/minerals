@@ -1,0 +1,54 @@
+{
+  "id": "chrysocolla",
+  "display_name": "Chrysocolla",
+  "chemistry_class": "silicate",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "baseline_colors": [
+    "cyan",
+    "blue-green",
+    "turquoise-blue"
+  ],
+  "visual_notes": "The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens.",
+  "prompt_fragments": [
+    "vivid cyan chrysocolla crust on copper ore",
+    "earthy blue-green mineraloid in oxidation zone",
+    "gem-silica translucent aqua cabochon",
+    "copper patina mineral decay blue"
+  ],
+  "mood_keywords": [
+    "drowned-city",
+    "aqua-decay",
+    "copper-patina",
+    "tropical-ruin",
+    "oxidation-bloom"
+  ],
+  "sensory_keywords": [
+    "earthy",
+    "waxy",
+    "cool-cyan",
+    "soft",
+    "humid"
+  ],
+  "palette_keywords": [
+    "electric-cyan",
+    "verdigris",
+    "copper-teal",
+    "malachite-neighbor",
+    "aqua-blue"
+  ],
+  "aesthetic_roles": [
+    "copper oxidation showcase",
+    "cyan anchor mineral",
+    "secondary deposit color",
+    "patina mineral"
+  ],
+  "vibe_notes": "Chrysocolla is the color of patinated copper — a vivid, slightly decayed cyan that evokes wet tropical ruins and ocean-floor chemistry. Its softness and mineraloid nature give it an impermanence that contrasts with its brilliant color.",
+  "symbolism": [
+    "communication",
+    "water",
+    "copper-earth",
+    "turquoise-kin"
+  ],
+  "folklore_summary": "The ancient Greek name means 'gold solder' — reflecting its actual historical use as a flux material in gold soldering. In modern crystal markets it is often conflated with turquoise due to color similarity."
+}

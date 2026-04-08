@@ -1,0 +1,332 @@
+{
+  "id": "rhodochrosite",
+  "slug": "rhodochrosite",
+  "display_name": "Rhodochrosite",
+  "classification": {
+    "chemistry_class": "carbonate",
+    "mineral_group": "calcite-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "raspberry-rhodochrosite",
+      "inca-rose"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 3471,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "MnCO3",
+    "simplified_formula": "MnCO3",
+    "essential_elements": [
+      "Mn",
+      "C",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Ca",
+      "Mg",
+      "Zn",
+      "Co"
+    ],
+    "structural_units": [
+      "CO3 planar triangular groups",
+      "MnO6 octahedra (Jahn-Teller distorted)"
+    ],
+    "atomic_structure_notes": "Isostructural with calcite (trigonal, R-3c). Mn2+ occupies the Ca2+ site; the Jahn-Teller distortion of Mn2+ is mild compared to Cu2+. Forms continuous solid solutions toward calcite (manganoan calcite / kutnahorite) and siderite.",
+    "chemistry_notes": "The pink-to-red color is intrinsic to Mn2+ in the carbonate structure. Fe substitution darkens toward brown; Ca substitution dilutes the pink toward pale cream. Pure endmember is vivid raspberry-red; natural specimens with Fe/Ca show orange, peach, or pale-pink banding."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "hexagonal scalenohedral (3 2/m)",
+    "space_group": "R-3c",
+    "unit_cell_notes": "a ≈ 4.78 Å, c ≈ 15.67 Å",
+    "twinning": "Contact twins on {01-12} occasionally reported",
+    "crystallography_notes": "Crystals typically rhombohedral with curved faces (saddle-shaped or cobbled appearance), or curved scalenohedral. Massive and banded (layered) forms are classic; stalactitic, botryoidal, and cleavage rhombs also occur. Crystal faces often display striated or curved surfaces."
+  },
+  "physical_properties": {
+    "mohs_hardness": "3.5–4",
+    "specific_gravity": "3.50–3.70",
+    "luster": [
+      "vitreous",
+      "pearly",
+      "resinous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent",
+      "opaque"
+    ],
+    "cleavage": [
+      "perfect rhombohedral {10-14} — three directions"
+    ],
+    "fracture": [
+      "uneven",
+      "conchoidal"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Similar hardness and cleavage to calcite but denser (higher SG due to Mn). Reacts with warm dilute HCl but less vigorously than calcite in cold acid. Rhombohedral cleavage and characteristic pink color are definitive for hand-specimen ID."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "pink",
+      "rose-red",
+      "raspberry-red"
+    ],
+    "color_profiles": [
+      {
+        "name": "Raspberry / Crystal Rhodochrosite",
+        "colors": [
+          "raspberry-red",
+          "deep-pink",
+          "vivid-rose",
+          "scarlet-pink"
+        ],
+        "cause": "High Mn content with minimal Fe/Ca dilution; Mn2+ d-d transition.",
+        "conditions": "Well-crystallized specimens from Sweet Home Mine and Catamarca; transparent gem-quality material.",
+        "variety_name": "raspberry-rhodochrosite"
+      },
+      {
+        "name": "Inca Rose (Banded Stalactitic)",
+        "colors": [
+          "pale-pink",
+          "rose-pink",
+          "white",
+          "cream",
+          "orange-pink"
+        ],
+        "cause": "Alternating layers with varying Mn/Ca/Fe ratios; banding reflects changing fluid chemistry.",
+        "conditions": "Stalactitic or stalagmitic forms from Argentina; polished slabs show concentric pink-white banding.",
+        "variety_name": "inca-rose"
+      },
+      {
+        "name": "Orange-Brown Rhodochrosite",
+        "colors": [
+          "orange-pink",
+          "peach",
+          "salmon",
+          "brown-pink"
+        ],
+        "cause": "Higher Fe substitution (toward siderite) diluting and warming the pink.",
+        "conditions": "Common in many hydrothermal deposits.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "rhombohedral (curved faces)",
+      "scalenohedral",
+      "massive",
+      "stalactitic",
+      "botryoidal",
+      "granular",
+      "cleavage rhombs"
+    ],
+    "textures": [
+      "curved glassy faces",
+      "banded (stalactitic)",
+      "concentric layers",
+      "sugary massive"
+    ],
+    "macro_patterns": [
+      "concentric pink-white banding (stalactitic)",
+      "rhombic cleavage geometry",
+      "layered color zones"
+    ],
+    "common_forms": [
+      "curved rhombohedral crystals on matrix",
+      "banded stalactitic slabs (Inca Rose)",
+      "massive granular aggregates"
+    ],
+    "visual_notes": "The banded 'Inca Rose' stalactitic form from Argentina — polished to reveal concentric pink-and-white rings — is one of the most recognized ornamental stone patterns in the gem world. Crystallized raspberry-red specimens from Colorado are among the most sought-after collector mineral specimens globally."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Weak; some specimens show pale pink or orange fluorescence under UV",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "Weak; uniaxial",
+    "optical_notes": "Uniaxial negative. RI approximately 1.578–1.816 (birefringence ~0.22 — very high like other calcite-group carbonates). nω = 1.816, nε = 1.578."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "hydrothermal",
+      "secondary (sedimentary-exhalative)",
+      "metamorphic",
+      "sedimentary (low-temperature)"
+    ],
+    "geologic_environments": [
+      "high-temperature hydrothermal veins",
+      "polymetallic sulfide deposits (oxidized/secondary zones)",
+      "sedimentary manganese deposits",
+      "metamorphosed Mn-rich sediments",
+      "speleothem-like stalactitic deposits in mines"
+    ],
+    "host_rocks": [
+      "limestone and dolostone",
+      "schist and gneiss",
+      "ore veins in various host rocks"
+    ],
+    "associated_minerals": [
+      "pyrite",
+      "sphalerite",
+      "galena",
+      "tetrahedrite",
+      "quartz",
+      "calcite",
+      "fluorite",
+      "manganite",
+      "alabandite"
+    ],
+    "locality_scope": "worldwide but deposit-linked",
+    "notable_localities": [
+      "Sweet Home Mine, Park County, Colorado, USA (world's finest transparent red crystals)",
+      "Catamarca Province, Argentina (Inca Rose stalactitic material)",
+      "San Luis, Argentina (additional Inca Rose deposits)",
+      "N'Chwaning Mine, Northern Cape, South Africa (vivid pink crystals)",
+      "Hotazel, Northern Cape, South Africa",
+      "Alma district, Colorado, USA (historic polymetallic veins)",
+      "Capillitas mine, Catamarca, Argentina",
+      "Szklary, Poland (historic locality)"
+    ],
+    "occurrence_notes": "Requires Mn-rich hydrothermal fluids. Common in the oxidized portions and high-temperature veins of silver-lead-zinc polymetallic sulfide deposits. The stalactitic/stalagmitic 'Inca Rose' variety forms in open cavities within mines. Argentina is the largest source of ornamental material; Colorado Sweet Home Mine produces the finest gem crystals."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Ornamental stone (Inca Rose carvings and cabs)",
+      "Manganese ore (low grade; not primary source)",
+      "Used by Inca and pre-Columbian Andean cultures in ornaments",
+      "Gem and lapidary use (faceted gems from transparent material, cabochons from banded)"
+    ],
+    "cultural_associations": [
+      "'Inca Rose' — traditional association with Argentine national identity",
+      "National gemstone of Argentina since 2002",
+      "Colorado state mineral of Colorado, USA",
+      "Inca mythology linked the stone to petrified tears of ancient rulers — origin of 'Rosa del Inca'"
+    ],
+    "symbolism": [
+      "love and compassion",
+      "self-worth and healing",
+      "rose-heart energy",
+      "Argentine Andean identity"
+    ],
+    "folklore_notes": "Argentine tradition holds that rhodochrosite (Inca Rose) was formed from the blood of ancient Inca kings and queens crystallized over time — giving the stone its name 'Rosa del Inca' (Rose of the Inca). Argentina declared it the national gemstone in 2002. The Sweet Home Mine in Colorado produced specimens that broke world records for collector rhodochrosite."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "inca-rose-banded",
+      "raspberry-crystal",
+      "manganese-heart",
+      "andean-jewel",
+      "rose-architecture"
+    ],
+    "sensory_keywords": [
+      "warm-pink",
+      "soft-curved-faces",
+      "layered-geology-sliced",
+      "sweet-rose"
+    ],
+    "palette_keywords": [
+      "raspberry-red",
+      "Inca-rose-pink",
+      "pale-cream-band",
+      "deep-manganese-red"
+    ],
+    "aesthetic_roles": [
+      "warm-pink gem accent",
+      "banded-pattern ornamental",
+      "Andean cultural reference",
+      "manganese-spectrum color"
+    ],
+    "vibe_notes": "Rhodochrosite lives between pink and red — the color of living tissue, roses, and sunsets. The Inca Rose banding reads as geological diary — each layer a year of cave drip. The Sweet Home crystals are raspberry-red architectural perfection."
+  },
+  "practical_notes": {
+    "toxicity": "Low toxicity; manganese in dust form (prolonged occupational inhalation) is a known neurotoxin (manganism). Normal specimen handling is safe. Do not sand or grind without dust protection.",
+    "handling_notes": "Soft and brittle with perfect cleavage — handle crystals carefully. Banded ornamental material is durable when polished but avoid impact. Curved crystal faces on fine specimens are irreplaceable.",
+    "care_notes": "Avoid acids (dissolves). Avoid scratching (easily scratched by quartz, glass). Clean with dry or barely damp soft cloth. Avoid ultrasonic cleaners. Store separately from harder minerals.",
+    "treatments_or_synthetics": [
+      "Stabilized/resin-filled banded material for lapidary use",
+      "Synthetic rhodochrosite produced but rarely seen commercially"
+    ],
+    "common_confusions": [
+      "Rhodonite (MnSiO3 — silicate, harder, pink with black veining)",
+      "Rose quartz (much harder; no banding pattern)",
+      "Thulite (zoisite variety — harder; metamorphic)",
+      "Mangano-calcite (paler pink; lower SG; may fluoresce more strongly)",
+      "Pink fluorite (cubic; different cleavage)"
+    ],
+    "market_notes": "Fine transparent crystals (Sweet Home, Colorado) command significant collector prices. Inca Rose banded slabs and cabochons are mainstream gem market. National gemstone of Argentina gives it strong cultural market. Moderate to premium pricing depending on quality."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [
+      "pyrolusite",
+      "romanechite"
+    ],
+    "lookalikes": [
+      "rhodonite",
+      "rose-quartz",
+      "thulite",
+      "mangano-calcite"
+    ],
+    "related_species": [
+      "calcite",
+      "siderite",
+      "magnesite",
+      "smithsonite",
+      "kutnahorite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "carbonate",
+      "manganese",
+      "pink",
+      "red",
+      "banded",
+      "ornamental",
+      "high-priority",
+      "trigonal",
+      "inca-rose"
+    ],
+    "search_boost_terms": [
+      "MnCO3",
+      "Inca Rose",
+      "Rosa del Inca",
+      "rhodochrosite crystal",
+      "banded pink mineral",
+      "Sweet Home Mine",
+      "Colorado state mineral",
+      "Argentina gemstone"
+    ],
+    "prompt_fragments": [
+      "raspberry-red curved rhombohedral crystals on white quartz matrix",
+      "Inca Rose banded stalactite — concentric pink and cream rings",
+      "warm rose-manganese architecture of Sweet Home Mine"
+    ],
+    "ui_color_hint": [
+      "#E8547A",
+      "#D4496B",
+      "#F2B4C0"
+    ],
+    "priority_score": 88
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.9,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-3471.html",
+      "https://www.webmineral.com/data/Rhodochrosite.shtml"
+    ],
+    "notes": ""
+  }
+}

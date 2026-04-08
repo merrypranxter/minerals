@@ -1,0 +1,58 @@
+{
+  "id": "pyrite",
+  "slug": "pyrite",
+  "display_name": "Pyrite",
+  "chemistry_class": "sulfide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "pyrite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "FeS2",
+  "mohs_hardness": "6–6.5",
+  "specific_gravity": "4.90–5.20",
+  "luster": [
+    "metallic",
+    "splendent"
+  ],
+  "streak": "greenish-black",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "isometric",
+  "baseline_colors": [
+    "brassy-yellow",
+    "pale-gold",
+    "metallic-yellow"
+  ],
+  "color_profiles_available": [
+    "Classic Brassy Pyrite",
+    "Iridescent Tarnished Pyrite",
+    "Pyrite Sun / Dollar Pyrite"
+  ],
+  "habits": [
+    "cubic (striated faces)",
+    "pyritohedral",
+    "octahedral",
+    "massive",
+    "granular"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "sulfide",
+    "iron",
+    "metallic",
+    "cubic",
+    "isometric",
+    "fool's-gold",
+    "hydrothermal",
+    "sedimentary",
+    "gold-associated",
+    "high-priority"
+  ],
+  "priority_score": 91,
+  "ui_color_hint": [
+    "#CFB53B",
+    "#B8960C",
+    "#8B7536"
+  ]
+}

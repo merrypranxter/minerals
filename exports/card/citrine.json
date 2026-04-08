@@ -1,0 +1,61 @@
+{
+  "id": "citrine",
+  "slug": "citrine",
+  "display_name": "Citrine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2:Fe",
+  "mohs_hardness": 7,
+  "specific_gravity": "2.65",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange-yellow"
+  ],
+  "color_profiles_available": [
+    "Pale Yellow Citrine",
+    "Golden Citrine",
+    "Madeira Citrine",
+    "Ametrine"
+  ],
+  "habits": [
+    "prismatic",
+    "pyramidal",
+    "druse",
+    "massive"
+  ],
+  "birthstone_months": [
+    "November birthstone (modern — alongside topaz)",
+    "13th wedding anniversary"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "quartz",
+    "gemstone",
+    "yellow",
+    "orange",
+    "birthstone",
+    "november",
+    "trigonal",
+    "art-deco"
+  ],
+  "priority_score": 88,
+  "ui_color_hint": [
+    "#FFC200",
+    "#FF8C00",
+    "#FFD700"
+  ]
+}

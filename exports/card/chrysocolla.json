@@ -1,0 +1,60 @@
+{
+  "id": "chrysocolla",
+  "slug": "chrysocolla",
+  "display_name": "Chrysocolla",
+  "chemistry_class": "silicate",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": null,
+  "ima_status": "grandfathered_approved",
+  "formula": "Cu-Al hydrated silicate (variable)",
+  "mohs_hardness": "2–4",
+  "specific_gravity": "1.9–2.4",
+  "luster": [
+    "waxy",
+    "earthy",
+    "vitreous"
+  ],
+  "streak": "white to pale blue-green",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "amorphous",
+  "baseline_colors": [
+    "cyan",
+    "blue-green",
+    "turquoise-blue"
+  ],
+  "color_profiles_available": [
+    "cyan-chrysocolla",
+    "blue-green-chrysocolla",
+    "gem-silica",
+    "green-chrysocolla"
+  ],
+  "habits": [
+    "earthy",
+    "massive",
+    "botryoidal",
+    "stalactitic",
+    "crusts"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "mineraloid",
+    "copper-mineral",
+    "secondary",
+    "oxidation-zone",
+    "cyan",
+    "blue-green",
+    "high-priority",
+    "phyllosilicate-like"
+  ],
+  "priority_score": 86,
+  "ui_color_hint": [
+    "electric-cyan",
+    "teal",
+    "blue-green",
+    "verdigris"
+  ]
+}

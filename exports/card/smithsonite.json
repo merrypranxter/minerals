@@ -1,0 +1,60 @@
+{
+  "id": "smithsonite",
+  "slug": "smithsonite",
+  "display_name": "Smithsonite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "calcite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "ZnCO3",
+  "mohs_hardness": "4–4.5",
+  "specific_gravity": "4.30–4.50",
+  "luster": [
+    "vitreous",
+    "pearly",
+    "silky"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "white",
+    "colorless",
+    "gray"
+  ],
+  "color_profiles_available": [
+    "Cobaltian Smithsonite (Blue / Lavender)",
+    "Cuprian Smithsonite (Green / Teal)",
+    "Manganian Smithsonite (Pink)",
+    "White / Gray Smithsonite",
+    "Yellow / Brown Smithsonite"
+  ],
+  "habits": [
+    "botryoidal",
+    "mammillary",
+    "stalactitic",
+    "massive",
+    "earthy"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "carbonate",
+    "zinc",
+    "secondary",
+    "oxidized-zone",
+    "botryoidal",
+    "color-variety",
+    "trigonal",
+    "smithsonian-namesake"
+  ],
+  "priority_score": 82,
+  "ui_color_hint": [
+    "#B0C4E8",
+    "#A8D5A2",
+    "#F0EDE8"
+  ]
+}

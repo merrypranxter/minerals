@@ -1,0 +1,317 @@
+{
+  "id": "gold",
+  "slug": "gold",
+  "display_name": "Gold",
+  "classification": {
+    "chemistry_class": "native-element",
+    "mineral_group": "gold-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "electrum"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "approved",
+    "mindat_id": 1805,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Au",
+    "simplified_formula": "Au",
+    "essential_elements": [
+      "Au"
+    ],
+    "trace_elements_common": [
+      "Ag",
+      "Cu",
+      "Fe",
+      "Pd",
+      "Pt"
+    ],
+    "structural_units": [
+      "face-centered cubic metallic lattice"
+    ],
+    "atomic_structure_notes": "FCC metallic structure with Au atoms at cube corners and face centers.",
+    "chemistry_notes": "Naturally forms alloys with silver (electrum) and copper. High purity specimens have SG near 19.3; silver-rich electrum may be below 16."
+  },
+  "crystallography": {
+    "crystal_system": "isometric",
+    "crystal_class": "hexoctahedral",
+    "space_group": "Fm3̄m",
+    "unit_cell_notes": "",
+    "twinning": "Spinel-law twins occasionally reported; generally rare.",
+    "crystallography_notes": "Crystals rare; usually forms dendritic, arborescent, or wire habits. Well-formed octahedra occasionally found in hydrothermal veins."
+  },
+  "physical_properties": {
+    "mohs_hardness": "2.5–3",
+    "specific_gravity": "15.5–19.3",
+    "luster": [
+      "metallic"
+    ],
+    "streak": "golden-yellow",
+    "transparency": [
+      "opaque"
+    ],
+    "cleavage": [
+      "none"
+    ],
+    "fracture": [
+      "hackly"
+    ],
+    "tenacity": "malleable, ductile",
+    "physical_notes": "Extremely malleable and ductile — can be beaten into leaf thinner than 100 nm. Does not tarnish or corrode under normal conditions. Highest malleability of any metal."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "golden-yellow",
+      "pale-yellow",
+      "orange-yellow"
+    ],
+    "color_profiles": [
+      {
+        "name": "Pure Gold",
+        "colors": [
+          "rich-golden-yellow"
+        ],
+        "cause": "inherent electronic structure of metallic gold",
+        "conditions": "high purity (≥24k)",
+        "variety_name": null
+      },
+      {
+        "name": "Electrum",
+        "colors": [
+          "pale-yellow",
+          "silver-yellow",
+          "greenish-yellow"
+        ],
+        "cause": "natural silver alloy diluting gold color",
+        "conditions": "Ag content 20–50%",
+        "variety_name": "electrum"
+      },
+      {
+        "name": "Copper-Rich Gold",
+        "colors": [
+          "orange-yellow",
+          "reddish-gold"
+        ],
+        "cause": "copper substitution in metallic lattice",
+        "conditions": "elevated Cu content",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "arborescent",
+      "dendritic",
+      "massive",
+      "nugget",
+      "leaf",
+      "wire",
+      "octahedral crystals"
+    ],
+    "textures": [
+      "rough granular surface",
+      "wire-like",
+      "spongy"
+    ],
+    "macro_patterns": [
+      "dendritic branching",
+      "wire tangles",
+      "flattened leaf shapes"
+    ],
+    "common_forms": [
+      "nuggets",
+      "dendritic sprays",
+      "wire masses",
+      "octahedral crystals"
+    ],
+    "visual_notes": "Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "none",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "none (isometric)",
+    "optical_notes": ""
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "hydrothermal",
+      "placer (alluvial)",
+      "magmatic-hydrothermal"
+    ],
+    "geologic_environments": [
+      "epithermal quartz veins",
+      "mesothermal lode deposits",
+      "orogenic gold deposits",
+      "placer gravels",
+      "lateritic residual deposits"
+    ],
+    "host_rocks": [
+      "quartz veins",
+      "sulfide-bearing schist",
+      "conglomerate (Witwatersrand-type)",
+      "granite",
+      "greenstone belt lithologies"
+    ],
+    "associated_minerals": [
+      "quartz",
+      "pyrite",
+      "arsenopyrite",
+      "chalcopyrite",
+      "galena",
+      "silver",
+      "calaverite",
+      "sylvanite",
+      "stibnite"
+    ],
+    "locality_scope": "worldwide",
+    "notable_localities": [
+      "Witwatersrand, South Africa",
+      "Carlin Trend, Nevada, USA",
+      "Kalgoorlie, Western Australia",
+      "Minas Gerais, Brazil",
+      "Mother Lode, California, USA",
+      "Klondike, Yukon, Canada",
+      "Rosia Montana, Romania",
+      "Muruntau, Uzbekistan"
+    ],
+    "occurrence_notes": "Found on every continent. Primary deposits in Precambrian greenstone belts and quartz veins; secondary (placer) deposits in alluvial gravels downcurrent of primary deposits."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "currency and coinage (earliest coins ~600 BCE, Lydia)",
+      "jewelry and adornment (prehistoric to present)",
+      "Egyptian funerary objects (death masks, sarcophagi)",
+      "Byzantine icon art (gold leaf backgrounds)",
+      "electronics and technology (modern)",
+      "dentistry",
+      "investment and financial reserves (gold standard era)"
+    ],
+    "cultural_associations": [
+      "solar deity in many traditions (Ra, Apollo, Surya)",
+      "divine perfection and immortality in alchemy",
+      "wealth and power universally",
+      "Olympic achievement (gold medal)",
+      "wedding anniversary (50th year)",
+      "El Dorado myth"
+    ],
+    "symbolism": [
+      "solar energy",
+      "incorruptibility",
+      "divine favor",
+      "wealth",
+      "perfection",
+      "eternity"
+    ],
+    "folklore_notes": "Gold has been considered sacred across virtually every ancient civilization. The alchemical pursuit of turning base metals into gold (chrysopoeia) dominated medieval science. Ancient Egyptians considered gold the flesh of the gods. In Hindu tradition, gold is associated with Lakshmi and prosperity. The California Gold Rush (1848–1855) and Klondike Gold Rush (1896–1899) shaped modern North America."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "titan-gold",
+      "ancient-wealth",
+      "solar-alchemy",
+      "incandescent-metal"
+    ],
+    "sensory_keywords": [
+      "heavy in the hand",
+      "warm gleam",
+      "burnished glow",
+      "sun-drenched"
+    ],
+    "palette_keywords": [
+      "deep aureate",
+      "burnished gold",
+      "solar yellow",
+      "warm ochre"
+    ],
+    "aesthetic_roles": [
+      "luxury accent",
+      "warm metallic anchor",
+      "ancient opulence reference",
+      "solar motif"
+    ],
+    "vibe_notes": "Gold carries the weight of ten thousand years of human desire. It is simultaneously primordial and modern, terrestrial and cosmic."
+  },
+  "practical_notes": {
+    "toxicity": "non-toxic in metallic form; gold salts (used in medicine) can be toxic in excess; generally considered biocompatible",
+    "handling_notes": "Soft and malleable — specimens should not be stored with harder minerals. Avoid dropping.",
+    "care_notes": "Clean with warm water and mild soap. Does not tarnish. Store separately from harder minerals.",
+    "treatments_or_synthetics": [
+      "gold plating (electroplating) common in jewelry",
+      "gold-filled and gold-vermeil jewelry distinct from solid gold",
+      "synthetic gold nanoparticles in industrial and medical use"
+    ],
+    "common_confusions": [
+      "pyrite ('fool's gold' — harder, brassy, cubic crystals or striated faces)",
+      "chalcopyrite (brassy yellow, harder, often iridescent tarnish)",
+      "mica flakes (in placer panning)",
+      "biotite (dark flakes sometimes mistaken in panning)"
+    ],
+    "market_notes": "Most valuable of the commonly occurring native metal minerals. Spot price globally traded. Specimen gold (crystallized, dendritic, or nugget form) commands significant premium over melt value."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "pyrite",
+      "chalcopyrite",
+      "mica"
+    ],
+    "related_species": [
+      "silver",
+      "copper",
+      "electrum"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "native-element",
+      "metal",
+      "precious",
+      "gold-group",
+      "placer",
+      "hydrothermal",
+      "jewelry",
+      "currency",
+      "isometric"
+    ],
+    "search_boost_terms": [
+      "Au",
+      "fool's gold comparison",
+      "placer gold",
+      "native gold",
+      "gold nugget",
+      "electrum",
+      "gold crystal"
+    ],
+    "prompt_fragments": [
+      "warm golden metallic luster",
+      "dendritic wire gold on white quartz matrix",
+      "nugget worn smooth by placer water"
+    ],
+    "ui_color_hint": [
+      "#FFD700",
+      "#C8960C",
+      "#FFC200"
+    ],
+    "priority_score": 95
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.93,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-1805.html",
+      "https://www.webmineral.com/data/Gold.shtml",
+      "https://geology.com/minerals/gold.shtml"
+    ],
+    "notes": ""
+  }
+}

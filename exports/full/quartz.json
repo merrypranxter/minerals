@@ -1,0 +1,307 @@
+{
+  "id": "quartz",
+  "slug": "quartz",
+  "display_name": "Quartz",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "silica-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "amethyst",
+      "citrine",
+      "rose-quartz",
+      "smoky-quartz",
+      "rock-crystal",
+      "chalcedony",
+      "agate"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 3337,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "SiO2",
+    "simplified_formula": "SiO2",
+    "essential_elements": [
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "H",
+      "Al",
+      "Li",
+      "Fe",
+      "Ti",
+      "Na",
+      "Mg",
+      "Ge"
+    ],
+    "structural_units": [
+      "SiO4 tetrahedra linked into a 3D framework"
+    ],
+    "atomic_structure_notes": "Framework silicate / network silicate.",
+    "chemistry_notes": "Extremely common silica mineral with many varieties."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "32 trapezohedral",
+    "space_group": "P3121 / P3221",
+    "unit_cell_notes": "",
+    "twinning": "Commonly noted in several laws including Dauphine, Brazil, and Japan.",
+    "crystallography_notes": "Often appears as six-sided prisms with pyramidal terminations."
+  },
+  "physical_properties": {
+    "mohs_hardness": 7,
+    "specific_gravity": 2.65,
+    "luster": [
+      "vitreous"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent",
+      "opaque"
+    ],
+    "cleavage": [
+      "poor",
+      "indistinct"
+    ],
+    "fracture": [
+      "conchoidal"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Hard, common, and very durable."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "colorless",
+      "white"
+    ],
+    "color_profiles": [
+      {
+        "name": "rock-crystal",
+        "colors": [
+          "colorless",
+          "clear"
+        ],
+        "cause": "Low impurity content / near-ideal composition.",
+        "conditions": "Pure quartz.",
+        "variety_name": "rock-crystal"
+      },
+      {
+        "name": "smoky",
+        "colors": [
+          "smoky-gray",
+          "brown",
+          "black"
+        ],
+        "cause": "Color centers associated with irradiation and trace impurities.",
+        "conditions": "Often linked to irradiated quartz with impurity-related defects.",
+        "variety_name": "smoky-quartz"
+      },
+      {
+        "name": "rose",
+        "colors": [
+          "pink",
+          "rose"
+        ],
+        "cause": "Variety-specific color mechanism; often treated as inclusion/defect related.",
+        "conditions": "Commonly discussed in pegmatitic or hydrothermal contexts.",
+        "variety_name": "rose-quartz"
+      },
+      {
+        "name": "amethyst-spectrum",
+        "colors": [
+          "lavender",
+          "violet",
+          "purple"
+        ],
+        "cause": "Impurity / defect-driven color.",
+        "conditions": "Variety-specific.",
+        "variety_name": "amethyst"
+      }
+    ],
+    "habits": [
+      "prismatic",
+      "pyramidal",
+      "massive",
+      "granular",
+      "drusy",
+      "vein-filling",
+      "acicular"
+    ],
+    "textures": [
+      "glassy",
+      "sparkling",
+      "crystalline",
+      "sugary"
+    ],
+    "macro_patterns": [
+      "clear",
+      "clouded",
+      "included",
+      "banded"
+    ],
+    "common_forms": [
+      "hexagonal-looking prisms",
+      "clusters",
+      "geodes",
+      "druse coatings",
+      "massive vein quartz"
+    ],
+    "visual_notes": "One of the most visually flexible minerals on earth."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "",
+    "optical_notes": "Some varieties or included forms show special effects."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic",
+      "hydrothermal",
+      "metamorphic",
+      "sedimentary"
+    ],
+    "geologic_environments": [
+      "igneous rocks",
+      "metamorphic rocks",
+      "sedimentary rocks",
+      "hydrothermal veins",
+      "pegmatites",
+      "fissures and cavities"
+    ],
+    "host_rocks": [
+      "granite",
+      "sandstone",
+      "quartzite",
+      "pegmatite",
+      "vein systems"
+    ],
+    "associated_minerals": [
+      "feldspar",
+      "mica",
+      "gold",
+      "fluorite"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [],
+    "occurrence_notes": "Occurs across enormous geologic range and is one of the most common crustal minerals."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [],
+    "cultural_associations": [],
+    "symbolism": [],
+    "folklore_notes": ""
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "clarity",
+      "signal-amplifier",
+      "crystalline-order",
+      "cold-light",
+      "cathedral-air"
+    ],
+    "sensory_keywords": [
+      "glassy",
+      "bright",
+      "ringing",
+      "clean"
+    ],
+    "palette_keywords": [
+      "ice-white",
+      "spectral-violet",
+      "smoke-brown",
+      "rose-haze"
+    ],
+    "aesthetic_roles": [
+      "universal crystal",
+      "signal crystal",
+      "clarity anchor",
+      "framework mineral"
+    ],
+    "vibe_notes": "Useful as a baseline mineral, a structure mineral, and a palette-shifting species."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Generally durable, but edges and points chip.",
+    "care_notes": "Avoid rough impact.",
+    "treatments_or_synthetics": [],
+    "common_confusions": [
+      "calcite",
+      "glass"
+    ],
+    "market_notes": "Huge variety market."
+  },
+  "relationships": {
+    "polymorphs": [
+      "coesite",
+      "cristobalite",
+      "tridymite",
+      "stishovite",
+      "moganite"
+    ],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "calcite",
+      "beryl",
+      "glass"
+    ],
+    "related_species": [
+      "chalcedony",
+      "agate",
+      "amethyst",
+      "citrine",
+      "rose-quartz",
+      "smoky-quartz"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "common",
+      "crystal",
+      "silica",
+      "geometric",
+      "versatile",
+      "high-priority"
+    ],
+    "search_boost_terms": [
+      "quartz crystal",
+      "rock crystal",
+      "silica mineral",
+      "crystal point",
+      "geode"
+    ],
+    "prompt_fragments": [
+      "glassy trigonal crystal logic",
+      "clear silica prisms",
+      "drusy quartz glitter"
+    ],
+    "ui_color_hint": [
+      "white",
+      "silver",
+      "pale-lavender"
+    ],
+    "priority_score": 100
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.8,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-3337.html"
+    ],
+    "notes": "Starter example entry."
+  }
+}

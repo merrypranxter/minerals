@@ -1,0 +1,52 @@
+{
+  "id": "gold",
+  "display_name": "Gold",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "golden-yellow",
+    "pale-yellow",
+    "orange-yellow"
+  ],
+  "visual_notes": "Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally.",
+  "prompt_fragments": [
+    "warm golden metallic luster",
+    "dendritic wire gold on white quartz matrix",
+    "nugget worn smooth by placer water"
+  ],
+  "mood_keywords": [
+    "titan-gold",
+    "ancient-wealth",
+    "solar-alchemy",
+    "incandescent-metal"
+  ],
+  "sensory_keywords": [
+    "heavy in the hand",
+    "warm gleam",
+    "burnished glow",
+    "sun-drenched"
+  ],
+  "palette_keywords": [
+    "deep aureate",
+    "burnished gold",
+    "solar yellow",
+    "warm ochre"
+  ],
+  "aesthetic_roles": [
+    "luxury accent",
+    "warm metallic anchor",
+    "ancient opulence reference",
+    "solar motif"
+  ],
+  "vibe_notes": "Gold carries the weight of ten thousand years of human desire. It is simultaneously primordial and modern, terrestrial and cosmic.",
+  "symbolism": [
+    "solar energy",
+    "incorruptibility",
+    "divine favor",
+    "wealth",
+    "perfection",
+    "eternity"
+  ],
+  "folklore_summary": "Gold has been considered sacred across virtually every ancient civilization. The alchemical pursuit of turning base metals into gold (chrysopoeia) dominated medieval science. Ancient Egyptians considered gold the flesh of the gods. In Hindu tradition, gold is associated with Lakshmi and prosperity. "
+}

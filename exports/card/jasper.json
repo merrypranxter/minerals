@@ -1,0 +1,60 @@
+{
+  "id": "jasper",
+  "slug": "jasper",
+  "display_name": "Jasper",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "mohs_hardness": "6.5–7",
+  "specific_gravity": "2.58–2.91",
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "red",
+    "yellow",
+    "brown",
+    "green"
+  ],
+  "color_profiles_available": [
+    "red-jasper",
+    "yellow-brown-jasper",
+    "green-jasper",
+    "picture-jasper",
+    "ocean-jasper",
+    "mookaite"
+  ],
+  "habits": [
+    "massive",
+    "nodular",
+    "vein-filling",
+    "bedded"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "opaque",
+    "microcrystalline",
+    "silica",
+    "rock-gem-material",
+    "iron-bearing",
+    "widespread",
+    "ancient-material",
+    "earthy"
+  ],
+  "priority_score": 82,
+  "ui_color_hint": [
+    "brick-red",
+    "ochre",
+    "earth-brown",
+    "olive-green"
+  ]
+}

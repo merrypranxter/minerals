@@ -1,0 +1,81 @@
+{
+  "id": "ruby",
+  "display_name": "Ruby",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#9B111E",
+    "#CC0000",
+    "#E0115F"
+  ],
+  "baseline_colors": [
+    "red",
+    "deep-red",
+    "pinkish-red"
+  ],
+  "color_profiles": [
+    {
+      "name": "Pigeon's Blood Ruby",
+      "colors": [
+        "vivid-red",
+        "pure-red with slight blue fluorescent overtone"
+      ],
+      "variety_name": "pigeon-blood-ruby",
+      "cause": "Cr3+ at optimal concentration (~0.5–1.5% Cr2O3); strong red fluorescence under UV complements natural redness in daylight."
+    },
+    {
+      "name": "Burmese Ruby (general)",
+      "colors": [
+        "deep-red",
+        "red",
+        "slightly purplish-red"
+      ],
+      "variety_name": null,
+      "cause": "Cr3+ chromophore; trace Fe adds depth."
+    },
+    {
+      "name": "Thai/Cambodian Ruby",
+      "colors": [
+        "dark-red",
+        "brownish-red",
+        "purplish-red"
+      ],
+      "variety_name": null,
+      "cause": "Higher Fe content alongside Cr3+ creates darker, less fluorescent red."
+    },
+    {
+      "name": "Star Ruby",
+      "colors": [
+        "red body with six-rayed white asterism"
+      ],
+      "variety_name": "star-ruby",
+      "cause": "Silk inclusions (rutile needles oriented along three crystallographic directions) producing asterism when cut as cabochon."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "tabular hexagonal",
+    "barrel-shaped",
+    "bipyramidal",
+    "massive",
+    "granular",
+    "rounded alluvial pebbles"
+  ],
+  "textures": [
+    "glassy",
+    "striated crystal faces",
+    "silky (silk inclusions visible under magnification)"
+  ],
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "visual_notes": "Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology.",
+  "optical_effects": {
+    "fluorescence": "Strong red fluorescence under UV (LW and SW) — Cr3+ emission; Burmese/marble-hosted rubies fluoresce more strongly than basalt-hosted Thai rubies (which have higher Fe quenching fluorescence)",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": "Six-rayed star in star ruby — from intersecting rutile (silk) needle inclusions parallel to three directions in {0001} basal plane"
+  }
+}

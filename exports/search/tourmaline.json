@@ -1,0 +1,71 @@
+{
+  "id": "tourmaline",
+  "slug": "tourmaline",
+  "display_name": "Tourmaline",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "tourmaline-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "XY3Z6(Si6O18)(BO3)3V3W",
+  "essential_elements": [
+    "Si",
+    "B",
+    "O",
+    "Al"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "7–7.5",
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "black",
+    "colorless"
+  ],
+  "genesis": [
+    "magmatic",
+    "pegmatitic",
+    "hydrothermal",
+    "metamorphic"
+  ],
+  "birthstone_status": [
+    "October birthstone (modern alternative alongside opal)",
+    "Rubellite and pink tourmaline recognized for October"
+  ],
+  "tags": [
+    "gemstone",
+    "cyclosilicate",
+    "ring-silicate",
+    "boron-silicate",
+    "color-variety",
+    "trigonal",
+    "high-priority",
+    "pegmatite",
+    "piezoelectric"
+  ],
+  "search_boost_terms": [
+    "tourmaline crystal",
+    "schorl",
+    "rubellite",
+    "indicolite",
+    "watermelon tourmaline",
+    "Paraíba tourmaline",
+    "boron silicate",
+    "striated crystal"
+  ],
+  "priority_score": 86,
+  "mood_keywords": [
+    "electric-prism",
+    "all-spectrum-mineral",
+    "striated-column",
+    "tourmaline-lightning",
+    "boron-magic"
+  ],
+  "_all_text": "Tourmaline tourmaline XY3Z6(Si6O18)(BO3)3V3W Boron is an essential element — tourmaline is one of very few silicates that requires B. The enormous compositional range across X, Y, Z, V, and W sites produces more IMA-approved species than any other mineral group (~40+ species). Cu2+ in the Y-site produces the coveted Paraíba neon-blue color. Mn produces pink (rubellite/elbaite). Fe2+ produces deep blue (indicolite) and Fe-rich schorl black. The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally. Tourmaline was called the 'electric stone' after its pyroelectric properties were described by scientists in the 18th century. It was used to clean tobacco pipes by Dutch sailors because of its ash-attracting properties when heated. creativity spectrum transformation electric-energy Dutch traders in the 18th century imported tourmaline from Ceylon (Sri Lanka) and noted that a charged crystal would attract and then repel ash from a pipe — earning the name 'aschentrekker' (ash drawer), reflecting its pyroelectric property Empress Dowager Cixi of China was a major collector of pink tourmaline (rubellite) from California's San Diego County mines in the early 1900s Used as a gemstone in India for centuries; pink and blue varieties from Sri Lanka known as 'rubies' and 'sapphires' historically tourmaline crystal schorl rubellite indicolite watermelon tourmaline Paraíba tourmaline boron silicate striated crystal gemstone cyclosilicate ring-silicate boron-silicate color-variety trigonal high-priority pegmatite piezoelectric electric-prism all-spectrum-mineral striated-column tourmaline-lightning boron-magic black colorless"
+}

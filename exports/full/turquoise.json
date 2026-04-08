@@ -1,0 +1,365 @@
+{
+  "id": "turquoise",
+  "slug": "turquoise",
+  "display_name": "Turquoise",
+  "classification": {
+    "chemistry_class": "phosphate",
+    "mineral_group": "turquoise-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "persian-turquoise",
+      "sleeping-beauty-turquoise",
+      "spiderweb-turquoise",
+      "faustite"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 4060,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "CuAl6(PO4)4(OH)8·4H2O",
+    "simplified_formula": "CuAl6(PO4)4(OH)8·4H2O",
+    "essential_elements": [
+      "Cu",
+      "Al",
+      "P",
+      "O",
+      "H"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Zn",
+      "V",
+      "Ca",
+      "K",
+      "Na"
+    ],
+    "structural_units": [
+      "PO4 tetrahedra",
+      "AlO4(OH)2 and AlO2(OH)4 octahedra",
+      "CuO4(OH)2 distorted octahedra"
+    ],
+    "atomic_structure_notes": "Triclinic framework built from PO4 tetrahedra and Al/Cu octahedra. Structural water (H2O) occupies cavities. Fe substitution for Al produces greener variants (toward faustite endmember); Zn substitution for Cu also shifts color toward green.",
+    "chemistry_notes": "Color derives primarily from Cu2+ (blue) and Fe3+ (green). High Cu/Al ratio with low Fe = robin's-egg blue; elevated Fe shifts color toward green. Chromium substitution produces vivid green varieties. The famous Persian blue results from very low iron in the Al site."
+  },
+  "crystallography": {
+    "crystal_system": "triclinic",
+    "crystal_class": "1̄ (pinacoidal)",
+    "space_group": "P1̄",
+    "unit_cell_notes": "a ≈ 7.42 Å, b ≈ 7.62 Å, c ≈ 9.91 Å, α ≈ 68.4°, β ≈ 69.7°, γ ≈ 65.1°",
+    "twinning": "Not common",
+    "crystallography_notes": "Single crystals are extremely rare (small prismatic or short tabular, < 1 cm). Almost always found as microcrystalline aggregates, cryptocrystalline masses, veins, nodules, and botryoidal crusts. Crystals from Lynch Station, Virginia are among very few known well-formed turquoise crystals."
+  },
+  "physical_properties": {
+    "mohs_hardness": "5–6",
+    "specific_gravity": "2.60–2.90",
+    "luster": [
+      "waxy",
+      "earthy"
+    ],
+    "streak": "pale-blue to white",
+    "transparency": [
+      "opaque",
+      "translucent"
+    ],
+    "cleavage": [
+      "perfect {001}",
+      "good {010}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Hardness varies significantly with porosity — porous material is softer. Most lapidary-quality turquoise is 5–6 Mohs; chalky or 'chalk' turquoise is softer. The waxy luster is characteristic. Takes a good polish when dense (gem-quality)."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "blue",
+      "blue-green",
+      "green"
+    ],
+    "color_profiles": [
+      {
+        "name": "Robin's Egg Blue",
+        "colors": [
+          "sky-blue",
+          "robin-egg-blue",
+          "vivid-blue"
+        ],
+        "cause": "High Cu2+ content; minimal Fe substitution for Al.",
+        "conditions": "Fine Persian turquoise; Sleeping Beauty Mine (Arizona); Nishapur, Iran.",
+        "variety_name": "persian-turquoise"
+      },
+      {
+        "name": "Matrix Turquoise",
+        "colors": [
+          "blue",
+          "blue-green",
+          "with brown/black/yellow veining"
+        ],
+        "cause": "Host rock (limonite, quartz, pyrite, iron oxides) veining through turquoise mass.",
+        "conditions": "Most natural turquoise; 'spiderweb' refers to fine matrix veining in attractive patterns.",
+        "variety_name": "spiderweb-turquoise"
+      },
+      {
+        "name": "Green Turquoise",
+        "colors": [
+          "apple-green",
+          "yellow-green",
+          "olive-green",
+          "teal"
+        ],
+        "cause": "Higher Fe3+ substituting for Al3+; or Zn or V substitution.",
+        "conditions": "Bisbee (some), Nevada mines, Chinese turquoise.",
+        "variety_name": null
+      },
+      {
+        "name": "Blue-Green Turquoise",
+        "colors": [
+          "teal",
+          "blue-green",
+          "mint"
+        ],
+        "cause": "Mixed Cu2+ and Fe3+ contributions.",
+        "conditions": "Very common; wide range of deposits.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "massive",
+      "microcrystalline aggregate",
+      "nodular",
+      "veins",
+      "botryoidal",
+      "stalactitic",
+      "cryptocrystalline crust",
+      "prismatic crystals (very rare)"
+    ],
+    "textures": [
+      "waxy to earthy",
+      "smooth (polished)",
+      "botryoidal rounded",
+      "matrix-veined"
+    ],
+    "macro_patterns": [
+      "matrix spiderweb veining",
+      "solid color masses",
+      "concentric botryoidal",
+      "nodular rounded forms"
+    ],
+    "common_forms": [
+      "cabochon-cut polished nodules",
+      "matrix slabs with spiderweb pattern",
+      "carved figurines and fetishes",
+      "beads"
+    ],
+    "visual_notes": "Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Typically none to faint; some specimens show weak blue-green or yellow under LW UV",
+    "phosphorescence": "",
+    "chatoyancy": "Rare; fibrous material can show weak cat's eye",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "Weak",
+    "optical_notes": "RI approximately 1.610–1.650 (varies with composition). Low birefringence."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "secondary (supergene)",
+      "weathering of aluminous copper-bearing rocks"
+    ],
+    "geologic_environments": [
+      "arid and semi-arid oxidized zones of porphyry copper deposits",
+      "copper-bearing volcanic rocks with aluminous clays",
+      "fractures and vugs in aluminous rocks near copper deposits"
+    ],
+    "host_rocks": [
+      "porphyritic rhyolite and trachyte",
+      "aluminous volcanic tuffs",
+      "brecciated and altered granite",
+      "limonite-stained gossan"
+    ],
+    "associated_minerals": [
+      "chalcopyrite (primary)",
+      "malachite",
+      "azurite",
+      "chrysocolla",
+      "limonite",
+      "quartz",
+      "kaolin"
+    ],
+    "locality_scope": "worldwide but arid-climate-linked",
+    "notable_localities": [
+      "Nishapur (Neyshabur), Khorasan, Iran (finest Persian turquoise — blue/no-matrix)",
+      "Sleeping Beauty Mine, Globe, Arizona, USA (sky-blue, no matrix — now closed)",
+      "Kingman Mine, Mohave County, Arizona, USA",
+      "Bisbee, Cochise County, Arizona, USA (Bisbee Blue — very hard, deep blue)",
+      "Cerrillos Hills, New Mexico, USA (oldest North American mine — pre-Columbian)",
+      "Nevada (multiple mines: Carico Lake, Lovelock, Lone Mountain)",
+      "Hubei Province, China (large production)",
+      "Sinai Peninsula, Egypt (ancient mining — Wadi Maghara)",
+      "Timna, Negev, Israel (ancient source)",
+      "Tibet and Yunnan, China"
+    ],
+    "occurrence_notes": "Requires convergence of copper-bearing fluids, aluminum-rich host rocks, phosphate in solution, and arid surface conditions. Forms in the unsaturated zone above the water table in desert-like climates. Most producing deposits are in arid regions (American Southwest, Central Asia, Middle East)."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "December birthstone (traditional and modern, alongside zircon and tanzanite)"
+    ],
+    "zodiac_associations": [
+      "Sagittarius",
+      "Scorpio (some traditions)"
+    ],
+    "historical_uses": [
+      "Jewelry and ornament (oldest dated gem material — Sinai mines ~6000 BCE)",
+      "Mosaic and inlay (Aztec death masks, Egyptian faience parallels)",
+      "Carved fetish figures (Pueblo peoples, Navajo, Zuni)",
+      "Trade currency in Mesoamerica and the American Southwest",
+      "Amulets and talismans — protective stone in Persian, Turkish, and Native American traditions",
+      "Pigment (rare)",
+      "Medicine (powdered turquoise in some traditional pharmacopeias)"
+    ],
+    "cultural_associations": [
+      "Sacred stone of the Navajo, Zuni, Pueblo, Hopi peoples",
+      "Carried by turquoise trade networks from Cerrillos NM to Aztec Tenochtitlan",
+      "Persian poets described it as 'sky condensed into stone'",
+      "Egyptian pharaohs — turquoise from Sinai in the oldest known mining records",
+      "Ottoman and Mughal jewelry traditions",
+      "Tibetan turquoise in Buddhist and pre-Buddhist Bon ritual objects",
+      "Sky-stone symbolism across unrelated civilizations (Americas, Near East, Central Asia)"
+    ],
+    "symbolism": [
+      "the sky",
+      "protection from evil",
+      "luck and good fortune",
+      "truth and communication",
+      "sacred connection",
+      "water and life"
+    ],
+    "folklore_notes": "Turquoise is one of the few gem minerals whose name gave a color its name in European languages ('turquoise' from 'Turkish stone' — via the Turkish trade routes through which Persian turquoise reached Europe). Ancient Persians believed turquoise reflected the color of heaven. In Mesoamerica, turquoise was the material of the divine — Aztec ritual masks covered in turquoise mosaic were worn by deities. Navajo tradition holds that turquoise fell from the sky as holy rain. The oldest known turquoise mining predates Egyptian pharaohs by millennia."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "sky-condensed",
+      "ancient-trade-path",
+      "desert-blue",
+      "sacred-sky-stone",
+      "copper-phosphate-heaven"
+    ],
+    "sensory_keywords": [
+      "warm-waxy-smooth",
+      "matte-sky-blue",
+      "ancient-weight",
+      "desert-dry"
+    ],
+    "palette_keywords": [
+      "robin-egg-blue",
+      "spiderweb-matrix-teal",
+      "Persian-sky-blue",
+      "desert-turquoise"
+    ],
+    "aesthetic_roles": [
+      "sky-color anchor",
+      "ancient-sacred material",
+      "desert-Southwest palette",
+      "protective talisman archetype"
+    ],
+    "vibe_notes": "Turquoise is the sky-stone of human history — found at the oldest mines, in the most sacred grave goods, across the most distant trading cultures. It is simultaneously the color of desert sky and deep sea, of protective amulets and ceremonial power."
+  },
+  "practical_notes": {
+    "toxicity": "Copper-bearing; avoid inhaling dust from cutting or grinding. Normal handling of finished specimens and jewelry is safe.",
+    "handling_notes": "Variable hardness — chalky/porous material is fragile. Avoid impact. Natural (untreated) turquoise is increasingly rare in the commercial market.",
+    "care_notes": "Do not use ultrasonic or steam cleaners. Avoid oils, cosmetics, acids, and prolonged water exposure — all affect color and stability. Clean only with dry or barely damp soft cloth. Store away from direct sunlight (color may fade). Body oils can actually improve some turquoise over decades (natural patina).",
+    "treatments_or_synthetics": [
+      "Stabilization (epoxy/resin impregnation) — most commercial turquoise is stabilized; improves hardness and color",
+      "Wax impregnation (traditional — less stable than modern resin)",
+      "Dyeing — used to enhance color; can fade; should be disclosed",
+      "Reconstituted/block turquoise — pulverized turquoise mixed with resin",
+      "Simulants: howlite dyed blue, magnesite dyed blue, plastic, glass",
+      "Synthetic turquoise exists but rare commercially",
+      "Faustite and variscite sometimes sold as turquoise"
+    ],
+    "common_confusions": [
+      "Dyed howlite (common fake — same color, different veining pattern, lower SG)",
+      "Dyed magnesite (similar; white matrix veins vs. brown/black in genuine)",
+      "Chrysocolla (amorphous copper silicate; similar color; waxy)",
+      "Variscite (Al phosphate without Cu; greener; different SG)",
+      "Amazonite (feldspar; different habit and structure)"
+    ],
+    "market_notes": "Natural untreated (natural-grade) turquoise is rare and commands premiums. Sleeping Beauty Mine closure (2012) caused substantial price increases for that material. Stabilized turquoise is industry standard and acceptable when disclosed. Persian (Nishapur) untreated turquoise is most prized globally. Chinese turquoise dominates the lower market. Treatment fraud (undisclosed dyeing, reconstituted block) is widespread."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "chrysocolla",
+      "variscite",
+      "amazonite",
+      "malachite (green)",
+      "howlite (dyed)"
+    ],
+    "related_species": [
+      "faustite",
+      "chalcosiderite",
+      "planerite",
+      "variscite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "phosphate",
+      "copper",
+      "aluminum",
+      "secondary",
+      "sky-blue",
+      "sacred",
+      "ancient",
+      "birthstone",
+      "december",
+      "triclinic",
+      "high-priority",
+      "jewelry"
+    ],
+    "search_boost_terms": [
+      "turquoise gemstone",
+      "sky stone",
+      "Sleeping Beauty turquoise",
+      "Persian turquoise",
+      "Nishapur turquoise",
+      "spiderweb turquoise",
+      "Native American turquoise",
+      "December birthstone",
+      "copper phosphate mineral"
+    ],
+    "prompt_fragments": [
+      "robin's-egg-blue waxy surface with dark matrix spiderweb veining",
+      "ancient sky-stone — desert blue carved into Aztec death mask mosaic",
+      "Persian turquoise: sky condensed into stone, no matrix, pure sky-blue"
+    ],
+    "ui_color_hint": [
+      "#40E0D0",
+      "#00BCD4",
+      "#5B9BD5"
+    ],
+    "priority_score": 93
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.92,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-4060.html",
+      "https://www.gia.edu/turquoise",
+      "https://www.webmineral.com/data/Turquoise.shtml"
+    ],
+    "notes": ""
+  }
+}

@@ -1,0 +1,243 @@
+id: rose-quartz
+slug: rose-quartz
+display_name: Rose Quartz
+
+classification:
+  chemistry_class: silicate
+  mineral_group: silica-group
+  species_status: variety
+  parent_species: quartz
+  related_varieties: []
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 3476
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (with trace Ti, Al, Mn or microscopic inclusions)"
+  simplified_formula: "SiO2:Ti,Al,P (pink color centers)"
+  essential_elements: [Si, O]
+  trace_elements_common: [Ti, Al, Mn, Fe, P, Na, H]
+  structural_units:
+    - "SiO4 tetrahedra in 3D framework"
+  atomic_structure_notes: "Trigonal quartz framework. The color mechanism of rose quartz is unusual: unlike most colored quartz varieties (which have point-defect color centers), rose quartz color comes primarily from microscopic inclusions of a pink titanium-bearing mineral (aluminum phosphate hydroxide — dumortierite-related fibers, or possibly bosiite). Some researchers propose color from Al-OH color centers. Rarely forms well-developed crystals (unlike amethyst/citrine); typically massive."
+  chemistry_notes: "Rose quartz is unusual among quartz varieties in being almost always massive (not crystalline). Well-formed pink quartz crystals (sometimes called 'crystalline rose quartz' or 'pink quartz') may have a different color mechanism (Al-P centers). The fibrous inclusions responsible for asterism in star rose quartz are rutile needles. Color fades on prolonged exposure to direct sunlight."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "32 (trapezohedral)"
+  space_group: "P3121 / P3221"
+  unit_cell_notes: ""
+  twinning: "Brazil-law twinning"
+  crystallography_notes: "Rose quartz is exceptional among colored quartz varieties in rarely forming well-developed crystals. Almost exclusively massive (no crystal faces). Crystal-clear pink 'rose quartz crystals' sold in the gem market are typically pale amethyst or treated material. True rose quartz is massive, waxy to vitreous, with diffuse internal color."
+
+physical_properties:
+  mohs_hardness: 7
+  specific_gravity: "2.65"
+  luster: [vitreous, waxy]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage: [none]
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Typically translucent rather than transparent due to fibrous inclusions causing light scattering (milky quality). Rarely transparent. Chatoyancy and asterism possible when properly oriented. Color fades in prolonged direct sunlight."
+
+appearance:
+  baseline_colors:
+    - pale-pink
+    - rose-pink
+  color_profiles:
+    - name: Classic Rose Quartz
+      colors: [pale-pink, rose-pink, baby-pink, dusty-rose]
+      cause: "Microscopic pink fibrous inclusion of Ti-bearing Al-phosphate hydroxide mineral distributed through massive quartz; optical scattering."
+      conditions: "Massive pegmatitic rose quartz worldwide."
+      variety_name: null
+    - name: Star Rose Quartz
+      colors: [rose-pink with six-rayed white asterism]
+      cause: "Rutile needle inclusions in three orientations within quartz produce asterism when cut as cabochon."
+      conditions: "Sri Lanka (Maingkha), Brazil — massive material with oriented rutile silk."
+      variety_name: null
+    - name: Deep Rose / Intense Pink
+      colors: [deeper-rose, medium-pink]
+      cause: "Higher concentration of color-bearing inclusions."
+      conditions: "Some Madagascar and Brazil material; less common."
+      variety_name: null
+  habits:
+    - massive (dominant)
+    - granular
+    - veins
+    - nodular
+  textures:
+    - translucent waxy-vitreous
+    - milky pink
+    - smooth polished
+  macro_patterns:
+    - uniform diffuse pink color
+    - milky translucent quality
+    - smooth curved surfaces
+  common_forms:
+    - massive boulders and veins
+    - polished spheres, eggs, towers
+    - cabochons
+    - beads
+    - carvings
+  visual_notes: "Rose quartz has a characteristic soft, diffuse, milky-pink quality from the light-scattering fibrous inclusions. It is never facet-grade transparent in classic form. The color is gentle and warm — not vivid like ruby or pink tourmaline but consistently soft. Star rose quartz cut as cabochon shows the six-rayed star most vividly under a point light source."
+
+optical_and_special_effects:
+  fluorescence: "Weak blue or orange-pink under UV"
+  phosphorescence: ""
+  chatoyancy: "Rare cat's eye rose quartz"
+  asterism: "Star rose quartz — six-rayed star from oriented rutile inclusions; best shown in Sri Lankan and Brazilian material"
+  iridescence: ""
+  pleochroism: "Very weak; uniaxial"
+  optical_notes: "Uniaxial positive. RI = 1.544–1.553. Typically cloudy/translucent due to inclusions causing light scattering — chatoyancy and asterism arise from these same inclusions. Color fades on prolonged UV/sunlight exposure."
+
+formation_and_occurrence:
+  genesis:
+    - magmatic (pegmatitic — primary)
+    - hydrothermal
+  geologic_environments:
+    - granitic pegmatites (primary — large massive bodies)
+    - hydrothermal veins
+  host_rocks:
+    - granite
+    - pegmatite
+  associated_minerals:
+    - feldspar
+    - muscovite
+    - tourmaline
+    - lepidolite
+    - spessartine garnet
+  locality_scope: worldwide
+  notable_localities:
+    - "Governador Valadares and Araçuaí, Minas Gerais, Brazil (world's largest source)"
+    - "Madagascar (Anjanabonoina and others)"
+    - "South Dakota, USA (Custer area)"
+    - "Namibia"
+    - "Sri Lanka (Maingkha — star rose quartz)"
+    - "India"
+    - "Mozambique"
+  occurrence_notes: "Rose quartz is primarily a pegmatite mineral, occurring in large massive bodies. Brazil's Minas Gerais is the world's largest and most important source, supplying most of the global gem and carving market. Madagascar produces some of the finer pink material."
+
+cultural_and_historical:
+  birthstone_status:
+    - "January birthstone (alternative in some traditions)"
+    - "Zodiac stone for Taurus"
+  zodiac_associations:
+    - "Taurus"
+    - "Libra (some traditions)"
+  historical_uses:
+    - "Carved into beads and figurines in ancient Egypt and Rome"
+    - "Facial masks in ancient Egyptian burials (rose quartz)"
+    - "Carving material — spheres, eggs, hearts (modern)"
+  cultural_associations:
+    - "Universal love-stone in modern metaphysical tradition"
+    - "Egyptian and Assyrian legend: Aphrodite/Venus stone"
+    - "Rose quartz spheres and hearts are the most recognizable crystal-healing object globally"
+    - "Associated with Aphrodite and Isis in ancient traditions"
+  symbolism:
+    - unconditional love
+    - compassion and gentleness
+    - femininity and nurturing
+    - heart chakra
+    - beauty and Venus
+  folklore_notes: "Rose quartz has one of the most robust modern metaphysical followings of any mineral. Ancient Assyrian and Roman cosmetic recipes include rose quartz facial rollers — a practice that has seen a massive modern revival. Egyptian legend held that rose quartz was a gift from Aphrodite (via Eros) to humanity — used to prevent aging. The association with love and the heart is essentially universal in modern crystal culture."
+
+interpretive_vibe:
+  mood_keywords:
+    - universal-love-stone
+    - Venus-blush
+    - diffuse-pink-warmth
+    - feminine-archetype
+    - heart-mineral
+  sensory_keywords:
+    - soft milky-pink warmth
+    - smooth cool curve
+    - gentle translucent glow
+    - rose-light diffusion
+  palette_keywords:
+    - baby-pink
+    - dusty-rose
+    - milky-rose-blush
+    - warm-pale-pink
+  aesthetic_roles:
+    - love and warmth anchor
+    - gentle pink aesthetic
+    - heart-chakra archetype
+    - smooth sphere/egg form
+  vibe_notes: "Rose quartz is mineral warmth — not vivid, not sharp, not crystalline. It diffuses its pink into the whole mass and softens light into rose. It is the texture of a gentle thing, the color of trust and care."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Color fades with prolonged direct sunlight. Durable for jewelry and display. Common form as massive carvings is very stable."
+  care_notes: "Store away from direct sunlight for extended periods. Clean with warm water and soft cloth. Ultrasonic safe. Avoid acids (quartz is generally acid-resistant but some surface finishes are not)."
+  treatments_or_synthetics:
+    - "Dyeing: pale rose quartz sometimes dyed deeper pink"
+    - "Irradiation: can produce more intense pink"
+    - "Glass simulants: common in low-end market"
+    - "Synthetic rose quartz: produced but rare commercially"
+  common_confusions:
+    - "Morganite (harder; vitreous not waxy; transparent)"
+    - "Pink fluorite (softer; cubic; cleavage)"
+    - "Pink calcite (softer; effervesces in HCl)"
+    - "Pink glass (different properties; bubbles)"
+    - "Rhodochrosite (softer; effervesces; different luster)"
+  market_notes: "One of the most affordable and widely available gem and display minerals. Dominant in the crystal/wellness market for spheres, eggs, hearts, rollers. Large polished slabs for interior design. Very low cost per kilogram. Star rose quartz (Sri Lanka) commands premium."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - morganite
+    - pink-fluorite
+    - pink-calcite
+    - rhodochrosite
+  related_species:
+    - quartz
+    - amethyst
+    - citrine
+    - smoky-quartz
+
+app_metadata:
+  tags:
+    - silicate
+    - variety
+    - quartz
+    - pink
+    - massive
+    - love-stone
+    - trigonal
+    - pegmatite
+    - wellness-market
+    - high-priority
+  search_boost_terms:
+    - rose quartz
+    - pink quartz
+    - love stone
+    - Venus stone
+    - heart chakra crystal
+    - star rose quartz
+    - rose quartz sphere
+    - facial roller
+    - Valentine mineral
+  prompt_fragments:
+    - "rose quartz massive — diffuse pink warmth in translucent quartz fog"
+    - "star rose quartz cabochon — six-rayed asterism in milky blush"
+    - "Venus stone: Brazil pegmatite pink dispersed through massive silica"
+  ui_color_hint:
+    - "#FFB7C5"
+    - "#F4A7B9"
+    - "#FADADD"
+  priority_score: 91
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3476.html"
+    - "https://www.gia.edu/rose-quartz"
+  notes: "Rose quartz is a variety of quartz. mindat_id 3476 is the rose quartz variety listing. Color mechanism is debated — fibrous inclusion model is current consensus."

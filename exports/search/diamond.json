@@ -1,0 +1,78 @@
+{
+  "id": "diamond",
+  "slug": "diamond",
+  "display_name": "Diamond",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "diamond-group",
+  "ima_status": "approved",
+  "formula": "C",
+  "essential_elements": [
+    "C"
+  ],
+  "crystal_system": "isometric",
+  "mohs_hardness": 10,
+  "luster": [
+    "adamantine",
+    "greasy"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "yellow",
+    "brown",
+    "gray",
+    "black (carbonado)"
+  ],
+  "genesis": [
+    "mantle origin (150–200+ km depth, extreme P-T conditions)",
+    "transported to surface via kimberlite or lamproite pipe eruptions",
+    "placer (alluvial, coastal, marine secondary)",
+    "meteoritic impact (rare — associated with lonsdaleite)",
+    "superdeep (subducted slab origin, >660 km)"
+  ],
+  "birthstone_status": [
+    "April birthstone (modern and traditional)",
+    "60th and 75th wedding anniversaries"
+  ],
+  "tags": [
+    "native-element",
+    "nonmetal",
+    "carbon",
+    "gemstone",
+    "birthstone",
+    "isometric",
+    "kimberlite",
+    "mantle",
+    "polymorph-of-graphite",
+    "hardest-mineral",
+    "april"
+  ],
+  "search_boost_terms": [
+    "C",
+    "diamond crystal",
+    "adamantine luster",
+    "kimberlite diamond",
+    "rough diamond",
+    "April birthstone",
+    "hardest mineral",
+    "carbon polymorph",
+    "engagement ring gemstone",
+    "Hope Diamond",
+    "Cullinan",
+    "fancy color diamond"
+  ],
+  "priority_score": 97,
+  "mood_keywords": [
+    "supreme-hardness",
+    "light-prison",
+    "crystallographic-perfection",
+    "cold-fire"
+  ],
+  "_all_text": "Diamond diamond C Nitrogen is most common impurity — creates yellow color (Type Ia/Ib). Boron impurity creates blue color (Type IIb). Type IIa diamonds are near-pure carbon with exceptional transparency. Brown color from plastic deformation and vacancy clusters. Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite. Diamond's name comes from Greek 'adamas' (unconquerable). Ancient Indians recognized diamond's hardness millennia before European contact. Hindu mythology associates vajra (diamond thunderbolt) with Indra's weapon. Medieval Europeans believed diamonds were tears of gods or splinters of stars. The De Beers 'A Diamond is Forever' (1947) is considered the most successful advertising slogan in history — it created the modern engagement ring tradition in Western culture. Lab-grown diamonds (chemically identical to natural) have disrupted the market since the 2010s. eternal love and commitment invincibility and strength (Sanskrit: vajra) clarity and truth wealth and status perfection and completeness April's promise gemstone in jewelry (ancient India through present) cutting and grinding tools (diamond abrasives, saws, drills) industrial abrasive (grinding wheels, polishing) windows and optics for high-pressure experimental cells heat spreaders in electronics scalpel blades (medical) diamond anvil cells (high-pressure research) C diamond crystal adamantine luster kimberlite diamond rough diamond April birthstone hardest mineral carbon polymorph engagement ring gemstone Hope Diamond Cullinan fancy color diamond native-element nonmetal carbon gemstone birthstone isometric kimberlite mantle polymorph-of-graphite hardest-mineral april supreme-hardness light-prison crystallographic-perfection cold-fire colorless yellow brown gray black (carbonado)"
+}

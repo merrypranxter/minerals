@@ -1,0 +1,63 @@
+{
+  "id": "chalcedony",
+  "slug": "chalcedony",
+  "display_name": "Chalcedony",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "6.5–7",
+  "luster": [
+    "waxy",
+    "earthy",
+    "silky"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-blue"
+  ],
+  "genesis": [
+    "hydrothermal",
+    "sedimentary",
+    "weathering"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "microcrystalline",
+    "silica",
+    "waxy",
+    "variety",
+    "widespread",
+    "ancient-material",
+    "translucent"
+  ],
+  "search_boost_terms": [
+    "chalcedony",
+    "microcrystalline quartz",
+    "carnelian",
+    "chrysoprase",
+    "blue chalcedony",
+    "waxy silica",
+    "onyx"
+  ],
+  "priority_score": 85,
+  "mood_keywords": [
+    "cave-milk",
+    "smooth-tension",
+    "ghost-layer",
+    "cool-surface"
+  ],
+  "_all_text": "Chalcedony chalcedony SiO2 Essentially pure SiO2 with trace impurities governing color. Composed of intergrown microcrystalline quartz and moganite in variable proportions. Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz. Carnelian (a chalcedony variety) was one of the most important gem materials of the ancient world, used in amulets, seals, and jewelry across Egypt, Mesopotamia, and Rome. protection endurance calm clarity Prehistoric tool-making (flint/chert, which are varieties) Seal stones and signet rings in antiquity Carnelian used extensively in ancient Egyptian, Mesopotamian, and Greek jewelry Bloodstone used as a healing amulet in medieval Europe chalcedony microcrystalline quartz carnelian chrysoprase blue chalcedony waxy silica onyx microcrystalline silica waxy variety widespread ancient-material translucent cave-milk smooth-tension ghost-layer cool-surface white gray pale-blue"
+}

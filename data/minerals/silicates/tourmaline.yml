@@ -5,7 +5,7 @@ display_name: Tourmaline
 classification:
   chemistry_class: silicate
   mineral_group: tourmaline-group
-  species_status: group
+  species_status: species
   parent_species: null
   related_varieties:
     - schorl

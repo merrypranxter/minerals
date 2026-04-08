@@ -1,0 +1,53 @@
+{
+  "id": "turquoise",
+  "display_name": "Turquoise",
+  "chemistry_class": "phosphate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "blue",
+    "blue-green",
+    "green"
+  ],
+  "visual_notes": "Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds.",
+  "prompt_fragments": [
+    "robin's-egg-blue waxy surface with dark matrix spiderweb veining",
+    "ancient sky-stone — desert blue carved into Aztec death mask mosaic",
+    "Persian turquoise: sky condensed into stone, no matrix, pure sky-blue"
+  ],
+  "mood_keywords": [
+    "sky-condensed",
+    "ancient-trade-path",
+    "desert-blue",
+    "sacred-sky-stone",
+    "copper-phosphate-heaven"
+  ],
+  "sensory_keywords": [
+    "warm-waxy-smooth",
+    "matte-sky-blue",
+    "ancient-weight",
+    "desert-dry"
+  ],
+  "palette_keywords": [
+    "robin-egg-blue",
+    "spiderweb-matrix-teal",
+    "Persian-sky-blue",
+    "desert-turquoise"
+  ],
+  "aesthetic_roles": [
+    "sky-color anchor",
+    "ancient-sacred material",
+    "desert-Southwest palette",
+    "protective talisman archetype"
+  ],
+  "vibe_notes": "Turquoise is the sky-stone of human history — found at the oldest mines, in the most sacred grave goods, across the most distant trading cultures. It is simultaneously the color of desert sky and deep sea, of protective amulets and ceremonial power.",
+  "symbolism": [
+    "the sky",
+    "protection from evil",
+    "luck and good fortune",
+    "truth and communication",
+    "sacred connection",
+    "water and life"
+  ],
+  "folklore_summary": "Turquoise is one of the few gem minerals whose name gave a color its name in European languages ('turquoise' from 'Turkish stone' — via the Turkish trade routes through which Persian turquoise reached Europe). Ancient Persians believed turquoise reflected the color of heaven. In Mesoamerica, turquoi"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "azurite",
+  "slug": "azurite",
+  "display_name": "Azurite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "azurite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Cu3(CO3)2(OH)2",
+  "essential_elements": [
+    "Cu",
+    "C",
+    "O",
+    "H"
+  ],
+  "crystal_system": "monoclinic",
+  "mohs_hardness": "3.5–4",
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "deep-blue",
+    "azure-blue",
+    "indigo-blue"
+  ],
+  "genesis": [
+    "secondary (supergene)",
+    "oxidation-zone"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "carbonate",
+    "copper",
+    "secondary",
+    "oxidized-zone",
+    "blue",
+    "pigment-history",
+    "monoclinic",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "copper carbonate",
+    "chessylite",
+    "Bisbee blue",
+    "azurite crystal",
+    "azurmalachite",
+    "blue copper mineral",
+    "medieval pigment blue"
+  ],
+  "priority_score": 90,
+  "mood_keywords": [
+    "copper-heaven",
+    "azurite-depth",
+    "medieval-pigment",
+    "celestial-blue",
+    "oxidized-brilliance"
+  ],
+  "_all_text": "Azurite azurite Cu3(CO3)2(OH)2 Secondary copper mineral forming in oxidized zones of copper deposits. Chemical partner to malachite Cu2(CO3)(OH)2 — azurite forms where CO2 activity is higher, malachite where H2O activity is higher. Azurite converts to malachite (pseudomorphic replacement) under moist surface conditions over geologic time. Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy. In medieval Europe, azurite was called 'azzurrum' and was ground to produce blue paint; it was one of the few ways to achieve true blue before synthetic pigments. Many old paintings now show greenish skies where azurite has converted to malachite due to moisture exposure over centuries. Ancient Egyptians used azurite in ornaments and burial goods alongside lapis lazuli. heaven insight the sky above Egypt depth and mystery copper-fire blue Pigment (azurite ground to blue pigment — used in Egyptian, Greek, and medieval European painting) Substitute for lapis lazuli in medieval manuscripts and panel paintings Copper ore (minor; too small quantities) Ornamental use in beads and carvings (ancient Egypt, pre-Columbian Americas) Blue pigment known as 'mountain blue' (German: Bergblau) in European painting through 17th century copper carbonate chessylite Bisbee blue azurite crystal azurmalachite blue copper mineral medieval pigment blue carbonate copper secondary oxidized-zone blue pigment-history monoclinic high-priority copper-heaven azurite-depth medieval-pigment celestial-blue oxidized-brilliance deep-blue azure-blue indigo-blue"
+}

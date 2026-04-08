@@ -1,0 +1,54 @@
+{
+  "id": "labradorite",
+  "display_name": "Labradorite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "gray",
+    "dark-gray",
+    "black-gray",
+    "greenish-gray"
+  ],
+  "visual_notes": "The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face.",
+  "prompt_fragments": [
+    "floating prismatic aurora iridescence in dark gray feldspar",
+    "thin-film interference labradorescence shifting blue-green-gold",
+    "northern lights imprisoned in polished stone"
+  ],
+  "mood_keywords": [
+    "northern-lights",
+    "prismatic-abyss",
+    "schiller-depth",
+    "arctic-glow"
+  ],
+  "sensory_keywords": [
+    "shimmering",
+    "depth-lit",
+    "cold-iridescent",
+    "shifting",
+    "prismatic"
+  ],
+  "palette_keywords": [
+    "electric-blue",
+    "dark-gunmetal",
+    "peacock-teal",
+    "copper-fire",
+    "aurora-gold",
+    "spectral-violet"
+  ],
+  "aesthetic_roles": [
+    "aurora-in-stone",
+    "depth iridescence anchor",
+    "northern-lights mineral",
+    "prismatic darkness stone"
+  ],
+  "vibe_notes": "Labradorite carries its color inside — it is not a surface phenomenon but a depth effect. The dark ground color against the shifting iridescence creates a sense of something luminous moving beneath a dark surface. Spectrolite, with its near-black matrix and full-spectrum display, is one of the most visually complex single mineral specimens on earth.",
+  "symbolism": [
+    "transformation",
+    "hidden-knowledge",
+    "northern-lights",
+    "prismatic-mystery"
+  ],
+  "folklore_summary": "Inuit legend describes the aurora borealis as frozen light trapped inside labradorite. Moravian missionaries encountering the stone in Labrador in 1770 were reportedly struck by the play of color. The Finnish spectrolite variety was not discovered until World War II when a German bomb crater reveale"
+}

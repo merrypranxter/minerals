@@ -1,0 +1,64 @@
+{
+  "id": "ruby",
+  "slug": "ruby",
+  "display_name": "Ruby",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "corundum",
+  "mineral_group": "corundum-group",
+  "ima_status": "not_ima",
+  "formula": "Al2O3:Cr",
+  "mohs_hardness": 9,
+  "specific_gravity": "3.97–4.05",
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "red",
+    "deep-red",
+    "pinkish-red"
+  ],
+  "color_profiles_available": [
+    "Pigeon's Blood Ruby",
+    "Burmese Ruby (general)",
+    "Thai/Cambodian Ruby",
+    "Star Ruby"
+  ],
+  "habits": [
+    "prismatic",
+    "tabular hexagonal",
+    "barrel-shaped",
+    "bipyramidal",
+    "massive"
+  ],
+  "birthstone_months": [
+    "July birthstone (traditional and modern)",
+    "15th and 40th wedding anniversary"
+  ],
+  "tags": [
+    "oxide",
+    "variety",
+    "corundum",
+    "gemstone",
+    "red",
+    "birthstone",
+    "july",
+    "fluorescent",
+    "trigonal",
+    "high-priority",
+    "jewelry"
+  ],
+  "priority_score": 96,
+  "ui_color_hint": [
+    "#9B111E",
+    "#CC0000",
+    "#E0115F"
+  ]
+}

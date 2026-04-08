@@ -1,0 +1,66 @@
+{
+  "id": "nephrite",
+  "slug": "nephrite",
+  "display_name": "Nephrite",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": null,
+  "mineral_group": "amphibole-group",
+  "ima_status": "not_ima",
+  "formula": "Ca2(Mg,Fe)5Si8O22(OH)2",
+  "mohs_hardness": "6–6.5",
+  "specific_gravity": "2.90–3.03",
+  "luster": [
+    "waxy",
+    "silky",
+    "greasy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "monoclinic",
+  "baseline_colors": [
+    "white",
+    "cream",
+    "pale-green"
+  ],
+  "color_profiles_available": [
+    "spinach-jade",
+    "mutton-fat-jade",
+    "celadon-jade",
+    "gray-nephrite",
+    "black-nephrite"
+  ],
+  "habits": [
+    "massive",
+    "fibrous-aggregate",
+    "interlocking-bladed",
+    "botryoidal (rare)",
+    "vein-filling"
+  ],
+  "birthstone_months": [
+    "Not a formal birthstone; sometimes listed for August or March informally"
+  ],
+  "tags": [
+    "gemstone",
+    "inosilicate",
+    "double-chain-silicate",
+    "amphibole",
+    "jade",
+    "cultural",
+    "tough",
+    "Maori",
+    "Chinese",
+    "high-priority",
+    "metamorphic"
+  ],
+  "priority_score": 84,
+  "ui_color_hint": [
+    "spinach-green",
+    "mutton-fat-white",
+    "celadon",
+    "dark-green"
+  ]
+}

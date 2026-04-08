@@ -1,0 +1,69 @@
+{
+  "id": "pyrite",
+  "slug": "pyrite",
+  "display_name": "Pyrite",
+  "chemistry_class": "sulfide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "pyrite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "FeS2",
+  "essential_elements": [
+    "Fe",
+    "S"
+  ],
+  "crystal_system": "isometric",
+  "mohs_hardness": "6–6.5",
+  "luster": [
+    "metallic",
+    "splendent"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "brassy-yellow",
+    "pale-gold",
+    "metallic-yellow"
+  ],
+  "genesis": [
+    "hydrothermal",
+    "magmatic",
+    "sedimentary (biogenic and diagenetic)",
+    "metamorphic",
+    "volcanic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "sulfide",
+    "iron",
+    "metallic",
+    "cubic",
+    "isometric",
+    "fool's-gold",
+    "hydrothermal",
+    "sedimentary",
+    "gold-associated",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "pyrite",
+    "fool's gold",
+    "iron pyrite",
+    "FeS2",
+    "cubic pyrite",
+    "Navajún pyrite",
+    "pyrite sun",
+    "iron cross twin",
+    "gold ore mineral"
+  ],
+  "priority_score": 91,
+  "mood_keywords": [
+    "fool's-gold",
+    "brassy-deception",
+    "cubic-architecture",
+    "fire-from-stone",
+    "invisible-gold-host"
+  ],
+  "_all_text": "Pyrite pyrite FeS2 Pyrite readily incorporates Au (often in solid solution — 'invisible gold' or submicroscopic inclusions), making it an important ore of gold. As and Co substitution common. Oxidizes readily in moist air (sulfuric acid + iron oxide) — 'acid mine drainage' problem. Famous for 'fool's gold' confusion with native gold. Pyrite is mineralogy's great impersonator — 'fool's gold' for millennia. The striated faces of pyrite cubes (from oscillation between cube and pyritohedron) are diagnostic. Iron cross twins — two interlocking pyritohedra — are among mineralogy's most architecturally perfect specimens. Pyrite suns (flat radiating discs) are unique and immediately recognizable forms. Pyrite has been 'fool's gold' since antiquity — its brass-yellow metallic luster has deceived prospectors, miners, and explorers throughout history. Captain Martin Frobisher returned from his 1576 Arctic expedition with 200 tonnes of 'ore' that turned out to be pyrite — the English Crown had funded the expedition for nothing. Spanish conquistadors in the Americas repeatedly confused pyrite with gold. In pre-Columbian Peru, pyrite was polished into flat circular mirrors for divination, alongside obsidian. The name comes from Greek 'pyr' (fire) because sparks fly when it is struck against iron or flint. deceptive appearances fool's gold / false wealth fire from stone abundance and earth's treasure industrial power Fire-starting (iron pyrite struck against flint) Source of sulfur dioxide for wine preservation (ancient) Production of sulfuric acid Gold ore processing (Carlin-type invisible gold) 'Fool's gold' — cause of countless mining frauds and prospecting mistakes Marcellus Shale energy extraction Jewelry and inlay (pre-Columbian Peru, Aztec) Victorian 'cut steel' jewelry — pyrite as substitute pyrite fool's gold iron pyrite FeS2 cubic pyrite Navajún pyrite pyrite sun iron cross twin gold ore mineral sulfide iron metallic cubic isometric fool's-gold hydrothermal sedimentary gold-associated high-priority fool's-gold brassy-deception cubic-architecture fire-from-stone invisible-gold-host brassy-yellow pale-gold metallic-yellow"
+}

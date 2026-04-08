@@ -1,0 +1,92 @@
+{
+  "id": "amber",
+  "display_name": "Amber",
+  "chemistry_class": "organic",
+  "species_status": "mineraloid",
+  "ui_color_hint": [
+    "#FFBF00",
+    "#D4A017",
+    "#C47A2B"
+  ],
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange",
+    "honey"
+  ],
+  "color_profiles": [
+    {
+      "name": "Baltic Golden / Honey Amber",
+      "colors": [
+        "golden-yellow",
+        "amber-yellow",
+        "honey",
+        "orange-amber"
+      ],
+      "variety_name": "baltic-amber",
+      "cause": "Oxidation and polymerization of original resin; iron oxide traces may deepen color."
+    },
+    {
+      "name": "Butterscotch / Opaque Amber",
+      "colors": [
+        "creamy-yellow",
+        "pale-orange",
+        "butterscotch"
+      ],
+      "variety_name": null,
+      "cause": "Micro-bubbles of water and air trapped during resin flow; scattering makes amber opaque."
+    },
+    {
+      "name": "Dominican Blue / Green Amber",
+      "colors": [
+        "blue",
+        "blue-green when viewed in reflected light; golden in transmitted light"
+      ],
+      "variety_name": "dominican-amber",
+      "cause": "Fluorescent compounds (polycyclic aromatic hydrocarbons from combustion in ancient forest fires) producing strong blue fluorescence that dominates reflected light view."
+    },
+    {
+      "name": "Red / Cherry Amber",
+      "colors": [
+        "deep-red",
+        "cherry-red",
+        "ox-blood"
+      ],
+      "variety_name": null,
+      "cause": "Prolonged oxidation of surface or ancient oxidized material."
+    },
+    {
+      "name": "Burmese Amber (Burmite)",
+      "colors": [
+        "deep-orange",
+        "red-orange",
+        "dark-brown"
+      ],
+      "variety_name": "burmese-amber",
+      "cause": "Age (100+ Ma — oldest significant amber) and specific resin chemistry of ancient Araucarian trees."
+    }
+  ],
+  "habits": [
+    "massive nodular",
+    "irregular droplets and flows",
+    "stalactitic (resin drips)",
+    "rounded pebbles (beach/alluvial)"
+  ],
+  "textures": [
+    "smooth glassy interior",
+    "weathered rough crust",
+    "resinous",
+    "translucent to opaque"
+  ],
+  "luster": [
+    "resinous"
+  ],
+  "visual_notes": "Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects.",
+  "optical_effects": {
+    "fluorescence": "Significant fluorescence under UV — blue-white fluorescence common in Baltic amber; Dominican amber shows intense blue fluorescence (responsible for its blue color in daylight)",
+    "iridescence": "Dominican blue amber shows strong blue-green iridescence from fluorescence; some amber shows interference colors in reflected light",
+    "play_of_color": "Dominican blue amber shows strong blue-green iridescence from fluorescence; some amber shows interference colors in reflected light",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "quartz",
+  "slug": "quartz",
+  "display_name": "Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "silica-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "SiO2",
+  "mohs_hardness": 7,
+  "specific_gravity": 2.65,
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "color_profiles_available": [
+    "rock-crystal",
+    "smoky",
+    "rose",
+    "amethyst-spectrum"
+  ],
+  "habits": [
+    "prismatic",
+    "pyramidal",
+    "massive",
+    "granular",
+    "drusy"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "common",
+    "crystal",
+    "silica",
+    "geometric",
+    "versatile",
+    "high-priority"
+  ],
+  "priority_score": 100,
+  "ui_color_hint": [
+    "white",
+    "silver",
+    "pale-lavender"
+  ]
+}

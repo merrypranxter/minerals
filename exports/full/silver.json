@@ -1,0 +1,302 @@
+{
+  "id": "silver",
+  "slug": "silver",
+  "display_name": "Silver",
+  "classification": {
+    "chemistry_class": "native-element",
+    "mineral_group": "gold-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": []
+  },
+  "identifiers": {
+    "ima_status": "approved",
+    "mindat_id": 3627,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Ag",
+    "simplified_formula": "Ag",
+    "essential_elements": [
+      "Ag"
+    ],
+    "trace_elements_common": [
+      "Au",
+      "Cu",
+      "Hg",
+      "Sb",
+      "Bi"
+    ],
+    "structural_units": [
+      "face-centered cubic metallic lattice"
+    ],
+    "atomic_structure_notes": "FCC metallic structure isostructural with gold and copper.",
+    "chemistry_notes": "Naturally alloys with gold (electrum) and mercury (amalgam). Highest electrical and thermal conductivity of any element."
+  },
+  "crystallography": {
+    "crystal_system": "isometric",
+    "crystal_class": "hexoctahedral",
+    "space_group": "Fm3̄m",
+    "unit_cell_notes": "",
+    "twinning": "Rare; spinel-law twins occasionally reported.",
+    "crystallography_notes": "Crystals rare; usually forms arborescent, dendritic, or wire masses. Cubic and scalenohedral crystals occasionally reported from hydrothermal veins."
+  },
+  "physical_properties": {
+    "mohs_hardness": "2.5–3",
+    "specific_gravity": "10.1–11.1",
+    "luster": [
+      "metallic"
+    ],
+    "streak": "silver-white",
+    "transparency": [
+      "opaque"
+    ],
+    "cleavage": [
+      "none"
+    ],
+    "fracture": [
+      "hackly"
+    ],
+    "tenacity": "malleable, ductile",
+    "physical_notes": "Second most malleable and ductile metal after gold. Tarnishes readily in air due to hydrogen sulfide forming acanthite (Ag2S) coating. Highest electrical and thermal conductivity of any element."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "silver-white",
+      "gray",
+      "tarnished gray-black"
+    ],
+    "color_profiles": [
+      {
+        "name": "Fresh Native Silver",
+        "colors": [
+          "bright-silver-white"
+        ],
+        "cause": "reflective metallic surface of unoxidized silver",
+        "conditions": "freshly exposed, unoxidized",
+        "variety_name": null
+      },
+      {
+        "name": "Tarnished Silver",
+        "colors": [
+          "gray",
+          "black",
+          "iridescent-brown-gray"
+        ],
+        "cause": "silver sulfide (acanthite) tarnish layer from H2S exposure",
+        "conditions": "exposure to sulfur compounds in air",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "arborescent",
+      "dendritic",
+      "wire",
+      "massive",
+      "scalenohedral crystals (rare)",
+      "cubic crystals (rare)"
+    ],
+    "textures": [
+      "wire-tangled masses",
+      "leaf-like plates",
+      "granular"
+    ],
+    "macro_patterns": [
+      "arborescent branching",
+      "wire tangles",
+      "tarnish iridescence"
+    ],
+    "common_forms": [
+      "arborescent wire masses",
+      "dendritic sprays",
+      "massive aggregates",
+      "thin leaf plates"
+    ],
+    "visual_notes": "Fresh specimens show brilliant silver-white metallic luster. Tarnish develops complex gray-black patinas. Kongsberg wire-silver specimens are among the most celebrated native metal mineral specimens in existence."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "none",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "tarnish iridescence common on oxidized surfaces",
+    "pleochroism": "none (isometric)",
+    "optical_notes": ""
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "hydrothermal",
+      "secondary (supergene)",
+      "placer (rare)"
+    ],
+    "geologic_environments": [
+      "epithermal silver-gold veins",
+      "mesothermal polymetallic veins",
+      "secondary enrichment zones above sulfide deposits"
+    ],
+    "host_rocks": [
+      "quartz veins",
+      "calcite veins",
+      "dolomite",
+      "chlorite schist"
+    ],
+    "associated_minerals": [
+      "acanthite",
+      "proustite",
+      "pyrargyrite",
+      "native gold",
+      "galena",
+      "sphalerite",
+      "calcite",
+      "quartz",
+      "arsenopyrite"
+    ],
+    "locality_scope": "worldwide",
+    "notable_localities": [
+      "Kongsberg, Norway (world-famous wire silver specimens)",
+      "Cobalt, Ontario, Canada",
+      "Freiberg, Saxony, Germany",
+      "Potosi, Bolivia",
+      "Batopilas, Chihuahua, Mexico",
+      "Chanarcillo, Chile",
+      "Jáchymov, Czech Republic"
+    ],
+    "occurrence_notes": "Native silver most commonly forms in the upper oxidation and secondary enrichment zones of polymetallic sulfide deposits. Primary hydrothermal occurrences also known."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [
+      "Cancer (lunar association)",
+      "Aquarius"
+    ],
+    "historical_uses": [
+      "coinage and currency (ancient Lydian, Greek, and Roman coins through modern)",
+      "jewelry and silverware",
+      "photography (silver halide emulsions, pre-digital era)",
+      "antibacterial applications (colloidal silver, wound dressings)",
+      "electrical contacts and conductors",
+      "mirrors (silver backing)",
+      "industrial catalysts"
+    ],
+    "cultural_associations": [
+      "lunar symbolism across cultures (Moon = silver, Sun = gold)",
+      "purity and cleanliness",
+      "werewolf mythology (silver bullet)",
+      "alchemy (Luna — the moon metal)",
+      "aristocratic tableware and status"
+    ],
+    "symbolism": [
+      "lunar energy",
+      "clarity",
+      "reflection",
+      "purity",
+      "mystery",
+      "second place (silver medal)"
+    ],
+    "folklore_notes": "Silver has been mined since at least 3000 BCE in Anatolia. The Laurion mines near Athens funded Athenian naval power. Kongsberg, Norway produced extraordinary arborescent silver specimens prized by collectors since the 17th century. In mythology, silver is the metal of the moon — opposite gold's solar nature. Silver bullets are a recurring folkloric remedy against supernatural evil."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "lunar-mirror",
+      "cold-noble-metal",
+      "mercury-adjacent",
+      "aristocratic-cool"
+    ],
+    "sensory_keywords": [
+      "cool to touch",
+      "mirror-bright",
+      "crisp reflection",
+      "tarnishing edge"
+    ],
+    "palette_keywords": [
+      "sterling grey",
+      "moon-white",
+      "pewter shadow",
+      "oxidized silver"
+    ],
+    "aesthetic_roles": [
+      "cool metallic counterpoint",
+      "lunar motif",
+      "elegant restraint",
+      "tarnish-beauty reference"
+    ],
+    "vibe_notes": "Silver is gold's lunar twin — cooler, more mysterious, marked by its tendency to darken and tarnish over time into complex gray-black patinas."
+  },
+  "practical_notes": {
+    "toxicity": "metallic silver is non-toxic; silver compounds and soluble salts can be toxic; chronic ingestion of colloidal silver causes argyria (permanent blue-gray skin discoloration)",
+    "handling_notes": "Handle with clean dry hands or cotton gloves. Tarnishes from skin oils and sulfur compounds. Soft and easily scratched.",
+    "care_notes": "Store in anti-tarnish bags or with silica gel. Clean tarnish with appropriate silver polish or dilute ammonia solution. Avoid rubber contact (accelerates tarnish).",
+    "treatments_or_synthetics": [
+      "rhodium plating to prevent tarnish on jewelry silver",
+      "sterling silver (92.5% Ag) is the most common commercial alloy",
+      "fine silver (99.9% Ag) also common for bullion and some jewelry"
+    ],
+    "common_confusions": [
+      "arsenic (similar color, rarer native element)",
+      "platinum (heavier, more resistant to tarnish)",
+      "argentite/acanthite (silver sulfide ore — softer, darker)",
+      "white metals (tin, lead) superficially similar when tarnished"
+    ],
+    "market_notes": "Globally traded precious metal; spot price lower than gold per troy ounce. Collector specimens from Kongsberg and Cobalt highly valued. Industrial demand in electronics and photography significant."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "arsenic",
+      "platinum",
+      "acanthite"
+    ],
+    "related_species": [
+      "gold",
+      "copper",
+      "electrum",
+      "acanthite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "native-element",
+      "metal",
+      "precious",
+      "gold-group",
+      "hydrothermal",
+      "secondary",
+      "jewelry",
+      "currency",
+      "isometric"
+    ],
+    "search_boost_terms": [
+      "Ag",
+      "native silver",
+      "wire silver",
+      "arborescent silver",
+      "sterling silver",
+      "silver tarnish",
+      "kongsberg silver"
+    ],
+    "prompt_fragments": [
+      "twisted wire silver on black matrix",
+      "brilliant silver-white metallic gleam fading to tarnished gray",
+      "arborescent silver branches like frozen lightning"
+    ],
+    "ui_color_hint": [
+      "#C0C0C0",
+      "#A8A9AD",
+      "#E8E8E8"
+    ],
+    "priority_score": 88
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.9,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-3627.html",
+      "https://www.webmineral.com/data/Silver.shtml"
+    ],
+    "notes": ""
+  }
+}

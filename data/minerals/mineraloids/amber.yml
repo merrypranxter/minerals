@@ -1,0 +1,272 @@
+id: amber
+slug: amber
+display_name: Amber
+
+classification:
+  chemistry_class: organic
+  mineral_group: null
+  species_status: mineraloid
+  parent_species: null
+  related_varieties:
+    - baltic-amber
+    - dominican-amber
+    - burmese-amber
+    - copal
+    - succinite
+
+identifiers:
+  ima_status: n/a
+  mindat_id: 265
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "C10H16O (approximate succinic acid resin)"
+  simplified_formula: "C10H16O (approximate)"
+  essential_elements: [C, H, O]
+  trace_elements_common: [S, N, Fe]
+  structural_units:
+    - "Complex polymerized terpenoid resin (mostly labdanoid diterpene polymers)"
+    - "Succinic acid (diagnostic for Baltic amber / succinite): 3–8%"
+  atomic_structure_notes: "Not a mineral — no crystalline structure. Amber is fossilized, polymerized tree resin, largely polyisoprene and terpenoid polymers, cross-linked over millions of years. The polymerization and cross-linking distinguish amber from copal (younger, incompletely polymerized resin)."
+  chemistry_notes: "Composition varies by botanical origin and age. Baltic amber (succinite) contains 3–8% succinic acid — a diagnostic marker. Dominican and Burmese amber have different chemical profiles. Amber burns with a pleasant aromatic smell (organic material). Can be dissolved in organic solvents (ether, chloroform), unlike most minerals. Age range: several million years (copal) to over 100 million years (Burmese amber)."
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: ""
+  space_group: ""
+  unit_cell_notes: ""
+  twinning: ""
+  crystallography_notes: "Completely amorphous — organic polymer without crystalline structure. Sometimes confused with crystalline minerals due to apparent glassy fracture, but X-ray diffraction shows no crystal pattern."
+
+physical_properties:
+  mohs_hardness: "2–2.5"
+  specific_gravity: "1.05–1.096"
+  luster: [resinous]
+  streak: "white (soft enough to produce streak but organic)"
+  transparency: [transparent, translucent, opaque]
+  cleavage: [none]
+  fracture: [conchoidal, irregular]
+  tenacity: brittle
+  physical_notes: "Extremely low SG (1.05–1.096) — barely denser than water. Floats in saturated salt water (the traditional test to distinguish from glass and copal). Warm to the touch (poor thermal conductor, unlike stone). Burns with aromatic resinous smell. Becomes electrostatically charged when rubbed (earliest-known demonstration of electricity — Greek 'elektron' = amber). Softens at 150–180°C."
+
+appearance:
+  baseline_colors:
+    - yellow
+    - golden-yellow
+    - orange
+    - honey
+  color_profiles:
+    - name: Baltic Golden / Honey Amber
+      colors: [golden-yellow, amber-yellow, honey, orange-amber]
+      cause: "Oxidation and polymerization of original resin; iron oxide traces may deepen color."
+      conditions: "Most common Baltic amber color; Eocene-age (40–50 Ma) resin from extinct Pinaceae forest."
+      variety_name: baltic-amber
+    - name: Butterscotch / Opaque Amber
+      colors: [creamy-yellow, pale-orange, butterscotch]
+      cause: "Micro-bubbles of water and air trapped during resin flow; scattering makes amber opaque."
+      conditions: "Common variety of Baltic amber; some prized for uniform appearance."
+      variety_name: null
+    - name: Dominican Blue / Green Amber
+      colors: [blue, blue-green when viewed in reflected light; golden in transmitted light]
+      cause: "Fluorescent compounds (polycyclic aromatic hydrocarbons from combustion in ancient forest fires) producing strong blue fluorescence that dominates reflected light view."
+      conditions: "Dominican Republic amber — Miocene age (~15–40 Ma)."
+      variety_name: dominican-amber
+    - name: Red / Cherry Amber
+      colors: [deep-red, cherry-red, ox-blood]
+      cause: "Prolonged oxidation of surface or ancient oxidized material."
+      conditions: "Old or heat-treated Baltic amber; some natural red specimens."
+      variety_name: null
+    - name: Burmese Amber (Burmite)
+      colors: [deep-orange, red-orange, dark-brown]
+      cause: "Age (100+ Ma — oldest significant amber) and specific resin chemistry of ancient Araucarian trees."
+      conditions: "Myanmar (Burma) — Cretaceous; scientifically very important for inclusions."
+      variety_name: burmese-amber
+  habits:
+    - massive nodular
+    - irregular droplets and flows
+    - stalactitic (resin drips)
+    - rounded pebbles (beach/alluvial)
+  textures:
+    - smooth glassy interior
+    - weathered rough crust
+    - resinous
+    - translucent to opaque
+  macro_patterns:
+    - inclusions (bubbles, insects, plant matter)
+    - flow patterns and layering
+    - transparent zones alternating with cloudy
+  common_forms:
+    - rounded beach pebbles
+    - irregular nodular masses
+    - cabochons and carved forms
+    - beads
+    - raw resin nodules
+  visual_notes: "Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects."
+
+optical_and_special_effects:
+  fluorescence: "Significant fluorescence under UV — blue-white fluorescence common in Baltic amber; Dominican amber shows intense blue fluorescence (responsible for its blue color in daylight)"
+  phosphorescence: "Weak in some specimens"
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Dominican blue amber shows strong blue-green iridescence from fluorescence; some amber shows interference colors in reflected light"
+  pleochroism: "None (amorphous)"
+  optical_notes: "RI approximately 1.539–1.545. Isotropic (amorphous). Characteristically warm resinous luster. Inclusions clearly visible in transparent material; can be magnified for extraordinary detail."
+
+formation_and_occurrence:
+  genesis:
+    - organic (fossilized tree resin)
+    - sedimentary (reworked beach/alluvial accumulation)
+  geologic_environments:
+    - Eocene lignite and clay deposits (Baltic — Sambia)
+    - Miocene lacustrine sediments (Dominican Republic)
+    - Cretaceous sedimentary sequences (Myanmar/Burmite)
+    - coastal cliffs and beaches (reworked from primary deposits)
+    - alluvial gravels
+  host_rocks:
+    - lignite (brown coal)
+    - glauconitic marine sands (Baltic — 'blue earth')
+    - marine sediments (Dominican)
+    - fluvial sediments
+  associated_minerals:
+    - glauconite (Baltic)
+    - pyrite
+    - plant fossils
+    - lignite
+  locality_scope: worldwide but deposit-concentrated
+  notable_localities:
+    - "Sambia (Kaliningrad) Peninsula, Russia/Baltic — world's largest amber deposit (Baltic amber)"
+    - "Poland, Lithuania, Latvia, Estonia, Denmark (Baltic coast)"
+    - "La Toca and Palo Quemado, La Vega, Dominican Republic (Dominican amber)"
+    - "Hukawng Valley, Kachin State, Myanmar (Burmite — scientifically critical Cretaceous)"
+    - "New Jersey, USA (Cretaceous; limited)"
+    - "Sicily, Italy (simetite — rare Miocene amber)"
+    - "Lebanon (Cretaceous — some of oldest known)"
+  occurrence_notes: "Baltic amber (succinite) from the Sambia deposit represents the world's largest amber source, derived from ancient Eocene forests (~40–50 million years ago). The amber was transported and reworked by glacial and wave action — hence rounded beach pebbles along Baltic coasts. Burmese amber (Burmite) at 98–100 Ma is critical for paleontology — it preserves Cretaceous organisms including dinosaur-era feathers."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Leo (some traditions)"
+    - "Taurus (some traditions)"
+  historical_uses:
+    - "Jewelry and ornament since the Neolithic (>8000 years of use)"
+    - "Baltic trade — 'Amber Road' trading network from Baltic to Mediterranean"
+    - "Perfume and incense (burning amber produces aromatic smoke)"
+    - "Medicine (powdered succinic acid in folk medicine)"
+    - "Electrical experiments — first material in which static electricity was systematically studied"
+    - "Paleontological research — fossil inclusions in amber (paleoentomology, paleoecology)"
+    - "Varnish and lacquer (amber dissolved in turpentine)"
+  cultural_associations:
+    - "The original 'electricity' substance — Greek 'elektron' = amber (electrostatic charge)"
+    - "'Amber Road' ancient trade network linking Baltic to Mediterranean and Near East"
+    - "Lithuanian amber tradition — 'Lithuanian gold'"
+    - "Homer's Odyssey mentions amber necklaces as luxury gifts"
+    - "Ancient Egyptian and Mycenaean graves contain Baltic amber"
+    - "Viking amber jewelry and amulets"
+    - "Chinese and Japanese use of amber in Buddhist prayer beads and carvings"
+    - "Jurassic Park (1993) — Cretaceous DNA-from-amber concept (scientifically inaccurate but iconic)"
+  symbolism:
+    - preserved time
+    - solar energy fossilized
+    - memory and the past
+    - ancient warmth
+    - trapped life
+  folklore_notes: "Amber has been traded over long distances for at least 13,000 years — Baltic amber has been found in Egyptian and Mycenaean archaeological sites thousands of kilometers from its origin. The Greek myth explained amber as the tears of the Heliades (sisters of Phaëton) who were transformed into poplar trees and wept amber tears of grief. Romans so prized amber that it was more valuable than human slaves by some accounts. Thales of Miletus (~600 BCE) first documented amber's static electricity — planting the etymological seed of 'electricity.' The Amber Room of St. Petersburg (created 1701–1713) remains one of history's greatest lost treasures."
+
+interpretive_vibe:
+  mood_keywords:
+    - fossilized-sunlight
+    - deep-time-amber
+    - resin-memory
+    - prehistoric-warmth
+    - trapped-ancient-world
+  sensory_keywords:
+    - warm organic weight
+    - resinous aromatic
+    - smooth golden glow
+    - body-warm to touch
+  palette_keywords:
+    - Baltic-gold
+    - honey-amber
+    - deep-Dominican-blue
+    - butterscotch-opaque
+  aesthetic_roles:
+    - deep-time reference
+    - warm organic anchor
+    - ancient-trade-material
+    - inclusion-wonder element
+  vibe_notes: "Amber is fossilized time — sunlight from a forest that no longer exists, trapped in a matrix that still holds a 100-million-year-old insect at your fingertips. It is the original electrical material, the original trade gem, and one of the most emotionally warm stones in the collection."
+
+practical_notes:
+  toxicity: "Non-toxic in solid form. Burning amber produces smoke — avoid inhalation. Not a mineral dust hazard."
+  handling_notes: "Soft (Mohs 2–2.5) — scratched by fingernail with effort. Warm to touch. Avoid solvents (acetone, chloroform, ether — dissolve amber). Avoid prolonged heat exposure (softens above 150°C). Charged by rubbing."
+  care_notes: "Wipe with soft cloth; avoid harsh chemicals and solvents. Store away from direct sunlight (UV oxidizes surface). Do not expose to alcohol (perfumes, hand sanitizers). Keep away from heat sources. Polish with a soft cloth and a tiny bit of olive oil if surface becomes dull."
+  treatments_or_synthetics:
+    - "Pressed/reconstituted amber — fragments fused under heat and pressure; identified by flow structures and bubble alignment"
+    - "Copal — young resin (centuries to a few million years old) sold as amber; softer, different RI, dissolves in ether"
+    - "Plastic simulants (celluloid, Bakelite) — common and widespread; hot needle test (plastic smells acrid, amber smells resinous)"
+    - "Glass simulants — heavier, no UV fluorescence, cold to touch"
+    - "Inclusions faked in reconstituted amber or plastic"
+  common_confusions:
+    - "Copal (young resin — dissolves in ether; sticky surface; similar appearance)"
+    - "Plastic (higher SG; cold to touch; acrid smell when heated; no UV fluorescence)"
+    - "Glass (much heavier; cold to touch; no fluorescence; no inclusions)"
+    - "Pressed amber (flow structures in inclusions; bubble alignment)"
+    - "Citrine quartz (much harder; different SG; no fluorescence)"
+  market_notes: "Natural Baltic amber remains the dominant market. Dominican amber more expensive due to fluorescence and rarity. Burmese amber scientifically priceless but ethically controversial (conflict-zone sourcing). Insect and vertebrate inclusions command extreme premiums depending on species. Pressed/reconstituted amber widespread in low-end market."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - copal
+    - plastic
+    - citrine
+    - glass
+    - pressed-amber
+  related_species: []
+
+app_metadata:
+  tags:
+    - organic
+    - mineraloid
+    - amorphous
+    - fossilized-resin
+    - inclusions
+    - paleontology
+    - ancient-trade
+    - yellow
+    - orange
+    - warm
+    - high-priority
+  search_boost_terms:
+    - fossilized resin
+    - Baltic amber
+    - succinite
+    - amber inclusions
+    - insect in amber
+    - Jurassic Park amber
+    - Dominican blue amber
+    - Burmite
+    - ancient trade gem
+    - elektron
+  prompt_fragments:
+    - "Baltic honey-amber — 50-million-year-old sunlight in polymerized resin"
+    - "Burmese amber with Cretaceous insect inclusion — life suspended in ancient gold"
+    - "Dominican blue amber glowing cerulean under fluorescent light"
+  ui_color_hint:
+    - "#FFBF00"
+    - "#D4A017"
+    - "#C47A2B"
+  priority_score: 90
+
+provenance:
+  source_status: draft
+  completeness: 0.91
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-265.html"
+    - "https://www.gia.edu/amber"
+  notes: "Amber is organic/mineraloid — not a true mineral. Mindat includes it under organic minerals."

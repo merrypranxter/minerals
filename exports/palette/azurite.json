@@ -1,0 +1,68 @@
+{
+  "id": "azurite",
+  "display_name": "Azurite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#1E5799",
+    "#003399",
+    "#2244AA"
+  ],
+  "baseline_colors": [
+    "deep-blue",
+    "azure-blue",
+    "indigo-blue"
+  ],
+  "color_profiles": [
+    {
+      "name": "Azurite Blue",
+      "colors": [
+        "deep-azure-blue",
+        "royal-blue",
+        "vivid-blue",
+        "indigo"
+      ],
+      "variety_name": null,
+      "cause": "Cu2+ d-d electronic transition in distorted Jahn-Teller coordination; same chromophore mechanism as other blue copper minerals."
+    },
+    {
+      "name": "Azurmalachite",
+      "colors": [
+        "blue-green",
+        "teal",
+        "blue with green swirls"
+      ],
+      "variety_name": "azurmalachite",
+      "cause": "Intimate intergrowth of azurite (blue) and malachite (green)."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "tabular",
+    "equant",
+    "radiating",
+    "botryoidal",
+    "nodular",
+    "earthy",
+    "massive",
+    "rosette",
+    "acicular"
+  ],
+  "textures": [
+    "glassy (crystals)",
+    "earthy (massive)",
+    "velvety (fine-grained aggregates)"
+  ],
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "visual_notes": "Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy.",
+  "optical_effects": {
+    "fluorescence": "None typical",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

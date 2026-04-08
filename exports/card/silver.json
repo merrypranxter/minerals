@@ -1,0 +1,55 @@
+{
+  "id": "silver",
+  "slug": "silver",
+  "display_name": "Silver",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "gold-group",
+  "ima_status": "approved",
+  "formula": "Ag",
+  "mohs_hardness": "2.5–3",
+  "specific_gravity": "10.1–11.1",
+  "luster": [
+    "metallic"
+  ],
+  "streak": "silver-white",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "isometric",
+  "baseline_colors": [
+    "silver-white",
+    "gray",
+    "tarnished gray-black"
+  ],
+  "color_profiles_available": [
+    "Fresh Native Silver",
+    "Tarnished Silver"
+  ],
+  "habits": [
+    "arborescent",
+    "dendritic",
+    "wire",
+    "massive",
+    "scalenohedral crystals (rare)"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "native-element",
+    "metal",
+    "precious",
+    "gold-group",
+    "hydrothermal",
+    "secondary",
+    "jewelry",
+    "currency",
+    "isometric"
+  ],
+  "priority_score": 88,
+  "ui_color_hint": [
+    "#C0C0C0",
+    "#A8A9AD",
+    "#E8E8E8"
+  ]
+}

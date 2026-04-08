@@ -1,0 +1,80 @@
+{
+  "id": "rhodochrosite",
+  "display_name": "Rhodochrosite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#E8547A",
+    "#D4496B",
+    "#F2B4C0"
+  ],
+  "baseline_colors": [
+    "pink",
+    "rose-red",
+    "raspberry-red"
+  ],
+  "color_profiles": [
+    {
+      "name": "Raspberry / Crystal Rhodochrosite",
+      "colors": [
+        "raspberry-red",
+        "deep-pink",
+        "vivid-rose",
+        "scarlet-pink"
+      ],
+      "variety_name": "raspberry-rhodochrosite",
+      "cause": "High Mn content with minimal Fe/Ca dilution; Mn2+ d-d transition."
+    },
+    {
+      "name": "Inca Rose (Banded Stalactitic)",
+      "colors": [
+        "pale-pink",
+        "rose-pink",
+        "white",
+        "cream",
+        "orange-pink"
+      ],
+      "variety_name": "inca-rose",
+      "cause": "Alternating layers with varying Mn/Ca/Fe ratios; banding reflects changing fluid chemistry."
+    },
+    {
+      "name": "Orange-Brown Rhodochrosite",
+      "colors": [
+        "orange-pink",
+        "peach",
+        "salmon",
+        "brown-pink"
+      ],
+      "variety_name": null,
+      "cause": "Higher Fe substitution (toward siderite) diluting and warming the pink."
+    }
+  ],
+  "habits": [
+    "rhombohedral (curved faces)",
+    "scalenohedral",
+    "massive",
+    "stalactitic",
+    "botryoidal",
+    "granular",
+    "cleavage rhombs"
+  ],
+  "textures": [
+    "curved glassy faces",
+    "banded (stalactitic)",
+    "concentric layers",
+    "sugary massive"
+  ],
+  "luster": [
+    "vitreous",
+    "pearly",
+    "resinous"
+  ],
+  "visual_notes": "The banded 'Inca Rose' stalactitic form from Argentina — polished to reveal concentric pink-and-white rings — is one of the most recognized ornamental stone patterns in the gem world. Crystallized raspberry-red specimens from Colorado are among the most sought-after collector mineral specimens globally.",
+  "optical_effects": {
+    "fluorescence": "Weak; some specimens show pale pink or orange fluorescence under UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

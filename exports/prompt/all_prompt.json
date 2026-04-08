@@ -1,0 +1,2409 @@
+{
+  "format": "prompt",
+  "count": 46,
+  "minerals": [
+    {
+      "id": "agate",
+      "display_name": "Agate",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "multicolor-banded",
+        "white-gray-banded"
+      ],
+      "visual_notes": "Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls.",
+      "prompt_fragments": [
+        "concentric fortification banding in cross-section",
+        "earth-strata geologic calendar nodule",
+        "layered silica archive in waxy translucent bands"
+      ],
+      "mood_keywords": [
+        "geologic-calendar",
+        "layer-archive",
+        "earth-strata",
+        "terrestrial-pattern"
+      ],
+      "sensory_keywords": [
+        "layered",
+        "smooth",
+        "patterned",
+        "geological",
+        "cross-sectional"
+      ],
+      "palette_keywords": [
+        "earth-band",
+        "rust-layer",
+        "cream-white-ring",
+        "storm-gray-stratum",
+        "copper-oxide-ring"
+      ],
+      "aesthetic_roles": [
+        "earth-archive stone",
+        "topographic mineral",
+        "geologic cross-section specimen",
+        "texture library anchor"
+      ],
+      "vibe_notes": "Agate is a mineral calendar — each band a record of deposition. In cross-section it reads like geologic stratigraphy compressed into a hand-held nodule. The fortification pattern is one of the most compelling natural geometries.",
+      "symbolism": [
+        "stability",
+        "grounding",
+        "layered-time",
+        "earth-archive"
+      ],
+      "folklore_summary": "The name 'agate' is ancient, recorded by Theophrastus around 315 BCE. Believed to protect against storms, calm thirst, and bring luck in Greek and Roman traditions."
+    },
+    {
+      "id": "alexandrite",
+      "display_name": "Alexandrite",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "parent_species": "chrysoberyl",
+      "baseline_colors": [
+        "green (daylight)",
+        "red-purple (incandescent light)"
+      ],
+      "visual_notes": "Alexandrite is unique — a single stone with two identities. Under northern daylight or fluorescent light it is distinctly green; under incandescent (candle, tungsten) light it turns vivid red-purple. The best Russian specimens shift from 'emerald' to 'ruby' — an impossible color change nicknamed 'the emerald by day, ruby by night' gem. No other natural gemstone produces such a dramatic and complete color change.",
+      "prompt_fragments": [
+        "alexandrite: green under daylight, turning deep red-purple under incandescent bulb",
+        "Ural Mountains alexandrite — Tsar's gem shifting colors like Imperial Russia's uniform",
+        "emerald by day, ruby by night — the chromium paradox of chrysoberyl"
+      ],
+      "mood_keywords": [
+        "color-change-duality",
+        "imperial-Russian",
+        "emerald-by-day",
+        "ruby-by-night",
+        "chromium-paradox"
+      ],
+      "sensory_keywords": [
+        "shifting-color under different lights",
+        "cool-green transitions to warm-red",
+        "hard-and-paradoxical",
+        "Ural-cold-morning-fire"
+      ],
+      "palette_keywords": [
+        "emerald-green (daylight)",
+        "alexandrite-red (tungsten)",
+        "teal-to-crimson shift",
+        "Imperial-dual-tone"
+      ],
+      "aesthetic_roles": [
+        "color-change archetype",
+        "duality and paradox reference",
+        "Russian imperial mineral",
+        "trichroism showcase"
+      ],
+      "vibe_notes": "Alexandrite is the great paradox of gemology — one stone, two completely different identities, perfectly opposed. Green by day, red by night. The Russian gem named for a Tsar it would outlast by centuries. No other gem changes so completely.",
+      "symbolism": [
+        "duality and transformation",
+        "good luck and balanced opposing forces",
+        "Imperial Russia",
+        "mystery and hidden nature",
+        "June and summer solstice"
+      ],
+      "folklore_summary": "Alexandrite was officially discovered on April 17, 1834 — the 16th birthday of Crown Prince Alexander II of Russia, who would later become Tsar. The stone was named in his honor by mineralogist Nils Gustaf Nordenskiöld. Its green-and-red color change matched the military colors of Imperial Russia, m"
+    },
+    {
+      "id": "amber",
+      "display_name": "Amber",
+      "chemistry_class": "organic",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "baseline_colors": [
+        "yellow",
+        "golden-yellow",
+        "orange",
+        "honey"
+      ],
+      "visual_notes": "Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects.",
+      "prompt_fragments": [
+        "Baltic honey-amber — 50-million-year-old sunlight in polymerized resin",
+        "Burmese amber with Cretaceous insect inclusion — life suspended in ancient gold",
+        "Dominican blue amber glowing cerulean under fluorescent light"
+      ],
+      "mood_keywords": [
+        "fossilized-sunlight",
+        "deep-time-amber",
+        "resin-memory",
+        "prehistoric-warmth",
+        "trapped-ancient-world"
+      ],
+      "sensory_keywords": [
+        "warm organic weight",
+        "resinous aromatic",
+        "smooth golden glow",
+        "body-warm to touch"
+      ],
+      "palette_keywords": [
+        "Baltic-gold",
+        "honey-amber",
+        "deep-Dominican-blue",
+        "butterscotch-opaque"
+      ],
+      "aesthetic_roles": [
+        "deep-time reference",
+        "warm organic anchor",
+        "ancient-trade-material",
+        "inclusion-wonder element"
+      ],
+      "vibe_notes": "Amber is fossilized time — sunlight from a forest that no longer exists, trapped in a matrix that still holds a 100-million-year-old insect at your fingertips. It is the original electrical material, the original trade gem, and one of the most emotionally warm stones in the collection.",
+      "symbolism": [
+        "preserved time",
+        "solar energy fossilized",
+        "memory and the past",
+        "ancient warmth",
+        "trapped life"
+      ],
+      "folklore_summary": "Amber has been traded over long distances for at least 13,000 years — Baltic amber has been found in Egyptian and Mycenaean archaeological sites thousands of kilometers from its origin. The Greek myth explained amber as the tears of the Heliades (sisters of Phaëton) who were transformed into poplar "
+    },
+    {
+      "id": "amethyst",
+      "display_name": "Amethyst",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "purple",
+        "violet",
+        "lavender"
+      ],
+      "visual_notes": "Amethyst geodes from Brazil and Uruguay are among the most recognizable mineral display specimens globally. Hollow cavite filled with violet crystals pointing inward. The finest deep Siberian-grade material shows a red flash under incandescent light. Color zoning in angular patterns is characteristic and diagnostic.",
+      "prompt_fragments": [
+        "amethyst geode cross-section — violet crystal cathedral in basalt egg",
+        "deep Siberian amethyst with red flash under incandescent light",
+        "Dionysus purple: iron-radiation alchemy crystallized in quartz"
+      ],
+      "mood_keywords": [
+        "grape-cathedral",
+        "dionysus-purple",
+        "episcopal-royal",
+        "radiation-alchemy",
+        "geode-interior"
+      ],
+      "sensory_keywords": [
+        "cool-violet",
+        "crystalline cluster",
+        "grape-purple",
+        "February-calm"
+      ],
+      "palette_keywords": [
+        "deep-Siberian-violet",
+        "lavender-rose-de-france",
+        "geode-purple",
+        "reddish-purple flash"
+      ],
+      "aesthetic_roles": [
+        "February birthstone anchor",
+        "purple royalty reference",
+        "geode aesthetic centerpiece",
+        "Dionysiac ritual reference"
+      ],
+      "vibe_notes": "Amethyst is the purple of wine, prayer, and power — used by bishops, kings, and Dionysus worshippers alike. A geode of amethyst is a cathedral floor inside a stone egg: thousands of violet crystals pointing inward at nothing and everything.",
+      "symbolism": [
+        "sobriety and clear thinking",
+        "spiritual wisdom",
+        "royalty and nobility",
+        "February's protection",
+        "tranquility and meditation"
+      ],
+      "folklore_summary": "The name 'amethyst' comes from Greek 'amethystos' (not intoxicated). Greek myth: Dionysus, god of wine, pursued a maiden named Amethystos who prayed to the goddess Artemis for protection; Artemis turned her to white quartz. Dionysus, repentant, poured wine over the crystal — turning it purple. Ancie"
+    },
+    {
+      "id": "aquamarine",
+      "display_name": "Aquamarine",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "beryl",
+      "baseline_colors": [
+        "pale-blue",
+        "blue-green",
+        "blue"
+      ],
+      "visual_notes": "Aquamarine is the sea captured in hexagonal beryl — pale to deep blue with the clarity of tropical water. The Dom Pedro aquamarine (Smithsonian, carved by Bernd Munsteiner) is the largest faceted aquamarine in the world (10,363 ct). Long prismatic crystal form with striated faces is characteristic of large rough specimens.",
+      "prompt_fragments": [
+        "aquamarine hexagonal prism — tropical sea-blue iron beryl from Brazil",
+        "Santa Maria deep-blue: compressed Atlantic light in beryllium silicate",
+        "sailor's gemstone — blue water clarity in Mohs-8 crystal"
+      ],
+      "mood_keywords": [
+        "sea-glass-clarity",
+        "tropical-water-blue",
+        "sailor-talisman",
+        "iron-sky-light",
+        "clear-ocean-prism"
+      ],
+      "sensory_keywords": [
+        "cool sea-blue",
+        "clear transparent weight",
+        "calm and steady",
+        "water-held-in-crystal"
+      ],
+      "palette_keywords": [
+        "Santa-Maria-blue",
+        "pale-sky-aqua",
+        "sea-glass-teal",
+        "tropical-water-blue"
+      ],
+      "aesthetic_roles": [
+        "sea-color anchor",
+        "March gem reference",
+        "clarity and calm metaphor",
+        "large-crystal showcase"
+      ],
+      "vibe_notes": "Aquamarine is the color of shallow tropical sea over white sand — pale to deep blue-green, vitreous clear, the hexagonal form of ocean. The Dom Pedro obelisk in the Smithsonian is an 18-inch tower of the stuff. Sailors carried it for calm and protection. It still has that quality: cool, honest, clarifying.",
+      "symbolism": [
+        "the sea",
+        "safe voyages",
+        "clarity and calm",
+        "communication and truth",
+        "March and early spring"
+      ],
+      "folklore_summary": "Ancient mariners believed aquamarine was the sacred gemstone of mermaids, cast up from the sea floor. Carrying aquamarine on a sea voyage was thought to bring calm seas, prevent seasickness, and protect against drowning. In Roman tradition it was sacred to Neptune. The association with water, clarit"
+    },
+    {
+      "id": "azurite",
+      "display_name": "Azurite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "deep-blue",
+        "azure-blue",
+        "indigo-blue"
+      ],
+      "visual_notes": "Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy.",
+      "prompt_fragments": [
+        "deep azure radiating rosettes on copper-stained gossan matrix",
+        "azurmalachite swirl — blue fire meeting green venom",
+        "medieval painter's pigment ground from vivid copper-heaven blue"
+      ],
+      "mood_keywords": [
+        "copper-heaven",
+        "azurite-depth",
+        "medieval-pigment",
+        "celestial-blue",
+        "oxidized-brilliance"
+      ],
+      "sensory_keywords": [
+        "cold-blue-weight",
+        "velvet-crust",
+        "radiating-cobalt",
+        "deep-cave-blue"
+      ],
+      "palette_keywords": [
+        "royal-azure",
+        "lapis-rival",
+        "midnight-copper-blue",
+        "teal-edge"
+      ],
+      "aesthetic_roles": [
+        "intense-blue accent",
+        "pigment-history reference",
+        "copper-mineral jewel",
+        "deep celestial color anchor"
+      ],
+      "vibe_notes": "Azurite is blue fire from copper chemistry — secondary, unstable, perpetually converting to malachite. The medieval painters who ground it to pigment knew it would fade and green. That fragility is part of its identity.",
+      "symbolism": [
+        "heaven",
+        "insight",
+        "the sky above Egypt",
+        "depth and mystery",
+        "copper-fire blue"
+      ],
+      "folklore_summary": "In medieval Europe, azurite was called 'azzurrum' and was ground to produce blue paint; it was one of the few ways to achieve true blue before synthetic pigments. Many old paintings now show greenish skies where azurite has converted to malachite due to moisture exposure over centuries. Ancient Egyp"
+    },
+    {
+      "id": "beryl",
+      "display_name": "Beryl",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "colorless",
+        "white"
+      ],
+      "visual_notes": "Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals.",
+      "prompt_fragments": [
+        "hexagonal beryl prism in forest green",
+        "aquamarine sea-glass clarity",
+        "morganite rose-peach pegmatite gem",
+        "emerald jardin vivid green"
+      ],
+      "mood_keywords": [
+        "cyclosilicate-palace",
+        "deep-prism",
+        "beryllium-rainbow",
+        "gem-spectrum",
+        "hexagonal-order"
+      ],
+      "sensory_keywords": [
+        "glassy",
+        "prismatic",
+        "cool",
+        "clear",
+        "saturated"
+      ],
+      "palette_keywords": [
+        "emerald-green",
+        "aqua-blue",
+        "morganite-rose",
+        "heliodor-gold",
+        "goshenite-clear"
+      ],
+      "aesthetic_roles": [
+        "gem-spectrum anchor",
+        "prismatic column mineral",
+        "color variety showcase",
+        "beryllium rarity marker"
+      ],
+      "vibe_notes": "Beryl is a color-variety powerhouse — a single species that spans the gem rainbow from green to blue to pink to gold, all from trace chromophore swaps in the same hexagonal prism lattice.",
+      "symbolism": [
+        "clarity",
+        "rebirth",
+        "spring",
+        "vision",
+        "sea-voyage"
+      ],
+      "folklore_summary": "Ancient legend held that wearing an emerald could reveal truth — placing it under the tongue would supposedly make a person speak truthfully. Aquamarine was believed to be the treasure of mermaids."
+    },
+    {
+      "id": "calcite",
+      "display_name": "Calcite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "colorless",
+        "white",
+        "gray"
+      ],
+      "visual_notes": "Calcite's extraordinary morphological diversity makes it among the most recognizable minerals despite no single defining habit. Clear Iceland spar shows remarkable double refraction — images appear doubled. Dogtooth clusters are among the most architecturally beautiful mineral specimens.",
+      "prompt_fragments": [
+        "dogtooth scalenohedral calcite — pale gold clusters on dark matrix",
+        "Iceland spar rhombohedron doubling every letter beneath it",
+        "cave stalactite drip-built calcite — slow geometry",
+        "mangano-calcite pink in hydrothermal veins"
+      ],
+      "mood_keywords": [
+        "crystalline-foundation",
+        "cave-architecture",
+        "morphological-diversity",
+        "ghost-clarity",
+        "civilization-stone"
+      ],
+      "sensory_keywords": [
+        "cool-smooth-cleavage",
+        "acid-fizz-in-the-hand",
+        "doubled-image-refraction",
+        "cave-drip-slow"
+      ],
+      "palette_keywords": [
+        "Iceland-clear",
+        "mangano-pink",
+        "amber-honey",
+        "chalk-white",
+        "travertine-cream"
+      ],
+      "aesthetic_roles": [
+        "foundation mineral",
+        "cave-architecture element",
+        "clarity and light reference",
+        "warm-toned accent crystal"
+      ],
+      "vibe_notes": "Calcite is the mineral that built civilization's monuments and floors its caves with crystal cathedrals. It reacts with acid — a rare dramatic chemistry demonstration in geology. The most morphologically diverse mineral on Earth; no two habits look alike.",
+      "symbolism": [
+        "clarity",
+        "structure",
+        "foundation",
+        "purity",
+        "amplification"
+      ],
+      "folklore_summary": "Iceland spar's double refraction fascinated early scientists — it was central to Huygens' (1690) wave theory of light and was used in early polarimetry. Some researchers have proposed Viking navigators used Iceland spar to locate the sun in cloudy Arctic skies, though evidence remains debated. Calci"
+    },
+    {
+      "id": "celestite",
+      "display_name": "Celestite",
+      "chemistry_class": "sulfate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "pale-blue",
+        "colorless",
+        "white"
+      ],
+      "visual_notes": "Madagascar celestite geodes — hollow limestone nodules lined with pale-blue tabular crystals — are among the most widely sold mineral specimens globally. The celestial blue color is gentle and consistent. Crystals often have a translucent quality with pearly luster on cleavage surfaces.",
+      "prompt_fragments": [
+        "Madagascar celestite geode — hollow limestone cave of sky-blue tabular crystals",
+        "pale celestial-blue orthorhombic clusters — heaven's palette in strontium sulfate",
+        "pearly-blue celestite tabular crystal with pearlescent cleavage"
+      ],
+      "mood_keywords": [
+        "celestial-blue",
+        "heaven-name",
+        "sky-crystal-cave",
+        "Madagascar-geode",
+        "strontium-sky"
+      ],
+      "sensory_keywords": [
+        "pale cool blue",
+        "pearly translucent",
+        "delicate tabular cluster",
+        "sky-inside-stone"
+      ],
+      "palette_keywords": [
+        "sky-blue-pale",
+        "ice-cerulean",
+        "pearly-celestial",
+        "cloud-blue"
+      ],
+      "aesthetic_roles": [
+        "gentle blue display mineral",
+        "celestial/angelic reference",
+        "geode interior aesthetic",
+        "Madagascar provenance marker"
+      ],
+      "vibe_notes": "Celestite holds the color of open sky inside a limestone cave. The name is fitting — pale blue, pearly, translucent, quiet. Madagascar geodes are small sky-caverns. A gentle mineral with a celestial aspiration.",
+      "symbolism": [
+        "heaven and the sky",
+        "celestial communication",
+        "angelic connection",
+        "clarity and peace"
+      ],
+      "folklore_summary": "The name 'celestite' or 'celestine' comes from Latin 'caelestis' (heavenly) — a reference to the pale sky-blue color. The element strontium was first isolated from celestite and strontianite found near Strontian, a village in Argyll, Scotland — giving the element its name. Madagascar's Sakoany celes"
+    },
+    {
+      "id": "chalcedony",
+      "display_name": "Chalcedony",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "white",
+        "gray",
+        "pale-blue"
+      ],
+      "visual_notes": "Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz.",
+      "prompt_fragments": [
+        "waxy translucent microcrystalline silica",
+        "smooth ghost-white blue chalcedony surface",
+        "botryoidal cave-milk formations"
+      ],
+      "mood_keywords": [
+        "cave-milk",
+        "smooth-tension",
+        "ghost-layer",
+        "cool-surface"
+      ],
+      "sensory_keywords": [
+        "smooth",
+        "waxy",
+        "cool-to-touch",
+        "translucent",
+        "soft-glowing"
+      ],
+      "palette_keywords": [
+        "blue-gray",
+        "pale-ghost-white",
+        "warm-orange",
+        "apple-green",
+        "cream"
+      ],
+      "aesthetic_roles": [
+        "ghost stone",
+        "smooth backdrop mineral",
+        "ancient seal material",
+        "palette chameleon"
+      ],
+      "vibe_notes": "Chalcedony reads as quiet, cool, and internally lit. The waxy surface has a specific tactile quality — smooth and almost skin-like. The blue form evokes fog, still water, and negative space.",
+      "symbolism": [
+        "protection",
+        "endurance",
+        "calm",
+        "clarity"
+      ],
+      "folklore_summary": "Carnelian (a chalcedony variety) was one of the most important gem materials of the ancient world, used in amulets, seals, and jewelry across Egypt, Mesopotamia, and Rome."
+    },
+    {
+      "id": "chrysocolla",
+      "display_name": "Chrysocolla",
+      "chemistry_class": "silicate",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "baseline_colors": [
+        "cyan",
+        "blue-green",
+        "turquoise-blue"
+      ],
+      "visual_notes": "The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens.",
+      "prompt_fragments": [
+        "vivid cyan chrysocolla crust on copper ore",
+        "earthy blue-green mineraloid in oxidation zone",
+        "gem-silica translucent aqua cabochon",
+        "copper patina mineral decay blue"
+      ],
+      "mood_keywords": [
+        "drowned-city",
+        "aqua-decay",
+        "copper-patina",
+        "tropical-ruin",
+        "oxidation-bloom"
+      ],
+      "sensory_keywords": [
+        "earthy",
+        "waxy",
+        "cool-cyan",
+        "soft",
+        "humid"
+      ],
+      "palette_keywords": [
+        "electric-cyan",
+        "verdigris",
+        "copper-teal",
+        "malachite-neighbor",
+        "aqua-blue"
+      ],
+      "aesthetic_roles": [
+        "copper oxidation showcase",
+        "cyan anchor mineral",
+        "secondary deposit color",
+        "patina mineral"
+      ],
+      "vibe_notes": "Chrysocolla is the color of patinated copper — a vivid, slightly decayed cyan that evokes wet tropical ruins and ocean-floor chemistry. Its softness and mineraloid nature give it an impermanence that contrasts with its brilliant color.",
+      "symbolism": [
+        "communication",
+        "water",
+        "copper-earth",
+        "turquoise-kin"
+      ],
+      "folklore_summary": "The ancient Greek name means 'gold solder' — reflecting its actual historical use as a flux material in gold soldering. In modern crystal markets it is often conflated with turquoise due to color similarity."
+    },
+    {
+      "id": "citrine",
+      "display_name": "Citrine",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "yellow",
+        "golden-yellow",
+        "orange-yellow"
+      ],
+      "visual_notes": "Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms.",
+      "prompt_fragments": [
+        "Madeira citrine: cognac-amber hexagonal quartz — warm iron-glow",
+        "golden citrine faceted cushion — Art Deco sunshine in quartz",
+        "November amber warmth in SiO2 — heated amethyst becomes solar"
+      ],
+      "mood_keywords": [
+        "autumn-golden",
+        "warm-solar-quartz",
+        "Madeira-amber",
+        "merchant-prosperity",
+        "November-warmth"
+      ],
+      "sensory_keywords": [
+        "warm golden glow",
+        "amber-honey color",
+        "clear-warm weight",
+        "autumn-light"
+      ],
+      "palette_keywords": [
+        "lemon-yellow",
+        "madeira-cognac-orange",
+        "golden-amber",
+        "honey-warm-quartz"
+      ],
+      "aesthetic_roles": [
+        "warm yellow gem anchor",
+        "Art Deco reference",
+        "November birthstone element",
+        "solar warmth color"
+      ],
+      "vibe_notes": "Citrine is bottled autumn sunlight — the yellow-to-amber warmth of October afternoons in crystalline quartz. Madeira citrine burns like cognac held up to candlelight. The Art Deco period knew what to do with it.",
+      "symbolism": [
+        "warmth and sunshine",
+        "abundance and prosperity",
+        "clarity and positivity",
+        "November and autumn",
+        "creative energy"
+      ],
+      "folklore_summary": "Citrine has been confused with topaz throughout most of gem history — 'Spanish topaz,' 'Brazilian topaz,' and 'Madeira topaz' were all actually citrine. The confusion was only definitively resolved in the early 20th century. In contemporary crystal culture, citrine is heavily associated with prosper"
+    },
+    {
+      "id": "copper",
+      "display_name": "Copper",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "copper-red",
+        "orange-red",
+        "brown (oxidized)",
+        "blue-green (weathered)"
+      ],
+      "visual_notes": "Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits.",
+      "prompt_fragments": [
+        "copper-red arborescent mass with blue-green malachite bloom",
+        "wiry dendritic copper on basalt matrix",
+        "warm metallic red fading to verdigris teal"
+      ],
+      "mood_keywords": [
+        "primal-metal",
+        "oxidation-spectrum",
+        "archaic-technology",
+        "warm-metallic"
+      ],
+      "sensory_keywords": [
+        "warm penny smell",
+        "verdigris bloom",
+        "heat-conducting warmth",
+        "ancient tang"
+      ],
+      "palette_keywords": [
+        "raw copper-red",
+        "verdigris teal",
+        "oxidized bronze",
+        "patina green"
+      ],
+      "aesthetic_roles": [
+        "earthy warmth anchor",
+        "patina-beauty reference",
+        "industrial-ancient bridge",
+        "tonal contrast with blue-green secondary minerals"
+      ],
+      "vibe_notes": "Copper is the first chapter of human metallurgy — warm, workable, transformative. Its slow oxidation into blues and greens is one of nature's most beautiful chemical reactions.",
+      "symbolism": [
+        "technology and progress",
+        "warmth and earthiness",
+        "the dawn of metallurgy",
+        "conductivity and connection"
+      ],
+      "folklore_summary": "The word 'copper' derives from Latin 'cuprum', itself from Greek 'Kuprios' meaning 'of Cyprus', where copper was extensively mined in antiquity. Copper was the first metal systematically worked by humans, defining the Chalcolithic period. The Lake Superior copper deposits in Michigan supported one o"
+    },
+    {
+      "id": "corundum",
+      "display_name": "Corundum",
+      "chemistry_class": "oxide",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "gray",
+        "brown",
+        "colorless"
+      ],
+      "visual_notes": "Gem-quality crystals prized as ruby and sapphire. Non-gem material is gray-brown and often massive. Silk inclusions produce asterism in star rubies and sapphires.",
+      "prompt_fragments": [
+        "barrel-shaped trigonal corundum crystals",
+        "chromium fire of ruby red",
+        "midnight blue of sapphire iron-titanium charge transfer",
+        "six-rayed asterism from silk inclusions"
+      ],
+      "mood_keywords": [
+        "extreme-hardness",
+        "chromium-fire",
+        "sapphire-night",
+        "crystallographic-pinnacle",
+        "royal-depth"
+      ],
+      "sensory_keywords": [
+        "gemstone-brilliance",
+        "six-rayed-star",
+        "silky-asterism",
+        "blood-red",
+        "midnight-blue"
+      ],
+      "palette_keywords": [
+        "pigeon-blood-red",
+        "cornflower-blue",
+        "golden-yellow",
+        "salmon-padparadscha",
+        "steel-gray"
+      ],
+      "aesthetic_roles": [
+        "apex gemstone",
+        "hardness benchmark",
+        "chromatic extremes",
+        "crown-jewel mineral"
+      ],
+      "vibe_notes": "Corundum occupies the extreme end of mineral hardness and gem value. Ruby and sapphire represent fire and sky — the two poles of corundum's chromatic identity.",
+      "symbolism": [
+        "passion",
+        "royalty",
+        "fidelity",
+        "protection",
+        "wisdom"
+      ],
+      "folklore_summary": "Rubies were called 'ratnaraj' (king of gems) in Sanskrit texts. Sapphire was associated with divine favor in medieval European Christianity."
+    },
+    {
+      "id": "diamond",
+      "display_name": "Diamond",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "colorless",
+        "yellow",
+        "brown",
+        "gray",
+        "black (carbonado)"
+      ],
+      "visual_notes": "Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite.",
+      "prompt_fragments": [
+        "octahedral rough diamond with adamantine luster and trigon etch pits",
+        "prism-clear light prison — cold fire and spectral flashes",
+        "kimberlite blue ground yielding crystallographic perfection"
+      ],
+      "mood_keywords": [
+        "supreme-hardness",
+        "light-prison",
+        "crystallographic-perfection",
+        "cold-fire"
+      ],
+      "sensory_keywords": [
+        "ice-cold to touch (extreme thermal conductivity)",
+        "scintillating light scatter",
+        "razor-sharp geometry",
+        "silent brilliance"
+      ],
+      "palette_keywords": [
+        "prism-white",
+        "adamantine clarity",
+        "spectral fire",
+        "void-clarity"
+      ],
+      "aesthetic_roles": [
+        "ultimate light-play gemstone",
+        "perfection archetype",
+        "cold luxury anchor",
+        "rainbow dispersion element"
+      ],
+      "vibe_notes": "Diamond is crystallographic perfection distilled from the Earth's mantle. It holds light like a prison — refracting, dispersing, returning it transformed. The hardest thing on Earth, yet cleavable with a single skilled blow.",
+      "symbolism": [
+        "eternal love and commitment",
+        "invincibility and strength (Sanskrit: vajra)",
+        "clarity and truth",
+        "wealth and status",
+        "perfection and completeness",
+        "April's promise"
+      ],
+      "folklore_summary": "Diamond's name comes from Greek 'adamas' (unconquerable). Ancient Indians recognized diamond's hardness millennia before European contact. Hindu mythology associates vajra (diamond thunderbolt) with Indra's weapon. Medieval Europeans believed diamonds were tears of gods or splinters of stars. The De"
+    },
+    {
+      "id": "emerald",
+      "display_name": "Emerald",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "beryl",
+      "baseline_colors": [
+        "vivid-green",
+        "deep-green",
+        "bluish-green"
+      ],
+      "visual_notes": "Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone.",
+      "prompt_fragments": [
+        "Colombian emerald hexagonal prism — vivid chromium green with jardin inclusions",
+        "Muzo mine: hydrothermal green from black shale, spring-vivid Cr3+",
+        "Cleopatra's mine: 2000 years of green from Egypt's Eastern Desert"
+      ],
+      "mood_keywords": [
+        "Cleopatra-green",
+        "vivid-Cr-jungle",
+        "jardin-within",
+        "Colombian-vein-green",
+        "spring-archetype"
+      ],
+      "sensory_keywords": [
+        "saturated-cool-green",
+        "included-garden",
+        "heavy-hexagonal",
+        "deep-tropical"
+      ],
+      "palette_keywords": [
+        "Colombian-vivid-green",
+        "Zambian-deep-green",
+        "bluish-teal-emerald",
+        "spring-renewal-green"
+      ],
+      "aesthetic_roles": [
+        "May birthstone anchor",
+        "vivid green luxury reference",
+        "included-beauty archetype",
+        "ancient sacred gem"
+      ],
+      "vibe_notes": "Emerald is living green crystallized — the color of growth, deep jungle, and spring. Its jardin is not imperfection but biography — three-phase Colombian inclusions tell the story of the hydrothermal fluid that made it. The finest stones have a depth that no synthetic can replicate.",
+      "symbolism": [
+        "spring and rebirth",
+        "Venus and love",
+        "wisdom and prophecy",
+        "abundance and fertility",
+        "May's promise"
+      ],
+      "folklore_summary": "Cleopatra's Mines in Egypt's Eastern Desert were the world's primary emerald source for Roman civilization. The Aztec god Quetzalcoatl was said to reside in emeralds; large emeralds were among the most sacred objects in pre-Columbian Mesoamerica — the Spanish conquest of Peru looted crystals the siz"
+    },
+    {
+      "id": "fire-opal",
+      "display_name": "Fire Opal",
+      "chemistry_class": "mineraloid",
+      "species_status": "variety",
+      "parent_species": "opal",
+      "baseline_colors": [
+        "orange",
+        "red-orange",
+        "yellow",
+        "red"
+      ],
+      "visual_notes": "Fire opal's vivid orange-to-red body color makes it the only facetable opal variety (when transparent). The color evokes live flame, molten metal, and sunset. In Mexico it is called 'piedra de fuego' (stone of fire) and was sacred to the Aztecs as a symbol of Huitzilopochtli.",
+      "prompt_fragments": [
+        "transparent Mexican fire opal — concentrated sunlight in amorphous silica",
+        "Querétaro orange — volcanic glass holding warm flame",
+        "Aztec sacred fire-bird stone in vivid orange"
+      ],
+      "mood_keywords": [
+        "volcanic-fire",
+        "aztec-hummingbird",
+        "molten-glass-orange",
+        "transparent-flame",
+        "Querétaro-light"
+      ],
+      "sensory_keywords": [
+        "warm-vivid-orange",
+        "transparent-glowing",
+        "volcanic-hot",
+        "faceted-fire"
+      ],
+      "palette_keywords": [
+        "Querétaro-orange",
+        "flame-amber",
+        "red-volcanic-glass",
+        "honey-fire"
+      ],
+      "aesthetic_roles": [
+        "warm fire accent",
+        "Mesoamerican sacred reference",
+        "transparent orange gem",
+        "volcanic color anchor"
+      ],
+      "vibe_notes": "Fire opal is concentrated solar energy in amorphous silica — orange-red volcanic glass that holds the color of fire without being consumed by it. It has none of the spectral mystery of black opal; instead it confronts you with pure warm chromatic intensity.",
+      "symbolism": [
+        "fire and passion",
+        "solar energy",
+        "creativity and desire",
+        "the hummingbird spirit",
+        "Mexican cultural identity"
+      ],
+      "folklore_summary": "Aztec civilization held fire opal sacred — the 'stone of the fire bird' associated with the hummingbird avatar of Huitzilopochtli. The Spanish conquest brought fire opal to Europe, where it was considered an exotic curiosity but never achieved the commercial success of the later Australian market. M"
+    },
+    {
+      "id": "fluorite",
+      "display_name": "Fluorite",
+      "chemistry_class": "halide",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "colorless",
+        "purple",
+        "green"
+      ],
+      "visual_notes": "One of the best minerals for geometric crystal logic and surreal color zoning.",
+      "prompt_fragments": [
+        "translucent cubic crystal zoning",
+        "acid-violet fluorite geometry",
+        "UV-reactive candy mineral"
+      ],
+      "mood_keywords": [
+        "neon-cube",
+        "spectral-order",
+        "ultraviolet-dream",
+        "crystalline-candy",
+        "geometric-lucidity"
+      ],
+      "sensory_keywords": [
+        "cool",
+        "bright",
+        "glass-sugar",
+        "soft-glow"
+      ],
+      "palette_keywords": [
+        "electric-violet",
+        "acid-green",
+        "champagne-gold",
+        "ghost-blue"
+      ],
+      "aesthetic_roles": [
+        "geometry crystal",
+        "UV crystal",
+        "color-zoning star",
+        "candy-mineral"
+      ],
+      "vibe_notes": "Great for apps that need cubes, zones, fluorescence, or impossible-looking candy color.",
+      "symbolism": [],
+      "folklore_summary": ""
+    },
+    {
+      "id": "gold",
+      "display_name": "Gold",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "golden-yellow",
+        "pale-yellow",
+        "orange-yellow"
+      ],
+      "visual_notes": "Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally.",
+      "prompt_fragments": [
+        "warm golden metallic luster",
+        "dendritic wire gold on white quartz matrix",
+        "nugget worn smooth by placer water"
+      ],
+      "mood_keywords": [
+        "titan-gold",
+        "ancient-wealth",
+        "solar-alchemy",
+        "incandescent-metal"
+      ],
+      "sensory_keywords": [
+        "heavy in the hand",
+        "warm gleam",
+        "burnished glow",
+        "sun-drenched"
+      ],
+      "palette_keywords": [
+        "deep aureate",
+        "burnished gold",
+        "solar yellow",
+        "warm ochre"
+      ],
+      "aesthetic_roles": [
+        "luxury accent",
+        "warm metallic anchor",
+        "ancient opulence reference",
+        "solar motif"
+      ],
+      "vibe_notes": "Gold carries the weight of ten thousand years of human desire. It is simultaneously primordial and modern, terrestrial and cosmic.",
+      "symbolism": [
+        "solar energy",
+        "incorruptibility",
+        "divine favor",
+        "wealth",
+        "perfection",
+        "eternity"
+      ],
+      "folklore_summary": "Gold has been considered sacred across virtually every ancient civilization. The alchemical pursuit of turning base metals into gold (chrysopoeia) dominated medieval science. Ancient Egyptians considered gold the flesh of the gods. In Hindu tradition, gold is associated with Lakshmi and prosperity. "
+    },
+    {
+      "id": "graphite",
+      "display_name": "Graphite",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "black",
+        "dark-gray",
+        "steel-gray"
+      ],
+      "visual_notes": "Unmistakable greasy feel and extremely dark matte-black color. Marks paper and skin readily. Steel-gray metallic luster on fresh cleavage faces. Often found as disseminated flakes or foliated masses in metamorphic rocks.",
+      "prompt_fragments": [
+        "foliated dark graphite plates with greasy metallic sheen",
+        "matte black scaly graphite in white marble matrix",
+        "carbon's humble terrestrial form — dark and slippery"
+      ],
+      "mood_keywords": [
+        "carbon-void",
+        "dark-lattice",
+        "primordial-carbon",
+        "matte-eclipse"
+      ],
+      "sensory_keywords": [
+        "greasy slide on paper",
+        "dark smudge",
+        "hexagonal molecular layering",
+        "matte-black absorption"
+      ],
+      "palette_keywords": [
+        "graphite black",
+        "slate gray",
+        "carbon dark",
+        "matte charcoal"
+      ],
+      "aesthetic_roles": [
+        "dark neutral anchor",
+        "industrial texture reference",
+        "carbon duality (with diamond)",
+        "matte contrast element"
+      ],
+      "vibe_notes": "Graphite is diamond's humble alter ego — same element, opposite outcome. Where diamond captures and refracts, graphite absorbs and slides. It is carbon in its most pragmatic, terrestrial form.",
+      "symbolism": [
+        "darkness and hidden form",
+        "carbon's humble guise",
+        "the unrecognized twin of diamond",
+        "utility over glamour"
+      ],
+      "folklore_summary": "Graphite was initially called 'plumbago' (black lead) when discovered in Borrowdale in the 1560s — mistaken for a form of lead. The Borrowdale deposit was so pure and massive it could be sawn into sticks directly for writing, and so valuable that miners were searched leaving the mines. Graphite and "
+    },
+    {
+      "id": "hematite",
+      "display_name": "Hematite",
+      "chemistry_class": "oxide",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "red-brown",
+        "black",
+        "silver-gray"
+      ],
+      "visual_notes": "One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens.",
+      "prompt_fragments": [
+        "mirror-bright specular hematite plates",
+        "red ochre ancient pigment dust",
+        "botryoidal kidney ore cross-section",
+        "iron rose rosette from Alpine fissure"
+      ],
+      "mood_keywords": [
+        "blood-iron",
+        "ancient-pigment",
+        "red-earth",
+        "iron-mirror",
+        "primordial-color"
+      ],
+      "sensory_keywords": [
+        "mirror-silver",
+        "red-dust",
+        "heavy",
+        "metallic-cold",
+        "ochre-warmth"
+      ],
+      "palette_keywords": [
+        "iron-red",
+        "ochre",
+        "mirror-silver",
+        "rust-brown",
+        "blood-red"
+      ],
+      "aesthetic_roles": [
+        "ancient pigment mineral",
+        "iron-earth archetype",
+        "metallic-contrast stone",
+        "industrial ore"
+      ],
+      "vibe_notes": "Hematite bridges the prehistoric and the industrial — the first pigment and a global iron ore. Red streak as diagnostic clue is an unforgettable mineralogical moment.",
+      "symbolism": [
+        "blood",
+        "earth",
+        "protection",
+        "grounding",
+        "strength"
+      ],
+      "folklore_summary": "Name from Greek 'haima' (blood) for the red streak and powder. Ancient amulets believed to stop bleeding. Ochre use predates all other known pigments."
+    },
+    {
+      "id": "jadeite",
+      "display_name": "Jadeite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "white",
+        "gray",
+        "pale-green"
+      ],
+      "visual_notes": "Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders.",
+      "prompt_fragments": [
+        "imperial jade vivid green semi-transparent glow",
+        "waxy jadeite polish cool to touch",
+        "subduction-zone mineral carved to perfection",
+        "lavender jadeite whisper of violet"
+      ],
+      "mood_keywords": [
+        "imperial-silence",
+        "high-pressure-green",
+        "jade-court",
+        "sacred-stone",
+        "subduction-secret"
+      ],
+      "sensory_keywords": [
+        "waxy",
+        "cool",
+        "smooth",
+        "weighty",
+        "translucent-glow"
+      ],
+      "palette_keywords": [
+        "imperial-green",
+        "lavender-whisper",
+        "icy-white",
+        "deep-forest-green"
+      ],
+      "aesthetic_roles": [
+        "sacred imperial gem",
+        "high-pressure formation showcase",
+        "cultural continuity stone",
+        "translucent jade glow"
+      ],
+      "vibe_notes": "Jadeite carries perhaps the heaviest cultural weight of any mineral on Earth — the civilizational stone of China and Mesoamerica simultaneously, formed in the crushing pressure of subduction zones and revered for millennia. Imperial jade's vivid semi-transparent green is one of the most coveted colors in human history.",
+      "symbolism": [
+        "immortality",
+        "imperial-power",
+        "purity",
+        "heaven",
+        "virtue",
+        "healing",
+        "longevity"
+      ],
+      "folklore_summary": "In ancient China, the deceased were sometimes buried with jade pieces placed on bodily orifices to preserve the body — jade burial suits (玉衣) of the Han dynasty, made from thousands of jade plaques sewn with gold, silver, or bronze wire, represent the apex of this tradition. Jade was believed to pre"
+    },
+    {
+      "id": "jasper",
+      "display_name": "Jasper",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "red",
+        "yellow",
+        "brown",
+        "green"
+      ],
+      "visual_notes": "Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials.",
+      "prompt_fragments": [
+        "opaque iron-oxide-stained microcrystalline silica",
+        "canyon-floor earth-body matte mineral",
+        "picture jasper landscape imagery in stone"
+      ],
+      "mood_keywords": [
+        "earth-body",
+        "canyon-floor",
+        "oxidized-terrain",
+        "deep-strata"
+      ],
+      "sensory_keywords": [
+        "opaque",
+        "dense",
+        "matte",
+        "warm",
+        "heavy"
+      ],
+      "palette_keywords": [
+        "iron-red",
+        "ochre-yellow",
+        "canyon-brown",
+        "olive-earth",
+        "rust-oxide"
+      ],
+      "aesthetic_roles": [
+        "earth-matter anchor",
+        "oxidized-terrain mineral",
+        "ancient tool material",
+        "landscape stone"
+      ],
+      "vibe_notes": "Jasper is the most opaque and earthy of the silica minerals. It reads as matter, ground, oxidized earth — the base layer beneath everything. Its matte warmth is fundamentally different from the translucent glow of chalcedony.",
+      "symbolism": [
+        "endurance",
+        "earth",
+        "protection",
+        "vitality",
+        "grounding"
+      ],
+      "folklore_summary": "One of the oldest named gemstones; 'jasper' appears in texts from ancient Babylonia, Egypt, and the Hebrew Bible. Red jasper was associated with blood and warrior energy across many ancient cultures."
+    },
+    {
+      "id": "labradorite",
+      "display_name": "Labradorite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "gray",
+        "dark-gray",
+        "black-gray",
+        "greenish-gray"
+      ],
+      "visual_notes": "The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face.",
+      "prompt_fragments": [
+        "floating prismatic aurora iridescence in dark gray feldspar",
+        "thin-film interference labradorescence shifting blue-green-gold",
+        "northern lights imprisoned in polished stone"
+      ],
+      "mood_keywords": [
+        "northern-lights",
+        "prismatic-abyss",
+        "schiller-depth",
+        "arctic-glow"
+      ],
+      "sensory_keywords": [
+        "shimmering",
+        "depth-lit",
+        "cold-iridescent",
+        "shifting",
+        "prismatic"
+      ],
+      "palette_keywords": [
+        "electric-blue",
+        "dark-gunmetal",
+        "peacock-teal",
+        "copper-fire",
+        "aurora-gold",
+        "spectral-violet"
+      ],
+      "aesthetic_roles": [
+        "aurora-in-stone",
+        "depth iridescence anchor",
+        "northern-lights mineral",
+        "prismatic darkness stone"
+      ],
+      "vibe_notes": "Labradorite carries its color inside — it is not a surface phenomenon but a depth effect. The dark ground color against the shifting iridescence creates a sense of something luminous moving beneath a dark surface. Spectrolite, with its near-black matrix and full-spectrum display, is one of the most visually complex single mineral specimens on earth.",
+      "symbolism": [
+        "transformation",
+        "hidden-knowledge",
+        "northern-lights",
+        "prismatic-mystery"
+      ],
+      "folklore_summary": "Inuit legend describes the aurora borealis as frozen light trapped inside labradorite. Moravian missionaries encountering the stone in Labrador in 1770 were reportedly struck by the play of color. The Finnish spectrolite variety was not discovered until World War II when a German bomb crater reveale"
+    },
+    {
+      "id": "lepidolite",
+      "display_name": "Lepidolite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "lavender",
+        "pink",
+        "purple"
+      ],
+      "visual_notes": "Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality.",
+      "prompt_fragments": [
+        "lavender scaly lepidolite mica in pegmatite",
+        "soft lilac pearly shimmer mineral",
+        "lithium-bearing pink mica books",
+        "lepidolite intergrown with pink tourmaline"
+      ],
+      "mood_keywords": [
+        "lavender-mica",
+        "lithium-shimmer",
+        "gentle-mineral",
+        "soft-metallic",
+        "pegmatite-pastel"
+      ],
+      "sensory_keywords": [
+        "silky",
+        "layered",
+        "pearly",
+        "soft",
+        "cool-lavender"
+      ],
+      "palette_keywords": [
+        "soft-lavender",
+        "lilac",
+        "rose-pink",
+        "pale-violet",
+        "mica-white"
+      ],
+      "aesthetic_roles": [
+        "pastel pegmatite accent",
+        "lavender mica anchor",
+        "soft shimmer mineral",
+        "lithium-flux marker"
+      ],
+      "vibe_notes": "Lepidolite is the gentlest common pegmatite mineral — a pastel lavender mica shimmer against stark feldspar and quartz. Its lithium content gives it a surprising industrial dimension hidden beneath its soft aesthetic. In combination with pink tourmaline and rose quartz, it creates some of the most feminine-coded pegmatite assemblages.",
+      "symbolism": [
+        "calm",
+        "transition",
+        "softness",
+        "lithium-light"
+      ],
+      "folklore_summary": "The lavender color and lithium-bearing nature have combined in popular imagination to make lepidolite a stone of 'calm and peace' in New Age traditions. The real lithium connection — as one of the oldest lithium mineral sources — gives it an unexpected industrial modernity beneath its gentle pastel "
+    },
+    {
+      "id": "malachite",
+      "display_name": "Malachite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "green"
+      ],
+      "visual_notes": "One of the strongest 'ornamental pattern' minerals in existence.",
+      "prompt_fragments": [
+        "botryoidal copper-green domes",
+        "banded malachite concentric eyes",
+        "ornamental toxic-jewel swirl pattern"
+      ],
+      "mood_keywords": [
+        "jungle-opulence",
+        "venom-luxury",
+        "antique-magic",
+        "regal-poison",
+        "serpent-ornament"
+      ],
+      "sensory_keywords": [
+        "silky",
+        "velvety",
+        "cool",
+        "carved"
+      ],
+      "palette_keywords": [
+        "emerald",
+        "black-green",
+        "deep-jade",
+        "copper-shadow"
+      ],
+      "aesthetic_roles": [
+        "toxic jewel",
+        "ornamental swirl stone",
+        "decadent green accent",
+        "baroque mineral"
+      ],
+      "vibe_notes": "Perfect for anything ornate, hypnotic, green, dangerous, or ceremonial.",
+      "symbolism": [],
+      "folklore_summary": ""
+    },
+    {
+      "id": "moonstone",
+      "display_name": "Moonstone",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "orthoclase",
+      "baseline_colors": [
+        "colorless",
+        "white",
+        "pale-gray"
+      ],
+      "visual_notes": "Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior.",
+      "prompt_fragments": [
+        "floating blue light billowing under translucent feldspar surface",
+        "lunar milk adularescence in near-colorless K-feldspar cabochon",
+        "night-water cool glow of Sri Lankan blue moonstone"
+      ],
+      "mood_keywords": [
+        "lunar-milk",
+        "adular-glow",
+        "night-water",
+        "floating-light"
+      ],
+      "sensory_keywords": [
+        "silky",
+        "glowing",
+        "cool",
+        "billowing",
+        "weightless",
+        "water-like"
+      ],
+      "palette_keywords": [
+        "blue-white-mist",
+        "pearl-ghost",
+        "night-water",
+        "peach-dusk",
+        "silver-fog"
+      ],
+      "aesthetic_roles": [
+        "lunar mineral",
+        "adularescent glow anchor",
+        "night-light material",
+        "feminine mystery stone"
+      ],
+      "vibe_notes": "Moonstone has one of the most evocative optical effects in mineralogy — the adularescence gives it a liquid, otherworldly quality as if light is floating just beneath the surface. The blue variety in particular has an electric, cold, lunar quality. It is the mineral most consistently associated with water, night, and the feminine across unconnected cultures.",
+      "symbolism": [
+        "lunar-energy",
+        "femininity",
+        "intuition",
+        "cycles",
+        "mystery",
+        "fertility"
+      ],
+      "folklore_summary": "Pliny the Elder wrote that moonstone's appearance changed with the phases of the moon. Roman legend held that it was formed from moonlight solidified. In India, moonstone is considered a sacred stone and a dream stone — sleeping with it is said to bring beautiful visions. The Art Nouveau jewelers of"
+    },
+    {
+      "id": "morganite",
+      "display_name": "Morganite",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "beryl",
+      "baseline_colors": [
+        "pink",
+        "peach",
+        "rose"
+      ],
+      "visual_notes": "Morganite's soft rose-peach color is inherently gentle and warm — less assertive than ruby, less cold than pink sapphire. Large clean crystals are available. The rose-gold + morganite combination became dominant in contemporary jewelry design in the 2010s.",
+      "prompt_fragments": [
+        "morganite: peach-rose beryl from Cs-Li pegmatite — warm manganese hexagonal form",
+        "Madagascar morganite tabular crystal — blush warmth in beryllium silicate",
+        "rose-gold + morganite: 2010s design archetype in soft pink beryl"
+      ],
+      "mood_keywords": [
+        "peach-rose-warm",
+        "manganese-tenderness",
+        "J.P.-Morgan-gem",
+        "rose-gold-companion",
+        "soft-beryl"
+      ],
+      "sensory_keywords": [
+        "warm soft pink",
+        "peach-gentle weight",
+        "clear rose-glass",
+        "blush and warmth"
+      ],
+      "palette_keywords": [
+        "rose-quartz-rival",
+        "peach-morganite",
+        "Madagascar-pink",
+        "warm-blush-gem"
+      ],
+      "aesthetic_roles": [
+        "warm pink gem anchor",
+        "rose-gold pairing stone",
+        "gentle luxury reference",
+        "Cs-Li pegmatite marker"
+      ],
+      "vibe_notes": "Morganite is the warm, quiet sister of emerald and aquamarine — the peachy pink end of beryl's spectrum. It lacks the drama of other beryls but has a consistent warmth and gentleness. The rose-gold era made it a design archetype.",
+      "symbolism": [
+        "love and tenderness",
+        "feminine warmth",
+        "compassion",
+        "rose-gold aesthetic",
+        "gentle strength"
+      ],
+      "folklore_summary": "Morganite is a relatively recently named gem variety (1911) compared to emerald and aquamarine. George Frederick Kunz named it for J.P. Morgan, one of the great mineral collectors of the Gilded Age — whose collections are now at the American Museum of Natural History and Harvard's Mineralogical Muse"
+    },
+    {
+      "id": "nephrite",
+      "display_name": "Nephrite",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "parent_species": null,
+      "baseline_colors": [
+        "white",
+        "cream",
+        "pale-green"
+      ],
+      "visual_notes": "Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass.",
+      "prompt_fragments": [
+        "waxy spinach-green nephrite with fibrous felt texture",
+        "mutton-fat white jade soft luminosity",
+        "pounamu greenstone sacred Pacific stone",
+        "ancient jade carving millennia of tradition"
+      ],
+      "mood_keywords": [
+        "ancient-carving",
+        "nephrite-endurance",
+        "jade-empire",
+        "imperial-touch",
+        "felt-stone"
+      ],
+      "sensory_keywords": [
+        "waxy",
+        "smooth",
+        "warm-cool",
+        "dense",
+        "silky"
+      ],
+      "palette_keywords": [
+        "spinach-green",
+        "mutton-fat-white",
+        "celadon-pale",
+        "dark-mottled-forest"
+      ],
+      "aesthetic_roles": [
+        "sacred cultural stone",
+        "toughness archetype",
+        "ancient jade ancestor",
+        "mana-bearing mineral"
+      ],
+      "vibe_notes": "Nephrite is the older jade — the stone that launched millennia of Chinese and Pacific jade culture before jadeite arrived. Its mutton-fat white and spinach green are among the most culturally loaded color-material combinations in human history. It is not the most beautiful stone, but it may be the most meaningful.",
+      "symbolism": [
+        "endurance",
+        "immortality",
+        "purity",
+        "heaven",
+        "mana",
+        "continuity",
+        "virtue",
+        "protection"
+      ],
+      "folklore_summary": "In Chinese tradition, jade is said to have a 'living' quality — it absorbs the essence of its wearer over time and gives back healing energy. It is said to feel alive in a way that other stones do not. A jade bangle that breaks is said to have 'sacrificed itself' to protect its owner from harm."
+    },
+    {
+      "id": "obsidian",
+      "display_name": "Obsidian",
+      "chemistry_class": "mineraloid",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "baseline_colors": [
+        "black",
+        "dark-brown"
+      ],
+      "visual_notes": "Obsidian is pure volcanic glass — the most visually simple and the most dramatically effective black mineral material. Its jet-black vitreous surface reflects light cleanly. Rainbow varieties produce full spectral color from thin-film magnetite layers. Apache tears appear opaque but transmit brownish light when held up.",
+      "prompt_fragments": [
+        "jet-black volcanic glass with conchoidal fracture — razor edge from deep time",
+        "rainbow obsidian — full spectral iridescence on absolute black surface",
+        "Aztec smoking mirror: Tezcatlipoca sees all in volcanic glass"
+      ],
+      "mood_keywords": [
+        "volcanic-void",
+        "obsidian-mirror",
+        "razor-blade-truth",
+        "shadow-surface",
+        "night-glass"
+      ],
+      "sensory_keywords": [
+        "cold glass",
+        "razor edge",
+        "jet-black-reflection",
+        "volcanic-weight"
+      ],
+      "palette_keywords": [
+        "absolute-black",
+        "rainbow-on-void",
+        "night-mirror",
+        "mahogany-flow"
+      ],
+      "aesthetic_roles": [
+        "absolute-black anchor",
+        "volcanic creation reference",
+        "mirror/void element",
+        "surgical-edge material"
+      ],
+      "vibe_notes": "Obsidian is the void made solid — a black mirror that reflects what you put in front of it. It is simultaneously the sharpest natural material and the darkest. Tezcatlipoca's smoking mirror sees all. Apache tears carry grief transformed into translucent darkness.",
+      "symbolism": [
+        "truth-revealing mirror",
+        "the void and shadow-self",
+        "protection from negative energy",
+        "warrior sharpness",
+        "volcanic creation and destruction"
+      ],
+      "folklore_summary": "Tezcatlipoca, the Aztec god of night, sorcery, and the north, is symbolized by a black obsidian smoking mirror — his attribute and the means by which he could see all things in the universe including human sin and fate. Obsidian mirrors were used by priests for scrying and divination. The Apache tea"
+    },
+    {
+      "id": "opal",
+      "display_name": "Opal",
+      "chemistry_class": "mineraloid",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "baseline_colors": [
+        "white",
+        "black",
+        "gray",
+        "colorless"
+      ],
+      "visual_notes": "Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously.",
+      "prompt_fragments": [
+        "black opal from Lightning Ridge — volcanic spectral fire on dark sea",
+        "white precious opal with rolling green-blue spectral patches",
+        "boulder opal in ironstone matrix — veins of spectral light"
+      ],
+      "mood_keywords": [
+        "prismatic-fire",
+        "all-spectrum-at-once",
+        "shifting-light-archive",
+        "October-veil",
+        "diffraction-magic"
+      ],
+      "sensory_keywords": [
+        "cool glassy weight",
+        "spectral flicker",
+        "water-held-in-stone",
+        "mysterious shifting surface"
+      ],
+      "palette_keywords": [
+        "spectral-fire-on-white",
+        "black-opal-dark-rainbow",
+        "milky-iridescent",
+        "all-visible-light"
+      ],
+      "aesthetic_roles": [
+        "full-spectrum color reference",
+        "shifting-light element",
+        "sacred lucky/unlucky duality",
+        "October gem anchor"
+      ],
+      "vibe_notes": "Opal is the mineral of all light at once. Where diamond bends light and ruby absorbs it, opal diffracts it — splitting white into every visible wavelength simultaneously across a surface that seems to hold living fire inside it.",
+      "symbolism": [
+        "all-color embodied",
+        "hope and wish-fulfillment",
+        "protection and prophecy",
+        "October renewal",
+        "shifting truth"
+      ],
+      "folklore_summary": "Opal has the most dramatic reputation reversal in gem history. Ancient Romans paid extravagant sums — Pliny wrote that a Roman senator was exiled rather than sell his opal to Mark Antony. Medieval tradition held opal lucky — a stone containing all gem colors in one. Sir Walter Scott's 1829 novel Ann"
+    },
+    {
+      "id": "petrified-wood",
+      "display_name": "Petrified Wood",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "parent_species": null,
+      "baseline_colors": [
+        "brown",
+        "tan",
+        "gray"
+      ],
+      "visual_notes": "The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure.",
+      "prompt_fragments": [
+        "petrified wood cross-section showing ancient tree rings in chalcedony",
+        "rust-red Triassic log silicified in Arizona desert",
+        "agatized wood banded multicolor fossil",
+        "deep time mineral wood grain preserved in stone"
+      ],
+      "mood_keywords": [
+        "fossil-time",
+        "temporal-stone",
+        "wood-become-mineral",
+        "ancient-patience",
+        "deep-time-anchor"
+      ],
+      "sensory_keywords": [
+        "grainy",
+        "warm",
+        "woody-pattern",
+        "smooth-polished",
+        "dense"
+      ],
+      "palette_keywords": [
+        "rust-red",
+        "honey-brown",
+        "ash-gray",
+        "bark-tan",
+        "annual-ring-white"
+      ],
+      "aesthetic_roles": [
+        "deep-time exhibit piece",
+        "biological-to-mineral transition",
+        "ancient forest ghost",
+        "warm desert palette"
+      ],
+      "vibe_notes": "Petrified wood is the most legible deep-time object — a tree that became a stone, grain by grain, over millions of years, while preserving every ring and vessel. It is the bridge between biology and mineralogy, and one of the most emotionally resonant materials in the natural world.",
+      "symbolism": [
+        "deep-time",
+        "transformation",
+        "patience",
+        "permanence",
+        "life-become-stone"
+      ],
+      "folklore_summary": "Many Indigenous traditions of the American Southwest regard petrified wood as sacred — the bones of ancient beings or the material remains of primordial forests. The Navajo creation narrative describes a primordial world with vast forests; the scattered logs of the Petrified Forest are explained in "
+    },
+    {
+      "id": "pyrite",
+      "display_name": "Pyrite",
+      "chemistry_class": "sulfide",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "brassy-yellow",
+        "pale-gold",
+        "metallic-yellow"
+      ],
+      "visual_notes": "Pyrite is mineralogy's great impersonator — 'fool's gold' for millennia. The striated faces of pyrite cubes (from oscillation between cube and pyritohedron) are diagnostic. Iron cross twins — two interlocking pyritohedra — are among mineralogy's most architecturally perfect specimens. Pyrite suns (flat radiating discs) are unique and immediately recognizable forms.",
+      "prompt_fragments": [
+        "perfect Navajún pyrite cube — striated brassy faces of absolute geometric order",
+        "iron cross twin: two pyritohedra intersecting at 90° — mineralogy's signature form",
+        "pyrite sun: flat radiating disc of brassy crystals from Illinois coal seam"
+      ],
+      "mood_keywords": [
+        "fool's-gold",
+        "brassy-deception",
+        "cubic-architecture",
+        "fire-from-stone",
+        "invisible-gold-host"
+      ],
+      "sensory_keywords": [
+        "cold-brassy-weight",
+        "striated-cubic-geometry",
+        "metallic-brightness",
+        "sulfurous-tang"
+      ],
+      "palette_keywords": [
+        "brassy-metallic-yellow",
+        "bronze-tarnish",
+        "gold-impersonator",
+        "iron-sulfide-bright"
+      ],
+      "aesthetic_roles": [
+        "deceptive-beauty archetype",
+        "metallic-geometric form",
+        "fire-from-stone reference",
+        "cubic-architecture mineral"
+      ],
+      "vibe_notes": "Pyrite is the great deceiver — the mineral that convinced explorers they'd found gold and sent fleets home to disgrace. But a perfect Navajún pyrite cube is not deception — it is geometric perfection in the service of iron sulfide chemistry. Iron cross twins are architecture. Pyrite suns are geology's mandalas.",
+      "symbolism": [
+        "deceptive appearances",
+        "fool's gold / false wealth",
+        "fire from stone",
+        "abundance and earth's treasure",
+        "industrial power"
+      ],
+      "folklore_summary": "Pyrite has been 'fool's gold' since antiquity — its brass-yellow metallic luster has deceived prospectors, miners, and explorers throughout history. Captain Martin Frobisher returned from his 1576 Arctic expedition with 200 tonnes of 'ore' that turned out to be pyrite — the English Crown had funded "
+    },
+    {
+      "id": "quartz",
+      "display_name": "Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "colorless",
+        "white"
+      ],
+      "visual_notes": "One of the most visually flexible minerals on earth.",
+      "prompt_fragments": [
+        "glassy trigonal crystal logic",
+        "clear silica prisms",
+        "drusy quartz glitter"
+      ],
+      "mood_keywords": [
+        "clarity",
+        "signal-amplifier",
+        "crystalline-order",
+        "cold-light",
+        "cathedral-air"
+      ],
+      "sensory_keywords": [
+        "glassy",
+        "bright",
+        "ringing",
+        "clean"
+      ],
+      "palette_keywords": [
+        "ice-white",
+        "spectral-violet",
+        "smoke-brown",
+        "rose-haze"
+      ],
+      "aesthetic_roles": [
+        "universal crystal",
+        "signal crystal",
+        "clarity anchor",
+        "framework mineral"
+      ],
+      "vibe_notes": "Useful as a baseline mineral, a structure mineral, and a palette-shifting species.",
+      "symbolism": [],
+      "folklore_summary": ""
+    },
+    {
+      "id": "rhodochrosite",
+      "display_name": "Rhodochrosite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "pink",
+        "rose-red",
+        "raspberry-red"
+      ],
+      "visual_notes": "The banded 'Inca Rose' stalactitic form from Argentina — polished to reveal concentric pink-and-white rings — is one of the most recognized ornamental stone patterns in the gem world. Crystallized raspberry-red specimens from Colorado are among the most sought-after collector mineral specimens globally.",
+      "prompt_fragments": [
+        "raspberry-red curved rhombohedral crystals on white quartz matrix",
+        "Inca Rose banded stalactite — concentric pink and cream rings",
+        "warm rose-manganese architecture of Sweet Home Mine"
+      ],
+      "mood_keywords": [
+        "inca-rose-banded",
+        "raspberry-crystal",
+        "manganese-heart",
+        "andean-jewel",
+        "rose-architecture"
+      ],
+      "sensory_keywords": [
+        "warm-pink",
+        "soft-curved-faces",
+        "layered-geology-sliced",
+        "sweet-rose"
+      ],
+      "palette_keywords": [
+        "raspberry-red",
+        "Inca-rose-pink",
+        "pale-cream-band",
+        "deep-manganese-red"
+      ],
+      "aesthetic_roles": [
+        "warm-pink gem accent",
+        "banded-pattern ornamental",
+        "Andean cultural reference",
+        "manganese-spectrum color"
+      ],
+      "vibe_notes": "Rhodochrosite lives between pink and red — the color of living tissue, roses, and sunsets. The Inca Rose banding reads as geological diary — each layer a year of cave drip. The Sweet Home crystals are raspberry-red architectural perfection.",
+      "symbolism": [
+        "love and compassion",
+        "self-worth and healing",
+        "rose-heart energy",
+        "Argentine Andean identity"
+      ],
+      "folklore_summary": "Argentine tradition holds that rhodochrosite (Inca Rose) was formed from the blood of ancient Inca kings and queens crystallized over time — giving the stone its name 'Rosa del Inca' (Rose of the Inca). Argentina declared it the national gemstone in 2002. The Sweet Home Mine in Colorado produced spe"
+    },
+    {
+      "id": "rose-quartz",
+      "display_name": "Rose Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "pale-pink",
+        "rose-pink"
+      ],
+      "visual_notes": "Rose quartz has a characteristic soft, diffuse, milky-pink quality from the light-scattering fibrous inclusions. It is never facet-grade transparent in classic form. The color is gentle and warm — not vivid like ruby or pink tourmaline but consistently soft. Star rose quartz cut as cabochon shows the six-rayed star most vividly under a point light source.",
+      "prompt_fragments": [
+        "rose quartz massive — diffuse pink warmth in translucent quartz fog",
+        "star rose quartz cabochon — six-rayed asterism in milky blush",
+        "Venus stone: Brazil pegmatite pink dispersed through massive silica"
+      ],
+      "mood_keywords": [
+        "universal-love-stone",
+        "Venus-blush",
+        "diffuse-pink-warmth",
+        "feminine-archetype",
+        "heart-mineral"
+      ],
+      "sensory_keywords": [
+        "soft milky-pink warmth",
+        "smooth cool curve",
+        "gentle translucent glow",
+        "rose-light diffusion"
+      ],
+      "palette_keywords": [
+        "baby-pink",
+        "dusty-rose",
+        "milky-rose-blush",
+        "warm-pale-pink"
+      ],
+      "aesthetic_roles": [
+        "love and warmth anchor",
+        "gentle pink aesthetic",
+        "heart-chakra archetype",
+        "smooth sphere/egg form"
+      ],
+      "vibe_notes": "Rose quartz is mineral warmth — not vivid, not sharp, not crystalline. It diffuses its pink into the whole mass and softens light into rose. It is the texture of a gentle thing, the color of trust and care.",
+      "symbolism": [
+        "unconditional love",
+        "compassion and gentleness",
+        "femininity and nurturing",
+        "heart chakra",
+        "beauty and Venus"
+      ],
+      "folklore_summary": "Rose quartz has one of the most robust modern metaphysical followings of any mineral. Ancient Assyrian and Roman cosmetic recipes include rose quartz facial rollers — a practice that has seen a massive modern revival. Egyptian legend held that rose quartz was a gift from Aphrodite (via Eros) to huma"
+    },
+    {
+      "id": "ruby",
+      "display_name": "Ruby",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "parent_species": "corundum",
+      "baseline_colors": [
+        "red",
+        "deep-red",
+        "pinkish-red"
+      ],
+      "visual_notes": "Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology.",
+      "prompt_fragments": [
+        "pigeon's blood ruby — chromium fire glowing in Mogok marble",
+        "star ruby cabochon with six-rayed silk asterism",
+        "vivid red fluorescent corundum — blood of gems"
+      ],
+      "mood_keywords": [
+        "pigeon-blood-fire",
+        "king-of-gems",
+        "chromium-glow",
+        "Mogok-valley-red",
+        "royal-blood"
+      ],
+      "sensory_keywords": [
+        "deep-red-warmth",
+        "fluorescent-inner-glow",
+        "hard-and-heavy",
+        "blood-vivid"
+      ],
+      "palette_keywords": [
+        "pigeon-blood-red",
+        "Burmese-deep-red",
+        "fluorescent-crimson",
+        "star-ruby-silk"
+      ],
+      "aesthetic_roles": [
+        "apex colored gemstone",
+        "royal red anchor",
+        "July fire reference",
+        "fluorescent red chromophore"
+      ],
+      "vibe_notes": "Ruby holds the deep-red that human eyes are tuned to desire — the color of blood, roses, and fire condensed into Mohs-9 corundum. In strong daylight, Burmese pigeon's blood ruby appears to glow from within — the chromium fluorescence adding spectral energy that no mere pigment can produce.",
+      "symbolism": [
+        "passion and love",
+        "blood and vitality",
+        "royal power",
+        "protection in war",
+        "divine fire",
+        "July and summer heat"
+      ],
+      "folklore_summary": "Ruby is the 'king of gems' — a title given in Sanskrit texts that has persisted across cultures. Burmese warriors inserted rubies under their skin before battle believing it would make them invincible. Medieval European tradition held that a ruby's color deepened to warn its wearer of approaching da"
+    },
+    {
+      "id": "sapphire",
+      "display_name": "Sapphire",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "parent_species": "corundum",
+      "baseline_colors": [
+        "blue",
+        "cornflower-blue",
+        "deep-blue"
+      ],
+      "visual_notes": "Kashmir sapphire produces a 'velvety' blue that seems to glow from within — caused by fine silk inclusions scattering light. Star sapphire at its best shows a perfectly centered six-rayed star that moves over the cabochon surface. Padparadscha's salmon-pink-orange is unique and defies category — it must be evaluated in person to appreciate.",
+      "prompt_fragments": [
+        "velvety Kashmir blue — cornflower sky trapped in Mohs-9 corundum",
+        "star sapphire cabochon — six-rayed asterism rolling over blue-gray surface",
+        "padparadscha: salmon-lotus at the boundary of pink and orange, Sri Lanka"
+      ],
+      "mood_keywords": [
+        "velvety-Kashmir-blue",
+        "heaven-stone",
+        "September-depth",
+        "iron-titanium-charge-transfer",
+        "royal-celestial"
+      ],
+      "sensory_keywords": [
+        "deep-blue-cool",
+        "velvety-scattered-light",
+        "September-sky-clarity",
+        "regal-weight"
+      ],
+      "palette_keywords": [
+        "Kashmir-velvety-blue",
+        "cornflower-blue",
+        "padparadscha-salmon",
+        "star-sapphire-gray-blue"
+      ],
+      "aesthetic_roles": [
+        "heaven-color anchor",
+        "September gem reference",
+        "royal-blue luxury",
+        "velvety texture reference"
+      ],
+      "vibe_notes": "Sapphire is the blue of the sky trapped in stone — or in Persian belief, the reason the sky is blue. Kashmir sapphire has the quality of depth without darkness, blue without coldness, velvet without softness. The finest stones seem to emit blue light rather than reflect it.",
+      "symbolism": [
+        "wisdom and clarity",
+        "heaven and divine favor",
+        "truth and fidelity",
+        "royal power",
+        "September and autumn"
+      ],
+      "folklore_summary": "Ancient Persians believed the sky was blue because the Earth rested on a vast sapphire pedestal whose reflection made the sky blue. Medieval European clergy wore sapphire rings as stones of heaven. The name comes from Greek 'sappheiros' (possibly originally referring to lapis lazuli, not sapphire). "
+    },
+    {
+      "id": "silver",
+      "display_name": "Silver",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "silver-white",
+        "gray",
+        "tarnished gray-black"
+      ],
+      "visual_notes": "Fresh specimens show brilliant silver-white metallic luster. Tarnish develops complex gray-black patinas. Kongsberg wire-silver specimens are among the most celebrated native metal mineral specimens in existence.",
+      "prompt_fragments": [
+        "twisted wire silver on black matrix",
+        "brilliant silver-white metallic gleam fading to tarnished gray",
+        "arborescent silver branches like frozen lightning"
+      ],
+      "mood_keywords": [
+        "lunar-mirror",
+        "cold-noble-metal",
+        "mercury-adjacent",
+        "aristocratic-cool"
+      ],
+      "sensory_keywords": [
+        "cool to touch",
+        "mirror-bright",
+        "crisp reflection",
+        "tarnishing edge"
+      ],
+      "palette_keywords": [
+        "sterling grey",
+        "moon-white",
+        "pewter shadow",
+        "oxidized silver"
+      ],
+      "aesthetic_roles": [
+        "cool metallic counterpoint",
+        "lunar motif",
+        "elegant restraint",
+        "tarnish-beauty reference"
+      ],
+      "vibe_notes": "Silver is gold's lunar twin — cooler, more mysterious, marked by its tendency to darken and tarnish over time into complex gray-black patinas.",
+      "symbolism": [
+        "lunar energy",
+        "clarity",
+        "reflection",
+        "purity",
+        "mystery",
+        "second place (silver medal)"
+      ],
+      "folklore_summary": "Silver has been mined since at least 3000 BCE in Anatolia. The Laurion mines near Athens funded Athenian naval power. Kongsberg, Norway produced extraordinary arborescent silver specimens prized by collectors since the 17th century. In mythology, silver is the metal of the moon — opposite gold's sol"
+    },
+    {
+      "id": "smithsonite",
+      "display_name": "Smithsonite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "white",
+        "colorless",
+        "gray"
+      ],
+      "visual_notes": "Smithsonite is primarily known as a secondary zinc carbonate with exceptional color range and unusual pearlescent botryoidal habit. Cobalt-bearing blue smithsonite from Tsumeb and copper-bearing green from Arizona are collector favorites. The pearly luster of botryoidal forms is distinctive.",
+      "prompt_fragments": [
+        "pearlescent botryoidal smithsonite domes — periwinkle blue cobalt",
+        "apple-green cuprian smithsonite over gossan matrix",
+        "secondary zinc carbonate translucent skin on limestone"
+      ],
+      "mood_keywords": [
+        "pearl-dome",
+        "zinc-spectrum",
+        "cobalt-lavender",
+        "apple-green-secondary",
+        "museum-cabinet-blue"
+      ],
+      "sensory_keywords": [
+        "pearlescent smooth",
+        "rounded cellular",
+        "soft weight",
+        "cool ceramic"
+      ],
+      "palette_keywords": [
+        "cobalt-periwinkle",
+        "apple-green",
+        "creamy-white-pearl",
+        "manganese-pink"
+      ],
+      "aesthetic_roles": [
+        "pearlescent texture reference",
+        "secondary mineral color palette",
+        "quiet collector gem",
+        "Smithsonian reference mineral"
+      ],
+      "vibe_notes": "Smithsonite is quiet but extraordinary — a carbonate that refracts light through translucent botryoidal skins in a dozen colors. The cobalt-blue variety from Tsumeb has a quality like polished sky.",
+      "symbolism": [
+        "diversity",
+        "transformation",
+        "subtle color"
+      ],
+      "folklore_summary": "Smithsonite is named for James Smithson — chemist, mineralogist, and benefactor of the Smithsonian Institution. He actually studied calamine (a historical term covering hemimorphite and smithsonite). The mineral was formally named for him posthumously by François Sulpice Beudant in 1832."
+    },
+    {
+      "id": "smoky-quartz",
+      "display_name": "Smoky Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "gray",
+        "brown-gray",
+        "dark-brown"
+      ],
+      "visual_notes": "Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity.",
+      "prompt_fragments": [
+        "large smoky quartz prism — alpine gray crystal from radiation alchemy",
+        "morion quartz near-black opacity — shadow crystallized",
+        "phantom smoky quartz: clear-to-dark growth zones visible in transparent gray"
+      ],
+      "mood_keywords": [
+        "smoke-and-shadow",
+        "alpine-grey-crystal",
+        "underworld-threshold",
+        "radiation-alchemy",
+        "Scottish-moor"
+      ],
+      "sensory_keywords": [
+        "dark-glass-cool",
+        "phantom-depth",
+        "heavy-clear-gray",
+        "smoke-captured"
+      ],
+      "palette_keywords": [
+        "smoky-gray-transparent",
+        "dark-brown-morion",
+        "cairngorm-amber-gray",
+        "phantom-clear-to-dark"
+      ],
+      "aesthetic_roles": [
+        "grounding dark anchor",
+        "shadow and depth reference",
+        "Scottish Highland material",
+        "large-crystal showcase"
+      ],
+      "vibe_notes": "Smoky quartz is where quartz goes dark — radiation absorbed in aluminum defects, the landscape of granite made visible in crystal. Phantoms within large stones show the history of growth: clear to smoky to clearer again, time made visible.",
+      "symbolism": [
+        "grounding and protection",
+        "shadow and depth",
+        "the underworld threshold",
+        "smoke and transformation",
+        "grounding clarity"
+      ],
+      "folklore_summary": "Cairngorm quartz from the Cairngorm Mountains of Scotland is an iconic national gemstone tradition — large brown-gray crystals were set in the handles of Highland dirks, kilt pins, and traditional brooches. Victorian mourning jewelry used dark stones including morion (black smoky quartz) alongside j"
+    },
+    {
+      "id": "sulfur",
+      "display_name": "Sulfur",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "yellow",
+        "pale-yellow",
+        "sulfur-yellow",
+        "orange-yellow",
+        "greenish-yellow"
+      ],
+      "visual_notes": "Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy.",
+      "prompt_fragments": [
+        "vivid sulfur-yellow bipyramidal crystals on white matrix",
+        "volcanic fumarole encrustation in acid yellow and orange",
+        "glowing brimstone — ancient and alien"
+      ],
+      "mood_keywords": [
+        "volcanic-yellow",
+        "toxic-bloom",
+        "chemical-alchemy",
+        "sulfurous-crater"
+      ],
+      "sensory_keywords": [
+        "rotten-egg sharpness",
+        "waxy tactile surface",
+        "heated rock smell",
+        "acrid volcanic air"
+      ],
+      "palette_keywords": [
+        "sulfur yellow",
+        "volcanic orange",
+        "acid-lake chartreuse",
+        "pale parchment yellow"
+      ],
+      "aesthetic_roles": [
+        "volcanic environment signature",
+        "chemical hazard aesthetic",
+        "alchemical yellow",
+        "natural neon accent"
+      ],
+      "vibe_notes": "Sulfur smells like the beginning and the end of the world. At Kawah Ijen, miners carry glowing blue flames of burning sulfur on their backs in the dark — one of Earth's most alien industrial scenes.",
+      "symbolism": [
+        "transformation and purification through fire",
+        "volcanic force",
+        "chemical change",
+        "hell and damnation (brimstone)",
+        "sulfurous industry"
+      ],
+      "folklore_summary": "Sulfur (brimstone) is one of the oldest known mineral substances — referenced in ancient Vedic texts, Homeric epics, and the Bible. The biblical 'fire and brimstone' likely references volcanic sulfur. Alchemy designated sulfur as one of the three primes representing the soul. Kawah Ijen, Indonesia, "
+    },
+    {
+      "id": "sunstone",
+      "display_name": "Sunstone",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "oligoclase",
+      "baseline_colors": [
+        "orange",
+        "golden-yellow",
+        "salmon",
+        "copper-red"
+      ],
+      "visual_notes": "Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality.",
+      "prompt_fragments": [
+        "warm copper-orange metallic glitter in transparent feldspar",
+        "solar fragment scattered-light aventurescence",
+        "Oregon native copper feldspar with deep bicolor red-green pleochroism"
+      ],
+      "mood_keywords": [
+        "solar-fragment",
+        "copper-harvest",
+        "warm-metallic-scatter",
+        "autumn-mineral"
+      ],
+      "sensory_keywords": [
+        "sparkling",
+        "warm",
+        "metallic",
+        "glittering",
+        "saturated"
+      ],
+      "palette_keywords": [
+        "copper-orange",
+        "deep-harvest-red",
+        "champagne-gold",
+        "warm-metallic",
+        "autumn-sunset"
+      ],
+      "aesthetic_roles": [
+        "solar mineral",
+        "warm metallic accent stone",
+        "copper-fire gemstone",
+        "autumn-palette anchor"
+      ],
+      "vibe_notes": "Sunstone has a grounded, warm, solar quality that contrasts with the cool lunar depth of moonstone. The aventurescent glitter reads as scattered light, like sunlight on moving water or the scatter of a copper fire. Oregon sunstone, with its native copper and rich saturated color, is among the most texturally and chromatically complex feldspars.",
+      "symbolism": [
+        "solar-energy",
+        "vitality",
+        "warmth",
+        "abundance"
+      ],
+      "folklore_summary": "The term 'sólarsteinn' (sunstone) from Norse sagas refers to a navigational crystal, which has generated scholarly debate. Most evidence points to calcite (Iceland spar) or cordierite as the actual navigational stone, not feldspar sunstone — the overlap of the trade name with the saga reference is a"
+    },
+    {
+      "id": "tiger-eye",
+      "display_name": "Tiger's Eye",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "baseline_colors": [
+        "golden-brown",
+        "amber-brown",
+        "yellow-brown"
+      ],
+      "visual_notes": "Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section.",
+      "prompt_fragments": [
+        "golden silky chatoyant cat's eye effect in amber-brown fibrous silica",
+        "predator-eye desert surveillance mineral with shimmering fiber bands",
+        "pseudomorph after crocidolite with iron oxide golden shimmer"
+      ],
+      "mood_keywords": [
+        "predator-eye",
+        "desert-vision",
+        "amber-surveillance",
+        "geological-watchfulness"
+      ],
+      "sensory_keywords": [
+        "silky",
+        "shimmering",
+        "warm",
+        "directional",
+        "fibrous"
+      ],
+      "palette_keywords": [
+        "amber-gold",
+        "dark-honey",
+        "burnt-sienna-band",
+        "iron-shadow"
+      ],
+      "aesthetic_roles": [
+        "chatoyant accent stone",
+        "feral mineral",
+        "desert surveillance material",
+        "optical-effect anchor"
+      ],
+      "vibe_notes": "Tiger's eye has a quality of focused, watchful warmth — it looks like something is looking back. The chatoyancy gives it movement and life. The amber-gold color range places it in hot, dry, predatory aesthetic territory.",
+      "symbolism": [
+        "vigilance",
+        "focus",
+        "predator-awareness",
+        "grounding"
+      ],
+      "folklore_summary": "The cat's eye effect has long been associated with the protective gaze of predatory animals. Tiger's eye has been used as a protective talisman against the evil eye in various traditions."
+    },
+    {
+      "id": "tourmaline",
+      "display_name": "Tourmaline",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "black",
+        "colorless"
+      ],
+      "visual_notes": "The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally.",
+      "prompt_fragments": [
+        "striated black schorl prism in pegmatite",
+        "neon Paraíba blue electric tourmaline",
+        "watermelon tourmaline cross-section pink and green",
+        "rubellite hot-pink columnar crystal"
+      ],
+      "mood_keywords": [
+        "electric-prism",
+        "all-spectrum-mineral",
+        "striated-column",
+        "tourmaline-lightning",
+        "boron-magic"
+      ],
+      "sensory_keywords": [
+        "striated",
+        "electric",
+        "neon",
+        "crystalline",
+        "saturated"
+      ],
+      "palette_keywords": [
+        "schorl-black",
+        "rubellite-red",
+        "paraiba-neon-blue",
+        "watermelon-bicolor",
+        "verdelite-forest",
+        "indicolite-teal"
+      ],
+      "aesthetic_roles": [
+        "all-color mineral anchor",
+        "gem-spectrum showcase",
+        "electric crystal",
+        "striated column accent"
+      ],
+      "vibe_notes": "Tourmaline is the most compositionally diverse gem mineral group on Earth — it can be literally any color, making it a universal chromatic reference. Watermelon tourmaline cross-sections are one of the most visually iconic mineral forms. Paraíba's neon glow is among the most intense colors in the gem world.",
+      "symbolism": [
+        "creativity",
+        "spectrum",
+        "transformation",
+        "electric-energy"
+      ],
+      "folklore_summary": "Tourmaline was called the 'electric stone' after its pyroelectric properties were described by scientists in the 18th century. It was used to clean tobacco pipes by Dutch sailors because of its ash-attracting properties when heated."
+    },
+    {
+      "id": "turquoise",
+      "display_name": "Turquoise",
+      "chemistry_class": "phosphate",
+      "species_status": "species",
+      "parent_species": null,
+      "baseline_colors": [
+        "blue",
+        "blue-green",
+        "green"
+      ],
+      "visual_notes": "Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds.",
+      "prompt_fragments": [
+        "robin's-egg-blue waxy surface with dark matrix spiderweb veining",
+        "ancient sky-stone — desert blue carved into Aztec death mask mosaic",
+        "Persian turquoise: sky condensed into stone, no matrix, pure sky-blue"
+      ],
+      "mood_keywords": [
+        "sky-condensed",
+        "ancient-trade-path",
+        "desert-blue",
+        "sacred-sky-stone",
+        "copper-phosphate-heaven"
+      ],
+      "sensory_keywords": [
+        "warm-waxy-smooth",
+        "matte-sky-blue",
+        "ancient-weight",
+        "desert-dry"
+      ],
+      "palette_keywords": [
+        "robin-egg-blue",
+        "spiderweb-matrix-teal",
+        "Persian-sky-blue",
+        "desert-turquoise"
+      ],
+      "aesthetic_roles": [
+        "sky-color anchor",
+        "ancient-sacred material",
+        "desert-Southwest palette",
+        "protective talisman archetype"
+      ],
+      "vibe_notes": "Turquoise is the sky-stone of human history — found at the oldest mines, in the most sacred grave goods, across the most distant trading cultures. It is simultaneously the color of desert sky and deep sea, of protective amulets and ceremonial power.",
+      "symbolism": [
+        "the sky",
+        "protection from evil",
+        "luck and good fortune",
+        "truth and communication",
+        "sacred connection",
+        "water and life"
+      ],
+      "folklore_summary": "Turquoise is one of the few gem minerals whose name gave a color its name in European languages ('turquoise' from 'Turkish stone' — via the Turkish trade routes through which Persian turquoise reached Europe). Ancient Persians believed turquoise reflected the color of heaven. In Mesoamerica, turquoi"
+    }
+  ]
+}

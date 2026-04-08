@@ -1,0 +1,85 @@
+{
+  "id": "fluorite",
+  "display_name": "Fluorite",
+  "chemistry_class": "halide",
+  "species_status": "species",
+  "ui_color_hint": [
+    "purple",
+    "green",
+    "blue"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "purple",
+    "green"
+  ],
+  "color_profiles": [
+    {
+      "name": "purple-spectrum",
+      "colors": [
+        "purple",
+        "lilac",
+        "violet"
+      ],
+      "variety_name": null,
+      "cause": "Impurity / defect driven coloration."
+    },
+    {
+      "name": "green-spectrum",
+      "colors": [
+        "mint-green",
+        "leaf-green",
+        "deep-green"
+      ],
+      "variety_name": null,
+      "cause": "Impurity / defect driven coloration."
+    },
+    {
+      "name": "warm-spectrum",
+      "colors": [
+        "golden-yellow",
+        "champagne",
+        "brown",
+        "pink",
+        "red"
+      ],
+      "variety_name": null,
+      "cause": "Impurity / defect driven coloration."
+    },
+    {
+      "name": "dark-spectrum",
+      "colors": [
+        "black"
+      ],
+      "variety_name": null,
+      "cause": "Rare dark color expression."
+    }
+  ],
+  "habits": [
+    "cubic",
+    "octahedral",
+    "nodular",
+    "botryoidal",
+    "fibrous",
+    "granular",
+    "massive"
+  ],
+  "textures": [
+    "glassy",
+    "smooth",
+    "translucent",
+    "glowing"
+  ],
+  "luster": [
+    "vitreous",
+    "earthy"
+  ],
+  "visual_notes": "One of the best minerals for geometric crystal logic and surreal color zoning.",
+  "optical_effects": {
+    "fluorescence": "Often notable; the term fluorescence is historically derived from fluorite.",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

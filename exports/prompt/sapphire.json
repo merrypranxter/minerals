@@ -1,0 +1,52 @@
+{
+  "id": "sapphire",
+  "display_name": "Sapphire",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "corundum",
+  "baseline_colors": [
+    "blue",
+    "cornflower-blue",
+    "deep-blue"
+  ],
+  "visual_notes": "Kashmir sapphire produces a 'velvety' blue that seems to glow from within — caused by fine silk inclusions scattering light. Star sapphire at its best shows a perfectly centered six-rayed star that moves over the cabochon surface. Padparadscha's salmon-pink-orange is unique and defies category — it must be evaluated in person to appreciate.",
+  "prompt_fragments": [
+    "velvety Kashmir blue — cornflower sky trapped in Mohs-9 corundum",
+    "star sapphire cabochon — six-rayed asterism rolling over blue-gray surface",
+    "padparadscha: salmon-lotus at the boundary of pink and orange, Sri Lanka"
+  ],
+  "mood_keywords": [
+    "velvety-Kashmir-blue",
+    "heaven-stone",
+    "September-depth",
+    "iron-titanium-charge-transfer",
+    "royal-celestial"
+  ],
+  "sensory_keywords": [
+    "deep-blue-cool",
+    "velvety-scattered-light",
+    "September-sky-clarity",
+    "regal-weight"
+  ],
+  "palette_keywords": [
+    "Kashmir-velvety-blue",
+    "cornflower-blue",
+    "padparadscha-salmon",
+    "star-sapphire-gray-blue"
+  ],
+  "aesthetic_roles": [
+    "heaven-color anchor",
+    "September gem reference",
+    "royal-blue luxury",
+    "velvety texture reference"
+  ],
+  "vibe_notes": "Sapphire is the blue of the sky trapped in stone — or in Persian belief, the reason the sky is blue. Kashmir sapphire has the quality of depth without darkness, blue without coldness, velvet without softness. The finest stones seem to emit blue light rather than reflect it.",
+  "symbolism": [
+    "wisdom and clarity",
+    "heaven and divine favor",
+    "truth and fidelity",
+    "royal power",
+    "September and autumn"
+  ],
+  "folklore_summary": "Ancient Persians believed the sky was blue because the Earth rested on a vast sapphire pedestal whose reflection made the sky blue. Medieval European clergy wore sapphire rings as stones of heaven. The name comes from Greek 'sappheiros' (possibly originally referring to lapis lazuli, not sapphire). "
+}

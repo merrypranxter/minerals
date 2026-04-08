@@ -1,0 +1,272 @@
+id: ruby
+slug: ruby
+display_name: Ruby
+
+classification:
+  chemistry_class: oxide
+  mineral_group: corundum-group
+  species_status: variety
+  parent_species: corundum
+  related_varieties:
+    - star-ruby
+    - pigeon-blood-ruby
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 3486
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Al2O3 (with Cr3+)"
+  simplified_formula: "Al2O3:Cr"
+  essential_elements: [Al, O]
+  trace_elements_common: [Cr, Fe, Ti, V, Mn]
+  structural_units:
+    - "AlO6 octahedra sharing faces and edges in hexagonal close-packed oxygen framework"
+  atomic_structure_notes: "Ruby is corundum (Al2O3) colored by Cr3+ substituting for Al3+ in the octahedral site. Chromium content in gem ruby typically 0.1–3 wt% Cr2O3. Iron impurities alongside chromium produce orangey hues; high Cr with low Fe gives the purest reds."
+  chemistry_notes: "Ruby grade requires both red color from Cr3+ and sufficient saturation. The boundary between 'ruby' and 'pink sapphire' is a commercial convention — there is no discrete compositional boundary, only increasing Cr concentration produces deeper red/pink. 'Pigeon's blood' refers to specific Burmese ruby with vivid red + slight blue/purple fluorescence."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "3 2/m hexagonal scalenohedral"
+  space_group: "R-3c"
+  unit_cell_notes: ""
+  twinning: "Contact and penetration twins on {0001} and {10-11} common."
+  crystallography_notes: "Typically prismatic, tabular (hexagonal outline), or barrel-shaped crystals. Alluvial rubies are typically rounded, frosted pebbles. Striated basal faces common. Parting on {0001} and {10-11}."
+
+physical_properties:
+  mohs_hardness: 9
+  specific_gravity: "3.97–4.05"
+  luster: [vitreous, adamantine]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: ["none; parting on {0001} and {10-11}"]
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Second hardest natural mineral (Mohs 9). Extremely durable and abrasion-resistant. No true cleavage but parting planes can affect cutting. High refractive index (~1.76–1.77) gives excellent brilliance."
+
+appearance:
+  baseline_colors:
+    - red
+    - deep-red
+    - pinkish-red
+  color_profiles:
+    - name: Pigeon's Blood Ruby
+      colors: [vivid-red, pure-red with slight blue fluorescent overtone]
+      cause: "Cr3+ at optimal concentration (~0.5–1.5% Cr2O3); strong red fluorescence under UV complements natural redness in daylight."
+      conditions: "Mogok Valley, Myanmar — classic marble-hosted ruby environment."
+      variety_name: pigeon-blood-ruby
+    - name: Burmese Ruby (general)
+      colors: [deep-red, red, slightly purplish-red]
+      cause: "Cr3+ chromophore; trace Fe adds depth."
+      conditions: "Mogok Valley, Myanmar."
+      variety_name: null
+    - name: Thai/Cambodian Ruby
+      colors: [dark-red, brownish-red, purplish-red]
+      cause: "Higher Fe content alongside Cr3+ creates darker, less fluorescent red."
+      conditions: "Basaltic deposits — Thailand, Cambodia, Vietnam."
+      variety_name: null
+    - name: Star Ruby
+      colors: [red body with six-rayed white asterism]
+      cause: "Silk inclusions (rutile needles oriented along three crystallographic directions) producing asterism when cut as cabochon."
+      conditions: "Myanmar, Sri Lanka, India."
+      variety_name: star-ruby
+  habits:
+    - prismatic
+    - tabular hexagonal
+    - barrel-shaped
+    - bipyramidal
+    - massive
+    - granular
+    - rounded alluvial pebbles
+  textures:
+    - glassy
+    - striated crystal faces
+    - silky (silk inclusions visible under magnification)
+  macro_patterns:
+    - crystal prism form
+    - six-rayed star (star ruby cabochon)
+    - fingerprint and needled inclusions under magnification
+  common_forms:
+    - faceted brilliant or cushion gems
+    - star ruby cabochons
+    - rough alluvial pebbles
+    - crystal specimens on matrix
+  visual_notes: "Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology."
+
+optical_and_special_effects:
+  fluorescence: "Strong red fluorescence under UV (LW and SW) — Cr3+ emission; Burmese/marble-hosted rubies fluoresce more strongly than basalt-hosted Thai rubies (which have higher Fe quenching fluorescence)"
+  phosphorescence: "Some Burmese rubies phosphoresce after UV exposure"
+  chatoyancy: ""
+  asterism: "Six-rayed star in star ruby — from intersecting rutile (silk) needle inclusions parallel to three directions in {0001} basal plane"
+  iridescence: ""
+  pleochroism: "Dichroic: orange-red / purple-red (strong); orientation critical in faceting for color optimization"
+  optical_notes: "Uniaxial negative. nω ≈ 1.770, nε ≈ 1.762 (RI ~1.762–1.770). Birefringence ~0.008. Strong fluorescence under UV is diagnostic for distinguishing ruby from red spinel, garnet."
+
+formation_and_occurrence:
+  genesis:
+    - metamorphic (marble-hosted)
+    - metamorphic (basaltic/alkali basalt xenocrysts)
+    - magmatic (syenites — minor)
+    - sedimentary (placer)
+  geologic_environments:
+    - marble and calc-silicate metamorphic rocks
+    - alkali basalt lava fields (xenocrysts)
+    - metamorphic schist and gneiss
+    - alluvial and eluvial placer gravels
+  host_rocks:
+    - crystalline marble (classic Mogok environment)
+    - schist and gneiss
+    - alluvial gravel
+  associated_minerals:
+    - spinel
+    - calcite
+    - phlogopite
+    - diopside
+    - zircon
+    - pyrite (in some deposits)
+  locality_scope: uncommon
+  notable_localities:
+    - "Mogok Valley, Sagaing Region, Myanmar (world's finest — marble-hosted pigeon's blood)"
+    - "Mong Hsu, Shan State, Myanmar (commercial production; requires heat treatment)"
+    - "Sri Lanka (Ceylon ruby — often pinkish)"
+    - "Mozambique (Montepuez — significant production since 2009)"
+    - "Madagascar (Ilakaka, Didy)"
+    - "Thailand and Cambodia (Chanthaburi, Pailin — basalt-hosted)"
+    - "Vietnam (Lục Yên and Quỳ Châu — marble-hosted)"
+    - "Tanzania (Winza, Longido)"
+    - "Greenland (Fiskenaesset — apatite-rich suite)"
+  occurrence_notes: "Marble-hosted rubies (Myanmar, Vietnam) tend to have low Fe and strong fluorescence — producing the coveted 'pigeon's blood' appearance. Basalt-hosted rubies (Thailand, Cambodia) have higher Fe that quenches fluorescence and deepens/darkens color. Mozambique has become a leading producer since major deposits discovered at Montepuez."
+
+cultural_and_historical:
+  birthstone_status:
+    - "July birthstone (traditional and modern)"
+    - "15th and 40th wedding anniversary"
+  zodiac_associations:
+    - "Cancer (July)"
+    - "Leo (some traditions)"
+    - "Capricorn (Vedic astrology)"
+  historical_uses:
+    - "Gemstone in jewelry — highest value among colored stones historically"
+    - "Set in royal regalia across Asian and European monarchies"
+    - "Ruby laser (first working laser, Theodore Maiman, 1960 — used synthetic ruby)"
+    - "Watch bearings and precision instrument components (synthetic ruby)"
+    - "Mughal and Hindu ritual objects"
+  cultural_associations:
+    - "'Ratnaraj' — Sanskrit for 'king of gems'"
+    - "Burmese warriors believed rubies made them invulnerable in battle — inserted under skin"
+    - "Hindu texts: ruby at the navel of Vishnu's crown"
+    - "European medieval belief: ruby darkens when its owner is in danger"
+    - "Ruby associated with Mars (Roman), divine protection, and the blood of the gods"
+    - "The Black Prince's Ruby in the British Imperial State Crown — actually red spinel, not ruby"
+  symbolism:
+    - passion and love
+    - blood and vitality
+    - royal power
+    - protection in war
+    - divine fire
+    - July and summer heat
+  folklore_notes: "Ruby is the 'king of gems' — a title given in Sanskrit texts that has persisted across cultures. Burmese warriors inserted rubies under their skin before battle believing it would make them invincible. Medieval European tradition held that a ruby's color deepened to warn its wearer of approaching danger and paled if the wearer was in mortal peril. The famous 'Black Prince's Ruby' in the British Crown Jewels is actually a large red spinel — a misidentification that held for centuries. The first ruby laser (1960) used chromium-doped synthetic corundum, the same physics as natural ruby's red fluorescence."
+
+interpretive_vibe:
+  mood_keywords:
+    - pigeon-blood-fire
+    - king-of-gems
+    - chromium-glow
+    - Mogok-valley-red
+    - royal-blood
+  sensory_keywords:
+    - deep-red-warmth
+    - fluorescent-inner-glow
+    - hard-and-heavy
+    - blood-vivid
+  palette_keywords:
+    - pigeon-blood-red
+    - Burmese-deep-red
+    - fluorescent-crimson
+    - star-ruby-silk
+  aesthetic_roles:
+    - apex colored gemstone
+    - royal red anchor
+    - July fire reference
+    - fluorescent red chromophore
+  vibe_notes: "Ruby holds the deep-red that human eyes are tuned to desire — the color of blood, roses, and fire condensed into Mohs-9 corundum. In strong daylight, Burmese pigeon's blood ruby appears to glow from within — the chromium fluorescence adding spectral energy that no mere pigment can produce."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Extremely durable in gem form. Second hardest natural material. Avoid impacts on girdle (parting planes can cleave). Safe for all normal jewelry use."
+  care_notes: "Clean with warm soapy water and brush; ultrasonic generally safe (avoid for heavily fractured or filled stones). Store separately from other gems to avoid mutual scratching."
+  treatments_or_synthetics:
+    - "Heat treatment: universal and accepted by the trade; removes silk, improves color and clarity"
+    - "Fracture filling with lead glass: used for heavily included material; requires disclosure and special care"
+    - "Beryllium diffusion: produces color alteration; requires disclosure"
+    - "Flux-grown synthetic ruby: Chatham, Ramaura — identified by flux inclusions under magnification"
+    - "Verneuil (flame-fusion) synthetic ruby: curved growth lines, gas bubbles"
+    - "Hydrothermal synthetic ruby: very close to natural; spectroscopic testing required"
+  common_confusions:
+    - "Red spinel (isometric — no birefringence; no fluorescence at same intensity; The 'Black Prince's Ruby' in British Crown is spinel)"
+    - "Pyrope garnet (no birefringence; no UV fluorescence)"
+    - "Red tourmaline (rubellite — biaxial; different RI)"
+    - "Red glass"
+    - "Synthetic ruby (requires spectroscopic and inclusion analysis)"
+  market_notes: "Ruby is the highest-priced colored gemstone per carat globally. Burmese (Mogok) pigeon's blood rubies with no heat treatment command extreme premiums at auction. Mozambique rubies have emerged as a credible high-value alternative. Treatment disclosure is mandatory in the trade. Synthetic rubies are commodity items in industry."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by:
+    - chlorite
+    - muscovite
+  lookalikes:
+    - red-spinel
+    - pyrope-garnet
+    - rubellite-tourmaline
+    - almandine-garnet
+  related_species:
+    - corundum
+    - sapphire
+    - spinel
+
+app_metadata:
+  tags:
+    - oxide
+    - variety
+    - corundum
+    - gemstone
+    - red
+    - birthstone
+    - july
+    - fluorescent
+    - trigonal
+    - high-priority
+    - jewelry
+  search_boost_terms:
+    - ruby gemstone
+    - pigeon blood ruby
+    - Burmese ruby
+    - Mogok ruby
+    - Al2O3 chromium
+    - star ruby
+    - July birthstone
+    - king of gems
+    - ratnaraj
+  prompt_fragments:
+    - "pigeon's blood ruby — chromium fire glowing in Mogok marble"
+    - "star ruby cabochon with six-rayed silk asterism"
+    - "vivid red fluorescent corundum — blood of gems"
+  ui_color_hint:
+    - "#9B111E"
+    - "#CC0000"
+    - "#E0115F"
+  priority_score: 96
+
+provenance:
+  source_status: draft
+  completeness: 0.93
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3486.html"
+    - "https://www.gia.edu/ruby"
+    - "https://www.webmineral.com/data/Corundum.shtml"
+  notes: "Ruby is a variety of corundum. mindat_id 3486 is the GIA/mindat entry for ruby variety specifically."

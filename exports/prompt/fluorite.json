@@ -1,0 +1,46 @@
+{
+  "id": "fluorite",
+  "display_name": "Fluorite",
+  "chemistry_class": "halide",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "colorless",
+    "purple",
+    "green"
+  ],
+  "visual_notes": "One of the best minerals for geometric crystal logic and surreal color zoning.",
+  "prompt_fragments": [
+    "translucent cubic crystal zoning",
+    "acid-violet fluorite geometry",
+    "UV-reactive candy mineral"
+  ],
+  "mood_keywords": [
+    "neon-cube",
+    "spectral-order",
+    "ultraviolet-dream",
+    "crystalline-candy",
+    "geometric-lucidity"
+  ],
+  "sensory_keywords": [
+    "cool",
+    "bright",
+    "glass-sugar",
+    "soft-glow"
+  ],
+  "palette_keywords": [
+    "electric-violet",
+    "acid-green",
+    "champagne-gold",
+    "ghost-blue"
+  ],
+  "aesthetic_roles": [
+    "geometry crystal",
+    "UV crystal",
+    "color-zoning star",
+    "candy-mineral"
+  ],
+  "vibe_notes": "Great for apps that need cubes, zones, fluorescence, or impossible-looking candy color.",
+  "symbolism": [],
+  "folklore_summary": ""
+}

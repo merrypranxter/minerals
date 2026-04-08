@@ -1,0 +1,102 @@
+{
+  "id": "corundum",
+  "display_name": "Corundum",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "ui_color_hint": [
+    "deep-red",
+    "cornflower-blue",
+    "gray-brown"
+  ],
+  "baseline_colors": [
+    "gray",
+    "brown",
+    "colorless"
+  ],
+  "color_profiles": [
+    {
+      "name": "colorless",
+      "colors": [
+        "colorless",
+        "white"
+      ],
+      "variety_name": null,
+      "cause": "Absence of chromophore trace elements."
+    },
+    {
+      "name": "ruby",
+      "colors": [
+        "red",
+        "deep-red",
+        "pinkish-red",
+        "pigeon-blood-red"
+      ],
+      "variety_name": "ruby",
+      "cause": "Cr3+ substituting for Al3+; d-d electronic transitions."
+    },
+    {
+      "name": "blue-sapphire",
+      "colors": [
+        "blue",
+        "cornflower-blue",
+        "deep-blue",
+        "navy"
+      ],
+      "variety_name": "sapphire",
+      "cause": "Intervalence charge transfer between Fe2+ and Ti4+ on adjacent octahedral sites."
+    },
+    {
+      "name": "yellow-sapphire",
+      "colors": [
+        "yellow",
+        "golden-yellow"
+      ],
+      "variety_name": "sapphire",
+      "cause": "Fe3+ or color centers."
+    },
+    {
+      "name": "padparadscha",
+      "colors": [
+        "pink-orange",
+        "salmon",
+        "lotus-flower"
+      ],
+      "variety_name": "padparadscha",
+      "cause": "Combined Cr3+ and iron-related centers."
+    },
+    {
+      "name": "pink-sapphire",
+      "colors": [
+        "pink",
+        "pale-pink"
+      ],
+      "variety_name": "sapphire",
+      "cause": "Low Cr3+ concentrations; boundary with ruby is debated."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "tabular",
+    "barrel-shaped",
+    "bipyramidal",
+    "massive",
+    "granular"
+  ],
+  "textures": [
+    "glassy",
+    "striated-faces",
+    "crystalline"
+  ],
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "visual_notes": "Gem-quality crystals prized as ruby and sapphire. Non-gem material is gray-brown and often massive. Silk inclusions produce asterism in star rubies and sapphires.",
+  "optical_effects": {
+    "fluorescence": "Variable; rubies often fluoresce strong red under UV; blue sapphires typically inert.",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Present in star corundums when cut en cabochon.",
+    "asterism": "Six-rayed stars in star ruby and star sapphire from intersecting rutile needle (silk) inclusions along {0001}."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "nephrite",
+  "display_name": "Nephrite",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "ui_color_hint": [
+    "spinach-green",
+    "mutton-fat-white",
+    "celadon",
+    "dark-green"
+  ],
+  "baseline_colors": [
+    "white",
+    "cream",
+    "pale-green"
+  ],
+  "color_profiles": [
+    {
+      "name": "spinach-jade",
+      "colors": [
+        "spinach-green",
+        "dark-green",
+        "mottled-green"
+      ],
+      "variety_name": "spinach-jade",
+      "cause": "Moderate to high Fe2+ substituting for Mg in actinolite-rich nephrite; Fe-rich composition."
+    },
+    {
+      "name": "mutton-fat-jade",
+      "colors": [
+        "creamy-white",
+        "waxy-white",
+        "off-white"
+      ],
+      "variety_name": "mutton-fat-jade",
+      "cause": "Low Fe content; near-pure tremolite composition; fine texture diffuses light."
+    },
+    {
+      "name": "celadon-jade",
+      "colors": [
+        "pale-green",
+        "celadon",
+        "light-green"
+      ],
+      "variety_name": null,
+      "cause": "Low Fe content with minor chromophores."
+    },
+    {
+      "name": "gray-nephrite",
+      "colors": [
+        "gray",
+        "blue-gray",
+        "smoke-gray"
+      ],
+      "variety_name": null,
+      "cause": "Graphite inclusions or specific Fe oxidation states."
+    },
+    {
+      "name": "black-nephrite",
+      "colors": [
+        "black",
+        "dark-gray"
+      ],
+      "variety_name": null,
+      "cause": "Very high Fe content and/or carbonaceous inclusions."
+    }
+  ],
+  "habits": [
+    "massive",
+    "fibrous-aggregate",
+    "interlocking-bladed",
+    "botryoidal (rare)",
+    "vein-filling"
+  ],
+  "textures": [
+    "waxy",
+    "silky",
+    "smooth",
+    "fibrous-felt",
+    "interlocking-crystalline"
+  ],
+  "luster": [
+    "waxy",
+    "silky",
+    "greasy"
+  ],
+  "visual_notes": "Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass.",
+  "optical_effects": {
+    "fluorescence": "Generally inert; some material shows very weak cream or green fluorescence under LW UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Rare; requires aligned fibrous structure",
+    "asterism": ""
+  }
+}

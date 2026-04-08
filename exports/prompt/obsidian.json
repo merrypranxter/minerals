@@ -1,0 +1,51 @@
+{
+  "id": "obsidian",
+  "display_name": "Obsidian",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "baseline_colors": [
+    "black",
+    "dark-brown"
+  ],
+  "visual_notes": "Obsidian is pure volcanic glass — the most visually simple and the most dramatically effective black mineral material. Its jet-black vitreous surface reflects light cleanly. Rainbow varieties produce full spectral color from thin-film magnetite layers. Apache tears appear opaque but transmit brownish light when held up.",
+  "prompt_fragments": [
+    "jet-black volcanic glass with conchoidal fracture — razor edge from deep time",
+    "rainbow obsidian — full spectral iridescence on absolute black surface",
+    "Aztec smoking mirror: Tezcatlipoca sees all in volcanic glass"
+  ],
+  "mood_keywords": [
+    "volcanic-void",
+    "obsidian-mirror",
+    "razor-blade-truth",
+    "shadow-surface",
+    "night-glass"
+  ],
+  "sensory_keywords": [
+    "cold glass",
+    "razor edge",
+    "jet-black-reflection",
+    "volcanic-weight"
+  ],
+  "palette_keywords": [
+    "absolute-black",
+    "rainbow-on-void",
+    "night-mirror",
+    "mahogany-flow"
+  ],
+  "aesthetic_roles": [
+    "absolute-black anchor",
+    "volcanic creation reference",
+    "mirror/void element",
+    "surgical-edge material"
+  ],
+  "vibe_notes": "Obsidian is the void made solid — a black mirror that reflects what you put in front of it. It is simultaneously the sharpest natural material and the darkest. Tezcatlipoca's smoking mirror sees all. Apache tears carry grief transformed into translucent darkness.",
+  "symbolism": [
+    "truth-revealing mirror",
+    "the void and shadow-self",
+    "protection from negative energy",
+    "warrior sharpness",
+    "volcanic creation and destruction"
+  ],
+  "folklore_summary": "Tezcatlipoca, the Aztec god of night, sorcery, and the north, is symbolized by a black obsidian smoking mirror — his attribute and the means by which he could see all things in the universe including human sin and fate. Obsidian mirrors were used by priests for scrying and divination. The Apache tea"
+}

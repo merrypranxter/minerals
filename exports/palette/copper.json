@@ -1,0 +1,76 @@
+{
+  "id": "copper",
+  "display_name": "Copper",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#B87333",
+    "#CB6D51",
+    "#4A7C59"
+  ],
+  "baseline_colors": [
+    "copper-red",
+    "orange-red",
+    "brown (oxidized)",
+    "blue-green (weathered)"
+  ],
+  "color_profiles": [
+    {
+      "name": "Fresh Native Copper",
+      "colors": [
+        "copper-red",
+        "orange-red",
+        "salmon-pink"
+      ],
+      "variety_name": null,
+      "cause": "metallic copper surface — characteristic d-band optical absorption"
+    },
+    {
+      "name": "Oxidized / Tarnished",
+      "colors": [
+        "brown",
+        "dark-brown",
+        "black"
+      ],
+      "variety_name": null,
+      "cause": "formation of cuprite (Cu2O) or tenorite surface layer"
+    },
+    {
+      "name": "Patinated / Weathered",
+      "colors": [
+        "blue-green",
+        "turquoise",
+        "green",
+        "blue"
+      ],
+      "variety_name": null,
+      "cause": "formation of malachite, azurite, chrysocolla, or brochantite on surface"
+    }
+  ],
+  "habits": [
+    "arborescent",
+    "dendritic",
+    "massive",
+    "wire",
+    "platy",
+    "cubic crystals (rare)",
+    "tetrahexahedral crystals"
+  ],
+  "textures": [
+    "wiry tangled masses",
+    "dendritic branching",
+    "rough granular",
+    "nodular"
+  ],
+  "luster": [
+    "metallic"
+  ],
+  "visual_notes": "Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits.",
+  "optical_effects": {
+    "fluorescence": "none",
+    "iridescence": "tarnish iridescence on oxidized surfaces",
+    "play_of_color": "tarnish iridescence on oxidized surfaces",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

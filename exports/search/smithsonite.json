@@ -1,0 +1,66 @@
+{
+  "id": "smithsonite",
+  "slug": "smithsonite",
+  "display_name": "Smithsonite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "calcite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "ZnCO3",
+  "essential_elements": [
+    "Zn",
+    "C",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "4–4.5",
+  "luster": [
+    "vitreous",
+    "pearly",
+    "silky"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "white",
+    "colorless",
+    "gray"
+  ],
+  "genesis": [
+    "secondary (supergene)",
+    "oxidation-zone"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "carbonate",
+    "zinc",
+    "secondary",
+    "oxidized-zone",
+    "botryoidal",
+    "color-variety",
+    "trigonal",
+    "smithsonian-namesake"
+  ],
+  "search_boost_terms": [
+    "ZnCO3",
+    "zinc carbonate",
+    "smithsonite crystal",
+    "cobaltian smithsonite",
+    "turkey fat ore",
+    "dry bone ore",
+    "James Smithson",
+    "Tsumeb blue"
+  ],
+  "priority_score": 82,
+  "mood_keywords": [
+    "pearl-dome",
+    "zinc-spectrum",
+    "cobalt-lavender",
+    "apple-green-secondary",
+    "museum-cabinet-blue"
+  ],
+  "_all_text": "Smithsonite smithsonite ZnCO3 Color is determined by trace substitution: Co gives blue-lavender (cobaltian smithsonite), Cu gives green or teal-blue (cuprian smithsonite), Mn gives pink, Fe gives yellow-brown, Cd gives colorless to pale yellow. Pure ZnCO3 is white to colorless. Each color variant has its own collector following. Smithsonite is primarily known as a secondary zinc carbonate with exceptional color range and unusual pearlescent botryoidal habit. Cobalt-bearing blue smithsonite from Tsumeb and copper-bearing green from Arizona are collector favorites. The pearly luster of botryoidal forms is distinctive. Smithsonite is named for James Smithson — chemist, mineralogist, and benefactor of the Smithsonian Institution. He actually studied calamine (a historical term covering hemimorphite and smithsonite). The mineral was formally named for him posthumously by François Sulpice Beudant in 1832. diversity transformation subtle color Zinc ore (minor source in oxidized deposits) Gem and lapidary use (cabochons from colored botryoidal material) Collector mineral ZnCO3 zinc carbonate smithsonite crystal cobaltian smithsonite turkey fat ore dry bone ore James Smithson Tsumeb blue carbonate zinc secondary oxidized-zone botryoidal color-variety trigonal smithsonian-namesake pearl-dome zinc-spectrum cobalt-lavender apple-green-secondary museum-cabinet-blue white colorless gray"
+}

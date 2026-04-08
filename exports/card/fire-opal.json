@@ -1,0 +1,65 @@
+{
+  "id": "fire-opal",
+  "slug": "fire-opal",
+  "display_name": "Fire Opal",
+  "chemistry_class": "mineraloid",
+  "species_status": "variety",
+  "parent_species": "opal",
+  "mineral_group": "opal-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2·nH2O",
+  "mohs_hardness": "5.5–6",
+  "specific_gravity": "1.98–2.20",
+  "luster": [
+    "vitreous",
+    "resinous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "amorphous",
+  "baseline_colors": [
+    "orange",
+    "red-orange",
+    "yellow",
+    "red"
+  ],
+  "color_profiles_available": [
+    "Classic Fire Opal (Orange)",
+    "Yellow Fire Opal",
+    "Red Fire Opal",
+    "Precious Fire Opal"
+  ],
+  "habits": [
+    "massive",
+    "nodular",
+    "botryoidal",
+    "vein-filling"
+  ],
+  "birthstone_months": [
+    "October birthstone (as a variety of opal)"
+  ],
+  "tags": [
+    "mineraloid",
+    "variety",
+    "opal",
+    "silica",
+    "amorphous",
+    "volcanic",
+    "orange",
+    "red",
+    "mexico",
+    "aztec",
+    "facetable",
+    "october"
+  ],
+  "priority_score": 87,
+  "ui_color_hint": [
+    "#FF6B35",
+    "#FF4500",
+    "#FFB347"
+  ]
+}

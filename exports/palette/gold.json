@@ -1,0 +1,70 @@
+{
+  "id": "gold",
+  "display_name": "Gold",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#FFD700",
+    "#C8960C",
+    "#FFC200"
+  ],
+  "baseline_colors": [
+    "golden-yellow",
+    "pale-yellow",
+    "orange-yellow"
+  ],
+  "color_profiles": [
+    {
+      "name": "Pure Gold",
+      "colors": [
+        "rich-golden-yellow"
+      ],
+      "variety_name": null,
+      "cause": "inherent electronic structure of metallic gold"
+    },
+    {
+      "name": "Electrum",
+      "colors": [
+        "pale-yellow",
+        "silver-yellow",
+        "greenish-yellow"
+      ],
+      "variety_name": "electrum",
+      "cause": "natural silver alloy diluting gold color"
+    },
+    {
+      "name": "Copper-Rich Gold",
+      "colors": [
+        "orange-yellow",
+        "reddish-gold"
+      ],
+      "variety_name": null,
+      "cause": "copper substitution in metallic lattice"
+    }
+  ],
+  "habits": [
+    "arborescent",
+    "dendritic",
+    "massive",
+    "nugget",
+    "leaf",
+    "wire",
+    "octahedral crystals"
+  ],
+  "textures": [
+    "rough granular surface",
+    "wire-like",
+    "spongy"
+  ],
+  "luster": [
+    "metallic"
+  ],
+  "visual_notes": "Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally.",
+  "optical_effects": {
+    "fluorescence": "none",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

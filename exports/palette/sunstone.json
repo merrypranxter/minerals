@@ -1,0 +1,84 @@
+{
+  "id": "sunstone",
+  "display_name": "Sunstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "copper-orange",
+    "harvest-gold",
+    "deep-red",
+    "champagne"
+  ],
+  "baseline_colors": [
+    "orange",
+    "golden-yellow",
+    "salmon",
+    "copper-red"
+  ],
+  "color_profiles": [
+    {
+      "name": "oregon-sunstone-copper",
+      "colors": [
+        "deep-red",
+        "copper-red",
+        "red-green bicolor",
+        "teal-green",
+        "champagne"
+      ],
+      "variety_name": "oregon-sunstone",
+      "cause": "Native copper inclusions (platelets and dispersed copper) provide both color saturation and metallic aventurescent schiller."
+    },
+    {
+      "name": "norway-sunstone",
+      "colors": [
+        "golden-yellow",
+        "reddish-orange",
+        "peach"
+      ],
+      "variety_name": null,
+      "cause": "Hematite platelet inclusions oriented parallel to {001} in oligoclase matrix."
+    },
+    {
+      "name": "india-sunstone",
+      "colors": [
+        "orange",
+        "red",
+        "gold"
+      ],
+      "variety_name": null,
+      "cause": "Goethite and hematite platelet inclusions in oligoclase."
+    },
+    {
+      "name": "colorless-clear-oregon",
+      "colors": [
+        "colorless",
+        "champagne",
+        "very pale yellow"
+      ],
+      "variety_name": null,
+      "cause": "Very low copper content; body color near-colorless."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "tabular",
+    "massive",
+    "anhedral"
+  ],
+  "textures": [
+    "glassy",
+    "metallic-schiller",
+    "smooth"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality.",
+  "optical_effects": {
+    "fluorescence": "",
+    "iridescence": "Aventurescence: metallic glitter and schiller from oriented hematite, goethite, or native copper platelets. More dramatic than moonstone adularescence — appears as individual flashing points or a broad metallic sheen depending on inclusion density and size.",
+    "play_of_color": "Aventurescence: metallic glitter and schiller from oriented hematite, goethite, or native copper platelets. More dramatic than moonstone adularescence — appears as individual flashing points or a broad metallic sheen depending on inclusion density and size.",
+    "chatoyancy": "Rare cat's eye sunstone reported.",
+    "asterism": "Rare 4-ray star sunstone reported in Oregon material."
+  }
+}

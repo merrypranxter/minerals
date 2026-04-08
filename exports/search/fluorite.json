@@ -1,0 +1,59 @@
+{
+  "id": "fluorite",
+  "slug": "fluorite",
+  "display_name": "Fluorite",
+  "chemistry_class": "halide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "fluorite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "CaF2",
+  "essential_elements": [
+    "Ca",
+    "F"
+  ],
+  "crystal_system": "isometric",
+  "mohs_hardness": 4,
+  "luster": [
+    "vitreous",
+    "earthy"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "purple",
+    "green"
+  ],
+  "genesis": [
+    "hydrothermal",
+    "magmatic",
+    "metamorphic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "halide",
+    "fluorescent",
+    "cubic",
+    "colorful",
+    "translucent",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "cubic colorful mineral",
+    "fluorescent crystal",
+    "purple green crystal",
+    "fluorite cube"
+  ],
+  "priority_score": 96,
+  "mood_keywords": [
+    "neon-cube",
+    "spectral-order",
+    "ultraviolet-dream",
+    "crystalline-candy",
+    "geometric-lucidity"
+  ],
+  "_all_text": "Fluorite fluorite CaF2 Major mineral source related to the element fluorine. One of the best minerals for geometric crystal logic and surreal color zoning. cubic colorful mineral fluorescent crystal purple green crystal fluorite cube halide fluorescent cubic colorful translucent high-priority neon-cube spectral-order ultraviolet-dream crystalline-candy geometric-lucidity colorless purple green"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tiger-eye",
+  "slug": "tiger-eye",
+  "display_name": "Tiger's Eye",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2",
+  "mohs_hardness": "5.5–6",
+  "specific_gravity": "2.64–2.71",
+  "luster": [
+    "silky"
+  ],
+  "streak": "yellowish-brown",
+  "transparency": [
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "golden-brown",
+    "amber-brown",
+    "yellow-brown"
+  ],
+  "color_profiles_available": [
+    "tiger-eye-classic",
+    "hawk-eye",
+    "ox-eye",
+    "pietersite"
+  ],
+  "habits": [
+    "fibrous",
+    "massive",
+    "veins"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "chatoyant",
+    "fibrous",
+    "pseudomorph",
+    "silica",
+    "variety",
+    "iron-bearing",
+    "optical-effect",
+    "south-africa"
+  ],
+  "priority_score": 83,
+  "ui_color_hint": [
+    "amber-gold",
+    "dark-honey",
+    "burnt-brown",
+    "blue-gray"
+  ]
+}

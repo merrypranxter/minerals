@@ -1,0 +1,57 @@
+{
+  "id": "malachite",
+  "display_name": "Malachite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "emerald",
+    "dark-green",
+    "black"
+  ],
+  "baseline_colors": [
+    "green"
+  ],
+  "color_profiles": [
+    {
+      "name": "classic-malachite-green",
+      "colors": [
+        "light-green",
+        "medium-green",
+        "dark-green",
+        "black-green"
+      ],
+      "variety_name": null,
+      "cause": "Copper-bearing chemistry."
+    }
+  ],
+  "habits": [
+    "botryoidal",
+    "mammillary",
+    "crustiform",
+    "fibrous",
+    "acicular",
+    "prismatic",
+    "stalactitic",
+    "massive"
+  ],
+  "textures": [
+    "velvety",
+    "satiny",
+    "glossy",
+    "concentric",
+    "rippled"
+  ],
+  "luster": [
+    "silky",
+    "vitreous",
+    "earthy"
+  ],
+  "visual_notes": "One of the strongest 'ornamental pattern' minerals in existence.",
+  "optical_effects": {
+    "fluorescence": "",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

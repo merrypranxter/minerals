@@ -1,0 +1,64 @@
+{
+  "id": "turquoise",
+  "slug": "turquoise",
+  "display_name": "Turquoise",
+  "chemistry_class": "phosphate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "turquoise-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "CuAl6(PO4)4(OH)8·4H2O",
+  "mohs_hardness": "5–6",
+  "specific_gravity": "2.60–2.90",
+  "luster": [
+    "waxy",
+    "earthy"
+  ],
+  "streak": "pale-blue to white",
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "crystal_system": "triclinic",
+  "baseline_colors": [
+    "blue",
+    "blue-green",
+    "green"
+  ],
+  "color_profiles_available": [
+    "Robin's Egg Blue",
+    "Matrix Turquoise",
+    "Green Turquoise",
+    "Blue-Green Turquoise"
+  ],
+  "habits": [
+    "massive",
+    "microcrystalline aggregate",
+    "nodular",
+    "veins",
+    "botryoidal"
+  ],
+  "birthstone_months": [
+    "December birthstone (traditional and modern, alongside zircon and tanzanite)"
+  ],
+  "tags": [
+    "phosphate",
+    "copper",
+    "aluminum",
+    "secondary",
+    "sky-blue",
+    "sacred",
+    "ancient",
+    "birthstone",
+    "december",
+    "triclinic",
+    "high-priority",
+    "jewelry"
+  ],
+  "priority_score": 93,
+  "ui_color_hint": [
+    "#40E0D0",
+    "#00BCD4",
+    "#5B9BD5"
+  ]
+}

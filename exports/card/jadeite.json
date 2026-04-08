@@ -1,0 +1,64 @@
+{
+  "id": "jadeite",
+  "slug": "jadeite",
+  "display_name": "Jadeite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "pyroxene-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "NaAlSi2O6",
+  "mohs_hardness": "6.5–7",
+  "specific_gravity": "3.24–3.43",
+  "luster": [
+    "waxy",
+    "vitreous",
+    "resinous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "monoclinic",
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-green"
+  ],
+  "color_profiles_available": [
+    "imperial-jade",
+    "fei-cui-green",
+    "lavender-jadeite",
+    "white-jadeite",
+    "black-jadeite"
+  ],
+  "habits": [
+    "massive",
+    "granular",
+    "fibrous-aggregate",
+    "interlocking-crystalline",
+    "prismatic (rare isolated crystals)"
+  ],
+  "birthstone_months": [
+    "Not a traditional Western birthstone, but recognized in some systems for March or August"
+  ],
+  "tags": [
+    "gemstone",
+    "inosilicate",
+    "single-chain-silicate",
+    "pyroxene",
+    "jade",
+    "high-pressure",
+    "cultural",
+    "high-priority",
+    "subduction"
+  ],
+  "priority_score": 86,
+  "ui_color_hint": [
+    "imperial-green",
+    "lavender",
+    "white",
+    "deep-green"
+  ]
+}

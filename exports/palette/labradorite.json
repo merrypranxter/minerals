@@ -1,0 +1,93 @@
+{
+  "id": "labradorite",
+  "display_name": "Labradorite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "electric-blue",
+    "dark-gunmetal",
+    "peacock-teal",
+    "copper-orange",
+    "spectral-violet"
+  ],
+  "baseline_colors": [
+    "gray",
+    "dark-gray",
+    "black-gray",
+    "greenish-gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "labradorescence-blue-green",
+      "colors": [
+        "electric-blue",
+        "teal",
+        "peacock-blue",
+        "green"
+      ],
+      "variety_name": null,
+      "cause": "Thin-film interference from Ca-rich and Na-rich exsolution lamellae at ~100–300 nm spacing. Shorter lamellar spacing produces blue; longer spacing shifts toward green and gold."
+    },
+    {
+      "name": "labradorescence-gold-copper",
+      "colors": [
+        "gold",
+        "copper-orange",
+        "amber"
+      ],
+      "variety_name": null,
+      "cause": "Longer-spacing exsolution lamellae shifting interference toward yellow-orange wavelengths."
+    },
+    {
+      "name": "spectrolite",
+      "colors": [
+        {
+          "full-spectrum": "blue"
+        },
+        "green",
+        "yellow",
+        "orange",
+        "red",
+        "violet — on near-black matrix"
+      ],
+      "variety_name": "spectrolite",
+      "cause": "Full-range lamellar spacing distribution on a very dark ground mass, producing all visible colors."
+    },
+    {
+      "name": "transparent-gem",
+      "colors": [
+        "colorless",
+        "yellow",
+        "orange",
+        "cognac",
+        "pale-green"
+      ],
+      "variety_name": null,
+      "cause": "Body color from iron or other trace impurities; transparent facetable material."
+    }
+  ],
+  "habits": [
+    "massive",
+    "prismatic",
+    "tabular",
+    "lamellar",
+    "anhedral-granular"
+  ],
+  "textures": [
+    "smooth",
+    "pearly-cleavage-surfaces",
+    "lamellar"
+  ],
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "visual_notes": "The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face.",
+  "optical_effects": {
+    "fluorescence": "",
+    "iridescence": "Labradorescence: intense thin-film interference iridescence showing blue, green, gold, copper, orange — and in spectrolite, the full visible spectrum — from exsolution lamellae oriented parallel to {010}. The effect is directional and changes with both viewing angle and light angle.",
+    "play_of_color": "Labradorescence: intense thin-film interference iridescence showing blue, green, gold, copper, orange — and in spectrolite, the full visible spectrum — from exsolution lamellae oriented parallel to {010}. The effect is directional and changes with both viewing angle and light angle.",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

@@ -6,14 +6,14 @@ classification:
   chemistry_class: silicate
   mineral_group: feldspar-group
   species_status: variety
-  parent_species: null
+  parent_species: oligoclase
   related_varieties:
     - oregon-sunstone
     - norway-sunstone
     - aventurine-feldspar
 
 identifiers:
-  ima_status: variety
+  ima_status: not_ima
   mindat_id: null
   other_ids:
     note: "Sunstone is a trade/variety name; parent mineral varies (oligoclase, labradorite, or orthoclase depending on source). No single Mindat ID covers all sunstones."
@@ -32,7 +32,7 @@ chemical_profile:
   chemistry_notes: "Oregon sunstone is a labradorite-composition plagioclase (An45–An68) with native copper inclusions. Norwegian sunstone is oligoclase with hematite platelets. Indian and other commercial sunstone is typically oligoclase with hematite or goethite inclusions. Copper-bearing Oregon sunstone is unique globally."
 
 crystallography:
-  crystal_system: "triclinic (oligoclase/labradorite) or monoclinic (orthoclase)"
+  crystal_system: triclinic
   crystal_class: "1-bar (plagioclase) or 2/m (orthoclase)"
   space_group: "P-1 (plagioclase) or C2/m (orthoclase)"
   unit_cell_notes: "Varies with parent feldspar species."

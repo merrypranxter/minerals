@@ -1,0 +1,70 @@
+{
+  "id": "moonstone",
+  "slug": "moonstone",
+  "display_name": "Moonstone",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "orthoclase",
+  "mineral_group": "feldspar-group",
+  "ima_status": "not_ima",
+  "formula": "KAlSi3O8 (orthoclase) with intergrown NaAlSi3O8 (albite) lamellae",
+  "essential_elements": [
+    "K",
+    "Al",
+    "Si",
+    "O"
+  ],
+  "crystal_system": "monoclinic",
+  "mohs_hardness": "6–6.5",
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white",
+    "pale-gray"
+  ],
+  "genesis": [
+    "magmatic",
+    "metamorphic",
+    "pegmatitic"
+  ],
+  "birthstone_status": [
+    "June birthstone (traditional; along with pearl and alexandrite)",
+    "Modern June birthstone (along with pearl and alexandrite)"
+  ],
+  "tags": [
+    "feldspar",
+    "adularescent",
+    "optical-effect",
+    "variety",
+    "gemstone",
+    "birthstone",
+    "lunar",
+    "june",
+    "high-priority"
+  ],
+  "search_boost_terms": [
+    "moonstone",
+    "adularescence",
+    "blue moonstone",
+    "rainbow moonstone",
+    "orthoclase feldspar gem",
+    "June birthstone",
+    "lunar gem",
+    "adular glow"
+  ],
+  "priority_score": 88,
+  "mood_keywords": [
+    "lunar-milk",
+    "adular-glow",
+    "night-water",
+    "floating-light"
+  ],
+  "_all_text": "Moonstone moonstone KAlSi3O8 (orthoclase) with intergrown NaAlSi3O8 (albite) lamellae Parent mineral is orthoclase (monoclinic K-feldspar) or the low-temperature polymorph adularia. Albite lamellae are exsolved from the original homogeneous K-feldspar during slow cooling. The finest Sri Lankan blue moonstone has very thin, evenly spaced lamellae. Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior. Pliny the Elder wrote that moonstone's appearance changed with the phases of the moon. Roman legend held that it was formed from moonlight solidified. In India, moonstone is considered a sacred stone and a dream stone — sleeping with it is said to bring beautiful visions. The Art Nouveau jewelers of the late 19th century elevated moonstone to iconic status in Western fine jewelry. lunar-energy femininity intuition cycles mystery fertility Used in ancient Roman and Greek jewelry; Romans believed it contained the image of Diana, goddess of the moon Revered in Hindu tradition as a sacred stone of the moon god Chandra Art Nouveau jewelry movement (1890–1910) featured moonstone prominently — René Lalique designs June birthstone designation formalized by the American National Retail Jewelers Association in 1912 moonstone adularescence blue moonstone rainbow moonstone orthoclase feldspar gem June birthstone lunar gem adular glow feldspar adularescent optical-effect variety gemstone birthstone lunar june high-priority lunar-milk adular-glow night-water floating-light colorless white pale-gray"
+}

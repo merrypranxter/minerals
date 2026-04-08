@@ -1,0 +1,280 @@
+id: pyrite
+slug: pyrite
+display_name: Pyrite
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: pyrite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - pyritohedron-pyrite
+    - dollar-pyrite
+    - pyrite-sun
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 3314
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "FeS2"
+  simplified_formula: "FeS2"
+  essential_elements: [Fe, S]
+  trace_elements_common: [As, Co, Ni, Cu, Au, Sb, Te, Bi, Se]
+  structural_units:
+    - "Fe coordinated by 6 S atoms"
+    - "S2 dumbbell pairs (persulfide S2(2-) units)"
+  atomic_structure_notes: "Isometric structure with Fe in octahedral sites and S2 pairs oriented along <111> directions. The S2 dumbbell pairs (not individual S2- ions) are the unique structural feature distinguishing pyrite from marcasite (same composition, different structure). The d-electron band gap in pyrite is responsible for its semiconductor properties."
+  chemistry_notes: "Pyrite readily incorporates Au (often in solid solution — 'invisible gold' or submicroscopic inclusions), making it an important ore of gold. As and Co substitution common. Oxidizes readily in moist air (sulfuric acid + iron oxide) — 'acid mine drainage' problem. Famous for 'fool's gold' confusion with native gold."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: "2/m 3̄ (diploidal)"
+  space_group: "Pa3̄"
+  unit_cell_notes: "a ≈ 5.42 Å; Z = 4"
+  twinning: "Iron cross twins (two interpenetrating pyritohedra at 90°) — diagnostic and spectacular"
+  crystallography_notes: "Classic habit is the cube with striated faces (striations from pyritohedral oscillation). Pyritohedron (12-faced form with pentagonal faces) is distinctive and common. Octahedral and combinational forms also occur. Iron cross twins are among mineralogy's most recognizable specimens. 'Pyrite suns' or 'dollar pyrite' — flat discoidal masses in coal — are a unique habit."
+
+physical_properties:
+  mohs_hardness: "6–6.5"
+  specific_gravity: "4.90–5.20"
+  luster: [metallic, splendent]
+  streak: greenish-black
+  transparency: [opaque]
+  cleavage:
+    - "poor cubic {100}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Harder than gold (Au Mohs 2.5–3) — scratching with fingernail or coin distinguishes pyrite from gold immediately. Greenish-black streak vs. gold's golden streak is definitive. Much harder and more brittle than gold — gold is malleable, pyrite is brittle. High SG. Distinctive brassy-yellow color without the warmth of true gold."
+
+appearance:
+  baseline_colors:
+    - brassy-yellow
+    - pale-gold
+    - metallic-yellow
+  color_profiles:
+    - name: Classic Brassy Pyrite
+      colors: [brassy-yellow, metallic-gold-yellow, bronze-yellow]
+      cause: "Metallic luster from d-band electronic structure of iron sulfide; brass-yellow reflectance."
+      conditions: "All pyrite specimens; the baseline color."
+      variety_name: null
+    - name: Iridescent Tarnished Pyrite
+      colors: [bronze, copper-purple, blue-tarnish, rainbow iridescence]
+      cause: "Thin-film iron oxide/hydroxide layer from surface oxidation (FeS2 → Fe oxide + H2SO4)."
+      conditions: "Surface-oxidized or weathered specimens."
+      variety_name: null
+    - name: Pyrite Sun / Dollar Pyrite
+      colors: [brassy-yellow, flat disc with radiating crystal striations]
+      cause: "Radial crystal growth in confined space (coal seam cleavage planes)."
+      conditions: "Illinois coal mines — a unique flat discoidal habit."
+      variety_name: pyrite-sun
+  habits:
+    - cubic (striated faces)
+    - pyritohedral
+    - octahedral
+    - massive
+    - granular
+    - nodular
+    - radiating (pyrite suns)
+    - framboidal (microscopic)
+  textures:
+    - bright metallic
+    - striated cube faces
+    - tarnished iridescent
+  macro_patterns:
+    - striated cubic faces
+    - pyritohedral pentagonal faces
+    - iron cross twin intersection
+    - radiating disc (pyrite sun)
+  common_forms:
+    - cubic crystals with striated faces
+    - pyritohedra
+    - iron cross twins
+    - massive nodular
+    - pyrite suns
+    - octahedral crystals
+  visual_notes: "Pyrite is mineralogy's great impersonator — 'fool's gold' for millennia. The striated faces of pyrite cubes (from oscillation between cube and pyritohedron) are diagnostic. Iron cross twins — two interlocking pyritohedra — are among mineralogy's most architecturally perfect specimens. Pyrite suns (flat radiating discs) are unique and immediately recognizable forms."
+
+optical_and_special_effects:
+  fluorescence: "None"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Surface oxidation produces iridescent tarnish"
+  pleochroism: "None (isometric)"
+  optical_notes: "Opaque metallic mineral. No optical transmission effects. High reflectivity from metallic luster."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal
+    - magmatic
+    - sedimentary (biogenic and diagenetic)
+    - metamorphic
+    - volcanic
+  geologic_environments:
+    - virtually all geological environments
+    - hydrothermal ore deposits (gold, copper, lead-zinc)
+    - sedimentary black shales
+    - coal beds (pyrite suns)
+    - submarine volcanic exhalative deposits (VHMS)
+    - contact metasomatic skarns
+    - metamorphic rocks
+  host_rocks:
+    - shale and mudstone
+    - limestone
+    - granite and quartz veins
+    - schist
+    - coal
+    - virtually any rock type
+  associated_minerals:
+    - quartz
+    - chalcopyrite
+    - galena
+    - sphalerite
+    - arsenopyrite
+    - gold
+    - calcite
+    - pyrrhotite
+    - marcasite
+  locality_scope: worldwide
+  notable_localities:
+    - "Navajún, La Rioja, Spain (world-famous perfect cubic crystals — benchmark specimens)"
+    - "Amelia Courthouse, Amelia County, Virginia, USA (pyritohedra)"
+    - "Butte, Montana, USA"
+    - "Quiruvilca, La Libertad, Peru (pyritohedra and iron crosses)"
+    - "Victoria Mine, Chihuahua, Mexico (combinations)"
+    - "Elba, Italy (classic octahedra and cubes)"
+    - "Coal mines, Illinois, USA (pyrite suns)"
+    - "Freiberg, Saxony, Germany (historical)"
+    - "Bingham Canyon, Utah, USA (gold-bearing)"
+    - "Carlin Trend, Nevada, USA (disseminated gold in pyrite)"
+  occurrence_notes: "Pyrite is the most abundant sulfide mineral — virtually ubiquitous in reducing sedimentary environments, hydrothermal systems, and ore deposits. Of enormous economic importance as an indicator mineral and host for invisible gold (Carlin-type deposits). Navajún, Spain produces some of the most perfect natural cubic crystals of any mineral species — perfect geometric cubes with minimal imperfections."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Leo (some traditions)"
+  historical_uses:
+    - "Fire-starting (iron pyrite struck against flint)"
+    - "Source of sulfur dioxide for wine preservation (ancient)"
+    - "Production of sulfuric acid"
+    - "Gold ore processing (Carlin-type invisible gold)"
+    - "'Fool's gold' — cause of countless mining frauds and prospecting mistakes"
+    - "Marcellus Shale energy extraction"
+    - "Jewelry and inlay (pre-Columbian Peru, Aztec)"
+    - "Victorian 'cut steel' jewelry — pyrite as substitute"
+  cultural_associations:
+    - "'Fool's gold' — ubiquitous cultural metaphor for deceptive appearance"
+    - "Inca and pre-Columbian use of pyrite mirrors for divination (alongside obsidian)"
+    - "Named from Greek 'pyr' (fire) — fire-starting use"
+    - "Carlin Trend discovery (1965, Nevada) — invisible gold in pyrite revolutionized mining"
+    - "Captain Martin Frobisher's 1576 expedition: brought 200 tons of pyrite from Baffin Island mistaken for gold"
+  symbolism:
+    - deceptive appearances
+    - fool's gold / false wealth
+    - fire from stone
+    - abundance and earth's treasure
+    - industrial power
+  folklore_notes: "Pyrite has been 'fool's gold' since antiquity — its brass-yellow metallic luster has deceived prospectors, miners, and explorers throughout history. Captain Martin Frobisher returned from his 1576 Arctic expedition with 200 tonnes of 'ore' that turned out to be pyrite — the English Crown had funded the expedition for nothing. Spanish conquistadors in the Americas repeatedly confused pyrite with gold. In pre-Columbian Peru, pyrite was polished into flat circular mirrors for divination, alongside obsidian. The name comes from Greek 'pyr' (fire) because sparks fly when it is struck against iron or flint."
+
+interpretive_vibe:
+  mood_keywords:
+    - fool's-gold
+    - brassy-deception
+    - cubic-architecture
+    - fire-from-stone
+    - invisible-gold-host
+  sensory_keywords:
+    - cold-brassy-weight
+    - striated-cubic-geometry
+    - metallic-brightness
+    - sulfurous-tang
+  palette_keywords:
+    - brassy-metallic-yellow
+    - bronze-tarnish
+    - gold-impersonator
+    - iron-sulfide-bright
+  aesthetic_roles:
+    - deceptive-beauty archetype
+    - metallic-geometric form
+    - fire-from-stone reference
+    - cubic-architecture mineral
+  vibe_notes: "Pyrite is the great deceiver — the mineral that convinced explorers they'd found gold and sent fleets home to disgrace. But a perfect Navajún pyrite cube is not deception — it is geometric perfection in the service of iron sulfide chemistry. Iron cross twins are architecture. Pyrite suns are geology's mandalas."
+
+practical_notes:
+  toxicity: "Pyrite oxidation in air and moisture produces sulfuric acid ('pyrite disease' or pyrite decay in museum specimens). Arsenal-bearing pyrite can release arsenic. Do not inhale pyrite dust. Handle normally; wash hands after."
+  handling_notes: "Some specimens are unstable and decay over time — especially framboidal and fine-grained pyrite in clay/shale matrix. Stable massive and crystalline specimens are fine. 'Pyrite disease' (chemical degradation releasing sulfuric acid) is a museum conservation issue for certain matrix specimens."
+  care_notes: "Store in low humidity to slow oxidation. Do not expose to moisture over long periods. Clean with dry cloth. Do not use water on unstable matrix specimens."
+  treatments_or_synthetics:
+    - "No gem treatments relevant"
+    - "Some pyrite specimens coated with lacquer for preservation"
+  common_confusions:
+    - "Gold (much softer; malleable; golden streak; no striations; different density feel)"
+    - "Chalcopyrite (brass-yellow but iridescent; lower hardness; different streak)"
+    - "Marcasite (same formula but orthorhombic; different habit and stability)"
+    - "Arsenopyrite (similar luster but paler; distinct silver-white tint)"
+  market_notes: "Abundant and affordable. Navajún cubic crystals command collector premiums for perfect examples. Iron cross twins are prized specimens. Pyrite suns (Illinois) are popular and moderately priced. Generally inexpensive for common material."
+
+relationships:
+  polymorphs:
+    - marcasite
+  pseudomorphs_after: []
+  pseudomorphed_by:
+    - goethite
+    - limonite
+    - malachite
+    - chalcopyrite
+  lookalikes:
+    - gold
+    - chalcopyrite
+    - marcasite
+    - arsenopyrite
+  related_species:
+    - marcasite
+    - arsenopyrite
+    - chalcopyrite
+    - pyrrhotite
+
+app_metadata:
+  tags:
+    - sulfide
+    - iron
+    - metallic
+    - cubic
+    - isometric
+    - fool's-gold
+    - hydrothermal
+    - sedimentary
+    - gold-associated
+    - high-priority
+  search_boost_terms:
+    - pyrite
+    - fool's gold
+    - iron pyrite
+    - FeS2
+    - cubic pyrite
+    - Navajún pyrite
+    - pyrite sun
+    - iron cross twin
+    - gold ore mineral
+  prompt_fragments:
+    - "perfect Navajún pyrite cube — striated brassy faces of absolute geometric order"
+    - "iron cross twin: two pyritohedra intersecting at 90° — mineralogy's signature form"
+    - "pyrite sun: flat radiating disc of brassy crystals from Illinois coal seam"
+  ui_color_hint:
+    - "#CFB53B"
+    - "#B8960C"
+    - "#8B7536"
+  priority_score: 91
+
+provenance:
+  source_status: draft
+  completeness: 0.91
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3314.html"
+    - "https://www.webmineral.com/data/Pyrite.shtml"
+    - "https://geology.com/minerals/pyrite.shtml"
+  notes: ""

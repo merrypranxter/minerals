@@ -1,0 +1,51 @@
+{
+  "id": "alexandrite",
+  "display_name": "Alexandrite",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "chrysoberyl",
+  "baseline_colors": [
+    "green (daylight)",
+    "red-purple (incandescent light)"
+  ],
+  "visual_notes": "Alexandrite is unique — a single stone with two identities. Under northern daylight or fluorescent light it is distinctly green; under incandescent (candle, tungsten) light it turns vivid red-purple. The best Russian specimens shift from 'emerald' to 'ruby' — an impossible color change nicknamed 'the emerald by day, ruby by night' gem. No other natural gemstone produces such a dramatic and complete color change.",
+  "prompt_fragments": [
+    "alexandrite: green under daylight, turning deep red-purple under incandescent bulb",
+    "Ural Mountains alexandrite — Tsar's gem shifting colors like Imperial Russia's uniform",
+    "emerald by day, ruby by night — the chromium paradox of chrysoberyl"
+  ],
+  "mood_keywords": [
+    "color-change-duality",
+    "imperial-Russian",
+    "emerald-by-day",
+    "ruby-by-night",
+    "chromium-paradox"
+  ],
+  "sensory_keywords": [
+    "shifting-color under different lights",
+    "cool-green transitions to warm-red",
+    "hard-and-paradoxical",
+    "Ural-cold-morning-fire"
+  ],
+  "palette_keywords": [
+    "emerald-green (daylight)",
+    "alexandrite-red (tungsten)",
+    "teal-to-crimson shift",
+    "Imperial-dual-tone"
+  ],
+  "aesthetic_roles": [
+    "color-change archetype",
+    "duality and paradox reference",
+    "Russian imperial mineral",
+    "trichroism showcase"
+  ],
+  "vibe_notes": "Alexandrite is the great paradox of gemology — one stone, two completely different identities, perfectly opposed. Green by day, red by night. The Russian gem named for a Tsar it would outlast by centuries. No other gem changes so completely.",
+  "symbolism": [
+    "duality and transformation",
+    "good luck and balanced opposing forces",
+    "Imperial Russia",
+    "mystery and hidden nature",
+    "June and summer solstice"
+  ],
+  "folklore_summary": "Alexandrite was officially discovered on April 17, 1834 — the 16th birthday of Crown Prince Alexander II of Russia, who would later become Tsar. The stone was named in his honor by mineralogist Nils Gustaf Nordenskiöld. Its green-and-red color change matched the military colors of Imperial Russia, m"
+}

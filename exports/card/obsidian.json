@@ -1,0 +1,58 @@
+{
+  "id": "obsidian",
+  "slug": "obsidian",
+  "display_name": "Obsidian",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "mineral_group": null,
+  "ima_status": "n/a",
+  "formula": "Rhyolitic volcanic glass",
+  "mohs_hardness": "5–5.5",
+  "specific_gravity": "2.35–2.60",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "crystal_system": "amorphous",
+  "baseline_colors": [
+    "black",
+    "dark-brown"
+  ],
+  "color_profiles_available": [
+    "Classic Black Obsidian",
+    "Rainbow Obsidian",
+    "Snowflake Obsidian",
+    "Mahogany Obsidian",
+    "Apache Tears"
+  ],
+  "habits": [
+    "massive (flows)",
+    "nodular (Apache tears within perlite)",
+    "botryoidal (rare)",
+    "conchoidal fracture surfaces"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "mineraloid",
+    "volcanic-glass",
+    "amorphous",
+    "black",
+    "silica",
+    "tool-stone",
+    "aztec",
+    "ancient-trade",
+    "surgical",
+    "high-priority"
+  ],
+  "priority_score": 90,
+  "ui_color_hint": [
+    "#0D0D0D",
+    "#1A1A2E",
+    "#4A3728"
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": "sapphire",
+  "slug": "sapphire",
+  "display_name": "Sapphire",
+  "classification": {
+    "chemistry_class": "oxide",
+    "mineral_group": "corundum-group",
+    "species_status": "variety",
+    "parent_species": "corundum",
+    "related_varieties": [
+      "blue-sapphire",
+      "yellow-sapphire",
+      "pink-sapphire",
+      "padparadscha",
+      "star-sapphire",
+      "parti-sapphire"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 3530,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Al2O3 (with Fe2+, Ti4+, V3+, Cr3+, etc.)",
+    "simplified_formula": "Al2O3:Fe,Ti",
+    "essential_elements": [
+      "Al",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Ti",
+      "V",
+      "Cr",
+      "Mn",
+      "Ni",
+      "Be"
+    ],
+    "structural_units": [
+      "AlO6 octahedra sharing faces and edges in hexagonal close-packed oxygen framework"
+    ],
+    "atomic_structure_notes": "Sapphire is corundum (Al2O3) in any color other than red (which is ruby). Blue color from Fe2+↔Ti4+ intervalence charge transfer between adjacent octahedral sites. Yellow from Fe3+ or color centers. Pink from low Cr3+. Padparadscha from Cr3+ combined with Fe3+ centers. Green from Fe with V.",
+    "chemistry_notes": "The color diversity of sapphire reflects the range of trace element chromophores: blue (Fe2+/Ti4+ IVCT), yellow (Fe3+), green (Fe2+), pink/purple (Cr3+/V3+), orange-pink padparadscha (Cr3++iron-related). Beryllium diffusion treatment in the 2000s allowed production of vibrant yellow and orange colors by inducing new color centers."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "3 2/m hexagonal scalenohedral",
+    "space_group": "R-3c",
+    "unit_cell_notes": "",
+    "twinning": "Twins on {0001} and {10-11} common.",
+    "crystallography_notes": "Same structure as all corundum. Typically prismatic, tabular, or barrel-shaped crystals. Alluvial sapphires (Sri Lanka, Australia) are rounded worn pebbles. Some Sri Lankan sapphires reach impressive sizes. Parting on {0001} and {10-11}."
+  },
+  "physical_properties": {
+    "mohs_hardness": 9,
+    "specific_gravity": "3.95–4.10",
+    "luster": [
+      "vitreous",
+      "adamantine"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "none; parting on {0001} and {10-11}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Second hardest natural mineral (Mohs 9) — equal to ruby. Extremely durable gemstone material. High RI (~1.76–1.77) provides excellent brilliance. No cleavage makes it resistant to splitting during wear."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "blue",
+      "cornflower-blue",
+      "deep-blue"
+    ],
+    "color_profiles": [
+      {
+        "name": "Kashmir Blue Sapphire",
+        "colors": [
+          "velvety-cornflower-blue",
+          "blue with slight violet"
+        ],
+        "cause": "Fe2+/Ti4+ IVCT; fine silk inclusions scatter light to produce the famous velvety texture.",
+        "conditions": "Extreme altitude metamorphic deposits in Paddar, Kashmir, India — now largely exhausted.",
+        "variety_name": null
+      },
+      {
+        "name": "Burmese / Ceylon Sapphire",
+        "colors": [
+          "royal-blue",
+          "deep-blue",
+          "vivid-blue"
+        ],
+        "cause": "Fe2+/Ti4+ charge transfer — less silk than Kashmir; brighter.",
+        "conditions": "Mogok, Myanmar; Sri Lanka (Ratnapura, Elahera).",
+        "variety_name": null
+      },
+      {
+        "name": "Padparadscha",
+        "colors": [
+          "orange-pink",
+          "salmon",
+          "lotus-flower"
+        ],
+        "cause": "Combination of Cr3+ (pink) and iron-related (orange) color centers.",
+        "conditions": "Extremely rare; Sri Lanka (Ratnapura), Madagascar, Tanzania.",
+        "variety_name": "padparadscha"
+      },
+      {
+        "name": "Yellow Sapphire",
+        "colors": [
+          "golden-yellow",
+          "canary-yellow",
+          "orange-yellow"
+        ],
+        "cause": "Fe3+ substitution or color centers.",
+        "conditions": "Sri Lanka, Madagascar, Tanzania.",
+        "variety_name": "yellow-sapphire"
+      },
+      {
+        "name": "Star Sapphire",
+        "colors": [
+          "blue",
+          "gray",
+          "black body with six-rayed white asterism"
+        ],
+        "cause": "Rutile (silk) needle inclusions in three crystallographic orientations producing asterism under cabochon cut.",
+        "conditions": "Sri Lanka, Myanmar, India.",
+        "variety_name": "star-sapphire"
+      },
+      {
+        "name": "Parti Sapphire",
+        "colors": [
+          "blue-green bicolor",
+          "teal",
+          "blue + yellow zones"
+        ],
+        "cause": "Zoned distribution of different chromophores (Fe, Ti) during crystal growth.",
+        "conditions": "Australia (Queensland, New South Wales).",
+        "variety_name": "parti-sapphire"
+      }
+    ],
+    "habits": [
+      "prismatic",
+      "tabular hexagonal",
+      "barrel-shaped",
+      "bipyramidal",
+      "massive",
+      "rounded alluvial pebbles"
+    ],
+    "textures": [
+      "glassy",
+      "velvety (Kashmir — from silk scattering)",
+      "striated basal faces"
+    ],
+    "macro_patterns": [
+      "color zoning (Kashmir velvety blue)",
+      "six-rayed star (star sapphire)",
+      "bicolor zones (parti sapphire)",
+      "fine silk inclusions"
+    ],
+    "common_forms": [
+      "faceted cushion, oval, round gems",
+      "star sapphire cabochons",
+      "rough alluvial pebbles",
+      "crystal specimens"
+    ],
+    "visual_notes": "Kashmir sapphire produces a 'velvety' blue that seems to glow from within — caused by fine silk inclusions scattering light. Star sapphire at its best shows a perfectly centered six-rayed star that moves over the cabochon surface. Padparadscha's salmon-pink-orange is unique and defies category — it must be evaluated in person to appreciate."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Blue sapphires typically inert to faint under UV; some Sri Lankan sapphires show orange fluorescence; yellow sapphires may fluoresce orange",
+    "phosphorescence": "Some Sri Lankan sapphires phosphoresce",
+    "chatoyancy": "",
+    "asterism": "Six-rayed star in star sapphire from three sets of rutile needles in basal plane",
+    "iridescence": "",
+    "pleochroism": "Dichroic: blue sapphire shows blue / blue-green or violet-blue; strong; orientation critical in cutting",
+    "optical_notes": "Uniaxial negative. nω ≈ 1.770, nε ≈ 1.762. Birefringence ~0.008. Distinctly lower UV fluorescence than ruby distinguishes it. CR 2% RI dispersion contributes to 'fire' in faceted stones."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "metamorphic (marble and schist)",
+      "magmatic (syenites, pegmatites)",
+      "volcanic (alkali basalt xenocrysts)",
+      "sedimentary (placer)"
+    ],
+    "geologic_environments": [
+      "calc-silicate and marble metamorphic terrains",
+      "alkali basalt flows (large basalt-hosted stones from Australia, Thailand)",
+      "granitic pegmatites and syenites",
+      "alluvial and eluvial placer gravels"
+    ],
+    "host_rocks": [
+      "marble",
+      "schist and gneiss",
+      "alkali basalt",
+      "alluvial gravel"
+    ],
+    "associated_minerals": [
+      "spinel",
+      "zircon",
+      "garnet",
+      "rutile",
+      "magnetite",
+      "calcite"
+    ],
+    "locality_scope": "uncommon",
+    "notable_localities": [
+      "Paddar (Kashmir), Jammu & Kashmir, India (finest — now largely exhausted)",
+      "Mogok Valley, Myanmar (Burmese sapphire)",
+      "Ratnapura and Elahera, Sri Lanka (Ceylon sapphire)",
+      "Ilakaka, Madagascar (major production)",
+      "Chanthaburi, Thailand (basalt-hosted)",
+      "Queensland and New South Wales, Australia (parti sapphire)",
+      "Yogo Gulch, Montana, USA (unique vivid blue)",
+      "Tanzania (Umba River, Tunduru, Morogoro)",
+      "Cambodia (Pailin — basalt-hosted)"
+    ],
+    "occurrence_notes": "Kashmir sapphire, from high-altitude glacial deposits in the Zanskar range, is the most sought-after and rarest source. Most Kashmir material was recovered before 1930; the deposits are largely exhausted. Sri Lanka (Ceylon) has produced fine sapphire for over 2,000 years and is the most consistent historical source. Australian sapphires tend to be dark and basalt-hosted with less desirable blue-green or inky tones."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "September birthstone (traditional and modern)",
+      "5th and 45th wedding anniversaries"
+    ],
+    "zodiac_associations": [
+      "Virgo (September)",
+      "Taurus, Gemini (Vedic traditions)"
+    ],
+    "historical_uses": [
+      "Royal jewelry and regalia across all major civilizations",
+      "Symbol of divine favor in medieval Christian tradition",
+      "Set in papal rings and bishops' rings (sapphire as stone of heaven)",
+      "Mughal jewelry (major collector)",
+      "Princess Diana/Kate Middleton engagement ring — most famous sapphire in modern history",
+      "Engraved sapphires as talismans",
+      "Navigation (blue sapphire as 'guiding star' stone)"
+    ],
+    "cultural_associations": [
+      "The stone of heaven — blue sky color sacred in Christian, Islamic, and Hindu traditions",
+      "Kings wore blue sapphire as a stone of wisdom and divine right",
+      "Persian belief: the sky is blue because it rests on a giant blue sapphire",
+      "Hindu tradition: Shani (Saturn) rules sapphire",
+      "The Logan Sapphire (423 ct) and Star of India (563 ct) in Smithsonian/AMNH",
+      "Princess Diana's 12-carat oval Ceylon sapphire engagement ring (now Princess of Wales)"
+    ],
+    "symbolism": [
+      "wisdom and clarity",
+      "heaven and divine favor",
+      "truth and fidelity",
+      "royal power",
+      "September and autumn"
+    ],
+    "folklore_notes": "Ancient Persians believed the sky was blue because the Earth rested on a vast sapphire pedestal whose reflection made the sky blue. Medieval European clergy wore sapphire rings as stones of heaven. The name comes from Greek 'sappheiros' (possibly originally referring to lapis lazuli, not sapphire). India's Vedic astrological tradition gives sapphire to Saturn (Shani) — 'Neelam' — with complex prescriptions for when wearing it is beneficial or harmful. The engagement ring tradition of sapphire received a 20th-century revival through the 1981 Prince Charles/Princess Diana ring."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "velvety-Kashmir-blue",
+      "heaven-stone",
+      "September-depth",
+      "iron-titanium-charge-transfer",
+      "royal-celestial"
+    ],
+    "sensory_keywords": [
+      "deep-blue-cool",
+      "velvety-scattered-light",
+      "September-sky-clarity",
+      "regal-weight"
+    ],
+    "palette_keywords": [
+      "Kashmir-velvety-blue",
+      "cornflower-blue",
+      "padparadscha-salmon",
+      "star-sapphire-gray-blue"
+    ],
+    "aesthetic_roles": [
+      "heaven-color anchor",
+      "September gem reference",
+      "royal-blue luxury",
+      "velvety texture reference"
+    ],
+    "vibe_notes": "Sapphire is the blue of the sky trapped in stone — or in Persian belief, the reason the sky is blue. Kashmir sapphire has the quality of depth without darkness, blue without coldness, velvet without softness. The finest stones seem to emit blue light rather than reflect it."
+  },
+  "practical_notes": {
+    "toxicity": "Non-toxic.",
+    "handling_notes": "Extremely durable. Appropriate for rings and daily-wear jewelry. Heat treatment should be disclosed. Avoid cleaning fractured or filled stones in ultrasonic.",
+    "care_notes": "Clean with warm soapy water and brush; ultrasonic safe for untreated or heat-treated stones only. Avoid steam cleaning for any filled or surface-treated stones. Store separately.",
+    "treatments_or_synthetics": [
+      "Heat treatment: very common and accepted by trade; improves color and clarity",
+      "Beryllium diffusion: produces yellow/orange/padparadscha colors; requires spectroscopic testing",
+      "Fracture and cavity filling: used on some stones; requires special care",
+      "Flux-grown synthetic sapphire (Chatham, etc.)",
+      "Verneuil synthetic sapphire (curved striae, gas bubbles)",
+      "Hydrothermal synthetic: close to natural; testing required"
+    ],
+    "common_confusions": [
+      "Blue spinel (isometric — no birefringence; different RI)",
+      "Aquamarine (beryl — biaxial; different RI and SG)",
+      "Tanzanite (trichroic; much softer; biaxial)",
+      "Blue topaz (biaxial; different RI and SG)",
+      "Iolite (trichroic; biaxial; lower hardness)"
+    ],
+    "market_notes": "Fine Kashmir sapphire is among the rarest and most valuable gemstones globally (deposits exhausted). Ceylon (Sri Lanka) sapphire is the most important historical-trade material. Heat treatment universal and accepted when disclosed. Beryllium diffusion requires disclosure. Madagascar has risen to major production status. Star sapphires from Sri Lanka remain popular collector and gem items."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "blue-spinel",
+      "aquamarine",
+      "tanzanite",
+      "blue-topaz",
+      "iolite"
+    ],
+    "related_species": [
+      "corundum",
+      "ruby",
+      "spinel"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "oxide",
+      "variety",
+      "corundum",
+      "gemstone",
+      "blue",
+      "birthstone",
+      "september",
+      "trigonal",
+      "high-priority",
+      "jewelry",
+      "royal"
+    ],
+    "search_boost_terms": [
+      "blue sapphire",
+      "Kashmir sapphire",
+      "Ceylon sapphire",
+      "star sapphire",
+      "padparadscha",
+      "September birthstone",
+      "Al2O3 iron titanium",
+      "corundum blue",
+      "velvet sapphire"
+    ],
+    "prompt_fragments": [
+      "velvety Kashmir blue — cornflower sky trapped in Mohs-9 corundum",
+      "star sapphire cabochon — six-rayed asterism rolling over blue-gray surface",
+      "padparadscha: salmon-lotus at the boundary of pink and orange, Sri Lanka"
+    ],
+    "ui_color_hint": [
+      "#0F52BA",
+      "#1560BD",
+      "#4B9CD3"
+    ],
+    "priority_score": 96
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.93,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-3530.html",
+      "https://www.gia.edu/sapphire",
+      "https://www.webmineral.com/data/Corundum.shtml"
+    ],
+    "notes": "Sapphire is a variety of corundum. mindat_id 3530 is the sapphire variety listing."
+  }
+}

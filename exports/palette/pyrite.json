@@ -1,0 +1,75 @@
+{
+  "id": "pyrite",
+  "display_name": "Pyrite",
+  "chemistry_class": "sulfide",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#CFB53B",
+    "#B8960C",
+    "#8B7536"
+  ],
+  "baseline_colors": [
+    "brassy-yellow",
+    "pale-gold",
+    "metallic-yellow"
+  ],
+  "color_profiles": [
+    {
+      "name": "Classic Brassy Pyrite",
+      "colors": [
+        "brassy-yellow",
+        "metallic-gold-yellow",
+        "bronze-yellow"
+      ],
+      "variety_name": null,
+      "cause": "Metallic luster from d-band electronic structure of iron sulfide; brass-yellow reflectance."
+    },
+    {
+      "name": "Iridescent Tarnished Pyrite",
+      "colors": [
+        "bronze",
+        "copper-purple",
+        "blue-tarnish",
+        "rainbow iridescence"
+      ],
+      "variety_name": null,
+      "cause": "Thin-film iron oxide/hydroxide layer from surface oxidation (FeS2 → Fe oxide + H2SO4)."
+    },
+    {
+      "name": "Pyrite Sun / Dollar Pyrite",
+      "colors": [
+        "brassy-yellow",
+        "flat disc with radiating crystal striations"
+      ],
+      "variety_name": "pyrite-sun",
+      "cause": "Radial crystal growth in confined space (coal seam cleavage planes)."
+    }
+  ],
+  "habits": [
+    "cubic (striated faces)",
+    "pyritohedral",
+    "octahedral",
+    "massive",
+    "granular",
+    "nodular",
+    "radiating (pyrite suns)",
+    "framboidal (microscopic)"
+  ],
+  "textures": [
+    "bright metallic",
+    "striated cube faces",
+    "tarnished iridescent"
+  ],
+  "luster": [
+    "metallic",
+    "splendent"
+  ],
+  "visual_notes": "Pyrite is mineralogy's great impersonator — 'fool's gold' for millennia. The striated faces of pyrite cubes (from oscillation between cube and pyritohedron) are diagnostic. Iron cross twins — two interlocking pyritohedra — are among mineralogy's most architecturally perfect specimens. Pyrite suns (flat radiating discs) are unique and immediately recognizable forms.",
+  "optical_effects": {
+    "fluorescence": "None",
+    "iridescence": "Surface oxidation produces iridescent tarnish",
+    "play_of_color": "Surface oxidation produces iridescent tarnish",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

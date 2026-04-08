@@ -1,0 +1,44 @@
+{
+  "id": "malachite",
+  "display_name": "Malachite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "green"
+  ],
+  "visual_notes": "One of the strongest 'ornamental pattern' minerals in existence.",
+  "prompt_fragments": [
+    "botryoidal copper-green domes",
+    "banded malachite concentric eyes",
+    "ornamental toxic-jewel swirl pattern"
+  ],
+  "mood_keywords": [
+    "jungle-opulence",
+    "venom-luxury",
+    "antique-magic",
+    "regal-poison",
+    "serpent-ornament"
+  ],
+  "sensory_keywords": [
+    "silky",
+    "velvety",
+    "cool",
+    "carved"
+  ],
+  "palette_keywords": [
+    "emerald",
+    "black-green",
+    "deep-jade",
+    "copper-shadow"
+  ],
+  "aesthetic_roles": [
+    "toxic jewel",
+    "ornamental swirl stone",
+    "decadent green accent",
+    "baroque mineral"
+  ],
+  "vibe_notes": "Perfect for anything ornate, hypnotic, green, dangerous, or ceremonial.",
+  "symbolism": [],
+  "folklore_summary": ""
+}

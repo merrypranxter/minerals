@@ -1,0 +1,99 @@
+{
+  "id": "lepidolite",
+  "display_name": "Lepidolite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "lavender",
+    "lilac",
+    "rose-pink",
+    "pale-violet",
+    "pearly-white"
+  ],
+  "baseline_colors": [
+    "lavender",
+    "pink",
+    "purple"
+  ],
+  "color_profiles": [
+    {
+      "name": "lavender-lepidolite",
+      "colors": [
+        "lavender",
+        "lilac",
+        "pale-violet",
+        "soft-purple"
+      ],
+      "variety_name": null,
+      "cause": "Mn2+ and/or Mn3+ substituting in octahedral sites; trace amounts produce pastel lavender."
+    },
+    {
+      "name": "pink-lepidolite",
+      "colors": [
+        "pink",
+        "rose-pink",
+        "salmon-pink"
+      ],
+      "variety_name": null,
+      "cause": "Higher Mn content shifting from lavender toward pink."
+    },
+    {
+      "name": "purple-lepidolite",
+      "colors": [
+        "deep-purple",
+        "violet",
+        "grape"
+      ],
+      "variety_name": null,
+      "cause": "Elevated Mn3+ content; sometimes enhanced by inclusions."
+    },
+    {
+      "name": "colorless-white-lepidolite",
+      "colors": [
+        "colorless",
+        "white",
+        "pale-gray"
+      ],
+      "variety_name": null,
+      "cause": "Absence of Mn or other chromophores; high F content typical."
+    },
+    {
+      "name": "yellow-lepidolite",
+      "colors": [
+        "yellow",
+        "pale-yellow",
+        "champagne"
+      ],
+      "variety_name": null,
+      "cause": "Minor Fe3+ or specific structural defects."
+    }
+  ],
+  "habits": [
+    "platy",
+    "tabular",
+    "foliated",
+    "scaly-massive",
+    "pseudo-hexagonal-plates",
+    "book-like-aggregates"
+  ],
+  "textures": [
+    "pearly",
+    "silky",
+    "scaly",
+    "layered",
+    "iridescent-sheen"
+  ],
+  "luster": [
+    "pearly",
+    "vitreous",
+    "silky"
+  ],
+  "visual_notes": "Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality.",
+  "optical_effects": {
+    "fluorescence": "Weak cream to yellow under SW UV in some specimens; generally weak",
+    "iridescence": "Subtle adularescence-like pearly shimmer on cleavage surfaces",
+    "play_of_color": "Subtle adularescence-like pearly shimmer on cleavage surfaces",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

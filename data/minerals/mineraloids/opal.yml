@@ -1,0 +1,279 @@
+id: opal
+slug: opal
+display_name: Opal
+
+classification:
+  chemistry_class: mineraloid
+  mineral_group: opal-group
+  species_status: mineraloid
+  parent_species: null
+  related_varieties:
+    - precious-opal
+    - fire-opal
+    - common-opal
+    - boulder-opal
+    - crystal-opal
+    - black-opal
+    - white-opal
+    - matrix-opal
+
+identifiers:
+  ima_status: approved
+  mindat_id: 2995
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2·nH2O"
+  simplified_formula: "SiO2·nH2O"
+  essential_elements: [Si, O, H]
+  trace_elements_common: [Al, Fe, Ca, Mg, Na, K, Ti]
+  structural_units:
+    - "Amorphous (opal-A) or paracrystalline silica (opal-CT, opal-C) with water"
+    - "In precious opal: close-packed spheres of amorphous SiO2 ~150–400 nm diameter"
+  atomic_structure_notes: "Not truly crystalline — opal is amorphous (opal-A) to paracrystalline (opal-CT) hydrated silica. Water content varies from <1% to >21% by weight. In precious (play-of-color) opal, submicroscopic SiO2 spheres are uniformly stacked in a face-centered cubic or hexagonal close-packed array, creating a diffraction grating that diffracts white light into spectral colors."
+  chemistry_notes: "Water is structurally important — dehydration causes crazing (cracking). Water content affects SG (1.98–2.25) and stability. Fire opal (orange body color) differs in having fewer structural water molecules and often comes from volcanic rhyolite. Opal-CT (cristobalite-tridymite) is the most common variety in sedimentary environments."
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: ""
+  space_group: ""
+  unit_cell_notes: ""
+  twinning: ""
+  crystallography_notes: "No crystalline structure — amorphous mineraloid. The play-of-color (opalescence) is a diffraction phenomenon from ordered spherical domains, not true crystallographic property. Precious opal has sphere diameters of approximately 150–400 nm arranged in regular arrays."
+
+physical_properties:
+  mohs_hardness: "5.5–6.5"
+  specific_gravity: "1.98–2.25"
+  luster: [vitreous, resinous, waxy, pearly]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage: [none]
+  fracture: [conchoidal, irregular]
+  tenacity: "brittle; can craze or crack with dehydration"
+  physical_notes: "Very low SG (1.98–2.25) compared to most gemstones — unusually lightweight. Highly sensitive to dehydration — can crack or craze when dried rapidly. Heat, low humidity, and rapid temperature changes all risk stability. Water content varies significantly by type and affects all properties."
+
+appearance:
+  baseline_colors:
+    - white
+    - black
+    - gray
+    - colorless
+  color_profiles:
+    - name: White Precious Opal
+      colors: [white body with spectral play-of-color]
+      cause: "White to light-gray body color from common opal base; play-of-color from sphere diffraction."
+      conditions: "Lightning Ridge, Australia; Coober Pedy, Australia."
+      variety_name: white-opal
+    - name: Black Precious Opal
+      colors: [black, dark-gray, dark-blue body with vivid spectral play-of-color]
+      cause: "Dark body color (from carbon or iron oxide traces) intensifies play-of-color contrast."
+      conditions: "Lightning Ridge, New South Wales, Australia — highest valued precious opal."
+      variety_name: black-opal
+    - name: Crystal Opal
+      colors: [transparent to semi-transparent with spectral fire]
+      cause: "Pure to near-pure silica spheres with no body color obscuring transparency."
+      conditions: "Coober Pedy; other Australian fields."
+      variety_name: crystal-opal
+    - name: Boulder Opal
+      colors: [brown ironstone matrix with opal veins showing spectral color]
+      cause: "Thin seams of precious opal in ironstone host; cut with matrix."
+      conditions: "Queensland, Australia."
+      variety_name: boulder-opal
+    - name: Common Opal (Potch)
+      colors: [white, green, yellow, brown, pink — no play-of-color]
+      cause: "Irregular or absent sphere arrangement; no diffraction grating."
+      conditions: "Worldwide; not gem grade."
+      variety_name: common-opal
+  habits:
+    - massive
+    - nodular
+    - botryoidal
+    - stalactitic
+    - vein-filling
+    - replacement masses
+    - as petrification medium
+  textures:
+    - smooth glassy
+    - waxy
+    - resinous
+    - rough earthy
+  macro_patterns:
+    - play-of-color patches and rolling fire
+    - botryoidal smooth surfaces
+    - matrix veins (boulder opal)
+  common_forms:
+    - nodular masses
+    - vein-fill in host rock
+    - replacement wood (opalized wood)
+    - polished cabochons
+  visual_notes: "Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously."
+
+optical_and_special_effects:
+  fluorescence: "Variable; many specimens fluoresce white, green, yellow, or blue-white under UV; some inert"
+  phosphorescence: "Some specimens phosphoresce after UV"
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Play-of-color is a diffraction phenomenon (not thin-film iridescence); produces spectral flashes across the full visible range"
+  pleochroism: "None (amorphous)"
+  optical_notes: "RI approximately 1.37–1.47 (lower than most gemstones). Isotropic (amorphous). The play-of-color is caused by Bragg diffraction of white light from periodic stacked silica sphere arrays — different sphere diameters produce different dominant colors: ~150 nm = violet/blue, ~200 nm = green, ~250–400 nm = yellow/orange/red."
+
+formation_and_occurrence:
+  genesis:
+    - sedimentary (low-temperature silica precipitation)
+    - volcanic (silica-rich hydrothermal)
+    - biogenic (siliceous organisms — diatomite)
+    - secondary (replacing organic matter — opalized wood, shells)
+  geologic_environments:
+    - sedimentary sequences (Cretaceous inland sea beds in Australia)
+    - volcanic rhyolite and ignimbrite (fire opal, Mexico)
+    - weathering profiles above silica-rich rocks
+    - hot spring and geyser environments
+    - cavities in basalt
+  host_rocks:
+    - sandstone and siltstone (Australian precious opal)
+    - rhyolite and ignimbrite (Mexican fire opal)
+    - ironstone (boulder opal)
+    - virtually any rock as void-fill
+  associated_minerals:
+    - chalcedony
+    - quartz
+    - clay minerals
+    - calcite
+    - goethite / limonite
+  locality_scope: worldwide
+  notable_localities:
+    - "Lightning Ridge, New South Wales, Australia (world's finest black precious opal)"
+    - "Coober Pedy, South Australia (world's largest opal-producing region)"
+    - "Andamooka, South Australia"
+    - "Mintabie, South Australia"
+    - "Queensland (boulder opal)"
+    - "Querétaro, Mexico (fire opal)"
+    - "Nevada and Idaho, USA"
+    - "Ethiopia (Welo/Wollo — recent high-quality hydrophane precious opal)"
+    - "Slovakia (Červenica — oldest European precious opal mine)"
+    - "Brazil (Pedro II, Piauí)"
+  occurrence_notes: "Australian opals form in Cretaceous sedimentary sequences from silica-rich groundwater percolating through sandy rock. Ethiopian opal (hydrophane) forms in volcanic environments. Mexican fire opal comes from rhyolitic volcanics. Over 90% of world precious opal production has historically come from Australia."
+
+cultural_and_historical:
+  birthstone_status:
+    - "October birthstone (traditional and modern, alongside tourmaline)"
+    - "14th wedding anniversary"
+  zodiac_associations:
+    - "Libra"
+    - "Scorpio (some traditions)"
+  historical_uses:
+    - "Gemstone — prized since Roman antiquity"
+    - "Talisman and amulet across ancient Europe and the Near East"
+    - "Symbol of hope, luck, and prophecy in medieval Europe"
+    - "Australian Aboriginal sacred stone in some traditions"
+  cultural_associations:
+    - "Romans called it 'opalus' — highest status gemstone, combining all other gem colors"
+    - "Pliny the Elder described opal as 'ruby fire, amethyst purple, emerald sea-green — all together'"
+    - "Medieval Europeans considered opal a lucky stone of prophecy and protection"
+    - "Sir Walter Scott's novel 'Anne of Geierstein' (1829) recast opal as a bad-luck stone — directly crashing the European opal market for decades"
+    - "Australia — Lightning Ridge opal shaped national identity and economy"
+    - "Ethiopian and Australian Aboriginal communities have oral traditions about opal formation"
+  symbolism:
+    - all-color embodied
+    - hope and wish-fulfillment
+    - protection and prophecy
+    - October renewal
+    - shifting truth
+  folklore_notes: "Opal has the most dramatic reputation reversal in gem history. Ancient Romans paid extravagant sums — Pliny wrote that a Roman senator was exiled rather than sell his opal to Mark Antony. Medieval tradition held opal lucky — a stone containing all gem colors in one. Sir Walter Scott's 1829 novel Anne of Geierstein featured an opal that was destroyed by holy water — and Victorian superstition about opal bad luck was born. The European market collapsed for 50 years. The superstition persists despite being entirely literary in origin."
+
+interpretive_vibe:
+  mood_keywords:
+    - prismatic-fire
+    - all-spectrum-at-once
+    - shifting-light-archive
+    - October-veil
+    - diffraction-magic
+  sensory_keywords:
+    - cool glassy weight
+    - spectral flicker
+    - water-held-in-stone
+    - mysterious shifting surface
+  palette_keywords:
+    - spectral-fire-on-white
+    - black-opal-dark-rainbow
+    - milky-iridescent
+    - all-visible-light
+  aesthetic_roles:
+    - full-spectrum color reference
+    - shifting-light element
+    - sacred lucky/unlucky duality
+    - October gem anchor
+  vibe_notes: "Opal is the mineral of all light at once. Where diamond bends light and ruby absorbs it, opal diffracts it — splitting white into every visible wavelength simultaneously across a surface that seems to hold living fire inside it."
+
+practical_notes:
+  toxicity: "Non-toxic. Crystalline silica hazard not applicable to amorphous opal."
+  handling_notes: "Fragile and dehydration-sensitive. Avoid extreme temperature changes, direct sunlight, low humidity, and heat. Do not leave in dry display cases without moisture control for extended periods."
+  care_notes: "Store in a cloth pouch with a damp cotton ball for humidity maintenance. Avoid ultrasonic cleaners, steam, and harsh chemicals. Clean with barely damp soft cloth. Avoid acids. Opal doublets and triplets need extra care around glue lines."
+  treatments_or_synthetics:
+    - "Opal doublets — thin slice of precious opal cemented to ironstone or black potch base"
+    - "Opal triplets — opal doublet with glass or quartz dome cover"
+    - "Impregnation with smoke or plastic to darken background (common in boulder opal)"
+    - "Synthetic precious opal (Gilson opal, Kyocera opal) — uniform play-of-color; lizard-skin pattern under magnification distinguishes"
+    - "Glass and plastic simulants common in costume jewelry"
+  common_confusions:
+    - "Labradorite (feldspar — schiller is reflection, not diffraction; different structure)"
+    - "Glass opal (uniform bubble patterns under magnification)"
+    - "Synthetic opal (Gilson — columnar 'lizard skin' pattern at magnification)"
+    - "Rainbow moonstone (labradorite variety — blue adularescence, not full spectral fire)"
+  market_notes: "Precious opal is highly variable in value. Black opal from Lightning Ridge is among the most expensive gemstones per carat at top quality. Crystal and white opals more accessible. Boulder opal more affordable. Ethiopian (Welo) opal has disrupted markets since 2008 discovery. Doublets and triplets are legitimate but must be disclosed. Synthetic opal mass-market."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - labradorite
+    - synthetic-opal
+    - glass
+    - rainbow-moonstone
+  related_species:
+    - chalcedony
+    - quartz
+
+app_metadata:
+  tags:
+    - mineraloid
+    - silica
+    - amorphous
+    - play-of-color
+    - birthstone
+    - october
+    - australia
+    - high-priority
+    - iridescent
+    - precious
+  search_boost_terms:
+    - precious opal
+    - play of color
+    - opalescence
+    - black opal
+    - white opal
+    - Lightning Ridge
+    - Coober Pedy
+    - October birthstone
+    - fire in stone
+  prompt_fragments:
+    - "black opal from Lightning Ridge — volcanic spectral fire on dark sea"
+    - "white precious opal with rolling green-blue spectral patches"
+    - "boulder opal in ironstone matrix — veins of spectral light"
+  ui_color_hint:
+    - "#FFFFFF"
+    - "#0D0D0D"
+    - "#FF6B6B"
+  priority_score: 94
+
+provenance:
+  source_status: draft
+  completeness: 0.92
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2995.html"
+    - "https://www.gia.edu/opal"
+    - "https://www.webmineral.com/data/Opal.shtml"
+  notes: ""

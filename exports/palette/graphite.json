@@ -1,0 +1,62 @@
+{
+  "id": "graphite",
+  "display_name": "Graphite",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#2C2C2C",
+    "#555555",
+    "#1A1A1A"
+  ],
+  "baseline_colors": [
+    "black",
+    "dark-gray",
+    "steel-gray"
+  ],
+  "color_profiles": [
+    {
+      "name": "Crystalline Graphite",
+      "colors": [
+        "black-with-metallic-sheen",
+        "dark-steel-gray"
+      ],
+      "variety_name": null,
+      "cause": "carbon layers with metallic-character electron delocalization"
+    },
+    {
+      "name": "Massive / Amorphous Graphite",
+      "colors": [
+        "dull-black",
+        "dark-gray"
+      ],
+      "variety_name": null,
+      "cause": "fine-grained or poorly crystallized carbon aggregate"
+    }
+  ],
+  "habits": [
+    "foliated",
+    "platy",
+    "tabular hexagonal plates",
+    "scaly",
+    "massive",
+    "earthy (amorphous)"
+  ],
+  "textures": [
+    "greasy to the touch",
+    "highly foliated / lamellar",
+    "flaky",
+    "layered"
+  ],
+  "luster": [
+    "metallic",
+    "earthy"
+  ],
+  "visual_notes": "Unmistakable greasy feel and extremely dark matte-black color. Marks paper and skin readily. Steel-gray metallic luster on fresh cleavage faces. Often found as disseminated flakes or foliated masses in metamorphic rocks.",
+  "optical_effects": {
+    "fluorescence": "none",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

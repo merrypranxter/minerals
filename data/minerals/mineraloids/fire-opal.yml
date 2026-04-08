@@ -1,0 +1,252 @@
+id: fire-opal
+slug: fire-opal
+display_name: Fire Opal
+
+classification:
+  chemistry_class: mineraloid
+  mineral_group: opal-group
+  species_status: variety
+  parent_species: opal
+  related_varieties:
+    - precious-fire-opal
+    - jelly-opal
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: 2995
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2·nH2O"
+  simplified_formula: "SiO2·nH2O"
+  essential_elements: [Si, O, H]
+  trace_elements_common: [Fe, Al, Ti]
+  structural_units:
+    - "Amorphous or paracrystalline SiO2 spheres with water"
+  atomic_structure_notes: "Amorphous hydrated silica identical to other opal varieties. Water content typically lower than precious opal — 3–10%. Formed in volcanic (rhyolitic) host rock rather than sedimentary environments."
+  chemistry_notes: "Orange-red-yellow body color caused by iron oxide inclusions (hematite/goethite) and possibly organic compounds within the silica matrix. Some fire opals (precious fire opals) also show play-of-color in addition to the vivid body color."
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: ""
+  space_group: ""
+  unit_cell_notes: ""
+  twinning: ""
+  crystallography_notes: "Amorphous like all opal. Occurs as nodular masses, veins, and botryoidal forms within rhyolite cavities and veins. Sometimes crystal-clear and transparent (facetable)."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "1.98–2.20"
+  luster: [vitreous, resinous]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage: [none]
+  fracture: [conchoidal, irregular]
+  tenacity: "brittle; may craze"
+  physical_notes: "Often more transparent than Australian precious opal due to lower water content and volcanic formation. Can be faceted as a transparent gem when clear. More stable than hydrophane (Ethiopian) opal due to lower water content in some specimens."
+
+appearance:
+  baseline_colors:
+    - orange
+    - red-orange
+    - yellow
+    - red
+  color_profiles:
+    - name: Classic Fire Opal (Orange)
+      colors: [vivid-orange, red-orange, amber-orange]
+      cause: "Iron oxide inclusions (hematite/goethite) and structural/organic chromophores in amorphous silica."
+      conditions: "Querétaro and other Mexican rhyolitic deposits."
+      variety_name: null
+    - name: Yellow Fire Opal
+      colors: [golden-yellow, amber-yellow, honey]
+      cause: "Lower iron oxide content; other trace chromophores."
+      conditions: "Less common than orange variety."
+      variety_name: null
+    - name: Red Fire Opal
+      colors: [deep-red, scarlet-orange, cherry-red]
+      cause: "Higher iron oxide concentration."
+      conditions: "Rarest and most prized fire opal color."
+      variety_name: null
+    - name: Precious Fire Opal
+      colors: [orange body with spectral play-of-color]
+      cause: "Combination of iron-oxide chromophore AND ordered silica sphere diffraction."
+      conditions: "Rare; found when sphere-size uniformity is achieved in volcanic opal."
+      variety_name: precious-fire-opal
+  habits:
+    - massive
+    - nodular
+    - botryoidal
+    - vein-filling
+  textures:
+    - glassy to waxy
+    - transparent to translucent
+    - smooth polished
+  macro_patterns:
+    - uniform vivid body color
+    - occasional spectral play-of-color
+    - transparent orange gem quality
+  common_forms:
+    - faceted transparent gems
+    - cabochons
+    - nodular masses
+  visual_notes: "Fire opal's vivid orange-to-red body color makes it the only facetable opal variety (when transparent). The color evokes live flame, molten metal, and sunset. In Mexico it is called 'piedra de fuego' (stone of fire) and was sacred to the Aztecs as a symbol of Huitzilopochtli."
+
+optical_and_special_effects:
+  fluorescence: "Some specimens fluoresce green or yellow-green under LW UV"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Present in precious fire opal; absent in common fire opal"
+  pleochroism: "None (amorphous)"
+  optical_notes: "RI approximately 1.37–1.47. Isotropic. Transparent gem-quality material faceted as brilliant or cushion cuts. Fire opal without play-of-color is valued purely for body color intensity."
+
+formation_and_occurrence:
+  genesis:
+    - volcanic-hydrothermal
+    - secondary fill in volcanic cavities
+  geologic_environments:
+    - rhyolite and ignimbrite cavities and veins
+    - silicified zones in volcanic terrain
+    - late-stage silica precipitation in cooling volcanic flows
+  host_rocks:
+    - rhyolite
+    - ignimbrite (welded tuff)
+    - volcanic tuff
+  associated_minerals:
+    - chalcedony
+    - quartz
+    - cristobalite
+    - volcanic glass
+  locality_scope: primarily Mexico; other volcanic regions
+  notable_localities:
+    - "Querétaro, Mexico (world's finest and most famous fire opal)"
+    - "Jalisco, Mexico"
+    - "Guerrero, Mexico"
+    - "Hidalgo, Mexico"
+    - "Honduras"
+    - "Guatemala"
+    - "Oregon, USA (minor)"
+    - "Ethiopia (some fire-colored opal from Welo)"
+    - "Brazil (Piauí)"
+  occurrence_notes: "Fire opal is almost exclusively volcanic in origin, forming in rhyolitic volcanic rocks. Mexico accounts for the vast majority of production; Querétaro is the world's most famous fire opal locality. The iron-rich volcanic environment provides the chromophores that give fire opal its distinctive body color."
+
+cultural_and_historical:
+  birthstone_status:
+    - "October birthstone (as a variety of opal)"
+  zodiac_associations:
+    - "Aries (some traditions)"
+    - "Leo"
+  historical_uses:
+    - "Sacred stone of the Aztec civilization — 'quetzalitzlipyollitli' (stone of fire hummingbird)"
+    - "Used in Aztec ritual objects and jewelry"
+    - "Pre-Columbian Mesoamerican lapidary work"
+    - "Modern gem and jewelry use — faceted gems"
+  cultural_associations:
+    - "Aztec: associated with Huitzilopochtli (god of sun, war, and fire) and the hummingbird"
+    - "Aztec name translates roughly to 'stone of the fire bird'"
+    - "Mexican national gem identity — especially Querétaro fire opal"
+    - "European explorers brought fire opal to Europe as exotic New World curiosities"
+  symbolism:
+    - fire and passion
+    - solar energy
+    - creativity and desire
+    - the hummingbird spirit
+    - Mexican cultural identity
+  folklore_notes: "Aztec civilization held fire opal sacred — the 'stone of the fire bird' associated with the hummingbird avatar of Huitzilopochtli. The Spanish conquest brought fire opal to Europe, where it was considered an exotic curiosity but never achieved the commercial success of the later Australian market. Mexico's fire opal tradition continues today — Querétaro produces the finest material and it is embedded in Mexican cultural identity."
+
+interpretive_vibe:
+  mood_keywords:
+    - volcanic-fire
+    - aztec-hummingbird
+    - molten-glass-orange
+    - transparent-flame
+    - Querétaro-light
+  sensory_keywords:
+    - warm-vivid-orange
+    - transparent-glowing
+    - volcanic-hot
+    - faceted-fire
+  palette_keywords:
+    - Querétaro-orange
+    - flame-amber
+    - red-volcanic-glass
+    - honey-fire
+  aesthetic_roles:
+    - warm fire accent
+    - Mesoamerican sacred reference
+    - transparent orange gem
+    - volcanic color anchor
+  vibe_notes: "Fire opal is concentrated solar energy in amorphous silica — orange-red volcanic glass that holds the color of fire without being consumed by it. It has none of the spectral mystery of black opal; instead it confronts you with pure warm chromatic intensity."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "More stable than Australian hydrophane opal due to lower water content, but still sensitive to dehydration. Avoid heat, prolonged direct sunlight, and dry conditions. Handle transparent faceted gems normally but avoid hard impacts."
+  care_notes: "Clean with damp soft cloth. Avoid ultrasonic cleaners and steam. Avoid extreme heat and dryness. Store in consistent humidity."
+  treatments_or_synthetics:
+    - "Sugar-acid treatment: darkening background of common fire opal (rare)"
+    - "Synthetic opal: fire opal simulants in glass and synthetic resin"
+    - "Imitation: amber, orange glass, carnelian sometimes confused"
+  common_confusions:
+    - "Amber (organic; lower SG; inclusions)"
+    - "Carnelian (chalcedony — harder; different RI)"
+    - "Orange sapphire (corundum — much harder)"
+    - "Hessonite garnet (harder; different RI; inclusions)"
+    - "Orange glass (heavy; bubble inclusions; higher RI)"
+  market_notes: "Transparent faceted fire opal is distinctly priced by clarity, color saturation, and whether play-of-color is present. Red fire opal commands premiums. Mexican (Querétaro) material is most valued. Play-of-color fire opals are very rare and exceptionally valuable. Cabochon material widely available at moderate prices."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - amber
+    - carnelian
+    - orange-sapphire
+    - hessonite-garnet
+  related_species:
+    - opal
+    - chalcedony
+    - quartz
+
+app_metadata:
+  tags:
+    - mineraloid
+    - variety
+    - opal
+    - silica
+    - amorphous
+    - volcanic
+    - orange
+    - red
+    - mexico
+    - aztec
+    - facetable
+    - october
+  search_boost_terms:
+    - fire opal
+    - Mexican opal
+    - Querétaro opal
+    - piedra de fuego
+    - orange opal
+    - transparent opal
+    - faceted opal
+    - volcanic opal
+  prompt_fragments:
+    - "transparent Mexican fire opal — concentrated sunlight in amorphous silica"
+    - "Querétaro orange — volcanic glass holding warm flame"
+    - "Aztec sacred fire-bird stone in vivid orange"
+  ui_color_hint:
+    - "#FF6B35"
+    - "#FF4500"
+    - "#FFB347"
+  priority_score: 87
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2995.html"
+    - "https://www.gia.edu/opal"
+  notes: "Fire opal is a variety of opal (mineraloid). Shares mindat_id with opal parent entry."

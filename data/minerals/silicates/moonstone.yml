@@ -15,7 +15,7 @@ classification:
     - cat-eye-moonstone
 
 identifiers:
-  ima_status: variety
+  ima_status: not_ima
   mindat_id: 3016
   other_ids:
     parent_mindat: "3016 (orthoclase)"

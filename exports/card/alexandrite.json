@@ -1,0 +1,60 @@
+{
+  "id": "alexandrite",
+  "slug": "alexandrite",
+  "display_name": "Alexandrite",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "chrysoberyl",
+  "mineral_group": "chrysoberyl-group",
+  "ima_status": "not_ima",
+  "formula": "BeAl2O4:Cr",
+  "mohs_hardness": 8.5,
+  "specific_gravity": "3.70–3.78",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "orthorhombic",
+  "baseline_colors": [
+    "green (daylight)",
+    "red-purple (incandescent light)"
+  ],
+  "color_profiles_available": [
+    "Classic Alexandrite Color Change",
+    "Brazilian Alexandrite",
+    "Cat's Eye Alexandrite"
+  ],
+  "habits": [
+    "prismatic tabular",
+    "cyclic trillings (pseudohexagonal rosettes)",
+    "heart-shaped twins",
+    "rounded alluvial pebbles"
+  ],
+  "birthstone_months": [
+    "June birthstone (modern — alongside pearl and moonstone)",
+    "55th wedding anniversary"
+  ],
+  "tags": [
+    "oxide",
+    "variety",
+    "chrysoberyl",
+    "gemstone",
+    "color-change",
+    "birthstone",
+    "june",
+    "orthorhombic",
+    "beryllium",
+    "high-priority",
+    "rare"
+  ],
+  "priority_score": 93,
+  "ui_color_hint": [
+    "#2ECC71",
+    "#C0392B",
+    "#8E44AD"
+  ]
+}

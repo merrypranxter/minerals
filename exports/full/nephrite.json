@@ -1,0 +1,388 @@
+{
+  "id": "nephrite",
+  "slug": "nephrite",
+  "display_name": "Nephrite",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "amphibole-group",
+    "species_status": "rock/gem material",
+    "parent_species": null,
+    "related_varieties": [
+      "mutton-fat-jade",
+      "spinach-jade",
+      "hetian-jade",
+      "bowenite (simulant, not related)"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 2878,
+    "other_ids": {
+      "nephrite_mindat": "https://www.mindat.org/min-2878.html"
+    }
+  },
+  "chemical_profile": {
+    "ideal_formula": "Ca2(Mg,Fe)5Si8O22(OH)2",
+    "simplified_formula": "Ca2(Mg,Fe)5Si8O22(OH)2",
+    "essential_elements": [
+      "Ca",
+      "Mg",
+      "Fe",
+      "Si",
+      "O",
+      "H"
+    ],
+    "trace_elements_common": [
+      "Al",
+      "Mn",
+      "Cr",
+      "Ti",
+      "Na",
+      "K",
+      "F"
+    ],
+    "structural_units": [
+      "Si4O11 double chains of SiO4 tetrahedra (inosilicate)",
+      "Mg/Fe in M1, M2, M3 octahedral sites",
+      "Ca in M4 (large, 8-coordinate) site",
+      "OH at the O3 site"
+    ],
+    "atomic_structure_notes": "Double-chain inosilicate (amphibole). Two single pyroxene-like chains are cross-linked to form a double chain with composition Si4O11. This broader ribbon accommodates larger cations (Ca) at the M4 site. Nephrite is not a single mineral but a solid solution between tremolite (Mg-dominant: Ca2Mg5Si8O22(OH)2) and actinolite (Fe-dominant: Ca2Fe5Si8O22(OH)2). The felt-like interlocking fibrous texture of nephrite provides its legendary toughness.",
+    "chemistry_notes": "Color and properties vary along the tremolite–actinolite solid solution: pure tremolite is white to colorless; increasing Fe (actinolite component) produces progressively deeper green. The spinach-green of classic nephrite reflects intermediate-to-Fe-rich composition. Minor Cr can produce vivid green. White 'mutton-fat' nephrite is tremolite-dominant and highly prized in Chinese tradition."
+  },
+  "crystallography": {
+    "crystal_system": "monoclinic",
+    "crystal_class": "2/m (prismatic)",
+    "space_group": "C2/m",
+    "unit_cell_notes": "Tremolite: a ≈ 9.84 Å, b ≈ 18.05 Å, c ≈ 5.28 Å, β ≈ 104.7°; varies with Fe content",
+    "twinning": "Simple twinning on {100} known; rarely visible in massive nephrite",
+    "crystallography_notes": "As a gem material, nephrite is almost always a fine-grained to fibrous interlocking aggregate — individual crystals are rarely visible to the naked eye. Elongate fibres and blades cross-link in a felt-like microstructure that is directly responsible for nephrite's exceptional toughness, widely considered the toughest natural stone. Bladed and prismatic crystals with two cleavages at ~56° and ~124° (characteristic amphibole angle) are found in coarser metamorphic contexts."
+  },
+  "physical_properties": {
+    "mohs_hardness": "6–6.5",
+    "specific_gravity": "2.90–3.03",
+    "luster": [
+      "waxy",
+      "silky",
+      "greasy"
+    ],
+    "streak": "white",
+    "transparency": [
+      "translucent",
+      "opaque"
+    ],
+    "cleavage": [
+      "perfect prismatic {110} at ~56° and ~124° (amphibole cleavage, two directions)"
+    ],
+    "fracture": [
+      "splintery",
+      "uneven"
+    ],
+    "tenacity": "very tough (exceptional; interlocking fibrous microstructure makes it among the toughest natural stones)",
+    "physical_notes": "Lower SG than jadeite (~2.90–3.03 vs. 3.24–3.43), useful for distinction. Mohs hardness slightly lower (6–6.5 vs. 6.5–7). The toughness of nephrite is proverbial — the interlocking fibrous texture means it resists fracture far better than most minerals of similar hardness. Polynesian and Native American cultures exploited this toughness for axe heads and tools."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "white",
+      "cream",
+      "pale-green"
+    ],
+    "color_profiles": [
+      {
+        "name": "spinach-jade",
+        "colors": [
+          "spinach-green",
+          "dark-green",
+          "mottled-green"
+        ],
+        "cause": "Moderate to high Fe2+ substituting for Mg in actinolite-rich nephrite; Fe-rich composition.",
+        "conditions": "Classic nephrite from New Zealand (pounamu), Siberia, China.",
+        "variety_name": "spinach-jade"
+      },
+      {
+        "name": "mutton-fat-jade",
+        "colors": [
+          "creamy-white",
+          "waxy-white",
+          "off-white"
+        ],
+        "cause": "Low Fe content; near-pure tremolite composition; fine texture diffuses light.",
+        "conditions": "Hetian (Hotan) River pebbles, Xinjiang, China — the most prized nephrite in Chinese tradition.",
+        "variety_name": "mutton-fat-jade"
+      },
+      {
+        "name": "celadon-jade",
+        "colors": [
+          "pale-green",
+          "celadon",
+          "light-green"
+        ],
+        "cause": "Low Fe content with minor chromophores.",
+        "conditions": "Pale green nephrite; also prized in Chinese aesthetics.",
+        "variety_name": null
+      },
+      {
+        "name": "gray-nephrite",
+        "colors": [
+          "gray",
+          "blue-gray",
+          "smoke-gray"
+        ],
+        "cause": "Graphite inclusions or specific Fe oxidation states.",
+        "conditions": "Various localities including British Columbia, Canada.",
+        "variety_name": null
+      },
+      {
+        "name": "black-nephrite",
+        "colors": [
+          "black",
+          "dark-gray"
+        ],
+        "cause": "Very high Fe content and/or carbonaceous inclusions.",
+        "conditions": "Some Canadian and New Zealand material.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "massive",
+      "fibrous-aggregate",
+      "interlocking-bladed",
+      "botryoidal (rare)",
+      "vein-filling"
+    ],
+    "textures": [
+      "waxy",
+      "silky",
+      "smooth",
+      "fibrous-felt",
+      "interlocking-crystalline"
+    ],
+    "macro_patterns": [
+      "mottled",
+      "uniform",
+      "veined",
+      "banded",
+      "cloud-like"
+    ],
+    "common_forms": [
+      "river-worn boulders and cobbles",
+      "massive in-situ rock",
+      "carved objects",
+      "cabochons and beads",
+      "tumbled pebbles"
+    ],
+    "visual_notes": "Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Generally inert; some material shows very weak cream or green fluorescence under LW UV",
+    "phosphorescence": "",
+    "chatoyancy": "Rare; requires aligned fibrous structure",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "Minimal in massive aggregate material; individual crystals dichroic (colorless to pale green)",
+    "optical_notes": "RI approximately 1.600–1.627 (spot reading ~1.61 on refractometer). Distinguished from jadeite by lower RI and lower SG. The aggregate texture prevents measurement of birefringence in the usual way."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "metamorphic"
+    ],
+    "geologic_environments": [
+      "contact metamorphic zones",
+      "regional metamorphic belts",
+      "serpentinite bodies and contacts",
+      "metasomatic reaction zones (rodingite formation)"
+    ],
+    "host_rocks": [
+      "serpentinite",
+      "dolomitic marble",
+      "metabasalt",
+      "skarn",
+      "ultramafic rocks"
+    ],
+    "associated_minerals": [
+      "serpentine",
+      "diopside",
+      "talc",
+      "chlorite",
+      "epidote",
+      "zoisite",
+      "tremolite",
+      "actinolite",
+      "calcite",
+      "magnetite"
+    ],
+    "locality_scope": "uncommon",
+    "notable_localities": [
+      "Hetian (Hotan) area, Xinjiang, China — most prized white nephrite; Yurungkash and Karakash rivers yield famous river pebbles",
+      "Luodian, Guizhou, China and Qinghai, China",
+      "South Island (Te Wai Pounamu), New Zealand — pounamu (greenstone); West Coast rivers and in-situ sources",
+      "Polar and Sub-Polar Urals, Russia (Siberian nephrite)",
+      "Lake Baikal area, Buryatia, Russia",
+      "Fraser Valley and Cassiar, British Columbia, Canada (large volumes)",
+      "Lander County, Wyoming, USA",
+      "Taiwan (xiuyan jade, sometimes conflated)",
+      "Zimbabwe and various African localities"
+    ],
+    "occurrence_notes": "Nephrite forms at lower pressures than jadeite, typically in contact metamorphic or lower-grade regional metamorphic settings at serpentinite margins. Mg-rich fluids metasomatizing serpentinite at contacts with dolomitic marbles or calcareous rocks are a classic formation environment. River pebbles (as in the Hetian area) are prized because weathering reveals quality and shape while polishing the surface."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "Not a formal birthstone; sometimes listed for August or March informally"
+    ],
+    "zodiac_associations": [
+      "Virgo, Libra in some traditions"
+    ],
+    "historical_uses": [
+      "China: nephrite carving spans at least 7,000–8,000 years from the Neolithic Hemudu and Xinglongwa cultures. The Liangzhu culture (3300–2300 BCE) produced extraordinary ritual jade bi discs and cong tubes of nephrite. The Zhou dynasty codified jade's symbolic role; Confucius enumerated its eleven virtues. Hetian white nephrite (mutton-fat jade) became the imperial standard under the Han and Tang dynasties.",
+      "New Zealand: pounamu (greenstone, Māori name for nephrite) is deeply sacred to Māori and holds a unique status in New Zealand law — under the Māori Fisheries Act and subsequent legislation, pounamu in the South Island belongs to Ngāi Tahu iwi. Traditional hei-tiki pendants, mere (short weapons), adzes, and chisels were made from pounamu; it was used as currency and in diplomatic gift exchange. To gift a hei-tiki is to transfer the mana (spiritual power) accumulated in the stone.",
+      "Polynesia: nephrite axes and adzes were among the most prized trade goods across the Pacific; New Zealand greenstone traded as far as the Chatham Islands",
+      "Mesoamerica: Olmec and Maya peoples used nephrite alongside jadeite; some Olmec 'jade' carvings are nephrite",
+      "Neolithic Europe: nephrite axes and adzes circulated widely in exchange networks; Alpine nephrite sources (Monviso, Italy) supplied much of Neolithic Western Europe's jade tools via long-distance trade",
+      "Prehistoric Siberia: Baikal-area nephrite was worked by Bronze Age cultures into knives and ornaments",
+      "Spanish conquistadors encountered jade curing practices in Mesoamerica — pressing jade to the kidneys for 'piedra de ijada' (loin stone), the origin of the Spanish word 'jade'"
+    ],
+    "cultural_associations": [
+      "In Chinese culture, jade (yu) is the supreme material — representing heaven, earth, and human virtue. The character 王 (king) became 玉 (jade) with the addition of a single stroke, indicating the closeness of kingship and jade.",
+      "Confucius identified 11 virtues in jade: benevolence (soft warm lustre), wisdom (translucency), courage (hardness that does not injure when broken), justice (sharp angles), purity (bright clear sound when struck)",
+      "The Jade Emperor (Yù Huáng) is the supreme deity in Chinese folk religion and Taoism; jade signifies divine authority",
+      "Chinese jade burial traditions: jade plugs for the nine orifices (eyes, ears, nostrils, mouth, navel, genitals, anus) were placed on the deceased to preserve the body and ensure immortality",
+      "Māori hei-tiki (humanoid jade pendants) accumulate mana (spiritual power) through generations; they are among the most spiritually significant objects in Māori culture",
+      "The West Coast of New Zealand's South Island is named Te Wai Pounamu (The Waters of Greenstone)",
+      "Hetian jade was a key luxury commodity on the ancient Silk Road; the 'Jade Road' predates the Silk Road, with nephrite traded to China from Xinjiang for over 3,000 years"
+    ],
+    "symbolism": [
+      "endurance",
+      "immortality",
+      "purity",
+      "heaven",
+      "mana",
+      "continuity",
+      "virtue",
+      "protection"
+    ],
+    "folklore_notes": "In Chinese tradition, jade is said to have a 'living' quality — it absorbs the essence of its wearer over time and gives back healing energy. It is said to feel alive in a way that other stones do not. A jade bangle that breaks is said to have 'sacrificed itself' to protect its owner from harm."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "ancient-carving",
+      "nephrite-endurance",
+      "jade-empire",
+      "imperial-touch",
+      "felt-stone"
+    ],
+    "sensory_keywords": [
+      "waxy",
+      "smooth",
+      "warm-cool",
+      "dense",
+      "silky"
+    ],
+    "palette_keywords": [
+      "spinach-green",
+      "mutton-fat-white",
+      "celadon-pale",
+      "dark-mottled-forest"
+    ],
+    "aesthetic_roles": [
+      "sacred cultural stone",
+      "toughness archetype",
+      "ancient jade ancestor",
+      "mana-bearing mineral"
+    ],
+    "vibe_notes": "Nephrite is the older jade — the stone that launched millennia of Chinese and Pacific jade culture before jadeite arrived. Its mutton-fat white and spinach green are among the most culturally loaded color-material combinations in human history. It is not the most beautiful stone, but it may be the most meaningful."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Very tough and durable; suitable for carving, tools, and jewelry. Avoid strong acids that could attack carbonate-bearing matrix. Generally very stable.",
+    "care_notes": "Clean with warm water and mild soap. Polish with soft cloth. Unlike jadeite, nephrite treatment is less common but wax coating is occasionally used on rough surfaces.",
+    "treatments_or_synthetics": [
+      "Wax or oil surface treatment to enhance color/luster on carved pieces; generally benign and traditional",
+      "Dye treatment to enhance green color; detectable by magnification (dye concentrations in fractures)",
+      "No polymer impregnation (less common than in jadeite trade)",
+      "Simulants include serpentine ('new jade'), green aventurine, chrysoprase, prehnite"
+    ],
+    "common_confusions": [
+      "Jadeite (higher SG ~3.3, more vitreous luster, higher RI)",
+      "Serpentine / bowenite ('new jade' — lower hardness, lower SG)",
+      "Aventurine quartz ('Indian jade' — sparkly inclusions)",
+      "Grossular garnet (massive green)",
+      "Prehnite",
+      "Green soapstone / steatite (much softer)"
+    ],
+    "market_notes": "Top-quality Hetian white nephrite (mutton-fat jade) commands extraordinary prices in Chinese markets — large unblemished white pieces can exceed jadeite in value to collectors. New Zealand pounamu has protected status and cultural significance. Canadian nephrite is abundant and forms the basis of a large commercial market."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [
+      "serpentine",
+      "talc",
+      "chlorite"
+    ],
+    "lookalikes": [
+      "jadeite",
+      "serpentine",
+      "aventurine-quartz",
+      "chrysoprase",
+      "prehnite",
+      "grossular-garnet",
+      "soapstone"
+    ],
+    "related_species": [
+      "tremolite",
+      "actinolite",
+      "hornblende",
+      "glaucophane"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "gemstone",
+      "inosilicate",
+      "double-chain-silicate",
+      "amphibole",
+      "jade",
+      "cultural",
+      "tough",
+      "Maori",
+      "Chinese",
+      "high-priority",
+      "metamorphic"
+    ],
+    "search_boost_terms": [
+      "nephrite",
+      "greenstone",
+      "pounamu",
+      "hetian jade",
+      "hotan jade",
+      "mutton fat jade",
+      "New Zealand jade",
+      "amphibole jade"
+    ],
+    "prompt_fragments": [
+      "waxy spinach-green nephrite with fibrous felt texture",
+      "mutton-fat white jade soft luminosity",
+      "pounamu greenstone sacred Pacific stone",
+      "ancient jade carving millennia of tradition"
+    ],
+    "ui_color_hint": [
+      "spinach-green",
+      "mutton-fat-white",
+      "celadon",
+      "dark-green"
+    ],
+    "priority_score": 84
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.89,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-2878.html",
+      "https://www.gia.edu/jade",
+      "https://www.teara.govt.nz/en/pounamu-jade"
+    ],
+    "notes": "Mindat ID 2878 is for tremolite, the Mg end-member of nephrite's solid solution. Nephrite itself lacks a single IMA mineral species designation as it is a rock material. Cultural history for China and Māori/New Zealand is verified. The Ngāi Tahu status of pounamu under New Zealand law is accurate."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "opal",
+  "display_name": "Opal",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "ui_color_hint": [
+    "#FFFFFF",
+    "#0D0D0D",
+    "#FF6B6B"
+  ],
+  "baseline_colors": [
+    "white",
+    "black",
+    "gray",
+    "colorless"
+  ],
+  "color_profiles": [
+    {
+      "name": "White Precious Opal",
+      "colors": [
+        "white body with spectral play-of-color"
+      ],
+      "variety_name": "white-opal",
+      "cause": "White to light-gray body color from common opal base; play-of-color from sphere diffraction."
+    },
+    {
+      "name": "Black Precious Opal",
+      "colors": [
+        "black",
+        "dark-gray",
+        "dark-blue body with vivid spectral play-of-color"
+      ],
+      "variety_name": "black-opal",
+      "cause": "Dark body color (from carbon or iron oxide traces) intensifies play-of-color contrast."
+    },
+    {
+      "name": "Crystal Opal",
+      "colors": [
+        "transparent to semi-transparent with spectral fire"
+      ],
+      "variety_name": "crystal-opal",
+      "cause": "Pure to near-pure silica spheres with no body color obscuring transparency."
+    },
+    {
+      "name": "Boulder Opal",
+      "colors": [
+        "brown ironstone matrix with opal veins showing spectral color"
+      ],
+      "variety_name": "boulder-opal",
+      "cause": "Thin seams of precious opal in ironstone host; cut with matrix."
+    },
+    {
+      "name": "Common Opal (Potch)",
+      "colors": [
+        "white",
+        "green",
+        "yellow",
+        "brown",
+        "pink — no play-of-color"
+      ],
+      "variety_name": "common-opal",
+      "cause": "Irregular or absent sphere arrangement; no diffraction grating."
+    }
+  ],
+  "habits": [
+    "massive",
+    "nodular",
+    "botryoidal",
+    "stalactitic",
+    "vein-filling",
+    "replacement masses",
+    "as petrification medium"
+  ],
+  "textures": [
+    "smooth glassy",
+    "waxy",
+    "resinous",
+    "rough earthy"
+  ],
+  "luster": [
+    "vitreous",
+    "resinous",
+    "waxy",
+    "pearly"
+  ],
+  "visual_notes": "Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously.",
+  "optical_effects": {
+    "fluorescence": "Variable; many specimens fluoresce white, green, yellow, or blue-white under UV; some inert",
+    "iridescence": "Play-of-color is a diffraction phenomenon (not thin-film iridescence); produces spectral flashes across the full visible range",
+    "play_of_color": "Play-of-color is a diffraction phenomenon (not thin-film iridescence); produces spectral flashes across the full visible range",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

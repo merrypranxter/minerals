@@ -1,0 +1,52 @@
+{
+  "id": "morganite",
+  "display_name": "Morganite",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "baseline_colors": [
+    "pink",
+    "peach",
+    "rose"
+  ],
+  "visual_notes": "Morganite's soft rose-peach color is inherently gentle and warm — less assertive than ruby, less cold than pink sapphire. Large clean crystals are available. The rose-gold + morganite combination became dominant in contemporary jewelry design in the 2010s.",
+  "prompt_fragments": [
+    "morganite: peach-rose beryl from Cs-Li pegmatite — warm manganese hexagonal form",
+    "Madagascar morganite tabular crystal — blush warmth in beryllium silicate",
+    "rose-gold + morganite: 2010s design archetype in soft pink beryl"
+  ],
+  "mood_keywords": [
+    "peach-rose-warm",
+    "manganese-tenderness",
+    "J.P.-Morgan-gem",
+    "rose-gold-companion",
+    "soft-beryl"
+  ],
+  "sensory_keywords": [
+    "warm soft pink",
+    "peach-gentle weight",
+    "clear rose-glass",
+    "blush and warmth"
+  ],
+  "palette_keywords": [
+    "rose-quartz-rival",
+    "peach-morganite",
+    "Madagascar-pink",
+    "warm-blush-gem"
+  ],
+  "aesthetic_roles": [
+    "warm pink gem anchor",
+    "rose-gold pairing stone",
+    "gentle luxury reference",
+    "Cs-Li pegmatite marker"
+  ],
+  "vibe_notes": "Morganite is the warm, quiet sister of emerald and aquamarine — the peachy pink end of beryl's spectrum. It lacks the drama of other beryls but has a consistent warmth and gentleness. The rose-gold era made it a design archetype.",
+  "symbolism": [
+    "love and tenderness",
+    "feminine warmth",
+    "compassion",
+    "rose-gold aesthetic",
+    "gentle strength"
+  ],
+  "folklore_summary": "Morganite is a relatively recently named gem variety (1911) compared to emerald and aquamarine. George Frederick Kunz named it for J.P. Morgan, one of the great mineral collectors of the Gilded Age — whose collections are now at the American Museum of Natural History and Harvard's Mineralogical Muse"
+}

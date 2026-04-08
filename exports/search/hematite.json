@@ -1,0 +1,64 @@
+{
+  "id": "hematite",
+  "slug": "hematite",
+  "display_name": "Hematite",
+  "chemistry_class": "oxide",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "hematite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Fe2O3",
+  "essential_elements": [
+    "Fe",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": "5.5–6.5",
+  "luster": [
+    "metallic",
+    "earthy"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "red-brown",
+    "black",
+    "silver-gray"
+  ],
+  "genesis": [
+    "magmatic",
+    "metamorphic",
+    "hydrothermal",
+    "sedimentary",
+    "weathering"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "oxide",
+    "iron-ore",
+    "pigment",
+    "widespread",
+    "metallic",
+    "high-priority",
+    "trigonal"
+  ],
+  "search_boost_terms": [
+    "hematite",
+    "iron oxide",
+    "red ochre",
+    "kidney ore",
+    "specular hematite",
+    "iron rose",
+    "ochre pigment"
+  ],
+  "priority_score": 86,
+  "mood_keywords": [
+    "blood-iron",
+    "ancient-pigment",
+    "red-earth",
+    "iron-mirror",
+    "primordial-color"
+  ],
+  "_all_text": "Hematite hematite Fe2O3 Pure ferric iron oxide. The red-brown color of soils and many rocks worldwide reflects trace hematite. Used as pigment (ochre) since prehistoric times. One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens. Name from Greek 'haima' (blood) for the red streak and powder. Ancient amulets believed to stop bleeding. Ochre use predates all other known pigments. blood earth protection grounding strength Red ochre pigment; used by humans for at least 300,000 years (oldest known pigment) Cave paintings (Lascaux, Altamira) Body and ritual paint in many ancient cultures Iron ore; primary feedstock for steel production Polishing stone (bloodstone, rouge) Jewelry and beads hematite iron oxide red ochre kidney ore specular hematite iron rose ochre pigment oxide iron-ore pigment widespread metallic high-priority trigonal blood-iron ancient-pigment red-earth iron-mirror primordial-color red-brown black silver-gray"
+}

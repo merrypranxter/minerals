@@ -1,0 +1,52 @@
+{
+  "id": "emerald",
+  "display_name": "Emerald",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "baseline_colors": [
+    "vivid-green",
+    "deep-green",
+    "bluish-green"
+  ],
+  "visual_notes": "Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone.",
+  "prompt_fragments": [
+    "Colombian emerald hexagonal prism — vivid chromium green with jardin inclusions",
+    "Muzo mine: hydrothermal green from black shale, spring-vivid Cr3+",
+    "Cleopatra's mine: 2000 years of green from Egypt's Eastern Desert"
+  ],
+  "mood_keywords": [
+    "Cleopatra-green",
+    "vivid-Cr-jungle",
+    "jardin-within",
+    "Colombian-vein-green",
+    "spring-archetype"
+  ],
+  "sensory_keywords": [
+    "saturated-cool-green",
+    "included-garden",
+    "heavy-hexagonal",
+    "deep-tropical"
+  ],
+  "palette_keywords": [
+    "Colombian-vivid-green",
+    "Zambian-deep-green",
+    "bluish-teal-emerald",
+    "spring-renewal-green"
+  ],
+  "aesthetic_roles": [
+    "May birthstone anchor",
+    "vivid green luxury reference",
+    "included-beauty archetype",
+    "ancient sacred gem"
+  ],
+  "vibe_notes": "Emerald is living green crystallized — the color of growth, deep jungle, and spring. Its jardin is not imperfection but biography — three-phase Colombian inclusions tell the story of the hydrothermal fluid that made it. The finest stones have a depth that no synthetic can replicate.",
+  "symbolism": [
+    "spring and rebirth",
+    "Venus and love",
+    "wisdom and prophecy",
+    "abundance and fertility",
+    "May's promise"
+  ],
+  "folklore_summary": "Cleopatra's Mines in Egypt's Eastern Desert were the world's primary emerald source for Roman civilization. The Aztec god Quetzalcoatl was said to reside in emeralds; large emeralds were among the most sacred objects in pre-Columbian Mesoamerica — the Spanish conquest of Peru looted crystals the siz"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "citrine",
+  "display_name": "Citrine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange-yellow"
+  ],
+  "visual_notes": "Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms.",
+  "prompt_fragments": [
+    "Madeira citrine: cognac-amber hexagonal quartz — warm iron-glow",
+    "golden citrine faceted cushion — Art Deco sunshine in quartz",
+    "November amber warmth in SiO2 — heated amethyst becomes solar"
+  ],
+  "mood_keywords": [
+    "autumn-golden",
+    "warm-solar-quartz",
+    "Madeira-amber",
+    "merchant-prosperity",
+    "November-warmth"
+  ],
+  "sensory_keywords": [
+    "warm golden glow",
+    "amber-honey color",
+    "clear-warm weight",
+    "autumn-light"
+  ],
+  "palette_keywords": [
+    "lemon-yellow",
+    "madeira-cognac-orange",
+    "golden-amber",
+    "honey-warm-quartz"
+  ],
+  "aesthetic_roles": [
+    "warm yellow gem anchor",
+    "Art Deco reference",
+    "November birthstone element",
+    "solar warmth color"
+  ],
+  "vibe_notes": "Citrine is bottled autumn sunlight — the yellow-to-amber warmth of October afternoons in crystalline quartz. Madeira citrine burns like cognac held up to candlelight. The Art Deco period knew what to do with it.",
+  "symbolism": [
+    "warmth and sunshine",
+    "abundance and prosperity",
+    "clarity and positivity",
+    "November and autumn",
+    "creative energy"
+  ],
+  "folklore_summary": "Citrine has been confused with topaz throughout most of gem history — 'Spanish topaz,' 'Brazilian topaz,' and 'Madeira topaz' were all actually citrine. The confusion was only definitively resolved in the early 20th century. In contemporary crystal culture, citrine is heavily associated with prosper"
+}

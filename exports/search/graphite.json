@@ -1,0 +1,64 @@
+{
+  "id": "graphite",
+  "slug": "graphite",
+  "display_name": "Graphite",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "graphite-group",
+  "ima_status": "approved",
+  "formula": "C",
+  "essential_elements": [
+    "C"
+  ],
+  "crystal_system": "hexagonal",
+  "mohs_hardness": "1–2",
+  "luster": [
+    "metallic",
+    "earthy"
+  ],
+  "transparency": [
+    "opaque"
+  ],
+  "baseline_colors": [
+    "black",
+    "dark-gray",
+    "steel-gray"
+  ],
+  "genesis": [
+    "metamorphic (recrystallization of carbonaceous matter)",
+    "igneous (magmatic carbon in certain intrusions)",
+    "hydrothermal",
+    "meteoritic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "native-element",
+    "nonmetal",
+    "carbon",
+    "metamorphic",
+    "hexagonal",
+    "industrial",
+    "lubricant",
+    "pencil",
+    "polymorph-of-diamond"
+  ],
+  "search_boost_terms": [
+    "C",
+    "native carbon",
+    "graphite crystal",
+    "plumbago",
+    "pencil lead mineral",
+    "foliated graphite",
+    "graphene precursor",
+    "carbon polymorph"
+  ],
+  "priority_score": 75,
+  "mood_keywords": [
+    "carbon-void",
+    "dark-lattice",
+    "primordial-carbon",
+    "matte-eclipse"
+  ],
+  "_all_text": "Graphite graphite C Carbon polymorph stable at surface conditions. Chemically identical to diamond but structurally completely different. Impurities (Fe, Si, Al) common in natural specimens. Layer structure gives extreme anisotropy in physical properties. Unmistakable greasy feel and extremely dark matte-black color. Marks paper and skin readily. Steel-gray metallic luster on fresh cleavage faces. Often found as disseminated flakes or foliated masses in metamorphic rocks. Graphite was initially called 'plumbago' (black lead) when discovered in Borrowdale in the 1560s — mistaken for a form of lead. The Borrowdale deposit was so pure and massive it could be sawn into sticks directly for writing, and so valuable that miners were searched leaving the mines. Graphite and diamond are chemically identical (both pure carbon) but could not be more different in structure, hardness, and appearance. darkness and hidden form carbon's humble guise the unrecognized twin of diamond utility over glamour pencils ('lead pencils' — graphite in clay matrix, since 16th century) dry lubricant (machinery, locks) electrodes in batteries and electrolysis crucibles for high-temperature metalwork nuclear reactors (neutron moderator) carbon brushes in electric motors brake linings and clutch pads paint and protective coatings ancestor material for graphene research C native carbon graphite crystal plumbago pencil lead mineral foliated graphite graphene precursor carbon polymorph native-element nonmetal carbon metamorphic hexagonal industrial lubricant pencil polymorph-of-diamond carbon-void dark-lattice primordial-carbon matte-eclipse black dark-gray steel-gray"
+}

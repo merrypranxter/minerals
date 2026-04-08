@@ -1,0 +1,94 @@
+{
+  "id": "chalcedony",
+  "display_name": "Chalcedony",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "pale-blue",
+    "gray-white",
+    "warm-orange",
+    "apple-green"
+  ],
+  "baseline_colors": [
+    "white",
+    "gray",
+    "pale-blue"
+  ],
+  "color_profiles": [
+    {
+      "name": "chalcedony-blue",
+      "colors": [
+        "blue-gray",
+        "pale-blue",
+        "lavender-gray"
+      ],
+      "variety_name": "blue-chalcedony",
+      "cause": "Rayleigh scattering of light through the microporous fibrous structure."
+    },
+    {
+      "name": "carnelian",
+      "colors": [
+        "orange-red",
+        "reddish-brown",
+        "amber-orange"
+      ],
+      "variety_name": "carnelian",
+      "cause": "Iron oxide (hematite/goethite) inclusions."
+    },
+    {
+      "name": "chrysoprase",
+      "colors": [
+        "apple-green",
+        "emerald-green",
+        "minty-green"
+      ],
+      "variety_name": "chrysoprase",
+      "cause": "Nickel (as nickeloan talc or willemseite) imparting green."
+    },
+    {
+      "name": "onyx",
+      "colors": [
+        "black",
+        "black-and-white banded"
+      ],
+      "variety_name": "onyx",
+      "cause": "Parallel straight bands; black from carbon or manganese inclusions."
+    },
+    {
+      "name": "bloodstone",
+      "colors": [
+        "dark-green with red spots"
+      ],
+      "variety_name": "bloodstone",
+      "cause": "Green from chlorite inclusions; red spots from iron oxide (hematite/jasper)."
+    }
+  ],
+  "habits": [
+    "massive",
+    "botryoidal",
+    "stalactitic",
+    "nodular",
+    "mammillary",
+    "vein-filling",
+    "pseudomorphic"
+  ],
+  "textures": [
+    "waxy",
+    "smooth",
+    "silky",
+    "porcelaneous"
+  ],
+  "luster": [
+    "waxy",
+    "earthy",
+    "silky"
+  ],
+  "visual_notes": "Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz.",
+  "optical_effects": {
+    "fluorescence": "Variable; some specimens weakly fluorescent under UV.",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Weak; fibrous varieties can show faint cat's eye in cabochon cut.",
+    "asterism": ""
+  }
+}

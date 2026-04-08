@@ -1,0 +1,54 @@
+{
+  "id": "tourmaline",
+  "display_name": "Tourmaline",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "black",
+    "colorless"
+  ],
+  "visual_notes": "The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally.",
+  "prompt_fragments": [
+    "striated black schorl prism in pegmatite",
+    "neon Paraíba blue electric tourmaline",
+    "watermelon tourmaline cross-section pink and green",
+    "rubellite hot-pink columnar crystal"
+  ],
+  "mood_keywords": [
+    "electric-prism",
+    "all-spectrum-mineral",
+    "striated-column",
+    "tourmaline-lightning",
+    "boron-magic"
+  ],
+  "sensory_keywords": [
+    "striated",
+    "electric",
+    "neon",
+    "crystalline",
+    "saturated"
+  ],
+  "palette_keywords": [
+    "schorl-black",
+    "rubellite-red",
+    "paraiba-neon-blue",
+    "watermelon-bicolor",
+    "verdelite-forest",
+    "indicolite-teal"
+  ],
+  "aesthetic_roles": [
+    "all-color mineral anchor",
+    "gem-spectrum showcase",
+    "electric crystal",
+    "striated column accent"
+  ],
+  "vibe_notes": "Tourmaline is the most compositionally diverse gem mineral group on Earth — it can be literally any color, making it a universal chromatic reference. Watermelon tourmaline cross-sections are one of the most visually iconic mineral forms. Paraíba's neon glow is among the most intense colors in the gem world.",
+  "symbolism": [
+    "creativity",
+    "spectrum",
+    "transformation",
+    "electric-energy"
+  ],
+  "folklore_summary": "Tourmaline was called the 'electric stone' after its pyroelectric properties were described by scientists in the 18th century. It was used to clean tobacco pipes by Dutch sailors because of its ash-attracting properties when heated."
+}

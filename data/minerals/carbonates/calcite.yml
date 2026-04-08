@@ -1,0 +1,316 @@
+id: calcite
+slug: calcite
+display_name: Calcite
+
+classification:
+  chemistry_class: carbonate
+  mineral_group: calcite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - iceland-spar
+    - optical-calcite
+    - dogtooth-calcite
+    - nailhead-calcite
+    - mangano-calcite
+    - cobaltoan-calcite
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 859
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "CaCO3"
+  simplified_formula: "CaCO3"
+  essential_elements: [Ca, C, O]
+  trace_elements_common: [Mn, Fe, Mg, Zn, Co, Sr, Ba, Pb]
+  structural_units:
+    - "CO3 triangular planar groups"
+    - "CaO6 octahedra (distorted)"
+  atomic_structure_notes: "Trigonal structure with alternating layers of Ca2+ cations and planar CO3 groups perpendicular to the c-axis. The CO3 triangles are oriented oppositely in alternate layers, creating the rhombohedral lattice."
+  chemistry_notes: "Most stable polymorph of CaCO3 at surface conditions. Mn substitution produces pink mangano-calcite; Co produces cobaltoan calcite (pink-purple). Fe and Mg substitutions common in sedimentary and metamorphic settings. Complete solid solution to rhodochrosite (MnCO3) via kutnahorite."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "hexagonal scalenohedral (3 2/m)"
+  space_group: "R-3c"
+  unit_cell_notes: "a ≈ 4.99 Å, c ≈ 17.06 Å; Z = 6"
+  twinning: "Extremely common; {0001} and {01-12} twin laws produce butterfly, contact, lamellar, and penetration twins."
+  crystallography_notes: "Displays over 300 known crystal forms — the most morphologically diverse common mineral. Scalenohedral (dogtooth), rhombohedral (nailhead), prismatic, tabular, and acicular habits all well-documented. Perfect rhombohedral cleavage in three directions is diagnostic."
+
+physical_properties:
+  mohs_hardness: 3
+  specific_gravity: "2.71"
+  luster: [vitreous, pearly, earthy]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage:
+    - "perfect rhombohedral {10-14} — three directions forming a rhombohedron"
+  fracture: [conchoidal, subconchoidal]
+  tenacity: brittle
+  physical_notes: "Defines Mohs hardness 3. Perfect cleavage in three directions at ~75° (not 90°, unlike halite). Reacts visibly with dilute HCl (fizzes vigorously) — the definitive field test for calcite. Iceland spar exhibits extreme birefringence (double refraction) that visibly doubles images seen through the crystal."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - gray
+  color_profiles:
+    - name: Colorless / Iceland Spar
+      colors: [colorless, water-clear]
+      cause: "Absence of chromophore impurities; pure CaCO3."
+      conditions: "Optical-grade Iceland spar used historically for Nicol prisms."
+      variety_name: iceland-spar
+    - name: White / Chalk / Limestone
+      colors: [white, cream, off-white]
+      cause: "Microcrystalline or fine-grained aggregate; scattering of light."
+      conditions: "Common in chalk, limestone, travertine, marble."
+      variety_name: null
+    - name: Mangano-Calcite
+      colors: [pale-pink, rose-pink, lavender-pink]
+      cause: "Mn2+ substituting for Ca2+ in the octahedral site."
+      conditions: "Hydrothermal veins and secondary deposits."
+      variety_name: mangano-calcite
+    - name: Orange / Amber Calcite
+      colors: [honey-yellow, orange, amber]
+      cause: "Iron oxides and organic matter inclusions."
+      conditions: "Common in sedimentary and cave deposits."
+      variety_name: null
+    - name: Green Calcite
+      colors: [pale-green, celadon-green]
+      cause: "Chlorite inclusions or trace impurities."
+      conditions: "Hydrothermal or sedimentary."
+      variety_name: null
+    - name: Blue Calcite
+      colors: [sky-blue, pale-blue]
+      cause: "Trace impurities or structural defects; exact mechanism varies."
+      conditions: "Relatively rare; Argentina notable source."
+      variety_name: null
+    - name: Black Calcite
+      colors: [dark-gray, black]
+      cause: "Organic matter inclusions (bitumen)."
+      conditions: "Bituminous limestone environments."
+      variety_name: null
+  habits:
+    - scalenohedral (dogtooth)
+    - rhombohedral (nailhead)
+    - prismatic
+    - acicular
+    - tabular
+    - massive
+    - granular
+    - stalactitic
+    - botryoidal
+    - oolitic
+    - fibrous (satin spar)
+  textures:
+    - glassy (single crystals)
+    - pearly on cleavage faces
+    - fibrous silky (satin spar)
+    - granular (marble, limestone)
+    - chalky
+  macro_patterns:
+    - rhombohedral cleavage rhombs
+    - dogtooth scalenohedral clusters
+    - banded travertine / onyx marble
+    - stalactitic concentric banding
+  common_forms:
+    - rhombic cleavage fragments
+    - dogtooth crystal clusters
+    - nail-head tabular crystals
+    - stalactites and stalagmites
+    - massive marble and limestone
+    - travertine banded slabs
+  visual_notes: "Calcite's extraordinary morphological diversity makes it among the most recognizable minerals despite no single defining habit. Clear Iceland spar shows remarkable double refraction — images appear doubled. Dogtooth clusters are among the most architecturally beautiful mineral specimens."
+
+optical_and_special_effects:
+  fluorescence: "Highly variable — many specimens fluoresce red, pink, orange, yellow, or blue under UV; mangano-calcite often fluoresces vivid pink-red under SW UV"
+  phosphorescence: "Some specimens phosphoresce after UV; triboluminescent when cleaved"
+  chatoyancy: "Fibrous satin-spar calcite shows cat's eye effect"
+  asterism: ""
+  iridescence: "Rare iridescence from thin-film interference in some specimens"
+  pleochroism: "None (trigonal/uniaxial)"
+  optical_notes: "Uniaxial negative. Extreme birefringence (Δn ≈ 0.172) — highest of any common mineral. nω = 1.658, nε = 1.486. Clear Iceland spar crystals display striking double refraction visible to the naked eye."
+
+formation_and_occurrence:
+  genesis:
+    - sedimentary (biogenic and abiogenic)
+    - hydrothermal
+    - metamorphic
+    - diagenetic
+    - speleothem (cave formation)
+    - evaporitic
+  geologic_environments:
+    - limestone and chalk formations
+    - marble (metamorphosed limestone)
+    - hydrothermal veins
+    - cave speleothems (stalactites, stalagmites, flowstones)
+    - seafloor sediments (carbonate ooze)
+    - travertine springs
+    - skarn deposits
+    - veins cutting virtually all rock types
+  host_rocks:
+    - limestone
+    - marble
+    - chalk
+    - dolomite
+    - reef deposits
+    - hydrothermal veins (any host)
+  associated_minerals:
+    - dolomite
+    - quartz
+    - fluorite
+    - pyrite
+    - sphalerite
+    - galena
+    - barite
+    - aragonite
+    - anhydrite
+  locality_scope: worldwide
+  notable_localities:
+    - "Helgustaðir, Reyðarfjörður, Iceland (optical Iceland spar — historical source)"
+    - "Elmwood Mine, Smith County, Tennessee, USA (spectacular dogtooth clusters)"
+    - "Tsumeb, Namibia (diverse crystal habits)"
+    - "Guanajuato, Mexico (scalenohedral and rhombohedral clusters)"
+    - "Sweetwater Mine, Reynolds County, Missouri, USA"
+    - "Carrara, Tuscany, Italy (Carrara marble)"
+    - "Daye, Hubei, China (very large crystals)"
+    - "San Luis Potosí, Mexico (amber and orange crystals)"
+  occurrence_notes: "Among the most abundant carbonate minerals; constitutes limestone (a major sedimentary rock type), marble, and chalk. Present in virtually every geological environment. The second most common mineral in Earth's crust after quartz and feldspar. Biogenic calcite builds shells, coral reefs, and deep-sea ooze."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Building stone (limestone, marble) since antiquity"
+    - "Iceland spar used in Nicol prisms for polarized light research"
+    - "Marble carving (Greek and Roman sculpture, Italian Renaissance)"
+    - "Agricultural lime (soil amendment)"
+    - "Cement and concrete (Portland cement)"
+    - "Chalk for writing"
+    - "Acid neutralization (water treatment, mine drainage)"
+    - "Glass making (limestone flux)"
+    - "Steel manufacturing flux"
+    - "Statuettes and carvings (alabaster calcite)"
+  cultural_associations:
+    - "White marble as the material of classical civilization (Parthenon, Michelangelo's David)"
+    - "Calcite veining in marble symbolic of Roman luxury and imperial power"
+    - "Iceland spar possibly used by Vikings as a 'solar stone' sunstone for navigation"
+    - "Cave calcite (stalactites) central to underground spiritual sites globally"
+  symbolism:
+    - clarity
+    - structure
+    - foundation
+    - purity
+    - amplification
+  folklore_notes: "Iceland spar's double refraction fascinated early scientists — it was central to Huygens' (1690) wave theory of light and was used in early polarimetry. Some researchers have proposed Viking navigators used Iceland spar to locate the sun in cloudy Arctic skies, though evidence remains debated. Calcite is the mineral of civilization — every major stone-building culture from Egypt to Rome to the Aztecs used it."
+
+interpretive_vibe:
+  mood_keywords:
+    - crystalline-foundation
+    - cave-architecture
+    - morphological-diversity
+    - ghost-clarity
+    - civilization-stone
+  sensory_keywords:
+    - cool-smooth-cleavage
+    - acid-fizz-in-the-hand
+    - doubled-image-refraction
+    - cave-drip-slow
+  palette_keywords:
+    - Iceland-clear
+    - mangano-pink
+    - amber-honey
+    - chalk-white
+    - travertine-cream
+  aesthetic_roles:
+    - foundation mineral
+    - cave-architecture element
+    - clarity and light reference
+    - warm-toned accent crystal
+  vibe_notes: "Calcite is the mineral that built civilization's monuments and floors its caves with crystal cathedrals. It reacts with acid — a rare dramatic chemistry demonstration in geology. The most morphologically diverse mineral on Earth; no two habits look alike."
+
+practical_notes:
+  toxicity: "Non-toxic; major component of antacids (calcium carbonate). Chalk dust inhalation in quantity warrants caution but calcite is not a hazardous mineral."
+  handling_notes: "Soft (Mohs 3) — scratched by a fingernail with effort; easily scratched by a coin. Handle crystal specimens carefully to protect terminations. Cleavage fragments have sharp edges."
+  care_notes: "Avoid acids — even mild acids (vinegar, fruit juices) will dissolve calcite surfaces. Do not soak in water for extended periods. Clean with dry or barely-damp cloth. Do not store with harder minerals that will scratch."
+  treatments_or_synthetics:
+    - "Dyed calcite slabs common in the ornamental stone market (blue, green, purple)"
+    - "Synthetic calcium carbonate (precipitated) used industrially"
+    - "Heat treatment converts some calcite colors (fluorescence tests sometimes useful)"
+  common_confusions:
+    - "Quartz (harder — cannot be scratched by coin; does not effervesce in HCl)"
+    - "Dolomite (does not effervesce in cold dilute HCl; effervesces only in warm/powdered)"
+    - "Aragonite (CaCO3 polymorph — slightly harder, denser; acicular habit more common)"
+    - "Gypsum (softer; can be scratched by fingernail easily; no effervescence)"
+    - "Fluorite (cubic cleavage; harder)"
+  market_notes: "Abundant and affordable. Collector specimens of complex crystal forms (dogtooth, rhombohedral) command moderate prices. Iceland spar optical grade historically important but now mostly synthetic alternatives used. Mangano-calcite popular in metaphysical market. Marble is a major commercial stone market."
+
+relationships:
+  polymorphs:
+    - aragonite
+    - vaterite
+  pseudomorphs_after:
+    - aragonite
+    - dolomite
+  pseudomorphed_by:
+    - dolomite
+    - quartz
+    - fluorite
+  lookalikes:
+    - dolomite
+    - quartz
+    - aragonite
+    - gypsum
+  related_species:
+    - dolomite
+    - aragonite
+    - magnesite
+    - rhodochrosite
+    - smithsonite
+    - siderite
+
+app_metadata:
+  tags:
+    - carbonate
+    - calcium
+    - trigonal
+    - cleavage-mineral
+    - common
+    - cave-mineral
+    - building-stone
+    - high-priority
+    - morphological-diversity
+  search_boost_terms:
+    - CaCO3
+    - calcite crystal
+    - Iceland spar
+    - dogtooth calcite
+    - nailhead calcite
+    - mangano calcite
+    - limestone mineral
+    - marble mineral
+    - double refraction
+    - effervescent mineral
+  prompt_fragments:
+    - "dogtooth scalenohedral calcite — pale gold clusters on dark matrix"
+    - "Iceland spar rhombohedron doubling every letter beneath it"
+    - "cave stalactite drip-built calcite — slow geometry"
+    - "mangano-calcite pink in hydrothermal veins"
+  ui_color_hint:
+    - "#FFFEF0"
+    - "#F5C5B0"
+    - "#F0E6CC"
+  priority_score: 91
+
+provenance:
+  source_status: draft
+  completeness: 0.92
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-859.html"
+    - "https://www.webmineral.com/data/Calcite.shtml"
+    - "https://geology.com/minerals/calcite.shtml"
+  notes: ""

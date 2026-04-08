@@ -1,0 +1,74 @@
+{
+  "id": "celestite",
+  "display_name": "Celestite",
+  "chemistry_class": "sulfate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "#B0D4E8",
+    "#87CEEB",
+    "#DDEEFF"
+  ],
+  "baseline_colors": [
+    "pale-blue",
+    "colorless",
+    "white"
+  ],
+  "color_profiles": [
+    {
+      "name": "Blue Celestite",
+      "colors": [
+        "sky-blue",
+        "pale-blue",
+        "ice-blue",
+        "cerulean"
+      ],
+      "variety_name": "blue-celestite",
+      "cause": "Color centers from trace impurities and/or radiation effects; mechanism not fully established."
+    },
+    {
+      "name": "Colorless / White Celestite",
+      "colors": [
+        "colorless",
+        "white",
+        "pale-gray"
+      ],
+      "variety_name": null,
+      "cause": "Absence of chromophore; pure SrSO4."
+    },
+    {
+      "name": "Orange / Yellow Celestite",
+      "colors": [
+        "pale-orange",
+        "pale-yellow",
+        "cream-orange"
+      ],
+      "variety_name": null,
+      "cause": "Iron oxide staining or trace impurities."
+    }
+  ],
+  "habits": [
+    "tabular",
+    "prismatic",
+    "fibrous",
+    "massive",
+    "granular",
+    "geode clusters"
+  ],
+  "textures": [
+    "glassy on crystal faces",
+    "pearly on cleavage",
+    "fibrous silky"
+  ],
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "visual_notes": "Madagascar celestite geodes — hollow limestone nodules lined with pale-blue tabular crystals — are among the most widely sold mineral specimens globally. The celestial blue color is gentle and consistent. Crystals often have a translucent quality with pearly luster on cleavage surfaces.",
+  "optical_effects": {
+    "fluorescence": "Some specimens fluoresce pale blue or white under SW UV",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "Fibrous material may show weak cat's eye",
+    "asterism": ""
+  }
+}

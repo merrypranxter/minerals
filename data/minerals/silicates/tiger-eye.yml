@@ -13,7 +13,7 @@ classification:
     - pietersite
 
 identifiers:
-  ima_status: variety
+  ima_status: not_ima
   mindat_id: 3977
   other_ids: {}
 

@@ -1,0 +1,3118 @@
+{
+  "format": "search",
+  "count": 46,
+  "minerals": [
+    {
+      "id": "agate",
+      "slug": "agate",
+      "display_name": "Agate",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "6.5–7",
+      "luster": [
+        "waxy",
+        "earthy"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "multicolor-banded",
+        "white-gray-banded"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "sedimentary",
+        "low-temperature-silica-gel-precipitation"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "banded",
+        "microcrystalline",
+        "silica",
+        "variety",
+        "patterned",
+        "widespread",
+        "ancient-material",
+        "geologic-record"
+      ],
+      "search_boost_terms": [
+        "agate",
+        "banded chalcedony",
+        "agate nodule",
+        "geode agate",
+        "fortification agate",
+        "blue lace agate",
+        "fire agate",
+        "moss agate"
+      ],
+      "priority_score": 87,
+      "mood_keywords": [
+        "geologic-calendar",
+        "layer-archive",
+        "earth-strata",
+        "terrestrial-pattern"
+      ],
+      "_all_text": "Agate agate SiO2 Compositionally SiO2 with trace impurities. Color banding reflects periodic changes in impurity concentration (Fe, Mn, Al) or microporosity during hydrothermal or silica-gel precipitation. Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls. The name 'agate' is ancient, recorded by Theophrastus around 315 BCE. Believed to protect against storms, calm thirst, and bring luck in Greek and Roman traditions. stability grounding layered-time earth-archive One of the oldest gem materials used by humans; Neolithic agate tools documented Ancient Egyptian amulets and seals Mesopotamian cylinder seals Medieval European gem carving and intaglio Idar-Oberstein, Germany: major agate-cutting industry since the 15th century Brazilian agate exported globally since the 19th century for industry and gems agate banded chalcedony agate nodule geode agate fortification agate blue lace agate fire agate moss agate banded microcrystalline silica variety patterned widespread ancient-material geologic-record geologic-calendar layer-archive earth-strata terrestrial-pattern multicolor-banded white-gray-banded"
+    },
+    {
+      "id": "alexandrite",
+      "slug": "alexandrite",
+      "display_name": "Alexandrite",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "parent_species": "chrysoberyl",
+      "mineral_group": "chrysoberyl-group",
+      "ima_status": "not_ima",
+      "formula": "BeAl2O4 (with Cr3+)",
+      "essential_elements": [
+        "Be",
+        "Al",
+        "O"
+      ],
+      "crystal_system": "orthorhombic",
+      "mohs_hardness": 8.5,
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "green (daylight)",
+        "red-purple (incandescent light)"
+      ],
+      "genesis": [
+        "metamorphic (mica schists and dolomitic marbles)",
+        "hydrothermal",
+        "magmatic (pegmatites)",
+        "secondary (placer)"
+      ],
+      "birthstone_status": [
+        "June birthstone (modern — alongside pearl and moonstone)",
+        "55th wedding anniversary"
+      ],
+      "tags": [
+        "oxide",
+        "variety",
+        "chrysoberyl",
+        "gemstone",
+        "color-change",
+        "birthstone",
+        "june",
+        "orthorhombic",
+        "beryllium",
+        "high-priority",
+        "rare"
+      ],
+      "search_boost_terms": [
+        "alexandrite",
+        "color change gem",
+        "chrysoberyl alexandrite",
+        "emerald by day ruby by night",
+        "Ural alexandrite",
+        "June birthstone",
+        "BeAl2O4",
+        "chromium alexandrite"
+      ],
+      "priority_score": 93,
+      "mood_keywords": [
+        "color-change-duality",
+        "imperial-Russian",
+        "emerald-by-day",
+        "ruby-by-night",
+        "chromium-paradox"
+      ],
+      "_all_text": "Alexandrite alexandrite BeAl2O4 (with Cr3+) The alexandrite effect requires Cr3+ in an orthorhombic field (different from trigonal corundum). Two broad absorption bands in the blue-yellow region and a transmission window in both the red and green-blue create a near-balance that shifts depending on illuminant. Tungsten light emphasizes red transmission; daylight/fluorescent light emphasizes blue-green. Vanadium also contributes to color change in some specimens. Alexandrite is unique — a single stone with two identities. Under northern daylight or fluorescent light it is distinctly green; under incandescent (candle, tungsten) light it turns vivid red-purple. The best Russian specimens shift from 'emerald' to 'ruby' — an impossible color change nicknamed 'the emerald by day, ruby by night' gem. No other natural gemstone produces such a dramatic and complete color change. Alexandrite was officially discovered on April 17, 1834 — the 16th birthday of Crown Prince Alexander II of Russia, who would later become Tsar. The stone was named in his honor by mineralogist Nils Gustaf Nordenskiöld. Its green-and-red color change matched the military colors of Imperial Russia, making it doubly auspicious. Russian jewelers favored it highly until the Revolution. Until the 1950s, alexandrite was one of the rarest colored gemstones; Brazilian deposits have made it more available, though fine Russian stones remain extreme rarities. duality and transformation good luck and balanced opposing forces Imperial Russia mystery and hidden nature June and summer solstice Gemstone — discovered 1834 in Ural Mountains Russian imperial gem during Romanov dynasty Tsar Alexander II's stone — named on his 16th birthday (April 17, 1834) Art Nouveau jewelry piece (late 19th century) alexandrite color change gem chrysoberyl alexandrite emerald by day ruby by night Ural alexandrite June birthstone BeAl2O4 chromium alexandrite oxide variety chrysoberyl gemstone color-change birthstone june orthorhombic beryllium high-priority rare color-change-duality imperial-Russian emerald-by-day ruby-by-night chromium-paradox green (daylight) red-purple (incandescent light)"
+    },
+    {
+      "id": "amber",
+      "slug": "amber",
+      "display_name": "Amber",
+      "chemistry_class": "organic",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "mineral_group": null,
+      "ima_status": "n/a",
+      "formula": "C10H16O (approximate succinic acid resin)",
+      "essential_elements": [
+        "C",
+        "H",
+        "O"
+      ],
+      "crystal_system": "amorphous",
+      "mohs_hardness": "2–2.5",
+      "luster": [
+        "resinous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "yellow",
+        "golden-yellow",
+        "orange",
+        "honey"
+      ],
+      "genesis": [
+        "organic (fossilized tree resin)",
+        "sedimentary (reworked beach/alluvial accumulation)"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "organic",
+        "mineraloid",
+        "amorphous",
+        "fossilized-resin",
+        "inclusions",
+        "paleontology",
+        "ancient-trade",
+        "yellow",
+        "orange",
+        "warm",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "fossilized resin",
+        "Baltic amber",
+        "succinite",
+        "amber inclusions",
+        "insect in amber",
+        "Jurassic Park amber",
+        "Dominican blue amber",
+        "Burmite",
+        "ancient trade gem",
+        "elektron"
+      ],
+      "priority_score": 90,
+      "mood_keywords": [
+        "fossilized-sunlight",
+        "deep-time-amber",
+        "resin-memory",
+        "prehistoric-warmth",
+        "trapped-ancient-world"
+      ],
+      "_all_text": "Amber amber C10H16O (approximate succinic acid resin) Composition varies by botanical origin and age. Baltic amber (succinite) contains 3–8% succinic acid — a diagnostic marker. Dominican and Burmese amber have different chemical profiles. Amber burns with a pleasant aromatic smell (organic material). Can be dissolved in organic solvents (ether, chloroform), unlike most minerals. Age range: several million years (copal) to over 100 million years (Burmese amber). Amber's most famous feature is inclusion preservation — ancient insects, spiders, plant fragments, feathers, and even vertebrate hair and skin have been preserved in extraordinary detail. The warm resinous golden color and organic warmth are unmatched by any mineral. Dominican blue amber appears an iridescent blue-green in reflected light — among the most extraordinary natural optical effects. Amber has been traded over long distances for at least 13,000 years — Baltic amber has been found in Egyptian and Mycenaean archaeological sites thousands of kilometers from its origin. The Greek myth explained amber as the tears of the Heliades (sisters of Phaëton) who were transformed into poplar trees and wept amber tears of grief. Romans so prized amber that it was more valuable than human slaves by some accounts. Thales of Miletus (~600 BCE) first documented amber's static electricity — planting the etymological seed of 'electricity.' The Amber Room of St. Petersburg (created 1701–1713) remains one of history's greatest lost treasures. preserved time solar energy fossilized memory and the past ancient warmth trapped life Jewelry and ornament since the Neolithic (>8000 years of use) Baltic trade — 'Amber Road' trading network from Baltic to Mediterranean Perfume and incense (burning amber produces aromatic smoke) Medicine (powdered succinic acid in folk medicine) Electrical experiments — first material in which static electricity was systematically studied Paleontological research — fossil inclusions in amber (paleoentomology, paleoecology) Varnish and lacquer (amber dissolved in turpentine) fossilized resin Baltic amber succinite amber inclusions insect in amber Jurassic Park amber Dominican blue amber Burmite ancient trade gem elektron organic mineraloid amorphous fossilized-resin inclusions paleontology ancient-trade yellow orange warm high-priority fossilized-sunlight deep-time-amber resin-memory prehistoric-warmth trapped-ancient-world yellow golden-yellow orange honey"
+    },
+    {
+      "id": "amethyst",
+      "slug": "amethyst",
+      "display_name": "Amethyst",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (with Fe4+ color centers)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 7,
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "purple",
+        "violet",
+        "lavender"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "magmatic (in volcanic vugs/geodes)",
+        "metamorphic (veins)"
+      ],
+      "birthstone_status": [
+        "February birthstone (traditional and modern)",
+        "6th and 17th wedding anniversaries"
+      ],
+      "tags": [
+        "silicate",
+        "variety",
+        "quartz",
+        "gemstone",
+        "purple",
+        "violet",
+        "birthstone",
+        "february",
+        "geode",
+        "trigonal",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "amethyst gemstone",
+        "purple quartz",
+        "February birthstone",
+        "amethyst geode",
+        "Siberian amethyst",
+        "Uruguayan amethyst",
+        "Brazilian amethyst",
+        "dionysus stone",
+        "episcopal gem"
+      ],
+      "priority_score": 93,
+      "mood_keywords": [
+        "grape-cathedral",
+        "dionysus-purple",
+        "episcopal-royal",
+        "radiation-alchemy",
+        "geode-interior"
+      ],
+      "_all_text": "Amethyst amethyst SiO2 (with Fe4+ color centers) The purple color requires both trace iron (as Fe3+ impurity in Al3+ sites) and natural gamma irradiation. Neither alone produces the color. This explains why geologically young, radiation-poor environments rarely produce amethyst. Amethyst-to-citrine color change by heat at ~300–500°C is the basis of commercial citrine production and ametrine (bicolor zones). Amethyst geodes from Brazil and Uruguay are among the most recognizable mineral display specimens globally. Hollow cavite filled with violet crystals pointing inward. The finest deep Siberian-grade material shows a red flash under incandescent light. Color zoning in angular patterns is characteristic and diagnostic. The name 'amethyst' comes from Greek 'amethystos' (not intoxicated). Greek myth: Dionysus, god of wine, pursued a maiden named Amethystos who prayed to the goddess Artemis for protection; Artemis turned her to white quartz. Dionysus, repentant, poured wine over the crystal — turning it purple. Ancient Greeks and Romans wore amethyst and carved wine goblets from it believing it prevented drunkenness. Until large Brazilian deposits were found in the 19th century, amethyst was priced alongside diamond, ruby, and emerald in the crown jewels of Europe. Discovery of massive deposits in Brazil dramatically crashed the price. sobriety and clear thinking spiritual wisdom royalty and nobility February's protection tranquility and meditation Gemstone since Egyptian antiquity — found in Pharaonic jewelry Greek and Roman wine goblets (believed to prevent intoxication) Medieval Christian bishops' rings and episcopal jewelry Catherine the Great's major amethyst collection Victorian and Art Nouveau jewelry Crown jewels of many European monarchies amethyst gemstone purple quartz February birthstone amethyst geode Siberian amethyst Uruguayan amethyst Brazilian amethyst dionysus stone episcopal gem silicate variety quartz gemstone purple violet birthstone february geode trigonal high-priority grape-cathedral dionysus-purple episcopal-royal radiation-alchemy geode-interior purple violet lavender"
+    },
+    {
+      "id": "aquamarine",
+      "slug": "aquamarine",
+      "display_name": "Aquamarine",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "beryl",
+      "mineral_group": "beryl-group",
+      "ima_status": "not_ima",
+      "formula": "Be3Al2Si6O18 (with Fe2+/Fe3+)",
+      "essential_elements": [
+        "Be",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "hexagonal",
+      "mohs_hardness": "7.5–8",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "pale-blue",
+        "blue-green",
+        "blue"
+      ],
+      "genesis": [
+        "magmatic (pegmatitic)",
+        "hydrothermal",
+        "metamorphic"
+      ],
+      "birthstone_status": [
+        "March birthstone (modern)",
+        "19th wedding anniversary"
+      ],
+      "tags": [
+        "silicate",
+        "variety",
+        "beryl",
+        "gemstone",
+        "blue",
+        "birthstone",
+        "march",
+        "hexagonal",
+        "beryllium",
+        "sea",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "aquamarine gemstone",
+        "Santa Maria aquamarine",
+        "blue beryl",
+        "March birthstone",
+        "sailor gemstone",
+        "Dom Pedro aquamarine",
+        "Be3Al2Si6O18 iron"
+      ],
+      "priority_score": 92,
+      "mood_keywords": [
+        "sea-glass-clarity",
+        "tropical-water-blue",
+        "sailor-talisman",
+        "iron-sky-light",
+        "clear-ocean-prism"
+      ],
+      "_all_text": "Aquamarine aquamarine Be3Al2Si6O18 (with Fe2+/Fe3+) Blue color from Fe2+ ions in the structural channel sites. Unheated aquamarine often has a greenish tint from Fe3+ mixing with Fe2+ — heat treatment converts Fe3+ to Fe2+, producing a purer blue. Deep pure-blue specimens (Santa Maria) are most valued. The deepest-blue 'Santa Maria' color (from Santa Maria de Itabira, Brazil) is a benchmark color grade. Aquamarine is the sea captured in hexagonal beryl — pale to deep blue with the clarity of tropical water. The Dom Pedro aquamarine (Smithsonian, carved by Bernd Munsteiner) is the largest faceted aquamarine in the world (10,363 ct). Long prismatic crystal form with striated faces is characteristic of large rough specimens. Ancient mariners believed aquamarine was the sacred gemstone of mermaids, cast up from the sea floor. Carrying aquamarine on a sea voyage was thought to bring calm seas, prevent seasickness, and protect against drowning. In Roman tradition it was sacred to Neptune. The association with water, clarity, and truth persists in contemporary use. The 'Dom Pedro Aquamarine' (Smithsonian's National Gem Collection) — a 10,363 ct carved obelisk — is the largest faceted aquamarine in the world. the sea safe voyages clarity and calm communication and truth March and early spring Sailor's talisman for protection at sea — Roman and Greek traditions Glasses / magnifying lenses (beryl lenses used in medieval Europe) Jewelry since antiquity Carving and decorative arts (large crystals) aquamarine gemstone Santa Maria aquamarine blue beryl March birthstone sailor gemstone Dom Pedro aquamarine Be3Al2Si6O18 iron silicate variety beryl gemstone blue birthstone march hexagonal beryllium sea high-priority sea-glass-clarity tropical-water-blue sailor-talisman iron-sky-light clear-ocean-prism pale-blue blue-green blue"
+    },
+    {
+      "id": "azurite",
+      "slug": "azurite",
+      "display_name": "Azurite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "azurite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "Cu3(CO3)2(OH)2",
+      "essential_elements": [
+        "Cu",
+        "C",
+        "O",
+        "H"
+      ],
+      "crystal_system": "monoclinic",
+      "mohs_hardness": "3.5–4",
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "deep-blue",
+        "azure-blue",
+        "indigo-blue"
+      ],
+      "genesis": [
+        "secondary (supergene)",
+        "oxidation-zone"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "carbonate",
+        "copper",
+        "secondary",
+        "oxidized-zone",
+        "blue",
+        "pigment-history",
+        "monoclinic",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "copper carbonate",
+        "chessylite",
+        "Bisbee blue",
+        "azurite crystal",
+        "azurmalachite",
+        "blue copper mineral",
+        "medieval pigment blue"
+      ],
+      "priority_score": 90,
+      "mood_keywords": [
+        "copper-heaven",
+        "azurite-depth",
+        "medieval-pigment",
+        "celestial-blue",
+        "oxidized-brilliance"
+      ],
+      "_all_text": "Azurite azurite Cu3(CO3)2(OH)2 Secondary copper mineral forming in oxidized zones of copper deposits. Chemical partner to malachite Cu2(CO3)(OH)2 — azurite forms where CO2 activity is higher, malachite where H2O activity is higher. Azurite converts to malachite (pseudomorphic replacement) under moist surface conditions over geologic time. Among the most intensely colored blue minerals in existence. The deep azure color is immediately striking. Azurmalachite — the intergrowth with green malachite — produces some of the most visually dramatic natural patterns in mineralogy. In medieval Europe, azurite was called 'azzurrum' and was ground to produce blue paint; it was one of the few ways to achieve true blue before synthetic pigments. Many old paintings now show greenish skies where azurite has converted to malachite due to moisture exposure over centuries. Ancient Egyptians used azurite in ornaments and burial goods alongside lapis lazuli. heaven insight the sky above Egypt depth and mystery copper-fire blue Pigment (azurite ground to blue pigment — used in Egyptian, Greek, and medieval European painting) Substitute for lapis lazuli in medieval manuscripts and panel paintings Copper ore (minor; too small quantities) Ornamental use in beads and carvings (ancient Egypt, pre-Columbian Americas) Blue pigment known as 'mountain blue' (German: Bergblau) in European painting through 17th century copper carbonate chessylite Bisbee blue azurite crystal azurmalachite blue copper mineral medieval pigment blue carbonate copper secondary oxidized-zone blue pigment-history monoclinic high-priority copper-heaven azurite-depth medieval-pigment celestial-blue oxidized-brilliance deep-blue azure-blue indigo-blue"
+    },
+    {
+      "id": "beryl",
+      "slug": "beryl",
+      "display_name": "Beryl",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "beryl-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "Be3Al2Si6O18",
+      "essential_elements": [
+        "Be",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "hexagonal",
+      "mohs_hardness": "7.5–8",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white"
+      ],
+      "genesis": [
+        "magmatic",
+        "pegmatitic",
+        "hydrothermal",
+        "metamorphic"
+      ],
+      "birthstone_status": [
+        "Emerald: May birthstone (traditional and modern)",
+        "Aquamarine: March birthstone (modern)"
+      ],
+      "tags": [
+        "gemstone",
+        "cyclosilicate",
+        "ring-silicate",
+        "beryllium",
+        "color-variety",
+        "hexagonal",
+        "high-priority",
+        "pegmatite"
+      ],
+      "search_boost_terms": [
+        "emerald",
+        "aquamarine",
+        "morganite",
+        "heliodor",
+        "beryl crystal",
+        "goshenite",
+        "beryllium silicate"
+      ],
+      "priority_score": 88,
+      "mood_keywords": [
+        "cyclosilicate-palace",
+        "deep-prism",
+        "beryllium-rainbow",
+        "gem-spectrum",
+        "hexagonal-order"
+      ],
+      "_all_text": "Beryl beryl Be3Al2Si6O18 Beryllium is the critical essential element. Color varieties arise from trace chromophores in the channels and substituting for Al: Cr3+ and V3+ produce emerald green, Fe2+/Fe3+ yield aquamarine blue-green and heliodor yellow, Mn2+/Mn3+ cause morganite pink, Cs gives maximum rose in pezzottaite. Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals. Ancient legend held that wearing an emerald could reveal truth — placing it under the tongue would supposedly make a person speak truthfully. Aquamarine was believed to be the treasure of mermaids. clarity rebirth spring vision sea-voyage Emeralds mined in Egypt at Cleopatra's Mines (Sikait) since at least 300 BCE Prized by Aztec and Inca civilizations; large specimens taken to Spain during conquest Aquamarine used as a talisman by sailors for safe sea voyages in antiquity Beryl lenses used as early magnifying glasses in medieval Europe The German word for eyeglasses ('Brille') may derive from 'Beryll' emerald aquamarine morganite heliodor beryl crystal goshenite beryllium silicate gemstone cyclosilicate ring-silicate beryllium color-variety hexagonal high-priority pegmatite cyclosilicate-palace deep-prism beryllium-rainbow gem-spectrum hexagonal-order colorless white"
+    },
+    {
+      "id": "calcite",
+      "slug": "calcite",
+      "display_name": "Calcite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "calcite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "CaCO3",
+      "essential_elements": [
+        "Ca",
+        "C",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 3,
+      "luster": [
+        "vitreous",
+        "pearly",
+        "earthy"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white",
+        "gray"
+      ],
+      "genesis": [
+        "sedimentary (biogenic and abiogenic)",
+        "hydrothermal",
+        "metamorphic",
+        "diagenetic",
+        "speleothem (cave formation)",
+        "evaporitic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "carbonate",
+        "calcium",
+        "trigonal",
+        "cleavage-mineral",
+        "common",
+        "cave-mineral",
+        "building-stone",
+        "high-priority",
+        "morphological-diversity"
+      ],
+      "search_boost_terms": [
+        "CaCO3",
+        "calcite crystal",
+        "Iceland spar",
+        "dogtooth calcite",
+        "nailhead calcite",
+        "mangano calcite",
+        "limestone mineral",
+        "marble mineral",
+        "double refraction",
+        "effervescent mineral"
+      ],
+      "priority_score": 91,
+      "mood_keywords": [
+        "crystalline-foundation",
+        "cave-architecture",
+        "morphological-diversity",
+        "ghost-clarity",
+        "civilization-stone"
+      ],
+      "_all_text": "Calcite calcite CaCO3 Most stable polymorph of CaCO3 at surface conditions. Mn substitution produces pink mangano-calcite; Co produces cobaltoan calcite (pink-purple). Fe and Mg substitutions common in sedimentary and metamorphic settings. Complete solid solution to rhodochrosite (MnCO3) via kutnahorite. Calcite's extraordinary morphological diversity makes it among the most recognizable minerals despite no single defining habit. Clear Iceland spar shows remarkable double refraction — images appear doubled. Dogtooth clusters are among the most architecturally beautiful mineral specimens. Iceland spar's double refraction fascinated early scientists — it was central to Huygens' (1690) wave theory of light and was used in early polarimetry. Some researchers have proposed Viking navigators used Iceland spar to locate the sun in cloudy Arctic skies, though evidence remains debated. Calcite is the mineral of civilization — every major stone-building culture from Egypt to Rome to the Aztecs used it. clarity structure foundation purity amplification Building stone (limestone, marble) since antiquity Iceland spar used in Nicol prisms for polarized light research Marble carving (Greek and Roman sculpture, Italian Renaissance) Agricultural lime (soil amendment) Cement and concrete (Portland cement) Chalk for writing Acid neutralization (water treatment, mine drainage) Glass making (limestone flux) Steel manufacturing flux Statuettes and carvings (alabaster calcite) CaCO3 calcite crystal Iceland spar dogtooth calcite nailhead calcite mangano calcite limestone mineral marble mineral double refraction effervescent mineral carbonate calcium trigonal cleavage-mineral common cave-mineral building-stone high-priority morphological-diversity crystalline-foundation cave-architecture morphological-diversity ghost-clarity civilization-stone colorless white gray"
+    },
+    {
+      "id": "celestite",
+      "slug": "celestite",
+      "display_name": "Celestite",
+      "chemistry_class": "sulfate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "barite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "SrSO4",
+      "essential_elements": [
+        "Sr",
+        "S",
+        "O"
+      ],
+      "crystal_system": "orthorhombic",
+      "mohs_hardness": "3–3.5",
+      "luster": [
+        "vitreous",
+        "pearly"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "pale-blue",
+        "colorless",
+        "white"
+      ],
+      "genesis": [
+        "sedimentary (evaporitic)",
+        "sedimentary (diagenetic)",
+        "hydrothermal"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "sulfate",
+        "strontium",
+        "blue",
+        "geode",
+        "orthorhombic",
+        "sedimentary",
+        "madagascar",
+        "collector-mineral"
+      ],
+      "search_boost_terms": [
+        "celestite",
+        "celestine",
+        "strontium sulfate",
+        "blue celestite",
+        "Madagascar geode",
+        "SrSO4",
+        "celestial blue mineral",
+        "strontium ore"
+      ],
+      "priority_score": 84,
+      "mood_keywords": [
+        "celestial-blue",
+        "heaven-name",
+        "sky-crystal-cave",
+        "Madagascar-geode",
+        "strontium-sky"
+      ],
+      "_all_text": "Celestite celestite SrSO4 Pure SrSO4 is colorless to white; the characteristic pale blue color comes from color centers related to trace impurities or radiation effects. Strontium is one of the elements that gives a brilliant crimson red in flame tests and fireworks. Celestite is the primary commercial source of strontium compounds. Madagascar celestite geodes — hollow limestone nodules lined with pale-blue tabular crystals — are among the most widely sold mineral specimens globally. The celestial blue color is gentle and consistent. Crystals often have a translucent quality with pearly luster on cleavage surfaces. The name 'celestite' or 'celestine' comes from Latin 'caelestis' (heavenly) — a reference to the pale sky-blue color. The element strontium was first isolated from celestite and strontianite found near Strontian, a village in Argyll, Scotland — giving the element its name. Madagascar's Sakoany celestite geodes have supplied the global collector market for decades and are among the most recognizable mineral specimens in gift shops worldwide. heaven and the sky celestial communication angelic connection clarity and peace Primary strontium ore — industrial source of strontium compounds Strontium in fireworks (brilliant crimson-red flame) Strontium for red traffic lights and signal flares Strontium carbonate for CRT television glass (historical) Medical uses (strontium ranelate for osteoporosis) Collector mineral specimens celestite celestine strontium sulfate blue celestite Madagascar geode SrSO4 celestial blue mineral strontium ore sulfate strontium blue geode orthorhombic sedimentary madagascar collector-mineral celestial-blue heaven-name sky-crystal-cave Madagascar-geode strontium-sky pale-blue colorless white"
+    },
+    {
+      "id": "chalcedony",
+      "slug": "chalcedony",
+      "display_name": "Chalcedony",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "6.5–7",
+      "luster": [
+        "waxy",
+        "earthy",
+        "silky"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "white",
+        "gray",
+        "pale-blue"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "sedimentary",
+        "weathering"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "microcrystalline",
+        "silica",
+        "waxy",
+        "variety",
+        "widespread",
+        "ancient-material",
+        "translucent"
+      ],
+      "search_boost_terms": [
+        "chalcedony",
+        "microcrystalline quartz",
+        "carnelian",
+        "chrysoprase",
+        "blue chalcedony",
+        "waxy silica",
+        "onyx"
+      ],
+      "priority_score": 85,
+      "mood_keywords": [
+        "cave-milk",
+        "smooth-tension",
+        "ghost-layer",
+        "cool-surface"
+      ],
+      "_all_text": "Chalcedony chalcedony SiO2 Essentially pure SiO2 with trace impurities governing color. Composed of intergrown microcrystalline quartz and moganite in variable proportions. Characteristic waxy luster on polished surfaces. Translucent with a faint glow in thin sections. Smooth, ghost-like quality distinguishes it from coarse quartz. Carnelian (a chalcedony variety) was one of the most important gem materials of the ancient world, used in amulets, seals, and jewelry across Egypt, Mesopotamia, and Rome. protection endurance calm clarity Prehistoric tool-making (flint/chert, which are varieties) Seal stones and signet rings in antiquity Carnelian used extensively in ancient Egyptian, Mesopotamian, and Greek jewelry Bloodstone used as a healing amulet in medieval Europe chalcedony microcrystalline quartz carnelian chrysoprase blue chalcedony waxy silica onyx microcrystalline silica waxy variety widespread ancient-material translucent cave-milk smooth-tension ghost-layer cool-surface white gray pale-blue"
+    },
+    {
+      "id": "chrysocolla",
+      "slug": "chrysocolla",
+      "display_name": "Chrysocolla",
+      "chemistry_class": "silicate",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "mineral_group": null,
+      "ima_status": "grandfathered_approved",
+      "formula": "(Cu,Al)2H2Si2O5(OH)4·nH2O",
+      "essential_elements": [
+        "Cu",
+        "Si",
+        "O",
+        "H"
+      ],
+      "crystal_system": "amorphous",
+      "mohs_hardness": "2–4",
+      "luster": [
+        "waxy",
+        "earthy",
+        "vitreous"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "cyan",
+        "blue-green",
+        "turquoise-blue"
+      ],
+      "genesis": [
+        "secondary"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "mineraloid",
+        "copper-mineral",
+        "secondary",
+        "oxidation-zone",
+        "cyan",
+        "blue-green",
+        "high-priority",
+        "phyllosilicate-like"
+      ],
+      "search_boost_terms": [
+        "chrysocolla",
+        "copper silicate",
+        "cyan mineral",
+        "blue-green copper",
+        "gem silica",
+        "turquoise alternative"
+      ],
+      "priority_score": 86,
+      "mood_keywords": [
+        "drowned-city",
+        "aqua-decay",
+        "copper-patina",
+        "tropical-ruin",
+        "oxidation-bloom"
+      ],
+      "_all_text": "Chrysocolla chrysocolla (Cu,Al)2H2Si2O5(OH)4·nH2O The formula is highly variable and debated; Cu content, Al content, and water vary significantly between specimens. The vivid cyan/blue-green color is entirely due to Cu2+. Pure chrysocolla without impurities is relatively soft and light; when intimately intergrown with quartz or chalcedony it forms the harder gem-silica material. The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens. The ancient Greek name means 'gold solder' — reflecting its actual historical use as a flux material in gold soldering. In modern crystal markets it is often conflated with turquoise due to color similarity. communication water copper-earth turquoise-kin Chrysocolla was described by Theophrastus (~315 BCE) and named from Greek chrysos (gold) + kolla (glue) — it was used as a flux for soldering gold in antiquity Egyptian blue pigment and some green-blue decorative materials in ancient contexts may involve chrysocolla Cleopatra reportedly wore chrysocolla jewelry; Pliny the Elder describes it in Natural History Used as a blue-green pigment in ancient Egypt, Rome, and South America Timna Valley, Israel: one of the world's earliest copper mining sites (active from Chalcolithic through Roman periods); chrysocolla abundant chrysocolla copper silicate cyan mineral blue-green copper gem silica turquoise alternative mineraloid copper-mineral secondary oxidation-zone cyan blue-green high-priority phyllosilicate-like drowned-city aqua-decay copper-patina tropical-ruin oxidation-bloom cyan blue-green turquoise-blue"
+    },
+    {
+      "id": "citrine",
+      "slug": "citrine",
+      "display_name": "Citrine",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (with Fe3+ color centers)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 7,
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "yellow",
+        "golden-yellow",
+        "orange-yellow"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "magmatic (pegmatitic)",
+        "produced from amethyst by natural geothermal heating"
+      ],
+      "birthstone_status": [
+        "November birthstone (modern — alongside topaz)",
+        "13th wedding anniversary"
+      ],
+      "tags": [
+        "silicate",
+        "variety",
+        "quartz",
+        "gemstone",
+        "yellow",
+        "orange",
+        "birthstone",
+        "november",
+        "trigonal",
+        "art-deco"
+      ],
+      "search_boost_terms": [
+        "citrine gemstone",
+        "yellow quartz",
+        "Madeira citrine",
+        "November birthstone",
+        "heated amethyst",
+        "merchant's stone",
+        "Spanish topaz (historical)",
+        "golden quartz"
+      ],
+      "priority_score": 88,
+      "mood_keywords": [
+        "autumn-golden",
+        "warm-solar-quartz",
+        "Madeira-amber",
+        "merchant-prosperity",
+        "November-warmth"
+      ],
+      "_all_text": "Citrine citrine SiO2 (with Fe3+ color centers) Natural citrine is rare — far rarer than amethyst. Most commercial citrine is produced by heating amethyst (destroys purple Fe4+ centers, leaving Fe3+ yellow) or smoky quartz. Natural citrine tends to be paler and less saturated than heat-treated material. The famous 'Madeira' deep orange-red citrine is effectively always heat-treated amethyst. Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms. Citrine has been confused with topaz throughout most of gem history — 'Spanish topaz,' 'Brazilian topaz,' and 'Madeira topaz' were all actually citrine. The confusion was only definitively resolved in the early 20th century. In contemporary crystal culture, citrine is heavily associated with prosperity and abundance — 'the merchant's stone.' warmth and sunshine abundance and prosperity clarity and positivity November and autumn creative energy Used as a gem since antiquity (ancient Greek and Roman jewelry) Art Deco jewelry (1920s-30s — large yellow stones fashionable) Victorian jewelry Called 'topaz' historically — much confusion between citrine and topaz in old records citrine gemstone yellow quartz Madeira citrine November birthstone heated amethyst merchant's stone Spanish topaz (historical) golden quartz silicate variety quartz gemstone yellow orange birthstone november trigonal art-deco autumn-golden warm-solar-quartz Madeira-amber merchant-prosperity November-warmth yellow golden-yellow orange-yellow"
+    },
+    {
+      "id": "copper",
+      "slug": "copper",
+      "display_name": "Copper",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "gold-group",
+      "ima_status": "approved",
+      "formula": "Cu",
+      "essential_elements": [
+        "Cu"
+      ],
+      "crystal_system": "isometric",
+      "mohs_hardness": "2.5–3",
+      "luster": [
+        "metallic"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "copper-red",
+        "orange-red",
+        "brown (oxidized)",
+        "blue-green (weathered)"
+      ],
+      "genesis": [
+        "secondary (supergene)",
+        "primary hydrothermal",
+        "volcanogenic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "native-element",
+        "metal",
+        "gold-group",
+        "secondary",
+        "hydrothermal",
+        "volcanogenic",
+        "isometric",
+        "first-metal",
+        "patina"
+      ],
+      "search_boost_terms": [
+        "Cu",
+        "native copper",
+        "copper nugget",
+        "copper wire",
+        "verdigris",
+        "copper patina",
+        "keweenaw copper",
+        "dendritic copper"
+      ],
+      "priority_score": 87,
+      "mood_keywords": [
+        "primal-metal",
+        "oxidation-spectrum",
+        "archaic-technology",
+        "warm-metallic"
+      ],
+      "_all_text": "Copper copper Cu Softest of the three noble native metals in practice. Forms natural alloys with silver. Excellent electrical and thermal conductor; third-highest electrical conductivity of any element after silver and gold. Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits. The word 'copper' derives from Latin 'cuprum', itself from Greek 'Kuprios' meaning 'of Cyprus', where copper was extensively mined in antiquity. Copper was the first metal systematically worked by humans, defining the Chalcolithic period. The Lake Superior copper deposits in Michigan supported one of the world's earliest known mining cultures (Old Copper Complex, ~5000–1000 BCE). technology and progress warmth and earthiness the dawn of metallurgy conductivity and connection first metal systematically worked by humans (Chalcolithic, ~9000 BCE) bronze production (copper + tin alloy, ~3300 BCE) coins (Roman aes, US penny historically copper) electrical wiring and electronics plumbing roofing and architectural cladding (develops green patina) cookware and utensils Cu native copper copper nugget copper wire verdigris copper patina keweenaw copper dendritic copper native-element metal gold-group secondary hydrothermal volcanogenic isometric first-metal patina primal-metal oxidation-spectrum archaic-technology warm-metallic copper-red orange-red brown (oxidized) blue-green (weathered)"
+    },
+    {
+      "id": "corundum",
+      "slug": "corundum",
+      "display_name": "Corundum",
+      "chemistry_class": "oxide",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "corundum-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "Al2O3",
+      "essential_elements": [
+        "Al",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 9,
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "gray",
+        "brown",
+        "colorless"
+      ],
+      "genesis": [
+        "metamorphic",
+        "magmatic",
+        "sedimentary (placer)"
+      ],
+      "birthstone_status": [
+        "Ruby: July birthstone",
+        "Sapphire: September birthstone"
+      ],
+      "tags": [
+        "oxide",
+        "gemstone",
+        "hard",
+        "ruby",
+        "sapphire",
+        "high-priority",
+        "trigonal"
+      ],
+      "search_boost_terms": [
+        "ruby",
+        "sapphire",
+        "corundum",
+        "star sapphire",
+        "star ruby",
+        "emery",
+        "padparadscha"
+      ],
+      "priority_score": 90,
+      "mood_keywords": [
+        "extreme-hardness",
+        "chromium-fire",
+        "sapphire-night",
+        "crystallographic-pinnacle",
+        "royal-depth"
+      ],
+      "_all_text": "Corundum corundum Al2O3 Pure corundum is colorless; trace elements produce gem varieties. Cr3+ gives ruby red; Fe2+/Ti4+ gives blue sapphire; other traces yield yellows, greens, purples, and pink. Gem-quality crystals prized as ruby and sapphire. Non-gem material is gray-brown and often massive. Silk inclusions produce asterism in star rubies and sapphires. Rubies were called 'ratnaraj' (king of gems) in Sanskrit texts. Sapphire was associated with divine favor in medieval European Christianity. passion royalty fidelity protection wisdom Abrasive (emery) for grinding and polishing Gemstones; ruby and sapphire used in jewelry for millennia Watch bearings and precision instruments (synthetic corundum) Laser medium (ruby laser, first working laser 1960) ruby sapphire corundum star sapphire star ruby emery padparadscha oxide gemstone hard ruby sapphire high-priority trigonal extreme-hardness chromium-fire sapphire-night crystallographic-pinnacle royal-depth gray brown colorless"
+    },
+    {
+      "id": "diamond",
+      "slug": "diamond",
+      "display_name": "Diamond",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "diamond-group",
+      "ima_status": "approved",
+      "formula": "C",
+      "essential_elements": [
+        "C"
+      ],
+      "crystal_system": "isometric",
+      "mohs_hardness": 10,
+      "luster": [
+        "adamantine",
+        "greasy"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "yellow",
+        "brown",
+        "gray",
+        "black (carbonado)"
+      ],
+      "genesis": [
+        "mantle origin (150–200+ km depth, extreme P-T conditions)",
+        "transported to surface via kimberlite or lamproite pipe eruptions",
+        "placer (alluvial, coastal, marine secondary)",
+        "meteoritic impact (rare — associated with lonsdaleite)",
+        "superdeep (subducted slab origin, >660 km)"
+      ],
+      "birthstone_status": [
+        "April birthstone (modern and traditional)",
+        "60th and 75th wedding anniversaries"
+      ],
+      "tags": [
+        "native-element",
+        "nonmetal",
+        "carbon",
+        "gemstone",
+        "birthstone",
+        "isometric",
+        "kimberlite",
+        "mantle",
+        "polymorph-of-graphite",
+        "hardest-mineral",
+        "april"
+      ],
+      "search_boost_terms": [
+        "C",
+        "diamond crystal",
+        "adamantine luster",
+        "kimberlite diamond",
+        "rough diamond",
+        "April birthstone",
+        "hardest mineral",
+        "carbon polymorph",
+        "engagement ring gemstone",
+        "Hope Diamond",
+        "Cullinan",
+        "fancy color diamond"
+      ],
+      "priority_score": 97,
+      "mood_keywords": [
+        "supreme-hardness",
+        "light-prison",
+        "crystallographic-perfection",
+        "cold-fire"
+      ],
+      "_all_text": "Diamond diamond C Nitrogen is most common impurity — creates yellow color (Type Ia/Ib). Boron impurity creates blue color (Type IIb). Type IIa diamonds are near-pure carbon with exceptional transparency. Brown color from plastic deformation and vacancy clusters. Unmistakable adamantine luster and exceptional brilliance in cut stones. Rough diamonds often appear greasy or frosted. Dispersion produces fire — flashes of spectral color — unmatched by any other colorless gemstone except moissanite. Diamond's name comes from Greek 'adamas' (unconquerable). Ancient Indians recognized diamond's hardness millennia before European contact. Hindu mythology associates vajra (diamond thunderbolt) with Indra's weapon. Medieval Europeans believed diamonds were tears of gods or splinters of stars. The De Beers 'A Diamond is Forever' (1947) is considered the most successful advertising slogan in history — it created the modern engagement ring tradition in Western culture. Lab-grown diamonds (chemically identical to natural) have disrupted the market since the 2010s. eternal love and commitment invincibility and strength (Sanskrit: vajra) clarity and truth wealth and status perfection and completeness April's promise gemstone in jewelry (ancient India through present) cutting and grinding tools (diamond abrasives, saws, drills) industrial abrasive (grinding wheels, polishing) windows and optics for high-pressure experimental cells heat spreaders in electronics scalpel blades (medical) diamond anvil cells (high-pressure research) C diamond crystal adamantine luster kimberlite diamond rough diamond April birthstone hardest mineral carbon polymorph engagement ring gemstone Hope Diamond Cullinan fancy color diamond native-element nonmetal carbon gemstone birthstone isometric kimberlite mantle polymorph-of-graphite hardest-mineral april supreme-hardness light-prison crystallographic-perfection cold-fire colorless yellow brown gray black (carbonado)"
+    },
+    {
+      "id": "emerald",
+      "slug": "emerald",
+      "display_name": "Emerald",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "beryl",
+      "mineral_group": "beryl-group",
+      "ima_status": "not_ima",
+      "formula": "Be3Al2Si6O18 (with Cr3+ and/or V3+)",
+      "essential_elements": [
+        "Be",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "hexagonal",
+      "mohs_hardness": "7.5–8",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "vivid-green",
+        "deep-green",
+        "bluish-green"
+      ],
+      "genesis": [
+        "hydrothermal (low-temperature vein type — Colombian)",
+        "metamorphic (mica schist type — Zambian, Zimbabwean)",
+        "pegmatitic (Brazilian some)"
+      ],
+      "birthstone_status": [
+        "May birthstone (traditional and modern)",
+        "20th and 35th wedding anniversaries"
+      ],
+      "tags": [
+        "silicate",
+        "variety",
+        "beryl",
+        "gemstone",
+        "green",
+        "birthstone",
+        "may",
+        "hexagonal",
+        "beryllium",
+        "high-priority",
+        "jewelry",
+        "colombian"
+      ],
+      "search_boost_terms": [
+        "emerald gemstone",
+        "Colombian emerald",
+        "Muzo emerald",
+        "May birthstone",
+        "vivid green beryl",
+        "Cleopatra mines",
+        "jardin emerald",
+        "Be3Al2Si6O18"
+      ],
+      "priority_score": 96,
+      "mood_keywords": [
+        "Cleopatra-green",
+        "vivid-Cr-jungle",
+        "jardin-within",
+        "Colombian-vein-green",
+        "spring-archetype"
+      ],
+      "_all_text": "Emerald emerald Be3Al2Si6O18 (with Cr3+ and/or V3+) Chromium is the primary chromophore in Colombian emeralds; vanadium dominates in some Brazilian (Salininha) and some African sources. The GIA separates emerald (Cr or V dominantly colored green beryl) from 'green beryl' (Fe-colored green beryl). Colombian emeralds typically have three-phase inclusions (fluid+gas+solid crystal) in characteristic fingerprint patterns — the 'jardin.' Emerald's vivid green is the benchmark for lush saturated green in the gem world. The jardin (inclusion garden) is not a flaw in fine emerald — it is expected, accepted, and sometimes considered a signature of natural origin. The 'emerald cut' (rectangular step cut) was designed to showcase emerald's color while minimizing mechanical stress on the included stone. Cleopatra's Mines in Egypt's Eastern Desert were the world's primary emerald source for Roman civilization. The Aztec god Quetzalcoatl was said to reside in emeralds; large emeralds were among the most sacred objects in pre-Columbian Mesoamerica — the Spanish conquest of Peru looted crystals the size of ostrich eggs. Mughal emperors had large emeralds engraved with verses from the Quran as talismans — these 'Mughal emeralds' are among the most prized objects in Islamic art history. Pliny the Elder in Historia Naturalis said that no other green is as intense as that of emerald. spring and rebirth Venus and love wisdom and prophecy abundance and fertility May's promise Gemstone — Egyptian mining at Sikait since ~330 BCE ('Cleopatra's Mines') Aztec and Inca sacred stone — 'esmeralda' — Spanish conquest looted enormous quantities Mughal engraved emeralds (verses from Quran on large crystals) Roman, Byzantine, and medieval European jewelry Oil lamp lanterns in Egyptian temples Magnification lenses (Nero reportedly viewed gladiatorial combat through an emerald lens) emerald gemstone Colombian emerald Muzo emerald May birthstone vivid green beryl Cleopatra mines jardin emerald Be3Al2Si6O18 silicate variety beryl gemstone green birthstone may hexagonal beryllium high-priority jewelry colombian Cleopatra-green vivid-Cr-jungle jardin-within Colombian-vein-green spring-archetype vivid-green deep-green bluish-green"
+    },
+    {
+      "id": "fire-opal",
+      "slug": "fire-opal",
+      "display_name": "Fire Opal",
+      "chemistry_class": "mineraloid",
+      "species_status": "variety",
+      "parent_species": "opal",
+      "mineral_group": "opal-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2·nH2O",
+      "essential_elements": [
+        "Si",
+        "O",
+        "H"
+      ],
+      "crystal_system": "amorphous",
+      "mohs_hardness": "5.5–6",
+      "luster": [
+        "vitreous",
+        "resinous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "orange",
+        "red-orange",
+        "yellow",
+        "red"
+      ],
+      "genesis": [
+        "volcanic-hydrothermal",
+        "secondary fill in volcanic cavities"
+      ],
+      "birthstone_status": [
+        "October birthstone (as a variety of opal)"
+      ],
+      "tags": [
+        "mineraloid",
+        "variety",
+        "opal",
+        "silica",
+        "amorphous",
+        "volcanic",
+        "orange",
+        "red",
+        "mexico",
+        "aztec",
+        "facetable",
+        "october"
+      ],
+      "search_boost_terms": [
+        "fire opal",
+        "Mexican opal",
+        "Querétaro opal",
+        "piedra de fuego",
+        "orange opal",
+        "transparent opal",
+        "faceted opal",
+        "volcanic opal"
+      ],
+      "priority_score": 87,
+      "mood_keywords": [
+        "volcanic-fire",
+        "aztec-hummingbird",
+        "molten-glass-orange",
+        "transparent-flame",
+        "Querétaro-light"
+      ],
+      "_all_text": "Fire Opal fire-opal SiO2·nH2O Orange-red-yellow body color caused by iron oxide inclusions (hematite/goethite) and possibly organic compounds within the silica matrix. Some fire opals (precious fire opals) also show play-of-color in addition to the vivid body color. Fire opal's vivid orange-to-red body color makes it the only facetable opal variety (when transparent). The color evokes live flame, molten metal, and sunset. In Mexico it is called 'piedra de fuego' (stone of fire) and was sacred to the Aztecs as a symbol of Huitzilopochtli. Aztec civilization held fire opal sacred — the 'stone of the fire bird' associated with the hummingbird avatar of Huitzilopochtli. The Spanish conquest brought fire opal to Europe, where it was considered an exotic curiosity but never achieved the commercial success of the later Australian market. Mexico's fire opal tradition continues today — Querétaro produces the finest material and it is embedded in Mexican cultural identity. fire and passion solar energy creativity and desire the hummingbird spirit Mexican cultural identity Sacred stone of the Aztec civilization — 'quetzalitzlipyollitli' (stone of fire hummingbird) Used in Aztec ritual objects and jewelry Pre-Columbian Mesoamerican lapidary work Modern gem and jewelry use — faceted gems fire opal Mexican opal Querétaro opal piedra de fuego orange opal transparent opal faceted opal volcanic opal mineraloid variety opal silica amorphous volcanic orange red mexico aztec facetable october volcanic-fire aztec-hummingbird molten-glass-orange transparent-flame Querétaro-light orange red-orange yellow red"
+    },
+    {
+      "id": "fluorite",
+      "slug": "fluorite",
+      "display_name": "Fluorite",
+      "chemistry_class": "halide",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "fluorite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "CaF2",
+      "essential_elements": [
+        "Ca",
+        "F"
+      ],
+      "crystal_system": "isometric",
+      "mohs_hardness": 4,
+      "luster": [
+        "vitreous",
+        "earthy"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "purple",
+        "green"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "magmatic",
+        "metamorphic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "halide",
+        "fluorescent",
+        "cubic",
+        "colorful",
+        "translucent",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "cubic colorful mineral",
+        "fluorescent crystal",
+        "purple green crystal",
+        "fluorite cube"
+      ],
+      "priority_score": 96,
+      "mood_keywords": [
+        "neon-cube",
+        "spectral-order",
+        "ultraviolet-dream",
+        "crystalline-candy",
+        "geometric-lucidity"
+      ],
+      "_all_text": "Fluorite fluorite CaF2 Major mineral source related to the element fluorine. One of the best minerals for geometric crystal logic and surreal color zoning. cubic colorful mineral fluorescent crystal purple green crystal fluorite cube halide fluorescent cubic colorful translucent high-priority neon-cube spectral-order ultraviolet-dream crystalline-candy geometric-lucidity colorless purple green"
+    },
+    {
+      "id": "gold",
+      "slug": "gold",
+      "display_name": "Gold",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "gold-group",
+      "ima_status": "approved",
+      "formula": "Au",
+      "essential_elements": [
+        "Au"
+      ],
+      "crystal_system": "isometric",
+      "mohs_hardness": "2.5–3",
+      "luster": [
+        "metallic"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "golden-yellow",
+        "pale-yellow",
+        "orange-yellow"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "placer (alluvial)",
+        "magmatic-hydrothermal"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "native-element",
+        "metal",
+        "precious",
+        "gold-group",
+        "placer",
+        "hydrothermal",
+        "jewelry",
+        "currency",
+        "isometric"
+      ],
+      "search_boost_terms": [
+        "Au",
+        "fool's gold comparison",
+        "placer gold",
+        "native gold",
+        "gold nugget",
+        "electrum",
+        "gold crystal"
+      ],
+      "priority_score": 95,
+      "mood_keywords": [
+        "titan-gold",
+        "ancient-wealth",
+        "solar-alchemy",
+        "incandescent-metal"
+      ],
+      "_all_text": "Gold gold Au Naturally forms alloys with silver (electrum) and copper. High purity specimens have SG near 19.3; silver-rich electrum may be below 16. Unmistakable warm golden-yellow in fresh specimens. Arborescent and dendritic forms are among the most prized mineral specimens globally. Gold has been considered sacred across virtually every ancient civilization. The alchemical pursuit of turning base metals into gold (chrysopoeia) dominated medieval science. Ancient Egyptians considered gold the flesh of the gods. In Hindu tradition, gold is associated with Lakshmi and prosperity. The California Gold Rush (1848–1855) and Klondike Gold Rush (1896–1899) shaped modern North America. solar energy incorruptibility divine favor wealth perfection eternity currency and coinage (earliest coins ~600 BCE, Lydia) jewelry and adornment (prehistoric to present) Egyptian funerary objects (death masks, sarcophagi) Byzantine icon art (gold leaf backgrounds) electronics and technology (modern) dentistry investment and financial reserves (gold standard era) Au fool's gold comparison placer gold native gold gold nugget electrum gold crystal native-element metal precious gold-group placer hydrothermal jewelry currency isometric titan-gold ancient-wealth solar-alchemy incandescent-metal golden-yellow pale-yellow orange-yellow"
+    },
+    {
+      "id": "graphite",
+      "slug": "graphite",
+      "display_name": "Graphite",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "graphite-group",
+      "ima_status": "approved",
+      "formula": "C",
+      "essential_elements": [
+        "C"
+      ],
+      "crystal_system": "hexagonal",
+      "mohs_hardness": "1–2",
+      "luster": [
+        "metallic",
+        "earthy"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "black",
+        "dark-gray",
+        "steel-gray"
+      ],
+      "genesis": [
+        "metamorphic (recrystallization of carbonaceous matter)",
+        "igneous (magmatic carbon in certain intrusions)",
+        "hydrothermal",
+        "meteoritic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "native-element",
+        "nonmetal",
+        "carbon",
+        "metamorphic",
+        "hexagonal",
+        "industrial",
+        "lubricant",
+        "pencil",
+        "polymorph-of-diamond"
+      ],
+      "search_boost_terms": [
+        "C",
+        "native carbon",
+        "graphite crystal",
+        "plumbago",
+        "pencil lead mineral",
+        "foliated graphite",
+        "graphene precursor",
+        "carbon polymorph"
+      ],
+      "priority_score": 75,
+      "mood_keywords": [
+        "carbon-void",
+        "dark-lattice",
+        "primordial-carbon",
+        "matte-eclipse"
+      ],
+      "_all_text": "Graphite graphite C Carbon polymorph stable at surface conditions. Chemically identical to diamond but structurally completely different. Impurities (Fe, Si, Al) common in natural specimens. Layer structure gives extreme anisotropy in physical properties. Unmistakable greasy feel and extremely dark matte-black color. Marks paper and skin readily. Steel-gray metallic luster on fresh cleavage faces. Often found as disseminated flakes or foliated masses in metamorphic rocks. Graphite was initially called 'plumbago' (black lead) when discovered in Borrowdale in the 1560s — mistaken for a form of lead. The Borrowdale deposit was so pure and massive it could be sawn into sticks directly for writing, and so valuable that miners were searched leaving the mines. Graphite and diamond are chemically identical (both pure carbon) but could not be more different in structure, hardness, and appearance. darkness and hidden form carbon's humble guise the unrecognized twin of diamond utility over glamour pencils ('lead pencils' — graphite in clay matrix, since 16th century) dry lubricant (machinery, locks) electrodes in batteries and electrolysis crucibles for high-temperature metalwork nuclear reactors (neutron moderator) carbon brushes in electric motors brake linings and clutch pads paint and protective coatings ancestor material for graphene research C native carbon graphite crystal plumbago pencil lead mineral foliated graphite graphene precursor carbon polymorph native-element nonmetal carbon metamorphic hexagonal industrial lubricant pencil polymorph-of-diamond carbon-void dark-lattice primordial-carbon matte-eclipse black dark-gray steel-gray"
+    },
+    {
+      "id": "hematite",
+      "slug": "hematite",
+      "display_name": "Hematite",
+      "chemistry_class": "oxide",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "hematite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "Fe2O3",
+      "essential_elements": [
+        "Fe",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "5.5–6.5",
+      "luster": [
+        "metallic",
+        "earthy"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "red-brown",
+        "black",
+        "silver-gray"
+      ],
+      "genesis": [
+        "magmatic",
+        "metamorphic",
+        "hydrothermal",
+        "sedimentary",
+        "weathering"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "oxide",
+        "iron-ore",
+        "pigment",
+        "widespread",
+        "metallic",
+        "high-priority",
+        "trigonal"
+      ],
+      "search_boost_terms": [
+        "hematite",
+        "iron oxide",
+        "red ochre",
+        "kidney ore",
+        "specular hematite",
+        "iron rose",
+        "ochre pigment"
+      ],
+      "priority_score": 86,
+      "mood_keywords": [
+        "blood-iron",
+        "ancient-pigment",
+        "red-earth",
+        "iron-mirror",
+        "primordial-color"
+      ],
+      "_all_text": "Hematite hematite Fe2O3 Pure ferric iron oxide. The red-brown color of soils and many rocks worldwide reflects trace hematite. Used as pigment (ochre) since prehistoric times. One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens. Name from Greek 'haima' (blood) for the red streak and powder. Ancient amulets believed to stop bleeding. Ochre use predates all other known pigments. blood earth protection grounding strength Red ochre pigment; used by humans for at least 300,000 years (oldest known pigment) Cave paintings (Lascaux, Altamira) Body and ritual paint in many ancient cultures Iron ore; primary feedstock for steel production Polishing stone (bloodstone, rouge) Jewelry and beads hematite iron oxide red ochre kidney ore specular hematite iron rose ochre pigment oxide iron-ore pigment widespread metallic high-priority trigonal blood-iron ancient-pigment red-earth iron-mirror primordial-color red-brown black silver-gray"
+    },
+    {
+      "id": "jadeite",
+      "slug": "jadeite",
+      "display_name": "Jadeite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "pyroxene-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "NaAlSi2O6",
+      "essential_elements": [
+        "Na",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "monoclinic",
+      "mohs_hardness": "6.5–7",
+      "luster": [
+        "waxy",
+        "vitreous",
+        "resinous"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "white",
+        "gray",
+        "pale-green"
+      ],
+      "genesis": [
+        "metamorphic"
+      ],
+      "birthstone_status": [
+        "Not a traditional Western birthstone, but recognized in some systems for March or August"
+      ],
+      "tags": [
+        "gemstone",
+        "inosilicate",
+        "single-chain-silicate",
+        "pyroxene",
+        "jade",
+        "high-pressure",
+        "cultural",
+        "high-priority",
+        "subduction"
+      ],
+      "search_boost_terms": [
+        "jade",
+        "jadeite",
+        "imperial jade",
+        "fei cui",
+        "Chinese jade",
+        "Myanmar jade",
+        "Burmese jade",
+        "Mesoamerican jade"
+      ],
+      "priority_score": 86,
+      "mood_keywords": [
+        "imperial-silence",
+        "high-pressure-green",
+        "jade-court",
+        "sacred-stone",
+        "subduction-secret"
+      ],
+      "_all_text": "Jadeite jadeite NaAlSi2O6 Jadeite is the Na-Al end member of the clinopyroxene solid solution series. It grades toward omphacite (with Ca-Mg aegirine substitution) and augite. Chromium substituting for Al3+ in the M1 octahedral site produces the vivid emerald-green of Imperial jade. Fe3+ (aegirine component) produces black. Mn produces lavender in some varieties. Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders. In ancient China, the deceased were sometimes buried with jade pieces placed on bodily orifices to preserve the body — jade burial suits (玉衣) of the Han dynasty, made from thousands of jade plaques sewn with gold, silver, or bronze wire, represent the apex of this tradition. Jade was believed to prevent decomposition and ensure immortality. immortality imperial-power purity heaven virtue healing longevity Chinese jade carving tradition spans more than 7,000 years; Neolithic cultures (Hongshan, Liangzhu) produced ritual jades including bi discs and cong tubes, though many early 'jade' artifacts are nephrite Jadeite from Myanmar only became the dominant Chinese imperial jade material after the 18th century, when Burmese trade routes opened under Qing dynasty patronage — Empress Dowager Cixi was a particularly devoted collector The Olmec civilization of Mesoamerica (1500–400 BCE) and the Maya (250 BCE–900 CE) worked Guatemalan jadeite into masks, pendants, and celts of great ritual significance; jade was more valuable than gold in Mesoamerican cultures Aztec mosaic masks incorporating jadeite and other green stones were among the most prized gifts sent to Hernán Cortés, who dismissed them in favor of gold — a historic cultural misvaluation Itoigawa jadeite in Japan (Niigata Prefecture) has been worked since the Jomon period (~5000 BCE), making it one of the earliest jade-working traditions; Itoigawa jade has been found in Jomon-period sites across Japan Spanish conquistadors observed Mesoamerican peoples pressing jade stones to their sides to cure 'piedra de ijada' (loin pain/kidney pain) — the origin of the Spanish word 'jade' and the belief in jade's kidney-healing properties jade jadeite imperial jade fei cui Chinese jade Myanmar jade Burmese jade Mesoamerican jade gemstone inosilicate single-chain-silicate pyroxene jade high-pressure cultural high-priority subduction imperial-silence high-pressure-green jade-court sacred-stone subduction-secret white gray pale-green"
+    },
+    {
+      "id": "jasper",
+      "slug": "jasper",
+      "display_name": "Jasper",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (+ impurities)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "6.5–7",
+      "luster": [
+        "waxy",
+        "earthy"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "red",
+        "yellow",
+        "brown",
+        "green"
+      ],
+      "genesis": [
+        "sedimentary",
+        "hydrothermal",
+        "diagenetic",
+        "metamorphic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "opaque",
+        "microcrystalline",
+        "silica",
+        "rock-gem-material",
+        "iron-bearing",
+        "widespread",
+        "ancient-material",
+        "earthy"
+      ],
+      "search_boost_terms": [
+        "jasper",
+        "red jasper",
+        "picture jasper",
+        "ocean jasper",
+        "mookaite",
+        "opaque silica",
+        "chert gemstone"
+      ],
+      "priority_score": 82,
+      "mood_keywords": [
+        "earth-body",
+        "canyon-floor",
+        "oxidized-terrain",
+        "deep-strata"
+      ],
+      "_all_text": "Jasper jasper SiO2 (+ impurities) Broadly SiO2 with significant impurity content (up to 20% or more by weight in some specimens) from iron oxides, clay minerals, and other inclusions. Specific gravity varies accordingly. Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials. One of the oldest named gemstones; 'jasper' appears in texts from ancient Babylonia, Egypt, and the Hebrew Bible. Red jasper was associated with blood and warrior energy across many ancient cultures. endurance earth protection vitality grounding Prehistoric tool-making (flint/chert/jasper flaked tools) Ancient Egyptian and Mesopotamian seal stones and amulets Classical Greek and Roman intaglio carving Medieval European gem carving Native American ceremonial use (red jasper) jasper red jasper picture jasper ocean jasper mookaite opaque silica chert gemstone opaque microcrystalline silica rock-gem-material iron-bearing widespread ancient-material earthy earth-body canyon-floor oxidized-terrain deep-strata red yellow brown green"
+    },
+    {
+      "id": "labradorite",
+      "slug": "labradorite",
+      "display_name": "Labradorite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "feldspar-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "(Ca,Na)(Al,Si)4O8",
+      "essential_elements": [
+        "Ca",
+        "Na",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "triclinic",
+      "mohs_hardness": "6–6.5",
+      "luster": [
+        "vitreous",
+        "pearly"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque",
+        "transparent"
+      ],
+      "baseline_colors": [
+        "gray",
+        "dark-gray",
+        "black-gray",
+        "greenish-gray"
+      ],
+      "genesis": [
+        "magmatic",
+        "metamorphic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "feldspar",
+        "plagioclase",
+        "iridescent",
+        "labradorescence",
+        "species",
+        "igneous",
+        "gemstone",
+        "high-priority",
+        "optical-effect"
+      ],
+      "search_boost_terms": [
+        "labradorite",
+        "spectrolite",
+        "rainbow moonstone",
+        "labradorescence",
+        "plagioclase feldspar",
+        "aurora stone",
+        "schiller feldspar",
+        "blue iridescent feldspar"
+      ],
+      "priority_score": 90,
+      "mood_keywords": [
+        "northern-lights",
+        "prismatic-abyss",
+        "schiller-depth",
+        "arctic-glow"
+      ],
+      "_all_text": "Labradorite labradorite (Ca,Na)(Al,Si)4O8 Plagioclase series member. The labradorescence (schiller) effect arises from thin-film interference in alternating Ca-rich and Na-rich exsolution lamellae. Lamellar spacing of approximately 100–300 nm produces the interference colors observed. The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face. Inuit legend describes the aurora borealis as frozen light trapped inside labradorite. Moravian missionaries encountering the stone in Labrador in 1770 were reportedly struck by the play of color. The Finnish spectrolite variety was not discovered until World War II when a German bomb crater revealed an extraordinary deposit. transformation hidden-knowledge northern-lights prismatic-mystery First described scientifically from Paul's Island, Labrador, Canada in 1770 by Moravian missionaries Adopted as a gemstone and ornamental stone in the 18th–19th century Finnish spectrolite quarried since the 1940s; national gemstone of Finland Larvikite (Norwegian labradorite-bearing rock) used as architectural stone worldwide labradorite spectrolite rainbow moonstone labradorescence plagioclase feldspar aurora stone schiller feldspar blue iridescent feldspar feldspar plagioclase iridescent labradorescence species igneous gemstone high-priority optical-effect northern-lights prismatic-abyss schiller-depth arctic-glow gray dark-gray black-gray greenish-gray"
+    },
+    {
+      "id": "lepidolite",
+      "slug": "lepidolite",
+      "display_name": "Lepidolite",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "mica-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "K(Li,Al)3(Si,Al)4O10(F,OH)2",
+      "essential_elements": [
+        "K",
+        "Li",
+        "Al",
+        "Si",
+        "O",
+        "F",
+        "H"
+      ],
+      "crystal_system": "monoclinic",
+      "mohs_hardness": "2.5–4",
+      "luster": [
+        "pearly",
+        "vitreous",
+        "silky"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "lavender",
+        "pink",
+        "purple"
+      ],
+      "genesis": [
+        "magmatic",
+        "pegmatitic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "mica",
+        "phyllosilicate",
+        "sheet-silicate",
+        "lithium",
+        "pegmatite",
+        "lavender",
+        "pink",
+        "high-priority",
+        "LCT-pegmatite",
+        "flux-mineral"
+      ],
+      "search_boost_terms": [
+        "lepidolite",
+        "lavender mica",
+        "lithium mica",
+        "pink mica",
+        "purple mica",
+        "lepidolite crystal",
+        "lithium mineral"
+      ],
+      "priority_score": 82,
+      "mood_keywords": [
+        "lavender-mica",
+        "lithium-shimmer",
+        "gentle-mineral",
+        "soft-metallic",
+        "pegmatite-pastel"
+      ],
+      "_all_text": "Lepidolite lepidolite K(Li,Al)3(Si,Al)4O10(F,OH)2 Lepidolite is the most common lithium-bearing mica. Li content (reported as Li2O) is typically 3–7 wt%. It also concentrates Rb and Cs, which substitute for K in the interlayer — making lepidolite a potential indicator mineral and minor source of these rare alkali metals. Mn2+/Mn3+ produces the characteristic lavender/pink/purple color. The F:OH ratio varies; more fluorine-rich lepidolite tends to be whiter. IMA now recognizes lepidolite as a series between polylithionite and trilithionite. Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality. The lavender color and lithium-bearing nature have combined in popular imagination to make lepidolite a stone of 'calm and peace' in New Age traditions. The real lithium connection — as one of the oldest lithium mineral sources — gives it an unexpected industrial modernity beneath its gentle pastel appearance. calm transition softness lithium-light Lepidolite was an early commercial lithium mineral; lithium was first isolated from petalite in 1817, but lepidolite was one of the main industrial Li sources in the late 19th and early 20th centuries before spodumene deposits became dominant Used as a flux in glass and ceramic glazes; its high F content and flux properties are commercially relevant In the 20th century, large masses of lepidolite were mined in Brazil and California as a minor Li ore and as a fluxing agent in specialty glasses Modern lithium demand (EV batteries, pharmaceuticals) has renewed interest in all Li-bearing pegmatite minerals including lepidolite lepidolite lavender mica lithium mica pink mica purple mica lepidolite crystal lithium mineral mica phyllosilicate sheet-silicate lithium pegmatite lavender pink high-priority LCT-pegmatite flux-mineral lavender-mica lithium-shimmer gentle-mineral soft-metallic pegmatite-pastel lavender pink purple"
+    },
+    {
+      "id": "malachite",
+      "slug": "malachite",
+      "display_name": "Malachite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "rosasite-group-related",
+      "ima_status": "grandfathered_approved",
+      "formula": "Cu2(CO3)(OH)2",
+      "essential_elements": [
+        "Cu",
+        "C",
+        "O",
+        "H"
+      ],
+      "crystal_system": "monoclinic",
+      "mohs_hardness": null,
+      "luster": [
+        "silky",
+        "vitreous",
+        "earthy"
+      ],
+      "transparency": [
+        "opaque",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "green"
+      ],
+      "genesis": [
+        "secondary",
+        "oxidation-zone"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "green",
+        "copper",
+        "banded",
+        "botryoidal",
+        "ornamental",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "banded green mineral",
+        "botryoidal green stone",
+        "copper carbonate mineral"
+      ],
+      "priority_score": 94,
+      "mood_keywords": [
+        "jungle-opulence",
+        "venom-luxury",
+        "antique-magic",
+        "regal-poison",
+        "serpent-ornament"
+      ],
+      "_all_text": "Malachite malachite Cu2(CO3)(OH)2 Secondary copper mineral. One of the strongest 'ornamental pattern' minerals in existence. banded green mineral botryoidal green stone copper carbonate mineral green copper banded botryoidal ornamental high-priority jungle-opulence venom-luxury antique-magic regal-poison serpent-ornament green"
+    },
+    {
+      "id": "moonstone",
+      "slug": "moonstone",
+      "display_name": "Moonstone",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "orthoclase",
+      "mineral_group": "feldspar-group",
+      "ima_status": "not_ima",
+      "formula": "KAlSi3O8 (orthoclase) with intergrown NaAlSi3O8 (albite) lamellae",
+      "essential_elements": [
+        "K",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "monoclinic",
+      "mohs_hardness": "6–6.5",
+      "luster": [
+        "vitreous",
+        "pearly"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white",
+        "pale-gray"
+      ],
+      "genesis": [
+        "magmatic",
+        "metamorphic",
+        "pegmatitic"
+      ],
+      "birthstone_status": [
+        "June birthstone (traditional; along with pearl and alexandrite)",
+        "Modern June birthstone (along with pearl and alexandrite)"
+      ],
+      "tags": [
+        "feldspar",
+        "adularescent",
+        "optical-effect",
+        "variety",
+        "gemstone",
+        "birthstone",
+        "lunar",
+        "june",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "moonstone",
+        "adularescence",
+        "blue moonstone",
+        "rainbow moonstone",
+        "orthoclase feldspar gem",
+        "June birthstone",
+        "lunar gem",
+        "adular glow"
+      ],
+      "priority_score": 88,
+      "mood_keywords": [
+        "lunar-milk",
+        "adular-glow",
+        "night-water",
+        "floating-light"
+      ],
+      "_all_text": "Moonstone moonstone KAlSi3O8 (orthoclase) with intergrown NaAlSi3O8 (albite) lamellae Parent mineral is orthoclase (monoclinic K-feldspar) or the low-temperature polymorph adularia. Albite lamellae are exsolved from the original homogeneous K-feldspar during slow cooling. The finest Sri Lankan blue moonstone has very thin, evenly spaced lamellae. Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior. Pliny the Elder wrote that moonstone's appearance changed with the phases of the moon. Roman legend held that it was formed from moonlight solidified. In India, moonstone is considered a sacred stone and a dream stone — sleeping with it is said to bring beautiful visions. The Art Nouveau jewelers of the late 19th century elevated moonstone to iconic status in Western fine jewelry. lunar-energy femininity intuition cycles mystery fertility Used in ancient Roman and Greek jewelry; Romans believed it contained the image of Diana, goddess of the moon Revered in Hindu tradition as a sacred stone of the moon god Chandra Art Nouveau jewelry movement (1890–1910) featured moonstone prominently — René Lalique designs June birthstone designation formalized by the American National Retail Jewelers Association in 1912 moonstone adularescence blue moonstone rainbow moonstone orthoclase feldspar gem June birthstone lunar gem adular glow feldspar adularescent optical-effect variety gemstone birthstone lunar june high-priority lunar-milk adular-glow night-water floating-light colorless white pale-gray"
+    },
+    {
+      "id": "morganite",
+      "slug": "morganite",
+      "display_name": "Morganite",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "beryl",
+      "mineral_group": "beryl-group",
+      "ima_status": "not_ima",
+      "formula": "Be3Al2Si6O18 (with Mn2+/Mn3+)",
+      "essential_elements": [
+        "Be",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "hexagonal",
+      "mohs_hardness": "7.5–8",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "pink",
+        "peach",
+        "rose"
+      ],
+      "genesis": [
+        "magmatic (pegmatitic)",
+        "hydrothermal"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "silicate",
+        "variety",
+        "beryl",
+        "gemstone",
+        "pink",
+        "peach",
+        "hexagonal",
+        "beryllium",
+        "manganese",
+        "pegmatite"
+      ],
+      "search_boost_terms": [
+        "morganite gemstone",
+        "pink beryl",
+        "peach beryl",
+        "rose gold morganite",
+        "J.P. Morgan gem",
+        "Madagascar beryl",
+        "Be3Al2Si6O18 manganese"
+      ],
+      "priority_score": 86,
+      "mood_keywords": [
+        "peach-rose-warm",
+        "manganese-tenderness",
+        "J.P.-Morgan-gem",
+        "rose-gold-companion",
+        "soft-beryl"
+      ],
+      "_all_text": "Morganite morganite Be3Al2Si6O18 (with Mn2+/Mn3+) Manganese is the primary chromophore. Mn2+ gives pink; Mn3+ gives deeper pink to purplish. Cesium-rich Cs-beryl (pezzottaite) is related but is a distinct species (Cs-dominant). Irradiation produces orange tones; heat treatment removes these to give cleaner pink. Fe contamination produces brownish-orange overcast. Morganite's soft rose-peach color is inherently gentle and warm — less assertive than ruby, less cold than pink sapphire. Large clean crystals are available. The rose-gold + morganite combination became dominant in contemporary jewelry design in the 2010s. Morganite is a relatively recently named gem variety (1911) compared to emerald and aquamarine. George Frederick Kunz named it for J.P. Morgan, one of the great mineral collectors of the Gilded Age — whose collections are now at the American Museum of Natural History and Harvard's Mineralogical Museum. The 'morganite + rose gold' combination became a defining aesthetic of 2010s jewelry design, particularly in engagement rings. love and tenderness feminine warmth compassion rose-gold aesthetic gentle strength Named in 1911 by George Frederick Kunz (Tiffany & Co. head gemologist) for financier J.P. Morgan J.P. Morgan donated major mineral collections to AMNH and Harvard Gemstone use since naming; rose-gold combination popularized post-2010 morganite gemstone pink beryl peach beryl rose gold morganite J.P. Morgan gem Madagascar beryl Be3Al2Si6O18 manganese silicate variety beryl gemstone pink peach hexagonal beryllium manganese pegmatite peach-rose-warm manganese-tenderness J.P.-Morgan-gem rose-gold-companion soft-beryl pink peach rose"
+    },
+    {
+      "id": "nephrite",
+      "slug": "nephrite",
+      "display_name": "Nephrite",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "parent_species": null,
+      "mineral_group": "amphibole-group",
+      "ima_status": "not_ima",
+      "formula": "Ca2(Mg,Fe)5Si8O22(OH)2",
+      "essential_elements": [
+        "Ca",
+        "Mg",
+        "Fe",
+        "Si",
+        "O",
+        "H"
+      ],
+      "crystal_system": "monoclinic",
+      "mohs_hardness": "6–6.5",
+      "luster": [
+        "waxy",
+        "silky",
+        "greasy"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "white",
+        "cream",
+        "pale-green"
+      ],
+      "genesis": [
+        "metamorphic"
+      ],
+      "birthstone_status": [
+        "Not a formal birthstone; sometimes listed for August or March informally"
+      ],
+      "tags": [
+        "gemstone",
+        "inosilicate",
+        "double-chain-silicate",
+        "amphibole",
+        "jade",
+        "cultural",
+        "tough",
+        "Maori",
+        "Chinese",
+        "high-priority",
+        "metamorphic"
+      ],
+      "search_boost_terms": [
+        "nephrite",
+        "greenstone",
+        "pounamu",
+        "hetian jade",
+        "hotan jade",
+        "mutton fat jade",
+        "New Zealand jade",
+        "amphibole jade"
+      ],
+      "priority_score": 84,
+      "mood_keywords": [
+        "ancient-carving",
+        "nephrite-endurance",
+        "jade-empire",
+        "imperial-touch",
+        "felt-stone"
+      ],
+      "_all_text": "Nephrite nephrite Ca2(Mg,Fe)5Si8O22(OH)2 Color and properties vary along the tremolite–actinolite solid solution: pure tremolite is white to colorless; increasing Fe (actinolite component) produces progressively deeper green. The spinach-green of classic nephrite reflects intermediate-to-Fe-rich composition. Minor Cr can produce vivid green. White 'mutton-fat' nephrite is tremolite-dominant and highly prized in Chinese tradition. Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass. In Chinese tradition, jade is said to have a 'living' quality — it absorbs the essence of its wearer over time and gives back healing energy. It is said to feel alive in a way that other stones do not. A jade bangle that breaks is said to have 'sacrificed itself' to protect its owner from harm. endurance immortality purity heaven mana continuity virtue protection China: nephrite carving spans at least 7,000–8,000 years from the Neolithic Hemudu and Xinglongwa cultures. The Liangzhu culture (3300–2300 BCE) produced extraordinary ritual jade bi discs and cong tubes of nephrite. The Zhou dynasty codified jade's symbolic role; Confucius enumerated its eleven virtues. Hetian white nephrite (mutton-fat jade) became the imperial standard under the Han and Tang dynasties. New Zealand: pounamu (greenstone, Māori name for nephrite) is deeply sacred to Māori and holds a unique status in New Zealand law — under the Māori Fisheries Act and subsequent legislation, pounamu in the South Island belongs to Ngāi Tahu iwi. Traditional hei-tiki pendants, mere (short weapons), adzes, and chisels were made from pounamu; it was used as currency and in diplomatic gift exchange. To gift a hei-tiki is to transfer the mana (spiritual power) accumulated in the stone. Polynesia: nephrite axes and adzes were among the most prized trade goods across the Pacific; New Zealand greenstone traded as far as the Chatham Islands Mesoamerica: Olmec and Maya peoples used nephrite alongside jadeite; some Olmec 'jade' carvings are nephrite Neolithic Europe: nephrite axes and adzes circulated widely in exchange networks; Alpine nephrite sources (Monviso, Italy) supplied much of Neolithic Western Europe's jade tools via long-distance trade Prehistoric Siberia: Baikal-area nephrite was worked by Bronze Age cultures into knives and ornaments Spanish conquistadors encountered jade curing practices in Mesoamerica — pressing jade to the kidneys for 'piedra de ijada' (loin stone), the origin of the Spanish word 'jade' nephrite greenstone pounamu hetian jade hotan jade mutton fat jade New Zealand jade amphibole jade gemstone inosilicate double-chain-silicate amphibole jade cultural tough Maori Chinese high-priority metamorphic ancient-carving nephrite-endurance jade-empire imperial-touch felt-stone white cream pale-green"
+    },
+    {
+      "id": "obsidian",
+      "slug": "obsidian",
+      "display_name": "Obsidian",
+      "chemistry_class": "mineraloid",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "mineral_group": null,
+      "ima_status": "n/a",
+      "formula": "SiO2 (approximately 70–75%) with Al2O3, FeO, Fe2O3, MgO, CaO, K2O, Na2O",
+      "essential_elements": [
+        "Si",
+        "O",
+        "Al",
+        "Fe",
+        "K",
+        "Na"
+      ],
+      "crystal_system": "amorphous",
+      "mohs_hardness": "5–5.5",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "opaque",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "black",
+        "dark-brown"
+      ],
+      "genesis": [
+        "volcanic (rapid quenching of silicic lava)"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "mineraloid",
+        "volcanic-glass",
+        "amorphous",
+        "black",
+        "silica",
+        "tool-stone",
+        "aztec",
+        "ancient-trade",
+        "surgical",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "volcanic glass",
+        "obsidian blade",
+        "Apache tears",
+        "snowflake obsidian",
+        "rainbow obsidian",
+        "Aztec mirror",
+        "Tezcatlipoca",
+        "stone tool",
+        "Neolithic obsidian trade"
+      ],
+      "priority_score": 90,
+      "mood_keywords": [
+        "volcanic-void",
+        "obsidian-mirror",
+        "razor-blade-truth",
+        "shadow-surface",
+        "night-glass"
+      ],
+      "_all_text": "Obsidian obsidian SiO2 (approximately 70–75%) with Al2O3, FeO, Fe2O3, MgO, CaO, K2O, Na2O Color and optical effects depend on Fe content, gas bubble distribution, and crystallite inclusions. Black obsidian is colored by iron and magnetite. Snowflake obsidian contains spherulites of cristobalite (white). Rainbow obsidian gets its iridescence from nanolaminate magnetite layers. Mahogany obsidian has reddish-brown bands from Fe oxidation. Obsidian is pure volcanic glass — the most visually simple and the most dramatically effective black mineral material. Its jet-black vitreous surface reflects light cleanly. Rainbow varieties produce full spectral color from thin-film magnetite layers. Apache tears appear opaque but transmit brownish light when held up. Tezcatlipoca, the Aztec god of night, sorcery, and the north, is symbolized by a black obsidian smoking mirror — his attribute and the means by which he could see all things in the universe including human sin and fate. Obsidian mirrors were used by priests for scrying and divination. The Apache tears legend holds that women of an Apache band wept when their warriors were killed in battle; their tears fell and crystallized as obsidian nodules. In modern metaphysical tradition, obsidian is a 'truth stone' associated with shadow work. truth-revealing mirror the void and shadow-self protection from negative energy warrior sharpness volcanic creation and destruction Stone tools — blades, knives, scrapers (Lower Paleolithic to historically in some regions) Surgical blades (modern surgical use — some cardiothoracic surgeons prefer obsidian scalpels) Mirrors (Aztec; polished obsidian mirrors for divination) Trade commodity (obsidian exchange networks documented from Neolithic through Bronze Age) Ritual and ceremonial objects (Aztec, Mesoamerican, and many other cultures) Arrowheads and projectile points volcanic glass obsidian blade Apache tears snowflake obsidian rainbow obsidian Aztec mirror Tezcatlipoca stone tool Neolithic obsidian trade mineraloid volcanic-glass amorphous black silica tool-stone aztec ancient-trade surgical high-priority volcanic-void obsidian-mirror razor-blade-truth shadow-surface night-glass black dark-brown"
+    },
+    {
+      "id": "opal",
+      "slug": "opal",
+      "display_name": "Opal",
+      "chemistry_class": "mineraloid",
+      "species_status": "mineraloid",
+      "parent_species": null,
+      "mineral_group": "opal-group",
+      "ima_status": "approved",
+      "formula": "SiO2·nH2O",
+      "essential_elements": [
+        "Si",
+        "O",
+        "H"
+      ],
+      "crystal_system": "amorphous",
+      "mohs_hardness": "5.5–6.5",
+      "luster": [
+        "vitreous",
+        "resinous",
+        "waxy",
+        "pearly"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "white",
+        "black",
+        "gray",
+        "colorless"
+      ],
+      "genesis": [
+        "sedimentary (low-temperature silica precipitation)",
+        "volcanic (silica-rich hydrothermal)",
+        "biogenic (siliceous organisms — diatomite)",
+        "secondary (replacing organic matter — opalized wood, shells)"
+      ],
+      "birthstone_status": [
+        "October birthstone (traditional and modern, alongside tourmaline)",
+        "14th wedding anniversary"
+      ],
+      "tags": [
+        "mineraloid",
+        "silica",
+        "amorphous",
+        "play-of-color",
+        "birthstone",
+        "october",
+        "australia",
+        "high-priority",
+        "iridescent",
+        "precious"
+      ],
+      "search_boost_terms": [
+        "precious opal",
+        "play of color",
+        "opalescence",
+        "black opal",
+        "white opal",
+        "Lightning Ridge",
+        "Coober Pedy",
+        "October birthstone",
+        "fire in stone"
+      ],
+      "priority_score": 94,
+      "mood_keywords": [
+        "prismatic-fire",
+        "all-spectrum-at-once",
+        "shifting-light-archive",
+        "October-veil",
+        "diffraction-magic"
+      ],
+      "_all_text": "Opal opal SiO2·nH2O Water is structurally important — dehydration causes crazing (cracking). Water content affects SG (1.98–2.25) and stability. Fire opal (orange body color) differs in having fewer structural water molecules and often comes from volcanic rhyolite. Opal-CT (cristobalite-tridymite) is the most common variety in sedimentary environments. Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously. Opal has the most dramatic reputation reversal in gem history. Ancient Romans paid extravagant sums — Pliny wrote that a Roman senator was exiled rather than sell his opal to Mark Antony. Medieval tradition held opal lucky — a stone containing all gem colors in one. Sir Walter Scott's 1829 novel Anne of Geierstein featured an opal that was destroyed by holy water — and Victorian superstition about opal bad luck was born. The European market collapsed for 50 years. The superstition persists despite being entirely literary in origin. all-color embodied hope and wish-fulfillment protection and prophecy October renewal shifting truth Gemstone — prized since Roman antiquity Talisman and amulet across ancient Europe and the Near East Symbol of hope, luck, and prophecy in medieval Europe Australian Aboriginal sacred stone in some traditions precious opal play of color opalescence black opal white opal Lightning Ridge Coober Pedy October birthstone fire in stone mineraloid silica amorphous play-of-color birthstone october australia high-priority iridescent precious prismatic-fire all-spectrum-at-once shifting-light-archive October-veil diffraction-magic white black gray colorless"
+    },
+    {
+      "id": "petrified-wood",
+      "slug": "petrified-wood",
+      "display_name": "Petrified Wood",
+      "chemistry_class": "silicate",
+      "species_status": "rock/gem material",
+      "parent_species": null,
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (replacing original wood cellulose and lignin)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "5.5–7 (varies with silicification completeness; chalcedony-replaced ≈ 6.5–7)",
+      "luster": [
+        "waxy",
+        "vitreous",
+        "earthy"
+      ],
+      "transparency": [
+        "opaque",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "brown",
+        "tan",
+        "gray"
+      ],
+      "genesis": [
+        "sedimentary",
+        "diagenetic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "fossil",
+        "gem-material",
+        "chalcedony",
+        "silicification",
+        "deep-time",
+        "wood-replacement",
+        "desert",
+        "paleobotany"
+      ],
+      "search_boost_terms": [
+        "petrified wood",
+        "fossilized wood",
+        "silicified wood",
+        "agatized wood",
+        "fossil wood",
+        "Petrified Forest Arizona"
+      ],
+      "priority_score": 74,
+      "mood_keywords": [
+        "fossil-time",
+        "temporal-stone",
+        "wood-become-mineral",
+        "ancient-patience",
+        "deep-time-anchor"
+      ],
+      "_all_text": "Petrified Wood petrified-wood SiO2 (replacing original wood cellulose and lignin) Color is entirely controlled by trace element impurities in the replacing silica: Fe2O3 (hematite) gives red/orange/brown; Fe(OH)3 (limonite/goethite) gives yellow; MnO2 gives black; chromium gives green; copper gives blue-green. The original wood provides no surviving chemical signal — only its structural ghost remains. The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure. Many Indigenous traditions of the American Southwest regard petrified wood as sacred — the bones of ancient beings or the material remains of primordial forests. The Navajo creation narrative describes a primordial world with vast forests; the scattered logs of the Petrified Forest are explained in some accounts as the remains of a giant's arrow shafts. deep-time transformation patience permanence life-become-stone Indigenous peoples of the American Southwest used petrified wood for tools (scrapers, projectile points) due to its hardness and conchoidal fracture — treated identically to chert Navajo, Hopi, and other Southwestern nations incorporated petrified wood into cultural practices; the Petrified Forest area was known and visited for thousands of years before European contact Petrified Forest National Park (established 1906) was one of the first US federal land protections specifically for paleontological/geological resources, partly because collectors were removing massive quantities of material Egyptian petrified forest near Cairo (Oligocene age) was known to ancient Egyptians Lesvos, Greece: the petrified forest has been known since antiquity; Theophrastus may have referenced it petrified wood fossilized wood silicified wood agatized wood fossil wood Petrified Forest Arizona fossil gem-material chalcedony silicification deep-time wood-replacement desert paleobotany fossil-time temporal-stone wood-become-mineral ancient-patience deep-time-anchor brown tan gray"
+    },
+    {
+      "id": "pyrite",
+      "slug": "pyrite",
+      "display_name": "Pyrite",
+      "chemistry_class": "sulfide",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "pyrite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "FeS2",
+      "essential_elements": [
+        "Fe",
+        "S"
+      ],
+      "crystal_system": "isometric",
+      "mohs_hardness": "6–6.5",
+      "luster": [
+        "metallic",
+        "splendent"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "brassy-yellow",
+        "pale-gold",
+        "metallic-yellow"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "magmatic",
+        "sedimentary (biogenic and diagenetic)",
+        "metamorphic",
+        "volcanic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "sulfide",
+        "iron",
+        "metallic",
+        "cubic",
+        "isometric",
+        "fool's-gold",
+        "hydrothermal",
+        "sedimentary",
+        "gold-associated",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "pyrite",
+        "fool's gold",
+        "iron pyrite",
+        "FeS2",
+        "cubic pyrite",
+        "Navajún pyrite",
+        "pyrite sun",
+        "iron cross twin",
+        "gold ore mineral"
+      ],
+      "priority_score": 91,
+      "mood_keywords": [
+        "fool's-gold",
+        "brassy-deception",
+        "cubic-architecture",
+        "fire-from-stone",
+        "invisible-gold-host"
+      ],
+      "_all_text": "Pyrite pyrite FeS2 Pyrite readily incorporates Au (often in solid solution — 'invisible gold' or submicroscopic inclusions), making it an important ore of gold. As and Co substitution common. Oxidizes readily in moist air (sulfuric acid + iron oxide) — 'acid mine drainage' problem. Famous for 'fool's gold' confusion with native gold. Pyrite is mineralogy's great impersonator — 'fool's gold' for millennia. The striated faces of pyrite cubes (from oscillation between cube and pyritohedron) are diagnostic. Iron cross twins — two interlocking pyritohedra — are among mineralogy's most architecturally perfect specimens. Pyrite suns (flat radiating discs) are unique and immediately recognizable forms. Pyrite has been 'fool's gold' since antiquity — its brass-yellow metallic luster has deceived prospectors, miners, and explorers throughout history. Captain Martin Frobisher returned from his 1576 Arctic expedition with 200 tonnes of 'ore' that turned out to be pyrite — the English Crown had funded the expedition for nothing. Spanish conquistadors in the Americas repeatedly confused pyrite with gold. In pre-Columbian Peru, pyrite was polished into flat circular mirrors for divination, alongside obsidian. The name comes from Greek 'pyr' (fire) because sparks fly when it is struck against iron or flint. deceptive appearances fool's gold / false wealth fire from stone abundance and earth's treasure industrial power Fire-starting (iron pyrite struck against flint) Source of sulfur dioxide for wine preservation (ancient) Production of sulfuric acid Gold ore processing (Carlin-type invisible gold) 'Fool's gold' — cause of countless mining frauds and prospecting mistakes Marcellus Shale energy extraction Jewelry and inlay (pre-Columbian Peru, Aztec) Victorian 'cut steel' jewelry — pyrite as substitute pyrite fool's gold iron pyrite FeS2 cubic pyrite Navajún pyrite pyrite sun iron cross twin gold ore mineral sulfide iron metallic cubic isometric fool's-gold hydrothermal sedimentary gold-associated high-priority fool's-gold brassy-deception cubic-architecture fire-from-stone invisible-gold-host brassy-yellow pale-gold metallic-yellow"
+    },
+    {
+      "id": "quartz",
+      "slug": "quartz",
+      "display_name": "Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "silica-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "SiO2",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 7,
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "colorless",
+        "white"
+      ],
+      "genesis": [
+        "magmatic",
+        "hydrothermal",
+        "metamorphic",
+        "sedimentary"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "common",
+        "crystal",
+        "silica",
+        "geometric",
+        "versatile",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "quartz crystal",
+        "rock crystal",
+        "silica mineral",
+        "crystal point",
+        "geode"
+      ],
+      "priority_score": 100,
+      "mood_keywords": [
+        "clarity",
+        "signal-amplifier",
+        "crystalline-order",
+        "cold-light",
+        "cathedral-air"
+      ],
+      "_all_text": "Quartz quartz SiO2 Extremely common silica mineral with many varieties. One of the most visually flexible minerals on earth. quartz crystal rock crystal silica mineral crystal point geode common crystal silica geometric versatile high-priority clarity signal-amplifier crystalline-order cold-light cathedral-air colorless white"
+    },
+    {
+      "id": "rhodochrosite",
+      "slug": "rhodochrosite",
+      "display_name": "Rhodochrosite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "calcite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "MnCO3",
+      "essential_elements": [
+        "Mn",
+        "C",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "3.5–4",
+      "luster": [
+        "vitreous",
+        "pearly",
+        "resinous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "pink",
+        "rose-red",
+        "raspberry-red"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "secondary (sedimentary-exhalative)",
+        "metamorphic",
+        "sedimentary (low-temperature)"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "carbonate",
+        "manganese",
+        "pink",
+        "red",
+        "banded",
+        "ornamental",
+        "high-priority",
+        "trigonal",
+        "inca-rose"
+      ],
+      "search_boost_terms": [
+        "MnCO3",
+        "Inca Rose",
+        "Rosa del Inca",
+        "rhodochrosite crystal",
+        "banded pink mineral",
+        "Sweet Home Mine",
+        "Colorado state mineral",
+        "Argentina gemstone"
+      ],
+      "priority_score": 88,
+      "mood_keywords": [
+        "inca-rose-banded",
+        "raspberry-crystal",
+        "manganese-heart",
+        "andean-jewel",
+        "rose-architecture"
+      ],
+      "_all_text": "Rhodochrosite rhodochrosite MnCO3 The pink-to-red color is intrinsic to Mn2+ in the carbonate structure. Fe substitution darkens toward brown; Ca substitution dilutes the pink toward pale cream. Pure endmember is vivid raspberry-red; natural specimens with Fe/Ca show orange, peach, or pale-pink banding. The banded 'Inca Rose' stalactitic form from Argentina — polished to reveal concentric pink-and-white rings — is one of the most recognized ornamental stone patterns in the gem world. Crystallized raspberry-red specimens from Colorado are among the most sought-after collector mineral specimens globally. Argentine tradition holds that rhodochrosite (Inca Rose) was formed from the blood of ancient Inca kings and queens crystallized over time — giving the stone its name 'Rosa del Inca' (Rose of the Inca). Argentina declared it the national gemstone in 2002. The Sweet Home Mine in Colorado produced specimens that broke world records for collector rhodochrosite. love and compassion self-worth and healing rose-heart energy Argentine Andean identity Ornamental stone (Inca Rose carvings and cabs) Manganese ore (low grade; not primary source) Used by Inca and pre-Columbian Andean cultures in ornaments Gem and lapidary use (faceted gems from transparent material, cabochons from banded) MnCO3 Inca Rose Rosa del Inca rhodochrosite crystal banded pink mineral Sweet Home Mine Colorado state mineral Argentina gemstone carbonate manganese pink red banded ornamental high-priority trigonal inca-rose inca-rose-banded raspberry-crystal manganese-heart andean-jewel rose-architecture pink rose-red raspberry-red"
+    },
+    {
+      "id": "rose-quartz",
+      "slug": "rose-quartz",
+      "display_name": "Rose Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (with trace Ti, Al, Mn or microscopic inclusions)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 7,
+      "luster": [
+        "vitreous",
+        "waxy"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "pale-pink",
+        "rose-pink"
+      ],
+      "genesis": [
+        "magmatic (pegmatitic — primary)",
+        "hydrothermal"
+      ],
+      "birthstone_status": [
+        "January birthstone (alternative in some traditions)",
+        "Zodiac stone for Taurus"
+      ],
+      "tags": [
+        "silicate",
+        "variety",
+        "quartz",
+        "pink",
+        "massive",
+        "love-stone",
+        "trigonal",
+        "pegmatite",
+        "wellness-market",
+        "high-priority"
+      ],
+      "search_boost_terms": [
+        "rose quartz",
+        "pink quartz",
+        "love stone",
+        "Venus stone",
+        "heart chakra crystal",
+        "star rose quartz",
+        "rose quartz sphere",
+        "facial roller",
+        "Valentine mineral"
+      ],
+      "priority_score": 91,
+      "mood_keywords": [
+        "universal-love-stone",
+        "Venus-blush",
+        "diffuse-pink-warmth",
+        "feminine-archetype",
+        "heart-mineral"
+      ],
+      "_all_text": "Rose Quartz rose-quartz SiO2 (with trace Ti, Al, Mn or microscopic inclusions) Rose quartz is unusual among quartz varieties in being almost always massive (not crystalline). Well-formed pink quartz crystals (sometimes called 'crystalline rose quartz' or 'pink quartz') may have a different color mechanism (Al-P centers). The fibrous inclusions responsible for asterism in star rose quartz are rutile needles. Color fades on prolonged exposure to direct sunlight. Rose quartz has a characteristic soft, diffuse, milky-pink quality from the light-scattering fibrous inclusions. It is never facet-grade transparent in classic form. The color is gentle and warm — not vivid like ruby or pink tourmaline but consistently soft. Star rose quartz cut as cabochon shows the six-rayed star most vividly under a point light source. Rose quartz has one of the most robust modern metaphysical followings of any mineral. Ancient Assyrian and Roman cosmetic recipes include rose quartz facial rollers — a practice that has seen a massive modern revival. Egyptian legend held that rose quartz was a gift from Aphrodite (via Eros) to humanity — used to prevent aging. The association with love and the heart is essentially universal in modern crystal culture. unconditional love compassion and gentleness femininity and nurturing heart chakra beauty and Venus Carved into beads and figurines in ancient Egypt and Rome Facial masks in ancient Egyptian burials (rose quartz) Carving material — spheres, eggs, hearts (modern) rose quartz pink quartz love stone Venus stone heart chakra crystal star rose quartz rose quartz sphere facial roller Valentine mineral silicate variety quartz pink massive love-stone trigonal pegmatite wellness-market high-priority universal-love-stone Venus-blush diffuse-pink-warmth feminine-archetype heart-mineral pale-pink rose-pink"
+    },
+    {
+      "id": "ruby",
+      "slug": "ruby",
+      "display_name": "Ruby",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "parent_species": "corundum",
+      "mineral_group": "corundum-group",
+      "ima_status": "not_ima",
+      "formula": "Al2O3 (with Cr3+)",
+      "essential_elements": [
+        "Al",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 9,
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "red",
+        "deep-red",
+        "pinkish-red"
+      ],
+      "genesis": [
+        "metamorphic (marble-hosted)",
+        "metamorphic (basaltic/alkali basalt xenocrysts)",
+        "magmatic (syenites — minor)",
+        "sedimentary (placer)"
+      ],
+      "birthstone_status": [
+        "July birthstone (traditional and modern)",
+        "15th and 40th wedding anniversary"
+      ],
+      "tags": [
+        "oxide",
+        "variety",
+        "corundum",
+        "gemstone",
+        "red",
+        "birthstone",
+        "july",
+        "fluorescent",
+        "trigonal",
+        "high-priority",
+        "jewelry"
+      ],
+      "search_boost_terms": [
+        "ruby gemstone",
+        "pigeon blood ruby",
+        "Burmese ruby",
+        "Mogok ruby",
+        "Al2O3 chromium",
+        "star ruby",
+        "July birthstone",
+        "king of gems",
+        "ratnaraj"
+      ],
+      "priority_score": 96,
+      "mood_keywords": [
+        "pigeon-blood-fire",
+        "king-of-gems",
+        "chromium-glow",
+        "Mogok-valley-red",
+        "royal-blood"
+      ],
+      "_all_text": "Ruby ruby Al2O3 (with Cr3+) Ruby grade requires both red color from Cr3+ and sufficient saturation. The boundary between 'ruby' and 'pink sapphire' is a commercial convention — there is no discrete compositional boundary, only increasing Cr concentration produces deeper red/pink. 'Pigeon's blood' refers to specific Burmese ruby with vivid red + slight blue/purple fluorescence. Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology. Ruby is the 'king of gems' — a title given in Sanskrit texts that has persisted across cultures. Burmese warriors inserted rubies under their skin before battle believing it would make them invincible. Medieval European tradition held that a ruby's color deepened to warn its wearer of approaching danger and paled if the wearer was in mortal peril. The famous 'Black Prince's Ruby' in the British Crown Jewels is actually a large red spinel — a misidentification that held for centuries. The first ruby laser (1960) used chromium-doped synthetic corundum, the same physics as natural ruby's red fluorescence. passion and love blood and vitality royal power protection in war divine fire July and summer heat Gemstone in jewelry — highest value among colored stones historically Set in royal regalia across Asian and European monarchies Ruby laser (first working laser, Theodore Maiman, 1960 — used synthetic ruby) Watch bearings and precision instrument components (synthetic ruby) Mughal and Hindu ritual objects ruby gemstone pigeon blood ruby Burmese ruby Mogok ruby Al2O3 chromium star ruby July birthstone king of gems ratnaraj oxide variety corundum gemstone red birthstone july fluorescent trigonal high-priority jewelry pigeon-blood-fire king-of-gems chromium-glow Mogok-valley-red royal-blood red deep-red pinkish-red"
+    },
+    {
+      "id": "sapphire",
+      "slug": "sapphire",
+      "display_name": "Sapphire",
+      "chemistry_class": "oxide",
+      "species_status": "variety",
+      "parent_species": "corundum",
+      "mineral_group": "corundum-group",
+      "ima_status": "not_ima",
+      "formula": "Al2O3 (with Fe2+, Ti4+, V3+, Cr3+, etc.)",
+      "essential_elements": [
+        "Al",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 9,
+      "luster": [
+        "vitreous",
+        "adamantine"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "blue",
+        "cornflower-blue",
+        "deep-blue"
+      ],
+      "genesis": [
+        "metamorphic (marble and schist)",
+        "magmatic (syenites, pegmatites)",
+        "volcanic (alkali basalt xenocrysts)",
+        "sedimentary (placer)"
+      ],
+      "birthstone_status": [
+        "September birthstone (traditional and modern)",
+        "5th and 45th wedding anniversaries"
+      ],
+      "tags": [
+        "oxide",
+        "variety",
+        "corundum",
+        "gemstone",
+        "blue",
+        "birthstone",
+        "september",
+        "trigonal",
+        "high-priority",
+        "jewelry",
+        "royal"
+      ],
+      "search_boost_terms": [
+        "blue sapphire",
+        "Kashmir sapphire",
+        "Ceylon sapphire",
+        "star sapphire",
+        "padparadscha",
+        "September birthstone",
+        "Al2O3 iron titanium",
+        "corundum blue",
+        "velvet sapphire"
+      ],
+      "priority_score": 96,
+      "mood_keywords": [
+        "velvety-Kashmir-blue",
+        "heaven-stone",
+        "September-depth",
+        "iron-titanium-charge-transfer",
+        "royal-celestial"
+      ],
+      "_all_text": "Sapphire sapphire Al2O3 (with Fe2+, Ti4+, V3+, Cr3+, etc.) The color diversity of sapphire reflects the range of trace element chromophores: blue (Fe2+/Ti4+ IVCT), yellow (Fe3+), green (Fe2+), pink/purple (Cr3+/V3+), orange-pink padparadscha (Cr3++iron-related). Beryllium diffusion treatment in the 2000s allowed production of vibrant yellow and orange colors by inducing new color centers. Kashmir sapphire produces a 'velvety' blue that seems to glow from within — caused by fine silk inclusions scattering light. Star sapphire at its best shows a perfectly centered six-rayed star that moves over the cabochon surface. Padparadscha's salmon-pink-orange is unique and defies category — it must be evaluated in person to appreciate. Ancient Persians believed the sky was blue because the Earth rested on a vast sapphire pedestal whose reflection made the sky blue. Medieval European clergy wore sapphire rings as stones of heaven. The name comes from Greek 'sappheiros' (possibly originally referring to lapis lazuli, not sapphire). India's Vedic astrological tradition gives sapphire to Saturn (Shani) — 'Neelam' — with complex prescriptions for when wearing it is beneficial or harmful. The engagement ring tradition of sapphire received a 20th-century revival through the 1981 Prince Charles/Princess Diana ring. wisdom and clarity heaven and divine favor truth and fidelity royal power September and autumn Royal jewelry and regalia across all major civilizations Symbol of divine favor in medieval Christian tradition Set in papal rings and bishops' rings (sapphire as stone of heaven) Mughal jewelry (major collector) Princess Diana/Kate Middleton engagement ring — most famous sapphire in modern history Engraved sapphires as talismans Navigation (blue sapphire as 'guiding star' stone) blue sapphire Kashmir sapphire Ceylon sapphire star sapphire padparadscha September birthstone Al2O3 iron titanium corundum blue velvet sapphire oxide variety corundum gemstone blue birthstone september trigonal high-priority jewelry royal velvety-Kashmir-blue heaven-stone September-depth iron-titanium-charge-transfer royal-celestial blue cornflower-blue deep-blue"
+    },
+    {
+      "id": "silver",
+      "slug": "silver",
+      "display_name": "Silver",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "gold-group",
+      "ima_status": "approved",
+      "formula": "Ag",
+      "essential_elements": [
+        "Ag"
+      ],
+      "crystal_system": "isometric",
+      "mohs_hardness": "2.5–3",
+      "luster": [
+        "metallic"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "silver-white",
+        "gray",
+        "tarnished gray-black"
+      ],
+      "genesis": [
+        "hydrothermal",
+        "secondary (supergene)",
+        "placer (rare)"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "native-element",
+        "metal",
+        "precious",
+        "gold-group",
+        "hydrothermal",
+        "secondary",
+        "jewelry",
+        "currency",
+        "isometric"
+      ],
+      "search_boost_terms": [
+        "Ag",
+        "native silver",
+        "wire silver",
+        "arborescent silver",
+        "sterling silver",
+        "silver tarnish",
+        "kongsberg silver"
+      ],
+      "priority_score": 88,
+      "mood_keywords": [
+        "lunar-mirror",
+        "cold-noble-metal",
+        "mercury-adjacent",
+        "aristocratic-cool"
+      ],
+      "_all_text": "Silver silver Ag Naturally alloys with gold (electrum) and mercury (amalgam). Highest electrical and thermal conductivity of any element. Fresh specimens show brilliant silver-white metallic luster. Tarnish develops complex gray-black patinas. Kongsberg wire-silver specimens are among the most celebrated native metal mineral specimens in existence. Silver has been mined since at least 3000 BCE in Anatolia. The Laurion mines near Athens funded Athenian naval power. Kongsberg, Norway produced extraordinary arborescent silver specimens prized by collectors since the 17th century. In mythology, silver is the metal of the moon — opposite gold's solar nature. Silver bullets are a recurring folkloric remedy against supernatural evil. lunar energy clarity reflection purity mystery second place (silver medal) coinage and currency (ancient Lydian, Greek, and Roman coins through modern) jewelry and silverware photography (silver halide emulsions, pre-digital era) antibacterial applications (colloidal silver, wound dressings) electrical contacts and conductors mirrors (silver backing) industrial catalysts Ag native silver wire silver arborescent silver sterling silver silver tarnish kongsberg silver native-element metal precious gold-group hydrothermal secondary jewelry currency isometric lunar-mirror cold-noble-metal mercury-adjacent aristocratic-cool silver-white gray tarnished gray-black"
+    },
+    {
+      "id": "smithsonite",
+      "slug": "smithsonite",
+      "display_name": "Smithsonite",
+      "chemistry_class": "carbonate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "calcite-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "ZnCO3",
+      "essential_elements": [
+        "Zn",
+        "C",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "4–4.5",
+      "luster": [
+        "vitreous",
+        "pearly",
+        "silky"
+      ],
+      "transparency": [
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "white",
+        "colorless",
+        "gray"
+      ],
+      "genesis": [
+        "secondary (supergene)",
+        "oxidation-zone"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "carbonate",
+        "zinc",
+        "secondary",
+        "oxidized-zone",
+        "botryoidal",
+        "color-variety",
+        "trigonal",
+        "smithsonian-namesake"
+      ],
+      "search_boost_terms": [
+        "ZnCO3",
+        "zinc carbonate",
+        "smithsonite crystal",
+        "cobaltian smithsonite",
+        "turkey fat ore",
+        "dry bone ore",
+        "James Smithson",
+        "Tsumeb blue"
+      ],
+      "priority_score": 82,
+      "mood_keywords": [
+        "pearl-dome",
+        "zinc-spectrum",
+        "cobalt-lavender",
+        "apple-green-secondary",
+        "museum-cabinet-blue"
+      ],
+      "_all_text": "Smithsonite smithsonite ZnCO3 Color is determined by trace substitution: Co gives blue-lavender (cobaltian smithsonite), Cu gives green or teal-blue (cuprian smithsonite), Mn gives pink, Fe gives yellow-brown, Cd gives colorless to pale yellow. Pure ZnCO3 is white to colorless. Each color variant has its own collector following. Smithsonite is primarily known as a secondary zinc carbonate with exceptional color range and unusual pearlescent botryoidal habit. Cobalt-bearing blue smithsonite from Tsumeb and copper-bearing green from Arizona are collector favorites. The pearly luster of botryoidal forms is distinctive. Smithsonite is named for James Smithson — chemist, mineralogist, and benefactor of the Smithsonian Institution. He actually studied calamine (a historical term covering hemimorphite and smithsonite). The mineral was formally named for him posthumously by François Sulpice Beudant in 1832. diversity transformation subtle color Zinc ore (minor source in oxidized deposits) Gem and lapidary use (cabochons from colored botryoidal material) Collector mineral ZnCO3 zinc carbonate smithsonite crystal cobaltian smithsonite turkey fat ore dry bone ore James Smithson Tsumeb blue carbonate zinc secondary oxidized-zone botryoidal color-variety trigonal smithsonian-namesake pearl-dome zinc-spectrum cobalt-lavender apple-green-secondary museum-cabinet-blue white colorless gray"
+    },
+    {
+      "id": "smoky-quartz",
+      "slug": "smoky-quartz",
+      "display_name": "Smoky Quartz",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (with Al3+ + radiation-induced hole color centers)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": 7,
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "gray",
+        "brown-gray",
+        "dark-brown"
+      ],
+      "genesis": [
+        "magmatic (pegmatitic)",
+        "hydrothermal (alpine veins)",
+        "metamorphic (veins)"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "silicate",
+        "variety",
+        "quartz",
+        "gray",
+        "brown",
+        "black",
+        "radiation",
+        "alpine",
+        "trigonal",
+        "grounding"
+      ],
+      "search_boost_terms": [
+        "smoky quartz",
+        "cairngorm",
+        "morion",
+        "dark quartz",
+        "smoky crystal",
+        "Colorado smoky quartz",
+        "Swiss alpine quartz",
+        "Al radiation color center"
+      ],
+      "priority_score": 86,
+      "mood_keywords": [
+        "smoke-and-shadow",
+        "alpine-grey-crystal",
+        "underworld-threshold",
+        "radiation-alchemy",
+        "Scottish-moor"
+      ],
+      "_all_text": "Smoky Quartz smoky-quartz SiO2 (with Al3+ + radiation-induced hole color centers) Color requires both aluminum impurity (very small amount — ~1 ppm Al) AND natural irradiation (alpha or gamma from radioactive minerals in host rock or from cosmic rays). Smoky quartz from granites and pegmatites near radioactive minerals (monazite, zircon, uraninite) is most common. Irradiation of clear quartz containing Al produces artificial smoky quartz (used in industry). 'Morion' is the very darkest, nearly opaque black variety. Smoky quartz produces the most varied depth range of any colored quartz — from barely-there smoke-gray to absolute black. Large faceted smoky quartz gems (hundreds to thousands of carats) are obtainable and affordable. The phantoms (ghost crystal growth zones) visible inside larger crystals add visual complexity. Cairngorm quartz from the Cairngorm Mountains of Scotland is an iconic national gemstone tradition — large brown-gray crystals were set in the handles of Highland dirks, kilt pins, and traditional brooches. Victorian mourning jewelry used dark stones including morion (black smoky quartz) alongside jet. In Celtic tradition, smoky quartz was a stone of the gods of the underworld. Chinese Daoist tradition associated smoky quartz with the yin principle. grounding and protection shadow and depth the underworld threshold smoke and transformation grounding clarity Carved into bowls, figures, and jewelry in Roman and Chinese antiquity Scottish Highland jewelry tradition — cairngorm in kilt pins and brooches Art Deco smoky quartz in bold settings Buddhist meditation beads (China) Inuit and Arctic peoples carved smoky quartz smoky quartz cairngorm morion dark quartz smoky crystal Colorado smoky quartz Swiss alpine quartz Al radiation color center silicate variety quartz gray brown black radiation alpine trigonal grounding smoke-and-shadow alpine-grey-crystal underworld-threshold radiation-alchemy Scottish-moor gray brown-gray dark-brown"
+    },
+    {
+      "id": "sulfur",
+      "slug": "sulfur",
+      "display_name": "Sulfur",
+      "chemistry_class": "native-element",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "sulfur-group",
+      "ima_status": "approved",
+      "formula": "S",
+      "essential_elements": [
+        "S"
+      ],
+      "crystal_system": "orthorhombic",
+      "mohs_hardness": "1.5–2.5",
+      "luster": [
+        "resinous",
+        "waxy"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "yellow",
+        "pale-yellow",
+        "sulfur-yellow",
+        "orange-yellow",
+        "greenish-yellow"
+      ],
+      "genesis": [
+        "volcanic (fumarolic sublimation)",
+        "biogenic-sedimentary (bacterial sulfate reduction)",
+        "evaporitic",
+        "hydrothermal (minor)"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "native-element",
+        "nonmetal",
+        "volcanic",
+        "fumarolic",
+        "evaporitic",
+        "orthorhombic",
+        "brimstone",
+        "industrial",
+        "alchemical"
+      ],
+      "search_boost_terms": [
+        "S",
+        "brimstone",
+        "native sulfur",
+        "volcanic sulfur",
+        "sulfur crystals",
+        "sicily sulfur",
+        "ijen sulfur",
+        "fumarole mineral"
+      ],
+      "priority_score": 78,
+      "mood_keywords": [
+        "volcanic-yellow",
+        "toxic-bloom",
+        "chemical-alchemy",
+        "sulfurous-crater"
+      ],
+      "_all_text": "Sulfur sulfur S Stable orthorhombic polymorph (alpha-sulfur) at surface conditions. Minor impurities of Se and As contribute to color variation. Strong diagnostic odor when scratched. Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy. Sulfur (brimstone) is one of the oldest known mineral substances — referenced in ancient Vedic texts, Homeric epics, and the Bible. The biblical 'fire and brimstone' likely references volcanic sulfur. Alchemy designated sulfur as one of the three primes representing the soul. Kawah Ijen, Indonesia, continues artisanal sulfur mining under conditions of extraordinary volcanic intensity — miners carry glowing blue-flaming sulfur on their backs through sulfurous fog. transformation and purification through fire volcanic force chemical change hell and damnation (brimstone) sulfurous industry gunpowder formulation (sulfur, charcoal, potassium nitrate) fumigation and pest control (antiquity to modern) sulfuric acid production (Frasch process, contact process) rubber vulcanization (19th century, Goodyear) fungicides and pesticides matches and pyrotechnics bleaching of textiles and paper wine preservation (sulfur dioxide) S brimstone native sulfur volcanic sulfur sulfur crystals sicily sulfur ijen sulfur fumarole mineral native-element nonmetal volcanic fumarolic evaporitic orthorhombic brimstone industrial alchemical volcanic-yellow toxic-bloom chemical-alchemy sulfurous-crater yellow pale-yellow sulfur-yellow orange-yellow greenish-yellow"
+    },
+    {
+      "id": "sunstone",
+      "slug": "sunstone",
+      "display_name": "Sunstone",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "oligoclase",
+      "mineral_group": "feldspar-group",
+      "ima_status": "not_ima",
+      "formula": "Variable: (Na,Ca)(Al,Si)AlSi2O8 (oligoclase/labradorite) or KAlSi3O8 (orthoclase)",
+      "essential_elements": [
+        "Na",
+        "Ca",
+        "Al",
+        "Si",
+        "O"
+      ],
+      "crystal_system": "triclinic",
+      "mohs_hardness": "6–6.5",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "orange",
+        "golden-yellow",
+        "salmon",
+        "copper-red"
+      ],
+      "genesis": [
+        "magmatic",
+        "pegmatitic"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "feldspar",
+        "aventurescent",
+        "optical-effect",
+        "variety",
+        "gemstone",
+        "copper",
+        "solar",
+        "oregon"
+      ],
+      "search_boost_terms": [
+        "sunstone",
+        "Oregon sunstone",
+        "aventurescent feldspar",
+        "copper feldspar",
+        "schiller feldspar",
+        "solar gem",
+        "oligoclase sunstone"
+      ],
+      "priority_score": 82,
+      "mood_keywords": [
+        "solar-fragment",
+        "copper-harvest",
+        "warm-metallic-scatter",
+        "autumn-mineral"
+      ],
+      "_all_text": "Sunstone sunstone Variable: (Na,Ca)(Al,Si)AlSi2O8 (oligoclase/labradorite) or KAlSi3O8 (orthoclase) Oregon sunstone is a labradorite-composition plagioclase (An45–An68) with native copper inclusions. Norwegian sunstone is oligoclase with hematite platelets. Indian and other commercial sunstone is typically oligoclase with hematite or goethite inclusions. Copper-bearing Oregon sunstone is unique globally. Aventurescence in sunstone appears as a glittering, spangling metallic flash — brighter and more dramatic than the soft glow of adularescence in moonstone. Oregon sunstone is the only known feldspar with native copper inclusions, giving it a uniquely warm, saturated color. The metallic sparkle in Norwegian sunstone has a coppery-gold quality. The term 'sólarsteinn' (sunstone) from Norse sagas refers to a navigational crystal, which has generated scholarly debate. Most evidence points to calcite (Iceland spar) or cordierite as the actual navigational stone, not feldspar sunstone — the overlap of the trade name with the saga reference is a modern confusion. solar-energy vitality warmth abundance Norwegian sunstone historically collected and used as ornamental stone Oregon sunstone designated official state gemstone of Oregon in 1987 Viking sunstone (sólarsteinn): some researchers propose that Viking navigators used a transparent birefringent crystal — possibly calcite (Iceland spar) or cordierite — as a navigation tool; rarely associated with feldspar sunstone sunstone Oregon sunstone aventurescent feldspar copper feldspar schiller feldspar solar gem oligoclase sunstone feldspar aventurescent optical-effect variety gemstone copper solar oregon solar-fragment copper-harvest warm-metallic-scatter autumn-mineral orange golden-yellow salmon copper-red"
+    },
+    {
+      "id": "tiger-eye",
+      "slug": "tiger-eye",
+      "display_name": "Tiger's Eye",
+      "chemistry_class": "silicate",
+      "species_status": "variety",
+      "parent_species": "quartz",
+      "mineral_group": "silica-group",
+      "ima_status": "not_ima",
+      "formula": "SiO2 (pseudomorph after crocidolite)",
+      "essential_elements": [
+        "Si",
+        "O"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "5.5–6",
+      "luster": [
+        "silky"
+      ],
+      "transparency": [
+        "opaque"
+      ],
+      "baseline_colors": [
+        "golden-brown",
+        "amber-brown",
+        "yellow-brown"
+      ],
+      "genesis": [
+        "metamorphic",
+        "hydrothermal-replacement"
+      ],
+      "birthstone_status": [],
+      "tags": [
+        "chatoyant",
+        "fibrous",
+        "pseudomorph",
+        "silica",
+        "variety",
+        "iron-bearing",
+        "optical-effect",
+        "south-africa"
+      ],
+      "search_boost_terms": [
+        "tiger's eye",
+        "tigers eye",
+        "chatoyant quartz",
+        "cat's eye stone",
+        "fibrous silica",
+        "hawk's eye",
+        "golden brown chatoyant"
+      ],
+      "priority_score": 83,
+      "mood_keywords": [
+        "predator-eye",
+        "desert-vision",
+        "amber-surveillance",
+        "geological-watchfulness"
+      ],
+      "_all_text": "Tiger's Eye tiger-eye SiO2 (pseudomorph after crocidolite) Bulk composition is predominantly SiO2. Residual iron as goethite (FeO(OH)) or hematite (Fe2O3) within the silica fiber matrix drives both color and optical effect. In hawk's eye (unoxidized form), original crocidolite iron is less altered. Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section. The cat's eye effect has long been associated with the protective gaze of predatory animals. Tiger's eye has been used as a protective talisman against the evil eye in various traditions. vigilance focus predator-awareness grounding Popular ornamental stone for carvings and amulets in 19th and 20th century Used in Victorian jewelry Carved into scarabs, figurines, and decorative objects in South African craft traditions tiger's eye tigers eye chatoyant quartz cat's eye stone fibrous silica hawk's eye golden brown chatoyant chatoyant fibrous pseudomorph silica variety iron-bearing optical-effect south-africa predator-eye desert-vision amber-surveillance geological-watchfulness golden-brown amber-brown yellow-brown"
+    },
+    {
+      "id": "tourmaline",
+      "slug": "tourmaline",
+      "display_name": "Tourmaline",
+      "chemistry_class": "silicate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "tourmaline-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "XY3Z6(Si6O18)(BO3)3V3W",
+      "essential_elements": [
+        "Si",
+        "B",
+        "O",
+        "Al"
+      ],
+      "crystal_system": "trigonal",
+      "mohs_hardness": "7–7.5",
+      "luster": [
+        "vitreous"
+      ],
+      "transparency": [
+        "transparent",
+        "translucent",
+        "opaque"
+      ],
+      "baseline_colors": [
+        "black",
+        "colorless"
+      ],
+      "genesis": [
+        "magmatic",
+        "pegmatitic",
+        "hydrothermal",
+        "metamorphic"
+      ],
+      "birthstone_status": [
+        "October birthstone (modern alternative alongside opal)",
+        "Rubellite and pink tourmaline recognized for October"
+      ],
+      "tags": [
+        "gemstone",
+        "cyclosilicate",
+        "ring-silicate",
+        "boron-silicate",
+        "color-variety",
+        "trigonal",
+        "high-priority",
+        "pegmatite",
+        "piezoelectric"
+      ],
+      "search_boost_terms": [
+        "tourmaline crystal",
+        "schorl",
+        "rubellite",
+        "indicolite",
+        "watermelon tourmaline",
+        "Paraíba tourmaline",
+        "boron silicate",
+        "striated crystal"
+      ],
+      "priority_score": 86,
+      "mood_keywords": [
+        "electric-prism",
+        "all-spectrum-mineral",
+        "striated-column",
+        "tourmaline-lightning",
+        "boron-magic"
+      ],
+      "_all_text": "Tourmaline tourmaline XY3Z6(Si6O18)(BO3)3V3W Boron is an essential element — tourmaline is one of very few silicates that requires B. The enormous compositional range across X, Y, Z, V, and W sites produces more IMA-approved species than any other mineral group (~40+ species). Cu2+ in the Y-site produces the coveted Paraíba neon-blue color. Mn produces pink (rubellite/elbaite). Fe2+ produces deep blue (indicolite) and Fe-rich schorl black. The striated prism faces running parallel to the long axis (c-axis) are diagnostic in hand specimens. Cross-sections showing rounded triangular outline are highly characteristic. Watermelon tourmaline slices are immediately recognizable. Schorl is ubiquitous as jet-black prismatic crystals in pegmatites globally. Tourmaline was called the 'electric stone' after its pyroelectric properties were described by scientists in the 18th century. It was used to clean tobacco pipes by Dutch sailors because of its ash-attracting properties when heated. creativity spectrum transformation electric-energy Dutch traders in the 18th century imported tourmaline from Ceylon (Sri Lanka) and noted that a charged crystal would attract and then repel ash from a pipe — earning the name 'aschentrekker' (ash drawer), reflecting its pyroelectric property Empress Dowager Cixi of China was a major collector of pink tourmaline (rubellite) from California's San Diego County mines in the early 1900s Used as a gemstone in India for centuries; pink and blue varieties from Sri Lanka known as 'rubies' and 'sapphires' historically tourmaline crystal schorl rubellite indicolite watermelon tourmaline Paraíba tourmaline boron silicate striated crystal gemstone cyclosilicate ring-silicate boron-silicate color-variety trigonal high-priority pegmatite piezoelectric electric-prism all-spectrum-mineral striated-column tourmaline-lightning boron-magic black colorless"
+    },
+    {
+      "id": "turquoise",
+      "slug": "turquoise",
+      "display_name": "Turquoise",
+      "chemistry_class": "phosphate",
+      "species_status": "species",
+      "parent_species": null,
+      "mineral_group": "turquoise-group",
+      "ima_status": "grandfathered_approved",
+      "formula": "CuAl6(PO4)4(OH)8·4H2O",
+      "essential_elements": [
+        "Cu",
+        "Al",
+        "P",
+        "O",
+        "H"
+      ],
+      "crystal_system": "triclinic",
+      "mohs_hardness": "5–6",
+      "luster": [
+        "waxy",
+        "earthy"
+      ],
+      "transparency": [
+        "opaque",
+        "translucent"
+      ],
+      "baseline_colors": [
+        "blue",
+        "blue-green",
+        "green"
+      ],
+      "genesis": [
+        "secondary (supergene)",
+        "weathering of aluminous copper-bearing rocks"
+      ],
+      "birthstone_status": [
+        "December birthstone (traditional and modern, alongside zircon and tanzanite)"
+      ],
+      "tags": [
+        "phosphate",
+        "copper",
+        "aluminum",
+        "secondary",
+        "sky-blue",
+        "sacred",
+        "ancient",
+        "birthstone",
+        "december",
+        "triclinic",
+        "high-priority",
+        "jewelry"
+      ],
+      "search_boost_terms": [
+        "turquoise gemstone",
+        "sky stone",
+        "Sleeping Beauty turquoise",
+        "Persian turquoise",
+        "Nishapur turquoise",
+        "spiderweb turquoise",
+        "Native American turquoise",
+        "December birthstone",
+        "copper phosphate mineral"
+      ],
+      "priority_score": 93,
+      "mood_keywords": [
+        "sky-condensed",
+        "ancient-trade-path",
+        "desert-blue",
+        "sacred-sky-stone",
+        "copper-phosphate-heaven"
+      ],
+      "_all_text": "Turquoise turquoise CuAl6(PO4)4(OH)8·4H2O Color derives primarily from Cu2+ (blue) and Fe3+ (green). High Cu/Al ratio with low Fe = robin's-egg blue; elevated Fe shifts color toward green. Chromium substitution produces vivid green varieties. The famous Persian blue results from very low iron in the Al site. Turquoise is one of the most culturally loaded minerals in human history. The blue that defined a color name ('turquoise'), ancient trade routes, and sacred objects across the Old and New Worlds. Matrix spiderweb patterns are prized for their aesthetic complexity — black or brown veins threading through blue-green backgrounds. Turquoise is one of the few gem minerals whose name gave a color its name in European languages ('turquoise' from 'Turkish stone' — via the Turkish trade routes through which Persian turquoise reached Europe). Ancient Persians believed turquoise reflected the color of heaven. In Mesoamerica, turquoise was the material of the divine — Aztec ritual masks covered in turquoise mosaic were worn by deities. Navajo tradition holds that turquoise fell from the sky as holy rain. The oldest known turquoise mining predates Egyptian pharaohs by millennia. the sky protection from evil luck and good fortune truth and communication sacred connection water and life Jewelry and ornament (oldest dated gem material — Sinai mines ~6000 BCE) Mosaic and inlay (Aztec death masks, Egyptian faience parallels) Carved fetish figures (Pueblo peoples, Navajo, Zuni) Trade currency in Mesoamerica and the American Southwest Amulets and talismans — protective stone in Persian, Turkish, and Native American traditions Pigment (rare) Medicine (powdered turquoise in some traditional pharmacopeias) turquoise gemstone sky stone Sleeping Beauty turquoise Persian turquoise Nishapur turquoise spiderweb turquoise Native American turquoise December birthstone copper phosphate mineral phosphate copper aluminum secondary sky-blue sacred ancient birthstone december triclinic high-priority jewelry sky-condensed ancient-trade-path desert-blue sacred-sky-stone copper-phosphate-heaven blue blue-green green"
+    }
+  ]
+}

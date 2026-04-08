@@ -1,0 +1,343 @@
+{
+  "id": "hematite",
+  "slug": "hematite",
+  "display_name": "Hematite",
+  "classification": {
+    "chemistry_class": "oxide",
+    "mineral_group": "hematite-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "specular-hematite",
+      "kidney-ore",
+      "iron-rose",
+      "oolitic-hematite",
+      "martite"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 1856,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Fe2O3",
+    "simplified_formula": "Fe2O3",
+    "essential_elements": [
+      "Fe",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Ti",
+      "Al",
+      "Mn",
+      "Mg"
+    ],
+    "structural_units": [
+      "FeO6 octahedra sharing faces along the c-axis; corundum-type structure"
+    ],
+    "atomic_structure_notes": "Isostructural with corundum (Al2O3). Fe3+ occupies 2/3 of octahedral sites in a hexagonal close-packed oxygen framework.",
+    "chemistry_notes": "Pure ferric iron oxide. The red-brown color of soils and many rocks worldwide reflects trace hematite. Used as pigment (ochre) since prehistoric times."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "3 2/m hexagonal scalenohedral",
+    "space_group": "R-3c",
+    "unit_cell_notes": "",
+    "twinning": "Penetration twins on {0001} giving iron roses; contact twins possible.",
+    "crystallography_notes": "Well-formed crystals tabular to platy. Specular variety forms bright mirror-like plates. Botryoidal forms (kidney ore) show no visible crystallinity at hand-specimen scale."
+  },
+  "physical_properties": {
+    "mohs_hardness": "5.5–6.5",
+    "specific_gravity": "4.9–5.3",
+    "luster": [
+      "metallic",
+      "earthy"
+    ],
+    "streak": "red to red-brown (diagnostic)",
+    "transparency": [
+      "opaque"
+    ],
+    "cleavage": [
+      "none; parting on {0001} and {10-11}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Red-brown streak is highly diagnostic even when specimen appears black and metallic. Specular hematite is mirror-bright. Earthy red varieties (ochre) are soft-feeling but still test at 5.5–6.5 on Mohs scale when compact."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "red-brown",
+      "black",
+      "silver-gray"
+    ],
+    "color_profiles": [
+      {
+        "name": "earthy-red",
+        "colors": [
+          "red",
+          "red-brown",
+          "orange-red"
+        ],
+        "cause": "Fine-grained hematite; surface scattering of light.",
+        "conditions": "Earthy or powdery forms; soils; ochre.",
+        "variety_name": null
+      },
+      {
+        "name": "specular",
+        "colors": [
+          "silver-gray",
+          "black",
+          "mirror-silver"
+        ],
+        "cause": "Large platy crystals with near-perfect basal cleavage planes reflecting light.",
+        "conditions": "Metamorphic or hydrothermal; well-crystallized plates.",
+        "variety_name": "specular-hematite"
+      },
+      {
+        "name": "kidney-ore",
+        "colors": [
+          "red-brown",
+          "black"
+        ],
+        "cause": "Botryoidal surface morphology; fine-grained interior.",
+        "conditions": "Hydrothermal or sedimentary precipitation.",
+        "variety_name": "kidney-ore"
+      },
+      {
+        "name": "iron-rose",
+        "colors": [
+          "silver-gray",
+          "red-brown"
+        ],
+        "cause": "Penetration twin aggregates forming rosette shapes.",
+        "conditions": "Alpine-type fissure veins; hydrothermal.",
+        "variety_name": "iron-rose"
+      }
+    ],
+    "habits": [
+      "tabular",
+      "platy",
+      "botryoidal",
+      "massive",
+      "granular",
+      "oolitic",
+      "rosette",
+      "specular plates"
+    ],
+    "textures": [
+      "metallic-sheen",
+      "mirror-like (specular)",
+      "botryoidal-smooth",
+      "earthy",
+      "crystalline-platy"
+    ],
+    "macro_patterns": [
+      "reniform (kidney-shaped)",
+      "concentric-banding in kidney ore",
+      "rosette aggregates"
+    ],
+    "common_forms": [
+      "flat hexagonal plates",
+      "kidney-shaped masses",
+      "iron-rose rosettes",
+      "earthy ochre coatings",
+      "granular metallic masses"
+    ],
+    "visual_notes": "One of the most visually variable oxides. Specular hematite is mirror-silver; earthy hematite is brick-red. Red streak unites all forms. Iron roses are among the most dramatic mineral specimens."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "None.",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "Iridescent tarnish colors sometimes visible on specular plates.",
+    "pleochroism": "",
+    "optical_notes": "Opaque. Strongly anisotropic in reflected light under the microscope (ore microscopy). Uniaxial negative when transparent in very thin section."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic",
+      "metamorphic",
+      "hydrothermal",
+      "sedimentary",
+      "weathering"
+    ],
+    "geologic_environments": [
+      "banded iron formations (BIF)",
+      "hydrothermal veins",
+      "metamorphic rocks",
+      "sedimentary iron formations",
+      "soils and laterites",
+      "volcanic fumaroles and alteration zones",
+      "alpine fissure veins"
+    ],
+    "host_rocks": [
+      "banded iron formation",
+      "schist",
+      "quartzite",
+      "limestone",
+      "sandstone"
+    ],
+    "associated_minerals": [
+      "magnetite",
+      "goethite",
+      "quartz",
+      "siderite",
+      "pyrite",
+      "calcite",
+      "chlorite"
+    ],
+    "locality_scope": "worldwide; extremely widespread",
+    "notable_localities": [
+      "Minas Gerais, Brazil (large iron ore deposits; iron roses)",
+      "Lake Superior region, USA and Canada (BIF iron ore)",
+      "Elba, Italy (specular hematite, iron roses)",
+      "Cumberland, England (kidney ore)",
+      "Rio Tinto, Spain (historical mining)",
+      "Pilbara region, Western Australia (world's largest iron ore)"
+    ],
+    "occurrence_notes": "One of the most abundant iron minerals in Earth's crust. Major iron ore mineral. Red soils worldwide owe their color to fine-grained hematite."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Red ochre pigment; used by humans for at least 300,000 years (oldest known pigment)",
+      "Cave paintings (Lascaux, Altamira)",
+      "Body and ritual paint in many ancient cultures",
+      "Iron ore; primary feedstock for steel production",
+      "Polishing stone (bloodstone, rouge)",
+      "Jewelry and beads"
+    ],
+    "cultural_associations": [
+      "Ancient Egypt: 'blood of Isis'; protective amulets",
+      "Roman gladiators wore hematite for protection",
+      "Indigenous cultures: red ochre in ceremony and burial"
+    ],
+    "symbolism": [
+      "blood",
+      "earth",
+      "protection",
+      "grounding",
+      "strength"
+    ],
+    "folklore_notes": "Name from Greek 'haima' (blood) for the red streak and powder. Ancient amulets believed to stop bleeding. Ochre use predates all other known pigments."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "blood-iron",
+      "ancient-pigment",
+      "red-earth",
+      "iron-mirror",
+      "primordial-color"
+    ],
+    "sensory_keywords": [
+      "mirror-silver",
+      "red-dust",
+      "heavy",
+      "metallic-cold",
+      "ochre-warmth"
+    ],
+    "palette_keywords": [
+      "iron-red",
+      "ochre",
+      "mirror-silver",
+      "rust-brown",
+      "blood-red"
+    ],
+    "aesthetic_roles": [
+      "ancient pigment mineral",
+      "iron-earth archetype",
+      "metallic-contrast stone",
+      "industrial ore"
+    ],
+    "vibe_notes": "Hematite bridges the prehistoric and the industrial — the first pigment and a global iron ore. Red streak as diagnostic clue is an unforgettable mineralogical moment."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Dense and brittle. Powdery ochre forms may stain hands and surfaces red-brown. Specular plates can have sharp edges.",
+    "care_notes": "Very stable; resistant to acids compared to carbonates. No special handling needed.",
+    "treatments_or_synthetics": [
+      "Synthetic hematite produced commercially",
+      "'Hematite' jewelry beads are often synthetic or compressed powder",
+      "Magnetic hematite is actually synthetic magnetite or ferrite, not true hematite"
+    ],
+    "common_confusions": [
+      "Magnetite (black, strongly magnetic; hematite is not or only weakly magnetic)",
+      "Goethite (brown streak vs red streak)",
+      "Ilmenite (FeTiO3; similar appearance but different streak)",
+      "Cassiterite (similar color but higher SG)"
+    ],
+    "market_notes": "Iron-rose specimens from Elba and Brazil command high prices as collectors pieces. 'Magnetic hematite' sold in the gem trade is almost always synthetic. Bulk hematite is major industrial commodity."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [
+      "magnetite (martite)",
+      "pyrite",
+      "siderite"
+    ],
+    "pseudomorphed_by": [
+      "goethite",
+      "limonite"
+    ],
+    "lookalikes": [
+      "magnetite",
+      "ilmenite",
+      "goethite",
+      "cassiterite"
+    ],
+    "related_species": [
+      "corundum",
+      "ilmenite",
+      "magnetite",
+      "goethite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "oxide",
+      "iron-ore",
+      "pigment",
+      "widespread",
+      "metallic",
+      "high-priority",
+      "trigonal"
+    ],
+    "search_boost_terms": [
+      "hematite",
+      "iron oxide",
+      "red ochre",
+      "kidney ore",
+      "specular hematite",
+      "iron rose",
+      "ochre pigment"
+    ],
+    "prompt_fragments": [
+      "mirror-bright specular hematite plates",
+      "red ochre ancient pigment dust",
+      "botryoidal kidney ore cross-section",
+      "iron rose rosette from Alpine fissure"
+    ],
+    "ui_color_hint": [
+      "iron-red",
+      "silver-gray",
+      "ochre-brown"
+    ],
+    "priority_score": 86
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.9,
+    "confidence": "high",
+    "last_updated": "2025-07-14",
+    "sources": [
+      "https://www.mindat.org/min-1856.html"
+    ],
+    "notes": "Variety files for specular hematite and iron rose may follow. Red streak identification confirmed diagnostic."
+  }
+}

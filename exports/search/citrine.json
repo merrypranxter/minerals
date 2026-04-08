@@ -1,0 +1,69 @@
+{
+  "id": "citrine",
+  "slug": "citrine",
+  "display_name": "Citrine",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2 (with Fe3+ color centers)",
+  "essential_elements": [
+    "Si",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": 7,
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "yellow",
+    "golden-yellow",
+    "orange-yellow"
+  ],
+  "genesis": [
+    "hydrothermal",
+    "magmatic (pegmatitic)",
+    "produced from amethyst by natural geothermal heating"
+  ],
+  "birthstone_status": [
+    "November birthstone (modern — alongside topaz)",
+    "13th wedding anniversary"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "quartz",
+    "gemstone",
+    "yellow",
+    "orange",
+    "birthstone",
+    "november",
+    "trigonal",
+    "art-deco"
+  ],
+  "search_boost_terms": [
+    "citrine gemstone",
+    "yellow quartz",
+    "Madeira citrine",
+    "November birthstone",
+    "heated amethyst",
+    "merchant's stone",
+    "Spanish topaz (historical)",
+    "golden quartz"
+  ],
+  "priority_score": 88,
+  "mood_keywords": [
+    "autumn-golden",
+    "warm-solar-quartz",
+    "Madeira-amber",
+    "merchant-prosperity",
+    "November-warmth"
+  ],
+  "_all_text": "Citrine citrine SiO2 (with Fe3+ color centers) Natural citrine is rare — far rarer than amethyst. Most commercial citrine is produced by heating amethyst (destroys purple Fe4+ centers, leaving Fe3+ yellow) or smoky quartz. Natural citrine tends to be paler and less saturated than heat-treated material. The famous 'Madeira' deep orange-red citrine is effectively always heat-treated amethyst. Citrine spans from pale lemon-yellow to deep Madeira orange-cognac. The warm golden tones made it popular in Art Deco jewelry. Large clean specimens are readily available and affordable. Heat-treated material has uniform color; natural citrine often has patchy or pale color with visible phantoms. Citrine has been confused with topaz throughout most of gem history — 'Spanish topaz,' 'Brazilian topaz,' and 'Madeira topaz' were all actually citrine. The confusion was only definitively resolved in the early 20th century. In contemporary crystal culture, citrine is heavily associated with prosperity and abundance — 'the merchant's stone.' warmth and sunshine abundance and prosperity clarity and positivity November and autumn creative energy Used as a gem since antiquity (ancient Greek and Roman jewelry) Art Deco jewelry (1920s-30s — large yellow stones fashionable) Victorian jewelry Called 'topaz' historically — much confusion between citrine and topaz in old records citrine gemstone yellow quartz Madeira citrine November birthstone heated amethyst merchant's stone Spanish topaz (historical) golden quartz silicate variety quartz gemstone yellow orange birthstone november trigonal art-deco autumn-golden warm-solar-quartz Madeira-amber merchant-prosperity November-warmth yellow golden-yellow orange-yellow"
+}

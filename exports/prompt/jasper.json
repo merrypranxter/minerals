@@ -1,0 +1,54 @@
+{
+  "id": "jasper",
+  "display_name": "Jasper",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": "quartz",
+  "baseline_colors": [
+    "red",
+    "yellow",
+    "brown",
+    "green"
+  ],
+  "visual_notes": "Opaque throughout — this is the key visual identifier. Takes a good polish showing vivid matte-to-waxy colors. Picture jasper is among the most visually complex natural stone materials.",
+  "prompt_fragments": [
+    "opaque iron-oxide-stained microcrystalline silica",
+    "canyon-floor earth-body matte mineral",
+    "picture jasper landscape imagery in stone"
+  ],
+  "mood_keywords": [
+    "earth-body",
+    "canyon-floor",
+    "oxidized-terrain",
+    "deep-strata"
+  ],
+  "sensory_keywords": [
+    "opaque",
+    "dense",
+    "matte",
+    "warm",
+    "heavy"
+  ],
+  "palette_keywords": [
+    "iron-red",
+    "ochre-yellow",
+    "canyon-brown",
+    "olive-earth",
+    "rust-oxide"
+  ],
+  "aesthetic_roles": [
+    "earth-matter anchor",
+    "oxidized-terrain mineral",
+    "ancient tool material",
+    "landscape stone"
+  ],
+  "vibe_notes": "Jasper is the most opaque and earthy of the silica minerals. It reads as matter, ground, oxidized earth — the base layer beneath everything. Its matte warmth is fundamentally different from the translucent glow of chalcedony.",
+  "symbolism": [
+    "endurance",
+    "earth",
+    "protection",
+    "vitality",
+    "grounding"
+  ],
+  "folklore_summary": "One of the oldest named gemstones; 'jasper' appears in texts from ancient Babylonia, Egypt, and the Hebrew Bible. Red jasper was associated with blood and warrior energy across many ancient cultures."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "celestite",
+  "display_name": "Celestite",
+  "chemistry_class": "sulfate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "pale-blue",
+    "colorless",
+    "white"
+  ],
+  "visual_notes": "Madagascar celestite geodes — hollow limestone nodules lined with pale-blue tabular crystals — are among the most widely sold mineral specimens globally. The celestial blue color is gentle and consistent. Crystals often have a translucent quality with pearly luster on cleavage surfaces.",
+  "prompt_fragments": [
+    "Madagascar celestite geode — hollow limestone cave of sky-blue tabular crystals",
+    "pale celestial-blue orthorhombic clusters — heaven's palette in strontium sulfate",
+    "pearly-blue celestite tabular crystal with pearlescent cleavage"
+  ],
+  "mood_keywords": [
+    "celestial-blue",
+    "heaven-name",
+    "sky-crystal-cave",
+    "Madagascar-geode",
+    "strontium-sky"
+  ],
+  "sensory_keywords": [
+    "pale cool blue",
+    "pearly translucent",
+    "delicate tabular cluster",
+    "sky-inside-stone"
+  ],
+  "palette_keywords": [
+    "sky-blue-pale",
+    "ice-cerulean",
+    "pearly-celestial",
+    "cloud-blue"
+  ],
+  "aesthetic_roles": [
+    "gentle blue display mineral",
+    "celestial/angelic reference",
+    "geode interior aesthetic",
+    "Madagascar provenance marker"
+  ],
+  "vibe_notes": "Celestite holds the color of open sky inside a limestone cave. The name is fitting — pale blue, pearly, translucent, quiet. Madagascar geodes are small sky-caverns. A gentle mineral with a celestial aspiration.",
+  "symbolism": [
+    "heaven and the sky",
+    "celestial communication",
+    "angelic connection",
+    "clarity and peace"
+  ],
+  "folklore_summary": "The name 'celestite' or 'celestine' comes from Latin 'caelestis' (heavenly) — a reference to the pale sky-blue color. The element strontium was first isolated from celestite and strontianite found near Strontian, a village in Argyll, Scotland — giving the element its name. Madagascar's Sakoany celes"
+}

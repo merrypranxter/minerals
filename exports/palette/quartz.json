@@ -1,0 +1,81 @@
+{
+  "id": "quartz",
+  "display_name": "Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "ui_color_hint": [
+    "white",
+    "silver",
+    "pale-lavender"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "color_profiles": [
+    {
+      "name": "rock-crystal",
+      "colors": [
+        "colorless",
+        "clear"
+      ],
+      "variety_name": "rock-crystal",
+      "cause": "Low impurity content / near-ideal composition."
+    },
+    {
+      "name": "smoky",
+      "colors": [
+        "smoky-gray",
+        "brown",
+        "black"
+      ],
+      "variety_name": "smoky-quartz",
+      "cause": "Color centers associated with irradiation and trace impurities."
+    },
+    {
+      "name": "rose",
+      "colors": [
+        "pink",
+        "rose"
+      ],
+      "variety_name": "rose-quartz",
+      "cause": "Variety-specific color mechanism; often treated as inclusion/defect related."
+    },
+    {
+      "name": "amethyst-spectrum",
+      "colors": [
+        "lavender",
+        "violet",
+        "purple"
+      ],
+      "variety_name": "amethyst",
+      "cause": "Impurity / defect-driven color."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "pyramidal",
+    "massive",
+    "granular",
+    "drusy",
+    "vein-filling",
+    "acicular"
+  ],
+  "textures": [
+    "glassy",
+    "sparkling",
+    "crystalline",
+    "sugary"
+  ],
+  "luster": [
+    "vitreous"
+  ],
+  "visual_notes": "One of the most visually flexible minerals on earth.",
+  "optical_effects": {
+    "fluorescence": "",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

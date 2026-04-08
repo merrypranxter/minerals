@@ -1,0 +1,88 @@
+{
+  "id": "chrysocolla",
+  "display_name": "Chrysocolla",
+  "chemistry_class": "silicate",
+  "species_status": "mineraloid",
+  "ui_color_hint": [
+    "electric-cyan",
+    "teal",
+    "blue-green",
+    "verdigris"
+  ],
+  "baseline_colors": [
+    "cyan",
+    "blue-green",
+    "turquoise-blue"
+  ],
+  "color_profiles": [
+    {
+      "name": "cyan-chrysocolla",
+      "colors": [
+        "cyan",
+        "electric-blue",
+        "sky-blue"
+      ],
+      "variety_name": null,
+      "cause": "Cu2+ in the structure; high Cu content with low Fe."
+    },
+    {
+      "name": "blue-green-chrysocolla",
+      "colors": [
+        "blue-green",
+        "teal",
+        "verdigris"
+      ],
+      "variety_name": null,
+      "cause": "Cu2+ with minor Fe or Mn shifting hue."
+    },
+    {
+      "name": "gem-silica",
+      "colors": [
+        "translucent-cyan",
+        "blue-green",
+        "aquamarine-blue"
+      ],
+      "variety_name": "gem-silica",
+      "cause": "Cu2+ in chalcedony host; silicification increases hardness and translucency."
+    },
+    {
+      "name": "green-chrysocolla",
+      "colors": [
+        "green",
+        "malachite-green",
+        "olive-green"
+      ],
+      "variety_name": null,
+      "cause": "High Cu with slight oxidation state shift; mixing with malachite."
+    }
+  ],
+  "habits": [
+    "earthy",
+    "massive",
+    "botryoidal",
+    "stalactitic",
+    "crusts",
+    "vein-filling",
+    "coating"
+  ],
+  "textures": [
+    "earthy",
+    "waxy",
+    "smooth",
+    "botryoidal-smooth",
+    "powdery"
+  ],
+  "luster": [
+    "waxy",
+    "earthy",
+    "vitreous"
+  ],
+  "visual_notes": "The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens.",
+  "optical_effects": {
+    "fluorescence": "Generally inert",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

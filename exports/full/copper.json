@@ -1,0 +1,323 @@
+{
+  "id": "copper",
+  "slug": "copper",
+  "display_name": "Copper",
+  "classification": {
+    "chemistry_class": "native-element",
+    "mineral_group": "gold-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": []
+  },
+  "identifiers": {
+    "ima_status": "approved",
+    "mindat_id": 1161,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "Cu",
+    "simplified_formula": "Cu",
+    "essential_elements": [
+      "Cu"
+    ],
+    "trace_elements_common": [
+      "Ag",
+      "Fe",
+      "Bi",
+      "Sb",
+      "As"
+    ],
+    "structural_units": [
+      "face-centered cubic metallic lattice"
+    ],
+    "atomic_structure_notes": "FCC metallic structure isostructural with gold and silver.",
+    "chemistry_notes": "Softest of the three noble native metals in practice. Forms natural alloys with silver. Excellent electrical and thermal conductor; third-highest electrical conductivity of any element after silver and gold."
+  },
+  "crystallography": {
+    "crystal_system": "isometric",
+    "crystal_class": "hexoctahedral",
+    "space_group": "Fm3̄m",
+    "unit_cell_notes": "",
+    "twinning": "Spinel-law twins occasionally reported.",
+    "crystallography_notes": "Well-formed crystals uncommon; cubic and tetrahexahedral crystals known from some hydrothermal and supergene localities. Most commonly forms arborescent, dendritic, or wire masses."
+  },
+  "physical_properties": {
+    "mohs_hardness": "2.5–3",
+    "specific_gravity": 8.9,
+    "luster": [
+      "metallic"
+    ],
+    "streak": "copper-red (shiny)",
+    "transparency": [
+      "opaque"
+    ],
+    "cleavage": [
+      "none"
+    ],
+    "fracture": [
+      "hackly"
+    ],
+    "tenacity": "malleable, ductile",
+    "physical_notes": "Distinctive copper-red color when fresh, developing characteristic green-blue verdigris patina over time. Excellent electrical and thermal conductor."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "copper-red",
+      "orange-red",
+      "brown (oxidized)",
+      "blue-green (weathered)"
+    ],
+    "color_profiles": [
+      {
+        "name": "Fresh Native Copper",
+        "colors": [
+          "copper-red",
+          "orange-red",
+          "salmon-pink"
+        ],
+        "cause": "metallic copper surface — characteristic d-band optical absorption",
+        "conditions": "freshly exposed, unoxidized",
+        "variety_name": null
+      },
+      {
+        "name": "Oxidized / Tarnished",
+        "colors": [
+          "brown",
+          "dark-brown",
+          "black"
+        ],
+        "cause": "formation of cuprite (Cu2O) or tenorite surface layer",
+        "conditions": "mild oxidation",
+        "variety_name": null
+      },
+      {
+        "name": "Patinated / Weathered",
+        "colors": [
+          "blue-green",
+          "turquoise",
+          "green",
+          "blue"
+        ],
+        "cause": "formation of malachite, azurite, chrysocolla, or brochantite on surface",
+        "conditions": "prolonged weathering with moisture, CO2, or sulfate",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "arborescent",
+      "dendritic",
+      "massive",
+      "wire",
+      "platy",
+      "cubic crystals (rare)",
+      "tetrahexahedral crystals"
+    ],
+    "textures": [
+      "wiry tangled masses",
+      "dendritic branching",
+      "rough granular",
+      "nodular"
+    ],
+    "macro_patterns": [
+      "dendritic branching",
+      "wire tangles",
+      "patina bloom"
+    ],
+    "common_forms": [
+      "arborescent and dendritic masses",
+      "wire tangles",
+      "nodules and nuggets",
+      "platy aggregates"
+    ],
+    "visual_notes": "Unmistakable copper-red when fresh. Slow oxidation spectrum from red through brown and black to vivid blue-green patina is one of nature's most beautiful chemical sequences. Keweenaw Peninsula specimens show exceptional arborescent habits."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "none",
+    "phosphorescence": "",
+    "chatoyancy": "",
+    "asterism": "",
+    "iridescence": "tarnish iridescence on oxidized surfaces",
+    "pleochroism": "none (isometric)",
+    "optical_notes": ""
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "secondary (supergene)",
+      "primary hydrothermal",
+      "volcanogenic"
+    ],
+    "geologic_environments": [
+      "oxidation zones of copper sulfide deposits",
+      "basaltic lava vesicles and amygdules (Lake Superior type)",
+      "sedimentary copper deposits (red beds)",
+      "secondary enrichment blankets"
+    ],
+    "host_rocks": [
+      "basalt (amygdaloidal)",
+      "sandstone and conglomerate (sedimentary-hosted)",
+      "shale",
+      "quartz veins"
+    ],
+    "associated_minerals": [
+      "cuprite",
+      "malachite",
+      "azurite",
+      "chrysocolla",
+      "chalcopyrite",
+      "bornite",
+      "native silver",
+      "epidote",
+      "calcite",
+      "prehnite",
+      "datolite"
+    ],
+    "locality_scope": "worldwide",
+    "notable_localities": [
+      "Keweenaw Peninsula, Michigan, USA (world's finest arborescent specimens)",
+      "Ray Mine, Arizona, USA",
+      "Corocoro, Bolivia",
+      "Tsumeb, Namibia",
+      "Broken Hill, New South Wales, Australia",
+      "Mansfeld, Germany",
+      "Atacama Desert, Chile"
+    ],
+    "occurrence_notes": "Most common in the oxidation and secondary enrichment zones of copper sulfide deposits. The Lake Superior basaltic copper deposits are unique volcanogenic occurrences producing the world's finest dendritic and arborescent specimens."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "first metal systematically worked by humans (Chalcolithic, ~9000 BCE)",
+      "bronze production (copper + tin alloy, ~3300 BCE)",
+      "coins (Roman aes, US penny historically copper)",
+      "electrical wiring and electronics",
+      "plumbing",
+      "roofing and architectural cladding (develops green patina)",
+      "cookware and utensils"
+    ],
+    "cultural_associations": [
+      "Venus/Aphrodite (copper associated with Cyprus — Latin 'cuprum' from 'Cyprium')",
+      "Chalcolithic civilization transition",
+      "Statue of Liberty (copper exterior with patina)",
+      "Aztec metalwork",
+      "Celtic decorative arts",
+      "Old Copper Complex (5000–1000 BCE, Lake Superior region)"
+    ],
+    "symbolism": [
+      "technology and progress",
+      "warmth and earthiness",
+      "the dawn of metallurgy",
+      "conductivity and connection"
+    ],
+    "folklore_notes": "The word 'copper' derives from Latin 'cuprum', itself from Greek 'Kuprios' meaning 'of Cyprus', where copper was extensively mined in antiquity. Copper was the first metal systematically worked by humans, defining the Chalcolithic period. The Lake Superior copper deposits in Michigan supported one of the world's earliest known mining cultures (Old Copper Complex, ~5000–1000 BCE)."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "primal-metal",
+      "oxidation-spectrum",
+      "archaic-technology",
+      "warm-metallic"
+    ],
+    "sensory_keywords": [
+      "warm penny smell",
+      "verdigris bloom",
+      "heat-conducting warmth",
+      "ancient tang"
+    ],
+    "palette_keywords": [
+      "raw copper-red",
+      "verdigris teal",
+      "oxidized bronze",
+      "patina green"
+    ],
+    "aesthetic_roles": [
+      "earthy warmth anchor",
+      "patina-beauty reference",
+      "industrial-ancient bridge",
+      "tonal contrast with blue-green secondary minerals"
+    ],
+    "vibe_notes": "Copper is the first chapter of human metallurgy — warm, workable, transformative. Its slow oxidation into blues and greens is one of nature's most beautiful chemical reactions."
+  },
+  "practical_notes": {
+    "toxicity": "metallic copper generally low toxicity; copper dust and fumes can cause respiratory irritation; copper compounds vary widely in toxicity; excessive oral intake can cause liver damage",
+    "handling_notes": "Handle normally. Skin contact may leave temporary greenish discoloration. Avoid prolonged inhalation of copper dust when cutting or grinding specimens.",
+    "care_notes": "Store dry. Patina (green-blue surface) is often desirable and protective; do not aggressively clean if patina is part of specimen aesthetics. Can clean with dilute acids if needed, then neutralize.",
+    "treatments_or_synthetics": [
+      "copper electroforming used in art and manufacture",
+      "electrolytic copper is refined synthetic copper — not a specimen mineral",
+      "bronze and brass are copper alloys — distinct from native copper"
+    ],
+    "common_confusions": [
+      "cuprite (Cu2O — darker red, harder, streak red-brown)",
+      "chalcopyrite (brassy yellow, not copper-red, harder)",
+      "bismuth (similar metallic luster but different color and streak)"
+    ],
+    "market_notes": "Industrial metal; commodity price globally traded. Collector specimens — especially arborescent/dendritic from Keweenaw Peninsula, Michigan and Corocoro, Bolivia — command significant premiums. Museum-quality Keweenaw specimens are among the most prized native metal mineral specimens."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [
+      "malachite after copper",
+      "azurite after copper",
+      "cuprite after copper"
+    ],
+    "lookalikes": [
+      "cuprite",
+      "chalcopyrite",
+      "bismuth"
+    ],
+    "related_species": [
+      "gold",
+      "silver",
+      "cuprite",
+      "malachite",
+      "azurite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "native-element",
+      "metal",
+      "gold-group",
+      "secondary",
+      "hydrothermal",
+      "volcanogenic",
+      "isometric",
+      "first-metal",
+      "patina"
+    ],
+    "search_boost_terms": [
+      "Cu",
+      "native copper",
+      "copper nugget",
+      "copper wire",
+      "verdigris",
+      "copper patina",
+      "keweenaw copper",
+      "dendritic copper"
+    ],
+    "prompt_fragments": [
+      "copper-red arborescent mass with blue-green malachite bloom",
+      "wiry dendritic copper on basalt matrix",
+      "warm metallic red fading to verdigris teal"
+    ],
+    "ui_color_hint": [
+      "#B87333",
+      "#CB6D51",
+      "#4A7C59"
+    ],
+    "priority_score": 87
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.9,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.mindat.org/min-1161.html",
+      "https://www.webmineral.com/data/Copper.shtml"
+    ],
+    "notes": ""
+  }
+}

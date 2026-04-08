@@ -1,0 +1,53 @@
+{
+  "id": "opal",
+  "display_name": "Opal",
+  "chemistry_class": "mineraloid",
+  "species_status": "mineraloid",
+  "parent_species": null,
+  "baseline_colors": [
+    "white",
+    "black",
+    "gray",
+    "colorless"
+  ],
+  "visual_notes": "Precious opal's play-of-color is unlike any other optical effect in the mineral world — full spectrum visible in shifting patches as the viewing angle changes. The diffraction grating created by ordered spheres splits white light into all visible wavelengths simultaneously.",
+  "prompt_fragments": [
+    "black opal from Lightning Ridge — volcanic spectral fire on dark sea",
+    "white precious opal with rolling green-blue spectral patches",
+    "boulder opal in ironstone matrix — veins of spectral light"
+  ],
+  "mood_keywords": [
+    "prismatic-fire",
+    "all-spectrum-at-once",
+    "shifting-light-archive",
+    "October-veil",
+    "diffraction-magic"
+  ],
+  "sensory_keywords": [
+    "cool glassy weight",
+    "spectral flicker",
+    "water-held-in-stone",
+    "mysterious shifting surface"
+  ],
+  "palette_keywords": [
+    "spectral-fire-on-white",
+    "black-opal-dark-rainbow",
+    "milky-iridescent",
+    "all-visible-light"
+  ],
+  "aesthetic_roles": [
+    "full-spectrum color reference",
+    "shifting-light element",
+    "sacred lucky/unlucky duality",
+    "October gem anchor"
+  ],
+  "vibe_notes": "Opal is the mineral of all light at once. Where diamond bends light and ruby absorbs it, opal diffracts it — splitting white into every visible wavelength simultaneously across a surface that seems to hold living fire inside it.",
+  "symbolism": [
+    "all-color embodied",
+    "hope and wish-fulfillment",
+    "protection and prophecy",
+    "October renewal",
+    "shifting truth"
+  ],
+  "folklore_summary": "Opal has the most dramatic reputation reversal in gem history. Ancient Romans paid extravagant sums — Pliny wrote that a Roman senator was exiled rather than sell his opal to Mark Antony. Medieval tradition held opal lucky — a stone containing all gem colors in one. Sir Walter Scott's 1829 novel Ann"
+}

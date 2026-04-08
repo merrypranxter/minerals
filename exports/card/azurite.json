@@ -1,0 +1,57 @@
+{
+  "id": "azurite",
+  "slug": "azurite",
+  "display_name": "Azurite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "azurite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Cu3(CO3)2(OH)2",
+  "mohs_hardness": "3.5–4",
+  "specific_gravity": "3.77–3.89",
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "streak": "light-blue",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "monoclinic",
+  "baseline_colors": [
+    "deep-blue",
+    "azure-blue",
+    "indigo-blue"
+  ],
+  "color_profiles_available": [
+    "Azurite Blue",
+    "Azurmalachite"
+  ],
+  "habits": [
+    "prismatic",
+    "tabular",
+    "equant",
+    "radiating",
+    "botryoidal"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "carbonate",
+    "copper",
+    "secondary",
+    "oxidized-zone",
+    "blue",
+    "pigment-history",
+    "monoclinic",
+    "high-priority"
+  ],
+  "priority_score": 90,
+  "ui_color_hint": [
+    "#1E5799",
+    "#003399",
+    "#2244AA"
+  ]
+}

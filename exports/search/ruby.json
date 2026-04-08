@@ -1,0 +1,73 @@
+{
+  "id": "ruby",
+  "slug": "ruby",
+  "display_name": "Ruby",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "parent_species": "corundum",
+  "mineral_group": "corundum-group",
+  "ima_status": "not_ima",
+  "formula": "Al2O3 (with Cr3+)",
+  "essential_elements": [
+    "Al",
+    "O"
+  ],
+  "crystal_system": "trigonal",
+  "mohs_hardness": 9,
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "red",
+    "deep-red",
+    "pinkish-red"
+  ],
+  "genesis": [
+    "metamorphic (marble-hosted)",
+    "metamorphic (basaltic/alkali basalt xenocrysts)",
+    "magmatic (syenites — minor)",
+    "sedimentary (placer)"
+  ],
+  "birthstone_status": [
+    "July birthstone (traditional and modern)",
+    "15th and 40th wedding anniversary"
+  ],
+  "tags": [
+    "oxide",
+    "variety",
+    "corundum",
+    "gemstone",
+    "red",
+    "birthstone",
+    "july",
+    "fluorescent",
+    "trigonal",
+    "high-priority",
+    "jewelry"
+  ],
+  "search_boost_terms": [
+    "ruby gemstone",
+    "pigeon blood ruby",
+    "Burmese ruby",
+    "Mogok ruby",
+    "Al2O3 chromium",
+    "star ruby",
+    "July birthstone",
+    "king of gems",
+    "ratnaraj"
+  ],
+  "priority_score": 96,
+  "mood_keywords": [
+    "pigeon-blood-fire",
+    "king-of-gems",
+    "chromium-glow",
+    "Mogok-valley-red",
+    "royal-blood"
+  ],
+  "_all_text": "Ruby ruby Al2O3 (with Cr3+) Ruby grade requires both red color from Cr3+ and sufficient saturation. The boundary between 'ruby' and 'pink sapphire' is a commercial convention — there is no discrete compositional boundary, only increasing Cr concentration produces deeper red/pink. 'Pigeon's blood' refers to specific Burmese ruby with vivid red + slight blue/purple fluorescence. Ruby is the red variety of corundum — the intensity of Cr3+ fluorescence in daylight gives Burmese rubies an inner glow that red garnets and spinel cannot replicate. In strong sunlight, a fine Burmese ruby appears to emit light. The six-rayed star in star ruby is one of the most captivating optical effects in gemology. Ruby is the 'king of gems' — a title given in Sanskrit texts that has persisted across cultures. Burmese warriors inserted rubies under their skin before battle believing it would make them invincible. Medieval European tradition held that a ruby's color deepened to warn its wearer of approaching danger and paled if the wearer was in mortal peril. The famous 'Black Prince's Ruby' in the British Crown Jewels is actually a large red spinel — a misidentification that held for centuries. The first ruby laser (1960) used chromium-doped synthetic corundum, the same physics as natural ruby's red fluorescence. passion and love blood and vitality royal power protection in war divine fire July and summer heat Gemstone in jewelry — highest value among colored stones historically Set in royal regalia across Asian and European monarchies Ruby laser (first working laser, Theodore Maiman, 1960 — used synthetic ruby) Watch bearings and precision instrument components (synthetic ruby) Mughal and Hindu ritual objects ruby gemstone pigeon blood ruby Burmese ruby Mogok ruby Al2O3 chromium star ruby July birthstone king of gems ratnaraj oxide variety corundum gemstone red birthstone july fluorescent trigonal high-priority jewelry pigeon-blood-fire king-of-gems chromium-glow Mogok-valley-red royal-blood red deep-red pinkish-red"
+}

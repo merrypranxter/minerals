@@ -1,0 +1,60 @@
+{
+  "id": "rhodochrosite",
+  "slug": "rhodochrosite",
+  "display_name": "Rhodochrosite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "calcite-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "MnCO3",
+  "mohs_hardness": "3.5–4",
+  "specific_gravity": "3.50–3.70",
+  "luster": [
+    "vitreous",
+    "pearly",
+    "resinous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "pink",
+    "rose-red",
+    "raspberry-red"
+  ],
+  "color_profiles_available": [
+    "Raspberry / Crystal Rhodochrosite",
+    "Inca Rose (Banded Stalactitic)",
+    "Orange-Brown Rhodochrosite"
+  ],
+  "habits": [
+    "rhombohedral (curved faces)",
+    "scalenohedral",
+    "massive",
+    "stalactitic",
+    "botryoidal"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "carbonate",
+    "manganese",
+    "pink",
+    "red",
+    "banded",
+    "ornamental",
+    "high-priority",
+    "trigonal",
+    "inca-rose"
+  ],
+  "priority_score": 88,
+  "ui_color_hint": [
+    "#E8547A",
+    "#D4496B",
+    "#F2B4C0"
+  ]
+}

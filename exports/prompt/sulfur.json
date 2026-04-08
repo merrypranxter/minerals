@@ -1,0 +1,53 @@
+{
+  "id": "sulfur",
+  "display_name": "Sulfur",
+  "chemistry_class": "native-element",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "yellow",
+    "pale-yellow",
+    "sulfur-yellow",
+    "orange-yellow",
+    "greenish-yellow"
+  ],
+  "visual_notes": "Vivid sulfur-yellow color is highly diagnostic. Fine bipyramidal crystals from Sicily are among the most visually distinctive native element specimens. Surface luster characteristically resinous to waxy.",
+  "prompt_fragments": [
+    "vivid sulfur-yellow bipyramidal crystals on white matrix",
+    "volcanic fumarole encrustation in acid yellow and orange",
+    "glowing brimstone — ancient and alien"
+  ],
+  "mood_keywords": [
+    "volcanic-yellow",
+    "toxic-bloom",
+    "chemical-alchemy",
+    "sulfurous-crater"
+  ],
+  "sensory_keywords": [
+    "rotten-egg sharpness",
+    "waxy tactile surface",
+    "heated rock smell",
+    "acrid volcanic air"
+  ],
+  "palette_keywords": [
+    "sulfur yellow",
+    "volcanic orange",
+    "acid-lake chartreuse",
+    "pale parchment yellow"
+  ],
+  "aesthetic_roles": [
+    "volcanic environment signature",
+    "chemical hazard aesthetic",
+    "alchemical yellow",
+    "natural neon accent"
+  ],
+  "vibe_notes": "Sulfur smells like the beginning and the end of the world. At Kawah Ijen, miners carry glowing blue flames of burning sulfur on their backs in the dark — one of Earth's most alien industrial scenes.",
+  "symbolism": [
+    "transformation and purification through fire",
+    "volcanic force",
+    "chemical change",
+    "hell and damnation (brimstone)",
+    "sulfurous industry"
+  ],
+  "folklore_summary": "Sulfur (brimstone) is one of the oldest known mineral substances — referenced in ancient Vedic texts, Homeric epics, and the Bible. The biblical 'fire and brimstone' likely references volcanic sulfur. Alchemy designated sulfur as one of the three primes representing the soul. Kawah Ijen, Indonesia, "
+}

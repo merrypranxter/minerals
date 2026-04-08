@@ -1,0 +1,60 @@
+{
+  "id": "rose-quartz",
+  "slug": "rose-quartz",
+  "display_name": "Rose Quartz",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "quartz",
+  "mineral_group": "silica-group",
+  "ima_status": "not_ima",
+  "formula": "SiO2:Ti,Al,P (pink color centers)",
+  "mohs_hardness": 7,
+  "specific_gravity": "2.65",
+  "luster": [
+    "vitreous",
+    "waxy"
+  ],
+  "streak": "white",
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "crystal_system": "trigonal",
+  "baseline_colors": [
+    "pale-pink",
+    "rose-pink"
+  ],
+  "color_profiles_available": [
+    "Classic Rose Quartz",
+    "Star Rose Quartz",
+    "Deep Rose / Intense Pink"
+  ],
+  "habits": [
+    "massive (dominant)",
+    "granular",
+    "veins",
+    "nodular"
+  ],
+  "birthstone_months": [
+    "January birthstone (alternative in some traditions)",
+    "Zodiac stone for Taurus"
+  ],
+  "tags": [
+    "silicate",
+    "variety",
+    "quartz",
+    "pink",
+    "massive",
+    "love-stone",
+    "trigonal",
+    "pegmatite",
+    "wellness-market",
+    "high-priority"
+  ],
+  "priority_score": 91,
+  "ui_color_hint": [
+    "#FFB7C5",
+    "#F4A7B9",
+    "#FADADD"
+  ]
+}

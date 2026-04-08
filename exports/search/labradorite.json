@@ -1,0 +1,69 @@
+{
+  "id": "labradorite",
+  "slug": "labradorite",
+  "display_name": "Labradorite",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "feldspar-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "(Ca,Na)(Al,Si)4O8",
+  "essential_elements": [
+    "Ca",
+    "Na",
+    "Al",
+    "Si",
+    "O"
+  ],
+  "crystal_system": "triclinic",
+  "mohs_hardness": "6–6.5",
+  "luster": [
+    "vitreous",
+    "pearly"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque",
+    "transparent"
+  ],
+  "baseline_colors": [
+    "gray",
+    "dark-gray",
+    "black-gray",
+    "greenish-gray"
+  ],
+  "genesis": [
+    "magmatic",
+    "metamorphic"
+  ],
+  "birthstone_status": [],
+  "tags": [
+    "feldspar",
+    "plagioclase",
+    "iridescent",
+    "labradorescence",
+    "species",
+    "igneous",
+    "gemstone",
+    "high-priority",
+    "optical-effect"
+  ],
+  "search_boost_terms": [
+    "labradorite",
+    "spectrolite",
+    "rainbow moonstone",
+    "labradorescence",
+    "plagioclase feldspar",
+    "aurora stone",
+    "schiller feldspar",
+    "blue iridescent feldspar"
+  ],
+  "priority_score": 90,
+  "mood_keywords": [
+    "northern-lights",
+    "prismatic-abyss",
+    "schiller-depth",
+    "arctic-glow"
+  ],
+  "_all_text": "Labradorite labradorite (Ca,Na)(Al,Si)4O8 Plagioclase series member. The labradorescence (schiller) effect arises from thin-film interference in alternating Ca-rich and Na-rich exsolution lamellae. Lamellar spacing of approximately 100–300 nm produces the interference colors observed. The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face. Inuit legend describes the aurora borealis as frozen light trapped inside labradorite. Moravian missionaries encountering the stone in Labrador in 1770 were reportedly struck by the play of color. The Finnish spectrolite variety was not discovered until World War II when a German bomb crater revealed an extraordinary deposit. transformation hidden-knowledge northern-lights prismatic-mystery First described scientifically from Paul's Island, Labrador, Canada in 1770 by Moravian missionaries Adopted as a gemstone and ornamental stone in the 18th–19th century Finnish spectrolite quarried since the 1940s; national gemstone of Finland Larvikite (Norwegian labradorite-bearing rock) used as architectural stone worldwide labradorite spectrolite rainbow moonstone labradorescence plagioclase feldspar aurora stone schiller feldspar blue iridescent feldspar feldspar plagioclase iridescent labradorescence species igneous gemstone high-priority optical-effect northern-lights prismatic-abyss schiller-depth arctic-glow gray dark-gray black-gray greenish-gray"
+}

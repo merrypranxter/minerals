@@ -1,0 +1,56 @@
+{
+  "id": "morganite",
+  "slug": "morganite",
+  "display_name": "Morganite",
+  "chemistry_class": "silicate",
+  "species_status": "variety",
+  "parent_species": "beryl",
+  "mineral_group": "beryl-group",
+  "ima_status": "not_ima",
+  "formula": "Be3Al2Si6O18:Mn",
+  "mohs_hardness": "7.5–8",
+  "specific_gravity": "2.71–2.90",
+  "luster": [
+    "vitreous"
+  ],
+  "streak": "white",
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "crystal_system": "hexagonal",
+  "baseline_colors": [
+    "pink",
+    "peach",
+    "rose"
+  ],
+  "color_profiles_available": [
+    "Rose / Pure Pink Morganite",
+    "Peach Morganite",
+    "Deep Pink / Hot Pink Morganite"
+  ],
+  "habits": [
+    "short prismatic",
+    "tabular hexagonal",
+    "massive"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "silicate",
+    "variety",
+    "beryl",
+    "gemstone",
+    "pink",
+    "peach",
+    "hexagonal",
+    "beryllium",
+    "manganese",
+    "pegmatite"
+  ],
+  "priority_score": 86,
+  "ui_color_hint": [
+    "#F4A7B9",
+    "#FFB6C1",
+    "#E8927C"
+  ]
+}

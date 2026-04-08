@@ -1,0 +1,80 @@
+{
+  "id": "fire-opal",
+  "display_name": "Fire Opal",
+  "chemistry_class": "mineraloid",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#FF6B35",
+    "#FF4500",
+    "#FFB347"
+  ],
+  "baseline_colors": [
+    "orange",
+    "red-orange",
+    "yellow",
+    "red"
+  ],
+  "color_profiles": [
+    {
+      "name": "Classic Fire Opal (Orange)",
+      "colors": [
+        "vivid-orange",
+        "red-orange",
+        "amber-orange"
+      ],
+      "variety_name": null,
+      "cause": "Iron oxide inclusions (hematite/goethite) and structural/organic chromophores in amorphous silica."
+    },
+    {
+      "name": "Yellow Fire Opal",
+      "colors": [
+        "golden-yellow",
+        "amber-yellow",
+        "honey"
+      ],
+      "variety_name": null,
+      "cause": "Lower iron oxide content; other trace chromophores."
+    },
+    {
+      "name": "Red Fire Opal",
+      "colors": [
+        "deep-red",
+        "scarlet-orange",
+        "cherry-red"
+      ],
+      "variety_name": null,
+      "cause": "Higher iron oxide concentration."
+    },
+    {
+      "name": "Precious Fire Opal",
+      "colors": [
+        "orange body with spectral play-of-color"
+      ],
+      "variety_name": "precious-fire-opal",
+      "cause": "Combination of iron-oxide chromophore AND ordered silica sphere diffraction."
+    }
+  ],
+  "habits": [
+    "massive",
+    "nodular",
+    "botryoidal",
+    "vein-filling"
+  ],
+  "textures": [
+    "glassy to waxy",
+    "transparent to translucent",
+    "smooth polished"
+  ],
+  "luster": [
+    "vitreous",
+    "resinous"
+  ],
+  "visual_notes": "Fire opal's vivid orange-to-red body color makes it the only facetable opal variety (when transparent). The color evokes live flame, molten metal, and sunset. In Mexico it is called 'piedra de fuego' (stone of fire) and was sacred to the Aztecs as a symbol of Huitzilopochtli.",
+  "optical_effects": {
+    "fluorescence": "Some specimens fluoresce green or yellow-green under LW UV",
+    "iridescence": "Present in precious fire opal; absent in common fire opal",
+    "play_of_color": "Present in precious fire opal; absent in common fire opal",
+    "chatoyancy": "",
+    "asterism": ""
+  }
+}

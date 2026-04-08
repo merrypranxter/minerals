@@ -1,0 +1,369 @@
+{
+  "id": "petrified-wood",
+  "slug": "petrified-wood",
+  "display_name": "Petrified Wood",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "silica-group",
+    "species_status": "rock/gem material",
+    "parent_species": null,
+    "related_varieties": [
+      "agatized-wood",
+      "opalized-wood",
+      "silicified-wood",
+      "jasperized-wood"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": null,
+    "other_ids": {
+      "note": "Not a mineral species; no Mindat mineral ID assigned"
+    }
+  },
+  "chemical_profile": {
+    "ideal_formula": "SiO2 (replacing original wood cellulose and lignin)",
+    "simplified_formula": "SiO2",
+    "essential_elements": [
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Fe",
+      "Mn",
+      "Cu",
+      "Cr",
+      "C",
+      "Al",
+      "Ca",
+      "Mg"
+    ],
+    "structural_units": [
+      "SiO4 tetrahedra in chalcedony (cryptocrystalline quartz) or macrocrystalline quartz framework",
+      "Original wood cell walls replaced molecule by molecule"
+    ],
+    "atomic_structure_notes": "Not a mineral; a biogenic silicified fossil. The replacing silica is typically chalcedony (cryptocrystalline quartz), opal-CT, or macrocrystalline quartz. Silicification occurs when silica-rich groundwater percolates through buried wood, precipitating SiO2 while the organic material dissolves — permineralization preserves the macroscopic cell structure (rings, vessels, rays) in exquisite detail.",
+    "chemistry_notes": "Color is entirely controlled by trace element impurities in the replacing silica: Fe2O3 (hematite) gives red/orange/brown; Fe(OH)3 (limonite/goethite) gives yellow; MnO2 gives black; chromium gives green; copper gives blue-green. The original wood provides no surviving chemical signal — only its structural ghost remains."
+  },
+  "crystallography": {
+    "crystal_system": "trigonal",
+    "crystal_class": "cryptocrystalline to macrocrystalline — not applicable at macro scale",
+    "space_group": "",
+    "unit_cell_notes": "Same as chalcedony/quartz at microscale",
+    "twinning": "",
+    "crystallography_notes": "At the microscopic scale, petrified wood consists of chalcedony (fibrous or granular microcrystalline quartz), sometimes with drusy macrocrystalline quartz in voids. At the macro scale, the wood grain, annual rings, bark texture, and cellular anatomy are often perfectly preserved. This structural duality — crystalline mineral at the micro scale, biological form at the macro scale — is its defining character."
+  },
+  "physical_properties": {
+    "mohs_hardness": "5.5–7 (varies with silicification completeness; chalcedony-replaced ≈ 6.5–7)",
+    "specific_gravity": "2.58–2.65 (chalcedony) to lower if incompletely silicified",
+    "luster": [
+      "waxy",
+      "vitreous",
+      "earthy"
+    ],
+    "streak": "white",
+    "transparency": [
+      "opaque",
+      "translucent"
+    ],
+    "cleavage": [],
+    "fracture": [
+      "conchoidal",
+      "uneven",
+      "splintery"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Fully silicified specimens approach the hardness of chalcedony (~6.5–7) and are very durable. Partially replaced specimens may be softer and more porous. The preservation of wood structure sometimes creates planes of weakness along grain boundaries."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "brown",
+      "tan",
+      "gray"
+    ],
+    "color_profiles": [
+      {
+        "name": "red-orange-petrified-wood",
+        "colors": [
+          "red",
+          "orange",
+          "rust",
+          "brick-red"
+        ],
+        "cause": "Fe2O3 (hematite) in the replacing chalcedony; oxidizing conditions during silicification.",
+        "conditions": "Common in Triassic-age material (e.g., Arizona); oxidizing burial environments.",
+        "variety_name": null
+      },
+      {
+        "name": "yellow-brown-petrified-wood",
+        "colors": [
+          "yellow",
+          "brown",
+          "tan",
+          "caramel",
+          "honey"
+        ],
+        "cause": "FeO(OH) goethite/limonite; partially hydrated iron oxides.",
+        "conditions": "Widespread; most common color range.",
+        "variety_name": null
+      },
+      {
+        "name": "black-petrified-wood",
+        "colors": [
+          "black",
+          "dark-gray",
+          "charcoal"
+        ],
+        "cause": "MnO2 (pyrolusite) or carbonaceous material preserved in low-oxygen conditions.",
+        "conditions": "Anaerobic burial environments; some Eocene and Cretaceous localities.",
+        "variety_name": null
+      },
+      {
+        "name": "gray-petrified-wood",
+        "colors": [
+          "gray",
+          "silver-gray",
+          "ash"
+        ],
+        "cause": "Low trace element content in pure silica replacement; minimal chromophores.",
+        "conditions": "Clean silica-rich groundwaters; some Pacific Northwest material.",
+        "variety_name": null
+      },
+      {
+        "name": "blue-green-petrified-wood",
+        "colors": [
+          "blue-green",
+          "teal",
+          "pale-green"
+        ],
+        "cause": "Cu or Cr in the replacing silica.",
+        "conditions": "Rare; specific localities with Cu-mineralized groundwaters.",
+        "variety_name": null
+      },
+      {
+        "name": "agatized-wood",
+        "colors": [
+          "banded multicolor — red",
+          "white",
+          "brown",
+          "gray"
+        ],
+        "cause": "Multiple silica precipitation events with varying trace element concentrations, producing banding analogous to agate.",
+        "conditions": "Slow, multi-episode silicification in a fluctuating geochemical environment.",
+        "variety_name": "agatized-wood"
+      }
+    ],
+    "habits": [
+      "wood-log-form",
+      "cross-section-disc",
+      "branch-fragment",
+      "root-mass",
+      "bark-surface"
+    ],
+    "textures": [
+      "wood-grain",
+      "annual-ring-pattern",
+      "cellular",
+      "waxy-polish",
+      "rough-bark"
+    ],
+    "macro_patterns": [
+      "annual-rings",
+      "ray-cells",
+      "bark-texture",
+      "banded-agate",
+      "color-zones-by-trace-elements"
+    ],
+    "common_forms": [
+      "complete or partial logs",
+      "sawn and polished cross-sections (showing rings)",
+      "tumbled pieces",
+      "polished slabs and bookends",
+      "erosion-exposed in desert pavements"
+    ],
+    "visual_notes": "The preserved wood grain and annual rings are the defining visual feature — the stone tells a biological story. Cross-sections are among the most visually striking mineral-art objects, showing perfect tree anatomy in glowing chalcedony. Color zonation often follows the original wood structure."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Variable; some material fluoresces green or yellow under UV (chalcedony component)",
+    "phosphorescence": "",
+    "chatoyancy": "Rare; some fibrous chalcedony replacements show weak chatoyancy",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "",
+    "optical_notes": "Optically equivalent to chalcedony: RI ~1.53–1.54, uniaxial positive (fibrous chalcedony), birefringence low. The biological macro-structure is not an optical effect but a structural one."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "sedimentary",
+      "diagenetic"
+    ],
+    "geologic_environments": [
+      "silica-rich sedimentary basins",
+      "volcanic ash-rich fluvial and lacustrine deposits",
+      "floodplain and swamp deposits buried under ash falls"
+    ],
+    "host_rocks": [
+      "volcanic tuff",
+      "sandstone",
+      "mudstone",
+      "lacustrine sediment"
+    ],
+    "associated_minerals": [
+      "chalcedony",
+      "quartz",
+      "opal",
+      "jasper",
+      "calcite",
+      "barite",
+      "manganese-oxides"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [
+      "Petrified Forest National Park, Arizona, USA (Triassic Chinle Formation; Araucarioxylon arizonicum)",
+      "Blue Forest, Eden Valley, Wyoming, USA (Eocene; standing fossil stumps)",
+      "Ginkgo Petrified Forest, Washington State, USA (Miocene; Ginkgo and many species)",
+      "Escalante Petrified Forest, Utah, USA",
+      "Lesvos Petrified Forest, Greece (Miocene; UNESCO GeoPark)",
+      "Florissant Fossil Beds, Colorado, USA (Eocene stumps)",
+      "Naukluft, Namibia",
+      "Eastern Cape, South Africa (Glossopteris-era Permian logs)",
+      "Patagonia, Argentina (large logs)",
+      "Egypt (Petrified Forest near Cairo; 35-million-year-old logs)",
+      "Yellowstone National Park, Wyoming, USA (standing petrified forests on Specimen Ridge)"
+    ],
+    "occurrence_notes": "Petrified wood forms best when wood is rapidly buried (reducing microbial decay) in silica-rich environments, particularly where volcanic ash is dissolving in groundwater or where hydrothermal silica is present. Silicification can occur over thousands to millions of years. Permineralization preserves cell walls while silica fills cell lumens; in complete replacement, all organic material is gone."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [],
+    "historical_uses": [
+      "Indigenous peoples of the American Southwest used petrified wood for tools (scrapers, projectile points) due to its hardness and conchoidal fracture — treated identically to chert",
+      "Navajo, Hopi, and other Southwestern nations incorporated petrified wood into cultural practices; the Petrified Forest area was known and visited for thousands of years before European contact",
+      "Petrified Forest National Park (established 1906) was one of the first US federal land protections specifically for paleontological/geological resources, partly because collectors were removing massive quantities of material",
+      "Egyptian petrified forest near Cairo (Oligocene age) was known to ancient Egyptians",
+      "Lesvos, Greece: the petrified forest has been known since antiquity; Theophrastus may have referenced it"
+    ],
+    "cultural_associations": [
+      "Popular in mid-20th century American Southwest tourism and 'roadside geology' culture — petrified wood bookends, clocks, and tabletops",
+      "Symbol of geological deep time and the connection between biology and mineralogy"
+    ],
+    "symbolism": [
+      "deep-time",
+      "transformation",
+      "patience",
+      "permanence",
+      "life-become-stone"
+    ],
+    "folklore_notes": "Many Indigenous traditions of the American Southwest regard petrified wood as sacred — the bones of ancient beings or the material remains of primordial forests. The Navajo creation narrative describes a primordial world with vast forests; the scattered logs of the Petrified Forest are explained in some accounts as the remains of a giant's arrow shafts."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "fossil-time",
+      "temporal-stone",
+      "wood-become-mineral",
+      "ancient-patience",
+      "deep-time-anchor"
+    ],
+    "sensory_keywords": [
+      "grainy",
+      "warm",
+      "woody-pattern",
+      "smooth-polished",
+      "dense"
+    ],
+    "palette_keywords": [
+      "rust-red",
+      "honey-brown",
+      "ash-gray",
+      "bark-tan",
+      "annual-ring-white"
+    ],
+    "aesthetic_roles": [
+      "deep-time exhibit piece",
+      "biological-to-mineral transition",
+      "ancient forest ghost",
+      "warm desert palette"
+    ],
+    "vibe_notes": "Petrified wood is the most legible deep-time object — a tree that became a stone, grain by grain, over millions of years, while preserving every ring and vessel. It is the bridge between biology and mineralogy, and one of the most emotionally resonant materials in the natural world."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Durable once fully silicified; treat like chalcedony. Partially replaced specimens may be fragile along original grain planes.",
+    "care_notes": "Clean with warm water and mild soap. Polished slabs are very stable. Avoid acids on calcite-containing matrix. Do not collect from protected sites (Petrified Forest NP — removal is illegal).",
+    "treatments_or_synthetics": [
+      "Wax or resin impregnation of porous incompletely silicified material",
+      "Surface dyeing to enhance color (uncommon but known)",
+      "Reconstructed or artificial 'petrified wood' does not exist commercially at scale"
+    ],
+    "common_confusions": [
+      "Agate (lacks wood structure)",
+      "Jasper (lacks wood structure)",
+      "Carved wood-grain stone (will not show actual cell anatomy under magnification)",
+      "Opalized wood (opal replacement rather than chalcedony)"
+    ],
+    "market_notes": "Common material; affordable in most forms. Exceptional specimens with vivid color, complete logs, or rare species preservation command premium prices. Sawn and polished cross-sections are widely sold as decorative items."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [
+      "wood (biological replacement)"
+    ],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "agate",
+      "jasper",
+      "chalcedony"
+    ],
+    "related_species": [
+      "chalcedony",
+      "quartz",
+      "opal",
+      "jasper"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "fossil",
+      "gem-material",
+      "chalcedony",
+      "silicification",
+      "deep-time",
+      "wood-replacement",
+      "desert",
+      "paleobotany"
+    ],
+    "search_boost_terms": [
+      "petrified wood",
+      "fossilized wood",
+      "silicified wood",
+      "agatized wood",
+      "fossil wood",
+      "Petrified Forest Arizona"
+    ],
+    "prompt_fragments": [
+      "petrified wood cross-section showing ancient tree rings in chalcedony",
+      "rust-red Triassic log silicified in Arizona desert",
+      "agatized wood banded multicolor fossil",
+      "deep time mineral wood grain preserved in stone"
+    ],
+    "ui_color_hint": [
+      "rust-red",
+      "honey-brown",
+      "ash-gray",
+      "bark-tan",
+      "agate-white"
+    ],
+    "priority_score": 74
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.83,
+    "confidence": "high",
+    "last_updated": "2026-04-07",
+    "sources": [
+      "https://www.nps.gov/pefo/learn/nature/geology.htm",
+      "https://www.mindat.org/min-47922.html"
+    ],
+    "notes": "Petrified wood is not a mineral species; it is a fossil/gem material. No IMA or Mindat mineral ID exists. Mindat has entries for specific named fossil wood types. All geological and formation information is accurate."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "malachite",
+  "slug": "malachite",
+  "display_name": "Malachite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "rosasite-group-related",
+  "ima_status": "grandfathered_approved",
+  "formula": "Cu2(CO3)(OH)2",
+  "mohs_hardness": null,
+  "specific_gravity": null,
+  "luster": [
+    "silky",
+    "vitreous",
+    "earthy"
+  ],
+  "streak": "light-green",
+  "transparency": [
+    "opaque",
+    "translucent"
+  ],
+  "crystal_system": "monoclinic",
+  "baseline_colors": [
+    "green"
+  ],
+  "color_profiles_available": [
+    "classic-malachite-green"
+  ],
+  "habits": [
+    "botryoidal",
+    "mammillary",
+    "crustiform",
+    "fibrous",
+    "acicular"
+  ],
+  "birthstone_months": [],
+  "tags": [
+    "green",
+    "copper",
+    "banded",
+    "botryoidal",
+    "ornamental",
+    "high-priority"
+  ],
+  "priority_score": 94,
+  "ui_color_hint": [
+    "emerald",
+    "dark-green",
+    "black"
+  ]
+}

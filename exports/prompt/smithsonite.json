@@ -1,0 +1,50 @@
+{
+  "id": "smithsonite",
+  "display_name": "Smithsonite",
+  "chemistry_class": "carbonate",
+  "species_status": "species",
+  "parent_species": null,
+  "baseline_colors": [
+    "white",
+    "colorless",
+    "gray"
+  ],
+  "visual_notes": "Smithsonite is primarily known as a secondary zinc carbonate with exceptional color range and unusual pearlescent botryoidal habit. Cobalt-bearing blue smithsonite from Tsumeb and copper-bearing green from Arizona are collector favorites. The pearly luster of botryoidal forms is distinctive.",
+  "prompt_fragments": [
+    "pearlescent botryoidal smithsonite domes — periwinkle blue cobalt",
+    "apple-green cuprian smithsonite over gossan matrix",
+    "secondary zinc carbonate translucent skin on limestone"
+  ],
+  "mood_keywords": [
+    "pearl-dome",
+    "zinc-spectrum",
+    "cobalt-lavender",
+    "apple-green-secondary",
+    "museum-cabinet-blue"
+  ],
+  "sensory_keywords": [
+    "pearlescent smooth",
+    "rounded cellular",
+    "soft weight",
+    "cool ceramic"
+  ],
+  "palette_keywords": [
+    "cobalt-periwinkle",
+    "apple-green",
+    "creamy-white-pearl",
+    "manganese-pink"
+  ],
+  "aesthetic_roles": [
+    "pearlescent texture reference",
+    "secondary mineral color palette",
+    "quiet collector gem",
+    "Smithsonian reference mineral"
+  ],
+  "vibe_notes": "Smithsonite is quiet but extraordinary — a carbonate that refracts light through translucent botryoidal skins in a dozen colors. The cobalt-blue variety from Tsumeb has a quality like polished sky.",
+  "symbolism": [
+    "diversity",
+    "transformation",
+    "subtle color"
+  ],
+  "folklore_summary": "Smithsonite is named for James Smithson — chemist, mineralogist, and benefactor of the Smithsonian Institution. He actually studied calamine (a historical term covering hemimorphite and smithsonite). The mineral was formally named for him posthumously by François Sulpice Beudant in 1832."
+}

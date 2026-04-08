@@ -1,0 +1,73 @@
+{
+  "id": "nephrite",
+  "slug": "nephrite",
+  "display_name": "Nephrite",
+  "chemistry_class": "silicate",
+  "species_status": "rock/gem material",
+  "parent_species": null,
+  "mineral_group": "amphibole-group",
+  "ima_status": "not_ima",
+  "formula": "Ca2(Mg,Fe)5Si8O22(OH)2",
+  "essential_elements": [
+    "Ca",
+    "Mg",
+    "Fe",
+    "Si",
+    "O",
+    "H"
+  ],
+  "crystal_system": "monoclinic",
+  "mohs_hardness": "6–6.5",
+  "luster": [
+    "waxy",
+    "silky",
+    "greasy"
+  ],
+  "transparency": [
+    "translucent",
+    "opaque"
+  ],
+  "baseline_colors": [
+    "white",
+    "cream",
+    "pale-green"
+  ],
+  "genesis": [
+    "metamorphic"
+  ],
+  "birthstone_status": [
+    "Not a formal birthstone; sometimes listed for August or March informally"
+  ],
+  "tags": [
+    "gemstone",
+    "inosilicate",
+    "double-chain-silicate",
+    "amphibole",
+    "jade",
+    "cultural",
+    "tough",
+    "Maori",
+    "Chinese",
+    "high-priority",
+    "metamorphic"
+  ],
+  "search_boost_terms": [
+    "nephrite",
+    "greenstone",
+    "pounamu",
+    "hetian jade",
+    "hotan jade",
+    "mutton fat jade",
+    "New Zealand jade",
+    "amphibole jade"
+  ],
+  "priority_score": 84,
+  "mood_keywords": [
+    "ancient-carving",
+    "nephrite-endurance",
+    "jade-empire",
+    "imperial-touch",
+    "felt-stone"
+  ],
+  "_all_text": "Nephrite nephrite Ca2(Mg,Fe)5Si8O22(OH)2 Color and properties vary along the tremolite–actinolite solid solution: pure tremolite is white to colorless; increasing Fe (actinolite component) produces progressively deeper green. The spinach-green of classic nephrite reflects intermediate-to-Fe-rich composition. Minor Cr can produce vivid green. White 'mutton-fat' nephrite is tremolite-dominant and highly prized in Chinese tradition. Nephrite's waxy sheen and subtle translucency are distinctive. White mutton-fat jade has a soft luminosity unlike any other stone. The green varieties can look similar to jadeite but typically show a more subdued, less intense green. The fibrous microstructure is visible under magnification as a tangled felt-like mass. In Chinese tradition, jade is said to have a 'living' quality — it absorbs the essence of its wearer over time and gives back healing energy. It is said to feel alive in a way that other stones do not. A jade bangle that breaks is said to have 'sacrificed itself' to protect its owner from harm. endurance immortality purity heaven mana continuity virtue protection China: nephrite carving spans at least 7,000–8,000 years from the Neolithic Hemudu and Xinglongwa cultures. The Liangzhu culture (3300–2300 BCE) produced extraordinary ritual jade bi discs and cong tubes of nephrite. The Zhou dynasty codified jade's symbolic role; Confucius enumerated its eleven virtues. Hetian white nephrite (mutton-fat jade) became the imperial standard under the Han and Tang dynasties. New Zealand: pounamu (greenstone, Māori name for nephrite) is deeply sacred to Māori and holds a unique status in New Zealand law — under the Māori Fisheries Act and subsequent legislation, pounamu in the South Island belongs to Ngāi Tahu iwi. Traditional hei-tiki pendants, mere (short weapons), adzes, and chisels were made from pounamu; it was used as currency and in diplomatic gift exchange. To gift a hei-tiki is to transfer the mana (spiritual power) accumulated in the stone. Polynesia: nephrite axes and adzes were among the most prized trade goods across the Pacific; New Zealand greenstone traded as far as the Chatham Islands Mesoamerica: Olmec and Maya peoples used nephrite alongside jadeite; some Olmec 'jade' carvings are nephrite Neolithic Europe: nephrite axes and adzes circulated widely in exchange networks; Alpine nephrite sources (Monviso, Italy) supplied much of Neolithic Western Europe's jade tools via long-distance trade Prehistoric Siberia: Baikal-area nephrite was worked by Bronze Age cultures into knives and ornaments Spanish conquistadors encountered jade curing practices in Mesoamerica — pressing jade to the kidneys for 'piedra de ijada' (loin stone), the origin of the Spanish word 'jade' nephrite greenstone pounamu hetian jade hotan jade mutton fat jade New Zealand jade amphibole jade gemstone inosilicate double-chain-silicate amphibole jade cultural tough Maori Chinese high-priority metamorphic ancient-carving nephrite-endurance jade-empire imperial-touch felt-stone white cream pale-green"
+}

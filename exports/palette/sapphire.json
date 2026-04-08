@@ -1,0 +1,102 @@
+{
+  "id": "sapphire",
+  "display_name": "Sapphire",
+  "chemistry_class": "oxide",
+  "species_status": "variety",
+  "ui_color_hint": [
+    "#0F52BA",
+    "#1560BD",
+    "#4B9CD3"
+  ],
+  "baseline_colors": [
+    "blue",
+    "cornflower-blue",
+    "deep-blue"
+  ],
+  "color_profiles": [
+    {
+      "name": "Kashmir Blue Sapphire",
+      "colors": [
+        "velvety-cornflower-blue",
+        "blue with slight violet"
+      ],
+      "variety_name": null,
+      "cause": "Fe2+/Ti4+ IVCT; fine silk inclusions scatter light to produce the famous velvety texture."
+    },
+    {
+      "name": "Burmese / Ceylon Sapphire",
+      "colors": [
+        "royal-blue",
+        "deep-blue",
+        "vivid-blue"
+      ],
+      "variety_name": null,
+      "cause": "Fe2+/Ti4+ charge transfer — less silk than Kashmir; brighter."
+    },
+    {
+      "name": "Padparadscha",
+      "colors": [
+        "orange-pink",
+        "salmon",
+        "lotus-flower"
+      ],
+      "variety_name": "padparadscha",
+      "cause": "Combination of Cr3+ (pink) and iron-related (orange) color centers."
+    },
+    {
+      "name": "Yellow Sapphire",
+      "colors": [
+        "golden-yellow",
+        "canary-yellow",
+        "orange-yellow"
+      ],
+      "variety_name": "yellow-sapphire",
+      "cause": "Fe3+ substitution or color centers."
+    },
+    {
+      "name": "Star Sapphire",
+      "colors": [
+        "blue",
+        "gray",
+        "black body with six-rayed white asterism"
+      ],
+      "variety_name": "star-sapphire",
+      "cause": "Rutile (silk) needle inclusions in three crystallographic orientations producing asterism under cabochon cut."
+    },
+    {
+      "name": "Parti Sapphire",
+      "colors": [
+        "blue-green bicolor",
+        "teal",
+        "blue + yellow zones"
+      ],
+      "variety_name": "parti-sapphire",
+      "cause": "Zoned distribution of different chromophores (Fe, Ti) during crystal growth."
+    }
+  ],
+  "habits": [
+    "prismatic",
+    "tabular hexagonal",
+    "barrel-shaped",
+    "bipyramidal",
+    "massive",
+    "rounded alluvial pebbles"
+  ],
+  "textures": [
+    "glassy",
+    "velvety (Kashmir — from silk scattering)",
+    "striated basal faces"
+  ],
+  "luster": [
+    "vitreous",
+    "adamantine"
+  ],
+  "visual_notes": "Kashmir sapphire produces a 'velvety' blue that seems to glow from within — caused by fine silk inclusions scattering light. Star sapphire at its best shows a perfectly centered six-rayed star that moves over the cabochon surface. Padparadscha's salmon-pink-orange is unique and defies category — it must be evaluated in person to appreciate.",
+  "optical_effects": {
+    "fluorescence": "Blue sapphires typically inert to faint under UV; some Sri Lankan sapphires show orange fluorescence; yellow sapphires may fluoresce orange",
+    "iridescence": "",
+    "play_of_color": "",
+    "chatoyancy": "",
+    "asterism": "Six-rayed star in star sapphire from three sets of rutile needles in basal plane"
+  }
+}

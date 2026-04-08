@@ -1,0 +1,369 @@
+{
+  "id": "moonstone",
+  "slug": "moonstone",
+  "display_name": "Moonstone",
+  "classification": {
+    "chemistry_class": "silicate",
+    "mineral_group": "feldspar-group",
+    "species_status": "variety",
+    "parent_species": "orthoclase",
+    "related_varieties": [
+      "adularia",
+      "rainbow-moonstone",
+      "peach-moonstone",
+      "gray-moonstone",
+      "cat-eye-moonstone"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "not_ima",
+    "mindat_id": 3016,
+    "other_ids": {
+      "parent_mindat": "3016 (orthoclase)",
+      "note": "Moonstone is a variety of orthoclase/adularia; mindat_id references parent orthoclase entry"
+    }
+  },
+  "chemical_profile": {
+    "ideal_formula": "KAlSi3O8 (orthoclase) with intergrown NaAlSi3O8 (albite) lamellae",
+    "simplified_formula": "KAlSi3O8",
+    "essential_elements": [
+      "K",
+      "Al",
+      "Si",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Na",
+      "Fe",
+      "Ba",
+      "Ca"
+    ],
+    "structural_units": [
+      "AlSi3O8 framework tetrahedra",
+      "corner-sharing TO4 tetrahedra in a 3D feldspar framework",
+      "alternating orthoclase and albite exsolution lamellae"
+    ],
+    "atomic_structure_notes": "Framework silicate (tectosilicate). Moonstone consists of intergrown orthoclase (KAlSi3O8) and albite (NaAlSi3O8) layers produced by exsolution during slow cooling. These alternating nanoscale lamellae (typically 10–300 nm thick) scatter and interfere with light to produce adularescence. Thinner lamellae produce blue adularescence; thicker lamellae produce white or peach glow.",
+    "chemistry_notes": "Parent mineral is orthoclase (monoclinic K-feldspar) or the low-temperature polymorph adularia. Albite lamellae are exsolved from the original homogeneous K-feldspar during slow cooling. The finest Sri Lankan blue moonstone has very thin, evenly spaced lamellae."
+  },
+  "crystallography": {
+    "crystal_system": "monoclinic",
+    "crystal_class": "2/m prism",
+    "space_group": "C2/m",
+    "unit_cell_notes": "a ≈ 8.56 Å, b ≈ 13.00 Å, c ≈ 7.17 Å; β ≈ 116.0° (orthoclase; approximate)",
+    "twinning": "Carlsbad twinning common; fine-scale albite twinning in adularia.",
+    "crystallography_notes": "Moonstone is cut as cabochon to maximize adularescence; the stone must be oriented with the exsolution lamellae parallel to the base of the cabochon. Incorrect orientation eliminates the adularescent effect entirely."
+  },
+  "physical_properties": {
+    "mohs_hardness": "6–6.5",
+    "specific_gravity": "2.56–2.62",
+    "luster": [
+      "vitreous",
+      "pearly"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "perfect {001}",
+      "good {010}"
+    ],
+    "fracture": [
+      "conchoidal",
+      "uneven"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "Two cleavage directions intersecting at near-right-angles, typical of feldspars. Mohs 6–6.5 makes moonstone susceptible to surface scratching with daily use. Transparency varies from near-transparent (finest Sri Lankan) to translucent (most commercial material)."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "colorless",
+      "white",
+      "pale-gray"
+    ],
+    "color_profiles": [
+      {
+        "name": "blue-moonstone",
+        "colors": [
+          "colorless to white body; blue floating glow"
+        ],
+        "cause": "Thin albite exsolution lamellae (10–100 nm) produce Rayleigh/Tyndall scattering and constructive interference for blue wavelengths.",
+        "conditions": "Finest quality moonstone from Sri Lanka; requires very thin, evenly distributed lamellae. Body must be near-colorless to transparent for the blue to appear.",
+        "variety_name": "blue-moonstone"
+      },
+      {
+        "name": "white-moonstone",
+        "colors": [
+          "white body; white to milky-white floating glow"
+        ],
+        "cause": "Thicker lamellae scatter all visible wavelengths approximately equally, producing white adularescence.",
+        "conditions": "Most common commercial moonstone; broader range of sources.",
+        "variety_name": null
+      },
+      {
+        "name": "peach-moonstone",
+        "colors": [
+          "peach",
+          "salmon",
+          "warm-beige body; peach to white glow"
+        ],
+        "cause": "Iron impurities impart warm body color; adularescence still present.",
+        "conditions": "India (Rajasthan) is major source of peach moonstone.",
+        "variety_name": "peach-moonstone"
+      },
+      {
+        "name": "rainbow-moonstone",
+        "colors": [
+          "colorless to white body; multicolor iridescence — blue",
+          "green",
+          "violet"
+        ],
+        "cause": "Trade name for colorless to white labradorite showing adularescence-like labradorescence. Not orthoclase moonstone.",
+        "conditions": "This material is actually labradorite (plagioclase feldspar), not orthoclase. The 'rainbow moonstone' trade name is widespread but mineralogically inaccurate.",
+        "variety_name": "rainbow-moonstone"
+      },
+      {
+        "name": "gray-moonstone",
+        "colors": [
+          "gray body; blue to white floating glow"
+        ],
+        "cause": "Iron or other inclusions giving gray body color; adularescence retained.",
+        "conditions": "India; common commercial material.",
+        "variety_name": null
+      },
+      {
+        "name": "cat-eye-moonstone",
+        "colors": [
+          "near-colorless to white; chatoyant line"
+        ],
+        "cause": "Needle-like inclusions aligned with exsolution lamellae create chatoyancy in addition to adularescence.",
+        "conditions": "Rare; Sri Lanka.",
+        "variety_name": "cat-eye-moonstone"
+      }
+    ],
+    "habits": [
+      "massive",
+      "prismatic",
+      "tabular",
+      "anhedral"
+    ],
+    "textures": [
+      "smooth",
+      "silky-pearly",
+      "glassy"
+    ],
+    "macro_patterns": [
+      "adularescent-glow",
+      "floating-blue-cloud"
+    ],
+    "common_forms": [
+      "polished cabochons",
+      "faceted gems (rare; mostly transparent material)",
+      "beads",
+      "carved cameos",
+      "tumbled stones"
+    ],
+    "visual_notes": "Adularescence appears as a floating, glowing light phenomenon that rolls or shifts as the stone is moved — unlike surface iridescence, it appears to emanate from within the stone. The finest blue moonstone from Sri Lanka has an electric, almost liquid blue light that rolls across the interior."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Weak bluish or yellowish fluorescence in some specimens under longwave UV.",
+    "phosphorescence": "",
+    "chatoyancy": "Rare; cat's eye moonstone exists with needle inclusions.",
+    "asterism": "Very rare; 4-ray star moonstone reported.",
+    "iridescence": "Adularescence: the defining optical phenomenon. A floating, billowing blue or white light glow from alternating orthoclase/albite exsolution lamellae. Caused by Rayleigh/Tyndall scattering and constructive thin-film interference. Blue adularescence (from thin lamellae) is most prized. Effect is direction-dependent and orientation-critical in cutting.",
+    "pleochroism": "",
+    "optical_notes": "Adularescence is distinct from labradorescence (tiger-stripe directional flash in labradorite) and from aventurescence (metallic glitter from platelets). Adularescence is a soft, rolling, internal glow — sometimes described as 'billowing light trapped underwater.' The phenomenon was named after adularia, the low-temperature orthoclase polymorph."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "magmatic",
+      "metamorphic",
+      "pegmatitic"
+    ],
+    "geologic_environments": [
+      "pegmatites",
+      "granites",
+      "gneiss",
+      "metamorphic rocks"
+    ],
+    "host_rocks": [
+      "pegmatite",
+      "granite",
+      "gneiss",
+      "schist"
+    ],
+    "associated_minerals": [
+      "quartz",
+      "albite",
+      "microcline",
+      "biotite",
+      "muscovite",
+      "tourmaline",
+      "beryl"
+    ],
+    "locality_scope": "widespread",
+    "notable_localities": [
+      "Sri Lanka (finest blue moonstone; Meetiyagoda — near Galle; internationally benchmark quality)",
+      "India (Rajasthan — peach and 'rainbow moonstone'/labradorite; large commercial source)",
+      "Myanmar (Burma — fine white moonstone)",
+      "Madagascar (commercial moonstone and 'rainbow moonstone')",
+      "Brazil",
+      "Tanzania",
+      "United States (Virginia, North Carolina)",
+      "Australia"
+    ],
+    "occurrence_notes": "Sri Lankan moonstone deposit supply is declining; finest blue moonstone from Meetiyagoda area has become increasingly scarce. Indian material dominates the commercial market but is often the labradorite 'rainbow moonstone' variety."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [
+      "June birthstone (traditional; along with pearl and alexandrite)",
+      "Modern June birthstone (along with pearl and alexandrite)"
+    ],
+    "zodiac_associations": [
+      "Cancer",
+      "Pisces"
+    ],
+    "historical_uses": [
+      "Used in ancient Roman and Greek jewelry; Romans believed it contained the image of Diana, goddess of the moon",
+      "Revered in Hindu tradition as a sacred stone of the moon god Chandra",
+      "Art Nouveau jewelry movement (1890–1910) featured moonstone prominently — René Lalique designs",
+      "June birthstone designation formalized by the American National Retail Jewelers Association in 1912"
+    ],
+    "cultural_associations": [
+      "Deeply associated with the moon, lunar cycles, femininity, and water across many cultures",
+      "Roman myth: moonstone formed from solidified moonbeams",
+      "Hindu sacred stone; used in religious jewelry and ritual objects",
+      "Associated with love and fertility in many traditions",
+      "Art Nouveau era symbol of the Romantic and the mysterious"
+    ],
+    "symbolism": [
+      "lunar-energy",
+      "femininity",
+      "intuition",
+      "cycles",
+      "mystery",
+      "fertility"
+    ],
+    "folklore_notes": "Pliny the Elder wrote that moonstone's appearance changed with the phases of the moon. Roman legend held that it was formed from moonlight solidified. In India, moonstone is considered a sacred stone and a dream stone — sleeping with it is said to bring beautiful visions. The Art Nouveau jewelers of the late 19th century elevated moonstone to iconic status in Western fine jewelry."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "lunar-milk",
+      "adular-glow",
+      "night-water",
+      "floating-light"
+    ],
+    "sensory_keywords": [
+      "silky",
+      "glowing",
+      "cool",
+      "billowing",
+      "weightless",
+      "water-like"
+    ],
+    "palette_keywords": [
+      "blue-white-mist",
+      "pearl-ghost",
+      "night-water",
+      "peach-dusk",
+      "silver-fog"
+    ],
+    "aesthetic_roles": [
+      "lunar mineral",
+      "adularescent glow anchor",
+      "night-light material",
+      "feminine mystery stone"
+    ],
+    "vibe_notes": "Moonstone has one of the most evocative optical effects in mineralogy — the adularescence gives it a liquid, otherworldly quality as if light is floating just beneath the surface. The blue variety in particular has an electric, cold, lunar quality. It is the mineral most consistently associated with water, night, and the feminine across unconnected cultures."
+  },
+  "practical_notes": {
+    "toxicity": "low",
+    "handling_notes": "Safe for handling. Two cleavage directions and moderate hardness (6–6.5) mean it can chip or scratch with daily jewelry wear. Avoid knocking against hard surfaces.",
+    "care_notes": "Do not use ultrasonic or steam cleaners (cleavage risk). Clean with damp cloth and mild soap. Remove before physical activity. Store cushioned to prevent scratching.",
+    "treatments_or_synthetics": [
+      "Rainbow moonstone (actually labradorite) is widely sold as moonstone — not treated, but taxonomically misleading",
+      "Synthetic orthoclase exists but is not commercially common as moonstone simulant",
+      "Blue color in some material may be surface-enhanced (coatings)",
+      "Glass imitations (opalescent glass) common at low price points"
+    ],
+    "common_confusions": [
+      "rainbow-moonstone (actually labradorite — widespread trade confusion)",
+      "opal",
+      "opalite (glass)",
+      "chalcedony (blue)",
+      "selenite"
+    ],
+    "market_notes": "Fine blue moonstone from Sri Lanka has become increasingly rare and commands high prices. Most commercial moonstone is Indian peach/white or 'rainbow moonstone' (labradorite) from India and Madagascar. Trade naming confusion with rainbow moonstone (labradorite) is pervasive and not expected to be resolved commercially."
+  },
+  "relationships": {
+    "polymorphs": [
+      "sanidine",
+      "microcline",
+      "adularia"
+    ],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "labradorite-rainbow-moonstone",
+      "opal",
+      "opalite-glass",
+      "chalcedony",
+      "selenite"
+    ],
+    "related_species": [
+      "orthoclase",
+      "adularia",
+      "sanidine",
+      "albite",
+      "labradorite",
+      "anorthoclase"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "feldspar",
+      "adularescent",
+      "optical-effect",
+      "variety",
+      "gemstone",
+      "birthstone",
+      "lunar",
+      "june",
+      "high-priority"
+    ],
+    "search_boost_terms": [
+      "moonstone",
+      "adularescence",
+      "blue moonstone",
+      "rainbow moonstone",
+      "orthoclase feldspar gem",
+      "June birthstone",
+      "lunar gem",
+      "adular glow"
+    ],
+    "prompt_fragments": [
+      "floating blue light billowing under translucent feldspar surface",
+      "lunar milk adularescence in near-colorless K-feldspar cabochon",
+      "night-water cool glow of Sri Lankan blue moonstone"
+    ],
+    "ui_color_hint": [
+      "blue-white",
+      "pearl",
+      "silver-fog",
+      "peach-blush"
+    ],
+    "priority_score": 88
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.87,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-3016.html"
+    ],
+    "notes": "Tier 1 entry. Rainbow moonstone trade name clarified as labradorite — important commercial confusion documented."
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id": "celestite",
+  "slug": "celestite",
+  "display_name": "Celestite",
+  "classification": {
+    "chemistry_class": "sulfate",
+    "mineral_group": "barite-group",
+    "species_status": "species",
+    "parent_species": null,
+    "related_varieties": [
+      "blue-celestite"
+    ]
+  },
+  "identifiers": {
+    "ima_status": "grandfathered_approved",
+    "mindat_id": 940,
+    "other_ids": {}
+  },
+  "chemical_profile": {
+    "ideal_formula": "SrSO4",
+    "simplified_formula": "SrSO4",
+    "essential_elements": [
+      "Sr",
+      "S",
+      "O"
+    ],
+    "trace_elements_common": [
+      "Ba",
+      "Ca",
+      "Pb"
+    ],
+    "structural_units": [
+      "SO4 tetrahedra",
+      "SrO12 coordination polyhedra"
+    ],
+    "atomic_structure_notes": "Orthorhombic structure isostructural with barite (BaSO4). Sr occupies 12-coordinate sites. Complete solid solution toward barite (BaSO4) and incomplete solution toward anglesite (PbSO4). The pure Sr endmember is the mineral 'celestite' (also called 'celestine').",
+    "chemistry_notes": "Pure SrSO4 is colorless to white; the characteristic pale blue color comes from color centers related to trace impurities or radiation effects. Strontium is one of the elements that gives a brilliant crimson red in flame tests and fireworks. Celestite is the primary commercial source of strontium compounds."
+  },
+  "crystallography": {
+    "crystal_system": "orthorhombic",
+    "crystal_class": "2/m 2/m 2/m (dipyramidal)",
+    "space_group": "Pnma",
+    "unit_cell_notes": "a ≈ 8.36 Å, b ≈ 5.37 Å, c ≈ 6.87 Å",
+    "twinning": "Contact twins on {110} occasionally",
+    "crystallography_notes": "Commonly forms well-developed tabular or prismatic orthorhombic crystals. Tabular {001} with prominent pinacoidal faces typical. Also fibrous, granular, and massive forms. Geode fillings in limestone (Madagascan geodes) are the most famous collector form — clusters of blue crystals in hollow limestone cavities."
+  },
+  "physical_properties": {
+    "mohs_hardness": "3–3.5",
+    "specific_gravity": "3.96–3.98",
+    "luster": [
+      "vitreous",
+      "pearly"
+    ],
+    "streak": "white",
+    "transparency": [
+      "transparent",
+      "translucent"
+    ],
+    "cleavage": [
+      "perfect {001}",
+      "good {110}"
+    ],
+    "fracture": [
+      "uneven",
+      "conchoidal"
+    ],
+    "tenacity": "brittle",
+    "physical_notes": "High SG for a non-metallic light-colored mineral (nearly 4.0). Perfect basal cleavage. Soluble in concentrated H2SO4. Flame test: strontium produces vivid crimson-red flame — useful field test."
+  },
+  "appearance": {
+    "baseline_colors": [
+      "pale-blue",
+      "colorless",
+      "white"
+    ],
+    "color_profiles": [
+      {
+        "name": "Blue Celestite",
+        "colors": [
+          "sky-blue",
+          "pale-blue",
+          "ice-blue",
+          "cerulean"
+        ],
+        "cause": "Color centers from trace impurities and/or radiation effects; mechanism not fully established.",
+        "conditions": "Sedimentary and evaporitic deposits worldwide; most famous from Madagascar geodes.",
+        "variety_name": "blue-celestite"
+      },
+      {
+        "name": "Colorless / White Celestite",
+        "colors": [
+          "colorless",
+          "white",
+          "pale-gray"
+        ],
+        "cause": "Absence of chromophore; pure SrSO4.",
+        "conditions": "Common in evaporitic and hydrothermal settings.",
+        "variety_name": null
+      },
+      {
+        "name": "Orange / Yellow Celestite",
+        "colors": [
+          "pale-orange",
+          "pale-yellow",
+          "cream-orange"
+        ],
+        "cause": "Iron oxide staining or trace impurities.",
+        "conditions": "Sedimentary deposits.",
+        "variety_name": null
+      }
+    ],
+    "habits": [
+      "tabular",
+      "prismatic",
+      "fibrous",
+      "massive",
+      "granular",
+      "geode clusters"
+    ],
+    "textures": [
+      "glassy on crystal faces",
+      "pearly on cleavage",
+      "fibrous silky"
+    ],
+    "macro_patterns": [
+      "tabular crystal clusters in geodes",
+      "fibrous masses",
+      "granular evaporitic"
+    ],
+    "common_forms": [
+      "tabular crystal clusters in limestone geode cavities (Madagascar)",
+      "prismatic crystal groups",
+      "granular massive"
+    ],
+    "visual_notes": "Madagascar celestite geodes — hollow limestone nodules lined with pale-blue tabular crystals — are among the most widely sold mineral specimens globally. The celestial blue color is gentle and consistent. Crystals often have a translucent quality with pearly luster on cleavage surfaces."
+  },
+  "optical_and_special_effects": {
+    "fluorescence": "Some specimens fluoresce pale blue or white under SW UV",
+    "phosphorescence": "",
+    "chatoyancy": "Fibrous material may show weak cat's eye",
+    "asterism": "",
+    "iridescence": "",
+    "pleochroism": "Very weak; biaxial",
+    "optical_notes": "Biaxial positive. RI approximately 1.619–1.631. Low birefringence. Pearly cleavage luster from structural reflection."
+  },
+  "formation_and_occurrence": {
+    "genesis": [
+      "sedimentary (evaporitic)",
+      "sedimentary (diagenetic)",
+      "hydrothermal"
+    ],
+    "geologic_environments": [
+      "evaporite deposits (with halite, gypsum, anhydrite)",
+      "limestones (as secondary vein-fill and geodes)",
+      "hydrothermal veins",
+      "sedimentary sequences with Sr-rich brines"
+    ],
+    "host_rocks": [
+      "limestone and dolostone",
+      "evaporite sequences",
+      "gypsum/anhydrite beds",
+      "red beds"
+    ],
+    "associated_minerals": [
+      "gypsum",
+      "anhydrite",
+      "halite",
+      "calcite",
+      "barite",
+      "aragonite",
+      "sulfur",
+      "strontianite"
+    ],
+    "locality_scope": "worldwide",
+    "notable_localities": [
+      "Sakoany, Mahajanga (Majunga), Madagascar (world's premier source of geode specimens)",
+      "Put-in-Bay (South Bass Island), Lake Erie, Ohio, USA (historically important)",
+      "Yate, Bristol, England (historically important — fibrous)",
+      "Girgenti (Agrigento), Sicily, Italy (large crystals)",
+      "Machow Mine, Poland (industrial)",
+      "Palermo, Sicily and Caltanissetta (Italy)",
+      "Strontian, Argyllshire, Scotland (historical — strontium named here)",
+      "Westphalia, Germany"
+    ],
+    "occurrence_notes": "Celestite is the primary ore of strontium. Madagascar's Sakoany deposit produces spectacular geodes and is the world's most important source for collector material. The mineral 'strontianite' (SrCO3) and celestite were both first found near Strontian, Scotland — giving the element strontium its name. Industrial celestite mining in Poland, Germany, and Spain produces strontium for fireworks, glass TV tubes (historical), and medical uses."
+  },
+  "cultural_and_historical": {
+    "birthstone_status": [],
+    "zodiac_associations": [
+      "Gemini (some traditions)",
+      "Libra"
+    ],
+    "historical_uses": [
+      "Primary strontium ore — industrial source of strontium compounds",
+      "Strontium in fireworks (brilliant crimson-red flame)",
+      "Strontium for red traffic lights and signal flares",
+      "Strontium carbonate for CRT television glass (historical)",
+      "Medical uses (strontium ranelate for osteoporosis)",
+      "Collector mineral specimens"
+    ],
+    "cultural_associations": [
+      "Name from Latin 'caelestis' (heavenly) — referring to celestial-blue color",
+      "Madagascar geode trade sustains local mining communities",
+      "Common in crystal healing market — 'stone of celestial communication'",
+      "Strontian, Scotland — namesake of strontium (element 38)"
+    ],
+    "symbolism": [
+      "heaven and the sky",
+      "celestial communication",
+      "angelic connection",
+      "clarity and peace"
+    ],
+    "folklore_notes": "The name 'celestite' or 'celestine' comes from Latin 'caelestis' (heavenly) — a reference to the pale sky-blue color. The element strontium was first isolated from celestite and strontianite found near Strontian, a village in Argyll, Scotland — giving the element its name. Madagascar's Sakoany celestite geodes have supplied the global collector market for decades and are among the most recognizable mineral specimens in gift shops worldwide."
+  },
+  "interpretive_vibe": {
+    "mood_keywords": [
+      "celestial-blue",
+      "heaven-name",
+      "sky-crystal-cave",
+      "Madagascar-geode",
+      "strontium-sky"
+    ],
+    "sensory_keywords": [
+      "pale cool blue",
+      "pearly translucent",
+      "delicate tabular cluster",
+      "sky-inside-stone"
+    ],
+    "palette_keywords": [
+      "sky-blue-pale",
+      "ice-cerulean",
+      "pearly-celestial",
+      "cloud-blue"
+    ],
+    "aesthetic_roles": [
+      "gentle blue display mineral",
+      "celestial/angelic reference",
+      "geode interior aesthetic",
+      "Madagascar provenance marker"
+    ],
+    "vibe_notes": "Celestite holds the color of open sky inside a limestone cave. The name is fitting — pale blue, pearly, translucent, quiet. Madagascar geodes are small sky-caverns. A gentle mineral with a celestial aspiration."
+  },
+  "practical_notes": {
+    "toxicity": "Low toxicity. Strontium in mineral form is relatively insoluble and not hazardous. Strontium salts in solution have some mild health concerns but not relevant to normal specimen handling.",
+    "handling_notes": "Soft (Mohs 3–3.5) and brittle with perfect cleavage — handle crystal specimens carefully. Heavy for apparent size. Geode specimens need protection for crystal points.",
+    "care_notes": "Avoid water immersion (partially soluble over time). Clean with dry or barely damp soft brush. Do not expose to acids. Handle with care to avoid cleavage damage.",
+    "treatments_or_synthetics": [
+      "Dyeing of pale specimens to enhance blue color (uncommon)",
+      "No significant synthetic market"
+    ],
+    "common_confusions": [
+      "Barite (BaSO4 — higher SG; similar habit but heavier)",
+      "Gypsum (softer; different habit)",
+      "Blue calcite (effervesces in HCl; cubic cleavage)",
+      "Blue fluorite (cubic; harder; different cleavage)"
+    ],
+    "market_notes": "Affordable collector mineral. Madagascar geodes widely available at low prices. Larger crystals and exceptional specimens from Sicily and Ohio command moderate premium. Industrial material is commodity (strontium ore)."
+  },
+  "relationships": {
+    "polymorphs": [],
+    "pseudomorphs_after": [],
+    "pseudomorphed_by": [],
+    "lookalikes": [
+      "barite",
+      "gypsum",
+      "blue-calcite",
+      "blue-fluorite"
+    ],
+    "related_species": [
+      "barite",
+      "anglesite",
+      "strontianite"
+    ]
+  },
+  "app_metadata": {
+    "tags": [
+      "sulfate",
+      "strontium",
+      "blue",
+      "geode",
+      "orthorhombic",
+      "sedimentary",
+      "madagascar",
+      "collector-mineral"
+    ],
+    "search_boost_terms": [
+      "celestite",
+      "celestine",
+      "strontium sulfate",
+      "blue celestite",
+      "Madagascar geode",
+      "SrSO4",
+      "celestial blue mineral",
+      "strontium ore"
+    ],
+    "prompt_fragments": [
+      "Madagascar celestite geode — hollow limestone cave of sky-blue tabular crystals",
+      "pale celestial-blue orthorhombic clusters — heaven's palette in strontium sulfate",
+      "pearly-blue celestite tabular crystal with pearlescent cleavage"
+    ],
+    "ui_color_hint": [
+      "#B0D4E8",
+      "#87CEEB",
+      "#DDEEFF"
+    ],
+    "priority_score": 84
+  },
+  "provenance": {
+    "source_status": "draft",
+    "completeness": 0.88,
+    "confidence": "high",
+    "last_updated": "2026-04-08",
+    "sources": [
+      "https://www.mindat.org/min-940.html",
+      "https://www.webmineral.com/data/Celestite.shtml"
+    ],
+    "notes": ""
+  }
+}

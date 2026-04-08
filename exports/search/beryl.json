@@ -1,0 +1,68 @@
+{
+  "id": "beryl",
+  "slug": "beryl",
+  "display_name": "Beryl",
+  "chemistry_class": "silicate",
+  "species_status": "species",
+  "parent_species": null,
+  "mineral_group": "beryl-group",
+  "ima_status": "grandfathered_approved",
+  "formula": "Be3Al2Si6O18",
+  "essential_elements": [
+    "Be",
+    "Al",
+    "Si",
+    "O"
+  ],
+  "crystal_system": "hexagonal",
+  "mohs_hardness": "7.5–8",
+  "luster": [
+    "vitreous"
+  ],
+  "transparency": [
+    "transparent",
+    "translucent"
+  ],
+  "baseline_colors": [
+    "colorless",
+    "white"
+  ],
+  "genesis": [
+    "magmatic",
+    "pegmatitic",
+    "hydrothermal",
+    "metamorphic"
+  ],
+  "birthstone_status": [
+    "Emerald: May birthstone (traditional and modern)",
+    "Aquamarine: March birthstone (modern)"
+  ],
+  "tags": [
+    "gemstone",
+    "cyclosilicate",
+    "ring-silicate",
+    "beryllium",
+    "color-variety",
+    "hexagonal",
+    "high-priority",
+    "pegmatite"
+  ],
+  "search_boost_terms": [
+    "emerald",
+    "aquamarine",
+    "morganite",
+    "heliodor",
+    "beryl crystal",
+    "goshenite",
+    "beryllium silicate"
+  ],
+  "priority_score": 88,
+  "mood_keywords": [
+    "cyclosilicate-palace",
+    "deep-prism",
+    "beryllium-rainbow",
+    "gem-spectrum",
+    "hexagonal-order"
+  ],
+  "_all_text": "Beryl beryl Be3Al2Si6O18 Beryllium is the critical essential element. Color varieties arise from trace chromophores in the channels and substituting for Al: Cr3+ and V3+ produce emerald green, Fe2+/Fe3+ yield aquamarine blue-green and heliodor yellow, Mn2+/Mn3+ cause morganite pink, Cs gives maximum rose in pezzottaite. Hexagonal cross-section is diagnostic in hand specimens. Prismatic crystals can be enormous in pegmatites (multi-kilogram). Emerald is densely included compared to other varieties. Color zoning (core-to-rim or sector) occurs in some crystals. Ancient legend held that wearing an emerald could reveal truth — placing it under the tongue would supposedly make a person speak truthfully. Aquamarine was believed to be the treasure of mermaids. clarity rebirth spring vision sea-voyage Emeralds mined in Egypt at Cleopatra's Mines (Sikait) since at least 300 BCE Prized by Aztec and Inca civilizations; large specimens taken to Spain during conquest Aquamarine used as a talisman by sailors for safe sea voyages in antiquity Beryl lenses used as early magnifying glasses in medieval Europe The German word for eyeglasses ('Brille') may derive from 'Beryll' emerald aquamarine morganite heliodor beryl crystal goshenite beryllium silicate gemstone cyclosilicate ring-silicate beryllium color-variety hexagonal high-priority pegmatite cyclosilicate-palace deep-prism beryllium-rainbow gem-spectrum hexagonal-order colorless white"
+}
