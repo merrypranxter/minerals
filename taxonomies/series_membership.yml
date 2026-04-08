@@ -1,0 +1,102 @@
+# Solid-Solution Series Membership
+# Groups minerals that form continuous or partial solid-solution series
+
+series:
+  - id: feldspar-plagioclase
+    display: "Plagioclase Feldspar Series"
+    end_members:
+      - id: albite
+        formula: "NaAlSi₃O₈"
+        end: Na-rich (An0)
+      - id: anorthite
+        formula: "CaAl₂Si₂O₈"
+        end: Ca-rich (An100)
+    intermediates: [oligoclase, andesine, labradorite, bytownite]
+
+  - id: feldspar-alkali
+    display: "Alkali Feldspar Series"
+    end_members:
+      - id: albite
+        formula: "NaAlSi₃O₈"
+      - id: orthoclase
+        formula: "KAlSi₃O₈"
+    notes: "Complete at high-T; exsolution at low-T produces perthite"
+
+  - id: garnet-pyralspite
+    display: "Garnet Series (Pyralspite)"
+    end_members:
+      - id: pyrope
+        formula: "Mg₃Al₂Si₃O₁₂"
+      - id: almandine
+        formula: "Fe₃Al₂Si₃O₁₂"
+      - id: spessartine
+        formula: "Mn₃Al₂Si₃O₁₂"
+
+  - id: garnet-ugrandite
+    display: "Garnet Series (Ugrandite)"
+    end_members:
+      - id: uvarovite
+        formula: "Ca₃Cr₂Si₃O₁₂"
+      - id: grossular
+        formula: "Ca₃Al₂Si₃O₁₂"
+      - id: andradite
+        formula: "Ca₃Fe₂Si₃O₁₂"
+
+  - id: olivine-series
+    display: "Olivine Series (Forsterite-Fayalite)"
+    end_members:
+      - id: forsterite
+        formula: "Mg₂SiO₄"
+      - id: fayalite
+        formula: "Fe₂SiO₄"
+
+  - id: columbite-tantalite
+    display: "Columbite-Tantalite Series"
+    end_members:
+      - id: columbite-fe
+        formula: "FeNb₂O₆"
+      - id: tantalite-fe
+        formula: "FeTa₂O₆"
+      - id: columbite-mn
+        formula: "MnNb₂O₆"
+      - id: tantalite-mn
+        formula: "MnTa₂O₆"
+    notes: "Forms a quadrilateral solid-solution space (Nb-Ta and Fe-Mn axes)"
+
+  - id: tourmaline-series
+    display: "Tourmaline Supergroup"
+    end_members:
+      - id: schorl
+        formula: "NaFe₃Al₆(Si₆O₁₈)(BO₃)₃(OH)₄"
+      - id: elbaite
+        formula: "Na(Li,Al)₃Al₆(Si₆O₁₈)(BO₃)₃(OH)₄"
+      - id: dravite
+        formula: "NaMg₃Al₆(Si₆O₁₈)(BO₃)₃(OH)₄"
+
+  - id: epidote-series
+    display: "Epidote Series"
+    end_members:
+      - id: clinozoisite
+        formula: "Ca₂Al₃(Si₂O₇)(SiO₄)O(OH)"
+      - id: epidote
+        formula: "Ca₂Al₂Fe(Si₂O₇)(SiO₄)O(OH)"
+      - id: piemontite
+        formula: "Ca₂(Al,Mn)₃(Si₂O₇)(SiO₄)O(OH)"
+
+  - id: pyroxene-omphacite
+    display: "Pyroxene Jadeite-Augite Series (Omphacite)"
+    end_members:
+      - id: jadeite
+        formula: "NaAlSi₂O₆"
+      - id: augite
+        formula: "(Ca,Mg,Fe)(Si,Al)₂O₆"
+    notes: "Omphacite is intermediate Na(Al,Fe)(Mg,Fe)Si₂O₆; eclogite indicator"
+
+  - id: amphibole-glaucophane-series
+    display: "Sodic Amphibole Series"
+    end_members:
+      - id: glaucophane
+        formula: "Na₂Mg₃Al₂Si₈O₂₂(OH)₂"
+      - id: riebeckite
+        formula: "Na₂Fe₃Fe₂Si₈O₂₂(OH)₂"
+    notes: "Glaucophane indicates blueschist facies metamorphism"

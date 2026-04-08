@@ -1,0 +1,86 @@
+# Polymorph Relationships
+# Groups minerals that share the same chemical composition but different crystal structures
+# Includes pressure-temperature stability fields where known
+
+polymorph_groups:
+  - id: sio2-polymorphs
+    display: "SiO₂ Polymorphs"
+    members:
+      - id: quartz
+        stability: "stable at surface conditions; <573°C low-quartz, 573-870°C high-quartz"
+      - id: tridymite
+        stability: "metastable at surface; stable ~870-1470°C at 1 atm"
+      - id: cristobalite
+        stability: "metastable at surface; stable >1470°C at 1 atm"
+      - id: coesite
+        stability: "stable >3 GPa (≈100 km depth) at 700-1000°C; metastable at surface"
+      - id: stishovite
+        stability: "stable >10 GPa; ultra-high pressure; found in impact craters"
+      - id: seifertite
+        stability: "stable >100 GPa; lower mantle; found in meteorites"
+      - id: melanophlogite
+        stability: "clathrate structure; metastable; fumarolic deposits"
+      - id: moganite
+        stability: "metastable microcrystalline; associated with chalcedony"
+
+  - id: al2sio5-polymorphs
+    display: "Al₂SiO₅ Polymorphs (Aluminosilicates)"
+    notes: "Classic metamorphic indicator minerals — each stable in different P-T fields"
+    members:
+      - id: kyanite
+        stability: "high-pressure low-to-medium temperature; blueschist to eclogite facies"
+        pt_field: ">0.5 GPa, 400-700°C typical"
+      - id: sillimanite
+        stability: "high-temperature; upper amphibolite to granulite facies"
+        pt_field: "low pressure, high temperature >600°C"
+      - id: andalusite
+        stability: "low-pressure low-to-medium temperature; contact metamorphic aureoles"
+        pt_field: "<0.4 GPa, 400-650°C"
+
+  - id: caco3-polymorphs
+    display: "CaCO₃ Polymorphs"
+    members:
+      - id: calcite
+        stability: "stable at surface; trigonal"
+      - id: aragonite
+        stability: "stable at higher pressure; orthorhombic; found in blueschist and eclogite"
+      - id: vaterite
+        stability: "metastable; uncommon; biological"
+
+  - id: fes2-polymorphs
+    display: "FeS₂ Polymorphs"
+    members:
+      - id: pyrite
+        stability: "stable; isometric"
+      - id: marcasite
+        stability: "metastable; orthorhombic; low-temperature"
+
+  - id: c-polymorphs
+    display: "Carbon Polymorphs"
+    members:
+      - id: graphite
+        stability: "stable at surface conditions; layered hexagonal"
+      - id: diamond
+        stability: "metastable at surface; stable at high pressure; >4.5 GPa"
+      - id: lonsdaleite
+        stability: "hexagonal diamond; found in meteorites; shock formation"
+
+  - id: tio2-polymorphs
+    display: "TiO₂ Polymorphs"
+    members:
+      - id: rutile
+        stability: "stable; high-T form; tetragonal"
+      - id: anatase
+        stability: "metastable; low-T hydrothermal"
+      - id: brookite
+        stability: "metastable; orthorhombic"
+
+  - id: al2o3-polymorphs
+    display: "Al₂O₃ Polymorphs"
+    members:
+      - id: corundum
+        stability: "stable; hexagonal"
+      - id: diaspore
+        stability: "AlOOH; different composition but related"
+
+notes: "Polymorph stability fields are generalized and depend on bulk composition, fluid presence, and geological context."

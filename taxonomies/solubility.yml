@@ -1,0 +1,38 @@
+# Solubility Classification
+# Five tiers describing mineral solubility in water at standard conditions
+
+solubility_tiers:
+  - id: insoluble
+    display: Insoluble
+    description: "Negligible solubility in water (<0.1 mg/L). Stable in water indefinitely under normal conditions."
+    examples: [quartz, corundum, diamond, pyrite, gold, garnet, tourmaline, feldspar]
+
+  - id: slightly-soluble
+    display: Slightly Soluble
+    description: "Low but detectable solubility (0.1-100 mg/L). May show slow dissolution over geological time."
+    examples: [calcite (in CO2-free water), fluorite, barite, celestite, anglesite]
+
+  - id: soluble
+    display: Soluble
+    description: "Moderate solubility (100 mg/L - 10 g/L). Dissolves measurably in water; may lose surface quality."
+    examples: [gypsum, anhydrite, borax, smithsonite, rhodochrosite]
+
+  - id: highly-soluble
+    display: Highly Soluble
+    description: "High solubility (>10 g/L). Dissolves readily in water; specimens must be kept dry."
+    examples: [halite, sylvite, mirabilite, thenardite, epsomite, chalcanthite, niter, nitratine]
+
+  - id: hygroscopic
+    display: Hygroscopic / Deliquescent
+    description: "Absorbs water vapor from air and may dissolve in it. Specimens require sealed storage."
+    subtypes:
+      - hygroscopic: "Absorbs moisture but retains solid form"
+      - deliquescent: "Absorbs enough moisture to dissolve into a liquid"
+    examples: [carnallite, nitrocalcite, sal-ammoniac, mascagnite, tschermigite, melanterite]
+
+handling_guidance:
+  insoluble: "No special water precautions needed."
+  slightly-soluble: "Avoid prolonged water exposure; brief cleaning acceptable."
+  soluble: "Do not clean with water; keep away from moisture."
+  highly-soluble: "Store sealed; never expose to water or high humidity."
+  hygroscopic: "Store in airtight containers with desiccant; handle quickly."

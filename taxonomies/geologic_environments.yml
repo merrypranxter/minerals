@@ -108,3 +108,12 @@ geologic_environments:
   - id: kimberlite
     display: Kimberlite Pipe
     description: Ultra-mafic volcanic pipe; primary source of diamond.
+  - id: eclogite-facies
+    display: Eclogite Facies
+    description: Very high-pressure high-temperature metamorphism; omphacite + pyrope garnet assemblage; subducted oceanic crust.
+  - id: blueschist-facies
+    display: Blueschist Facies
+    description: High-pressure low-temperature metamorphism; glaucophane + lawsonite assemblage; indicates subduction zones.
+  - id: contact-metamorphic
+    display: Contact Metamorphic (Hornfels/Skarn)
+    description: Thermal metamorphism near igneous intrusions; low-pressure high-temperature; andalusite-bearing aureoles.
