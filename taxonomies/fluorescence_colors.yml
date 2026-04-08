@@ -1,0 +1,97 @@
+# Fluorescence Colors
+# Controlled vocabulary for fluorescence_color field in optical sections.
+# Colors observed under UV (shortwave 254nm or longwave 365nm) excitation.
+
+fluorescence_colors:
+
+  - id: blue
+    display: Blue
+    notes: "Most common fluorescence color in minerals. Classic in fluorite, scheelite, scapolite."
+    examples: [fluorite, scheelite, scapolite, hackmanite, sodalite]
+
+  - id: blue-white
+    display: Blue-White
+    notes: "Bright cool-white fluorescence with blue cast. Common in calcite and some feldspars."
+    examples: [calcite, some-feldspars]
+
+  - id: orange
+    display: Orange
+    notes: "Vivid orange fluorescence. Characteristic of calcite from some localities, sodalite group."
+    examples: [calcite, sodalite-group, hackmanite]
+
+  - id: orange-red
+    display: Orange-Red
+    notes: "Deep warm orange to red. Seen in some calcites and wollastonite."
+    examples: [calcite, wollastonite]
+
+  - id: red
+    display: Red
+    notes: "Pure red fluorescence. Characteristic of ruby (corundum), some scheelite, and rare garnets."
+    examples: [ruby, corundum-red, scheelite-some]
+
+  - id: crimson
+    display: Crimson
+    notes: "Deep red-violet. Seen in some fluorites and rare minerals."
+    examples: []
+
+  - id: green
+    display: Green
+    notes: "Green fluorescence. Common in willemite (defining), some apatite, and autunite (uranyl green)."
+    examples: [willemite, apatite, autunite, uraninite-some]
+
+  - id: yellow-green
+    display: Yellow-Green
+    notes: "Bright yellow-green. Characteristic of autunite and torbernite (uranyl minerals)."
+    examples: [autunite, torbernite, carnotite]
+
+  - id: yellow
+    display: Yellow
+    notes: "Yellow fluorescence. Rare; seen in some sulphates and opal varieties."
+    examples: [opal-some, some-sulphates]
+
+  - id: white
+    display: White
+    notes: "Bright white fluorescence. Common in some calcites, barite, and scapolite."
+    examples: [calcite, barite, scapolite]
+
+  - id: cream
+    display: Cream / Off-White
+    notes: "Warm white or cream. Seen in many carbonates and some feldspars."
+    examples: [calcite, dolomite]
+
+  - id: pink
+    display: Pink
+    notes: "Pink fluorescence. Seen in some calcite, manganoan minerals, and hackmanite varieties."
+    examples: [calcite-manganese, rhodonite-some, some-feldspars]
+
+  - id: violet
+    display: Violet / Purple
+    notes: "Violet fluorescence. Some fluorites, corundum, benitoite (strong)."
+    examples: [fluorite, benitoite, corundum-some]
+
+  - id: chalky-blue
+    display: Chalky Blue
+    notes: "Muted milky blue. Common in petroleum-bearing or fluid-inclusion-rich fluorite."
+    examples: [fluorite-oil-bearing, hydrothermal-calcite]
+
+  - id: none
+    display: Non-Fluorescent
+    notes: "No detectable fluorescence under standard UV conditions."
+    examples: [pyrite, gold, magnetite, most-sulfides]
+
+  - id: variable
+    display: Variable
+    notes: "Fluorescence varies significantly by locality, impurity content, or specimen."
+    examples: [fluorite, calcite, apatite]
+
+  - id: unknown
+    display: Unknown / Not Tested
+    notes: "Fluorescence data not available or not reliably documented."
+    examples: []
+
+notes:
+  - Fluorescence response is highly locality-dependent even within the same species.
+  - Shortwave (SW) UV 254nm and longwave (LW) UV 365nm often produce different responses.
+  - Midwave (MW) 302nm is less common in field use.
+  - The element Mn2+ is responsible for orange fluorescence in many carbonates and sulfates.
+  - The uranyl ion UO2²⁺ produces characteristic bright yellow-green fluorescence.

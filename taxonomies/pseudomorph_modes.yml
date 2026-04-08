@@ -1,0 +1,87 @@
+# Pseudomorph Modes
+# Controlled vocabulary for pseudomorphism types and replacement processes.
+# Pseudomorphs are minerals that have adopted the outward crystal form of another mineral.
+
+pseudomorph_modes:
+
+  - id: replacement
+    display: Replacement (True Pseudomorph)
+    description: "One mineral completely replaces another at the atomic level while preserving the outer crystal form."
+    mechanism: "Element-by-element substitution in the crystal lattice."
+    examples:
+      - "Malachite after azurite (copper carbonate system)"
+      - "Limonite/goethite after pyrite (oxidation)"
+      - "Turquoise after feldspar"
+    notes: "The original mineral is entirely gone; only the external shape remains."
+
+  - id: encrustation
+    display: Encrustation (Epimorph)
+    description: "A new mineral grows as a crust over the original mineral, which may or may not dissolve away."
+    mechanism: "Surface nucleation and growth over pre-existing crystal."
+    examples:
+      - "Quartz over fluorite then fluorite dissolves"
+      - "Druzy quartz over calcite (calcite later etched)"
+    notes: "If the original mineral is still inside, the specimen is technically a cast + encrustation."
+
+  - id: paramorphism
+    display: Paramorphism (Polymorph Change)
+    description: "A mineral transforms to a polymorph of the same composition while retaining crystal shape."
+    mechanism: "Internal structural rearrangement without change in chemistry."
+    examples:
+      - "Aragonite → calcite (same CaCO₃, different structure)"
+      - "Marcasite → pyrite"
+      - "Rutile → anatase or brookite (TiO₂ polymorphs)"
+    notes: "Chemistry unchanged; crystal structure changes."
+
+  - id: alteration
+    display: Alteration / Incomplete Replacement
+    description: "Partial replacement where original mineral remains in core, with altered rim or exterior."
+    mechanism: "Fluid-mineral reaction proceeding from surfaces inward."
+    examples:
+      - "Azurite cores with malachite rims"
+      - "Feldspar with kaolinite alteration rims"
+    notes: "Distinct from full replacement pseudomorphs; original mineral still present."
+
+  - id: fill-replacement
+    display: Fill-and-Replace (Perimorphism)
+    description: "New mineral fills voids in or around original crystal, followed by dissolution of original."
+    mechanism: "Void-filling then dissolution of template."
+    examples:
+      - "Tiger's eye (quartz filling crocidolite asbestos channels)"
+      - "Silicified wood (quartz filling wood cell walls)"
+    notes: "Original biological or mineral template dissolves; filler preserves the form."
+
+  - id: oxidation-cap
+    display: Oxidation Cap Replacement
+    description: "Primary sulfide or other mineral replaced by oxide/hydroxide/carbonate weathering products in oxidized zone."
+    mechanism: "Supergene oxidation; meteoric water reacts with primary sulfides."
+    examples:
+      - "Pyrite → limonite (iron cap / gossan)"
+      - "Chalcopyrite → malachite/azurite"
+      - "Galena → cerussite/anglesite"
+    notes: "Responsible for many of the most colorful secondary minerals in oxidized ore deposits."
+
+  - id: dehydration
+    display: Dehydration Pseudomorph
+    description: "A hydrated mineral loses water and transforms, retaining external form."
+    mechanism: "Loss of structural water, sometimes with phase change."
+    examples:
+      - "Vivianite oxidation products"
+      - "Some gypsum → anhydrite (with heat/burial)"
+    notes: "Relevant for museums managing hydrated specimens in dry climates."
+
+  - id: biological
+    display: Biologic Pseudomorph (Permineralization)
+    description: "Organic material (wood, bone, shell) replaced by mineral while preserving biological structure."
+    mechanism: "Mineral precipitation in cellular voids; replacement of organic molecules."
+    examples:
+      - "Petrified wood (quartz, opal, calcite, pyrite after wood)"
+      - "Pyritized ammonites"
+      - "Silicified corals"
+    notes: "Technically not a mineral pseudomorph in strict mineralogical sense but similar process."
+
+notes:
+  - Pseudomorphs are among the most scientifically interesting and collectible mineral specimens.
+  - A pseudomorph is identified by: unusual crystal form, different luster/color than expected, and chemical mismatch.
+  - The terms 'after' (e.g. 'malachite after azurite') identify the original mineral that was replaced.
+  - Some pseudomorphs preserve internal structure visible in thin section.

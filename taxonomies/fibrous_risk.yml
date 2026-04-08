@@ -1,0 +1,62 @@
+# Fibrous Risk
+# Controlled vocabulary for asbestiform and fibrous mineral hazard assessment.
+# Critical for safe collection, display, and educational use.
+
+fibrous_risk:
+
+  - id: none
+    display: No Fibrous Risk
+    description: "Non-fibrous habit; no asbestiform concern."
+    examples: [quartz-massive, fluorite, corundum, gold, calcite]
+
+  - id: acicular-minor
+    display: Acicular / Needle Habit (Minor Risk)
+    description: "Crystals are needlelike but do not form respirable fibers. Risk only if ground into fine dust."
+    examples: [natrolite, mesolite, scolecite, rutile-needles, actinolite-coarse]
+    handling: "Handle intact specimens normally. Do not grind."
+
+  - id: asbestiform-confirmed
+    display: Asbestiform (Confirmed Hazard)
+    description: "Verified asbestiform variety. Fibers can become airborne and cause serious lung disease (mesothelioma, asbestosis)."
+    handling: "Do NOT cut, grind, snap, or disturb. Do not display without enclosure if friable. Treat as regulated asbestos. Consult disposal regulations."
+    examples:
+      - "Chrysotile (white asbestos) — serpentine group"
+      - "Crocidolite (blue asbestos) — riebeckite variety"
+      - "Amosite (brown asbestos) — grunerite variety"
+      - "Tremolite asbestos — tremolite variety"
+      - "Actinolite asbestos — actinolite variety"
+      - "Anthophyllite asbestos — anthophyllite variety"
+
+  - id: asbestiform-risk
+    display: Asbestiform Risk (Structural Relatives)
+    description: "Mineral belongs to a group with known asbestiform members; individual specimen may or may not be asbestiform."
+    handling: "Exercise caution. Do not cut or grind. Identify fibrous vs. non-fibrous form before handling."
+    examples:
+      - "Serpentine group (chrysotile vs. antigorite/lizardite)"
+      - "Tremolite (coarse crystal vs. fibrous asbestos)"
+      - "Actinolite (crystals vs. asbestos)"
+      - "Riebeckite (crystals vs. crocidolite)"
+
+  - id: pseudomorph-legacy
+    display: Pseudomorph Legacy (Former Asbestiform)
+    description: "Mineral formed as pseudomorph after an asbestiform mineral. Usually safe if fully replaced, but debated."
+    handling: "Generally safe for fully replaced pseudomorphs. Do not generate dust from incompletely replaced specimens."
+    examples:
+      - "Tiger's eye (quartz after crocidolite — debated, generally considered safe when fully silicified)"
+      - "Hawk's eye (same)"
+
+  - id: fibrous-display-risk
+    display: Fibrous Display Risk
+    description: "Fibrous mineral where loose fibers may shed from specimen surface. Risk depends on specimen integrity."
+    handling: "Seal with museum-grade consolidant, or display in enclosed case. Do not touch with bare hands if fibers are loose."
+    examples:
+      - "Ulexite (TV stone) — fibrous boron mineral, not toxic but fine fibers can shed"
+      - "Some satin spar gypsum"
+
+notes:
+  - Asbestos is a commercial and regulatory term covering six specific fibrous silicate minerals.
+  - The hazard is from inhalation of respirable fibers, not skin contact with intact specimens.
+  - Fully crystallized specimens of tremolite, actinolite, etc. in non-fibrous habit are generally safe to handle.
+  - When in doubt, do not generate dust from any mineral specimen.
+  - Consult OSHA/EPA or national equivalents for regulations regarding asbestos disposal.
+  - Museum standard: enclose fibrous specimens; label clearly; restrict handling.

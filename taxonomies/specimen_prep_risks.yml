@@ -1,0 +1,80 @@
+# Specimen Preparation Risks
+# Controlled vocabulary for hazards encountered when preparing, cleaning, or trimming mineral specimens.
+# For collector, museum, and lab use.
+
+specimen_prep_risks:
+
+  - id: none
+    display: No Significant Risk
+    description: "Standard preparation with water, brush, or mild tools is safe."
+    examples: [quartz, fluorite, tourmaline, corundum, garnet]
+
+  - id: dust-silica
+    display: Silica Dust Hazard
+    description: "Cutting or grinding produces respirable silica dust (quartz, cristobalite) causing silicosis."
+    handling: "Use wet cutting or water suppression. N95/P100 respirator required if dry cutting. Outdoor prep recommended."
+    examples: [quartz, agate, jasper, chalcedony, chert, flint]
+
+  - id: dust-heavy-metal
+    display: Heavy Metal Dust
+    description: "Cutting, grinding, or trimming releases toxic heavy metal dust (Pb, Hg, As, Tl, etc.)."
+    handling: "N100 respirator. Wet methods preferred. Dispose of residue as hazardous waste."
+    examples:
+      - "Galena (lead)"
+      - "Cerussite (lead)"
+      - "Cinnabar (mercury)"
+      - "Arsenopyrite (arsenic)"
+      - "Realgar, orpiment (arsenic + sulfur)"
+      - "Crocoite (chromium + lead)"
+      - "Wulfenite (molybdenum + lead)"
+      - "Mimetite (arsenic + lead)"
+
+  - id: dust-copper
+    display: Copper Dust
+    description: "Copper mineral dust is toxic if inhaled or ingested. Relevant for fine specimens being trimmed."
+    handling: "Avoid dust generation. Wet trim if needed. Wash hands thoroughly after handling."
+    examples: [malachite, azurite, chalcopyrite, chalcanthite, atacamite, linarite]
+
+  - id: acid-cleaning-gas
+    display: Acid Cleaning — Toxic Gas Risk
+    description: "Acid cleaning produces toxic gases (H₂S from sulfides, HF from fluorite + H₂SO₄, etc.)."
+    handling: "Only in well-ventilated fume hood. Never acid-clean sulfide minerals casually."
+    examples:
+      - "Sulfide minerals + HCl → H₂S (hydrogen sulfide — deadly)"
+      - "Fluorite + concentrated H₂SO₄ → HF (hydrofluoric acid — extreme skin hazard)"
+
+  - id: radioactive-dust
+    display: Radioactive Dust
+    description: "Cutting or grinding radioactive minerals produces radioactive dust. Inhalation is extremely hazardous."
+    handling: "Do NOT cut, grind, or polish radioactive minerals without specialist facilities. Lead-lined gloves, respirator, dedicated workspace, regulatory compliance."
+    examples: [uraninite, autunite, torbernite, carnotite, samarskite]
+
+  - id: fragility
+    display: Fragility Risk
+    description: "Specimen is mechanically fragile; cleaning or trimming risks breakage."
+    handling: "Support specimen fully. Use fine tools. Avoid vibration. Do not use ultrasonic cleaners."
+    examples: [dioptase, cerussite, aurichalcite, adamite, erythrite]
+
+  - id: solubility
+    display: Water-Soluble — No Wet Prep
+    description: "Specimen dissolves in water. Wet preparation methods will damage or destroy specimen."
+    handling: "Dry-clean only. Air, soft brush, dental tools."
+    examples: [chalcanthite, melanterite, halite, epsomite, borax]
+
+  - id: asbestos
+    display: Asbestos / Fibrous Risk
+    description: "Mineral contains asbestiform fibers. Any cutting, trimming, or grinding releases respirable fibers."
+    handling: "Do not cut, trim, or grind. Consult asbestos disposal regulations. Enclose in resin or sealed case if display is required."
+    examples: [chrysotile, crocidolite, amosite, fibrous-tremolite, fibrous-actinolite]
+
+  - id: light-sensitive
+    display: Light / UV Sensitive
+    description: "Prolonged light or UV exposure causes color change or fading. Affects display and storage choices."
+    handling: "Display in low-UV or UV-filtered light. Do not leave in direct sunlight."
+    examples: [realgar, proustite, kunzite-some, hackmanite-SW-UV]
+
+notes:
+  - Many prep risks are compounded: e.g., arsenopyrite produces arsenic dust AND H₂S when acid-cleaned.
+  - Always research a specific mineral's hazards before any preparation work.
+  - Ultrasonic cleaners are inappropriate for many minerals (fragile, filled, treated, or water-soluble specimens).
+  - When in doubt, do not prepare; consult a professional mineralogist or museum conservator.

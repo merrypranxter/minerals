@@ -1,0 +1,58 @@
+# Acid Reactivity
+# Controlled vocabulary for acid_reactive field in mineral entries.
+# Documents response to dilute acids commonly encountered in cleaning, lab use, or display.
+
+acid_reactivity:
+
+  - id: none
+    display: Non-Reactive
+    description: "Does not react with dilute HCl, acetic acid, or common cleaning acids."
+    examples: [quartz, corundum, gold, tourmaline, garnet, topaz]
+
+  - id: effervesce-cold
+    display: Effervesce in Cold Dilute HCl
+    description: "Visibly fizzes (CO₂ release) when touched with cold 10% HCl. Characteristic of calcite-group carbonates."
+    examples: [calcite, aragonite, malachite, azurite, rhodochrosite, smithsonite, cerussite]
+
+  - id: effervesce-warm
+    display: Effervesce Only in Warm/Strong Acid
+    description: "Reacts with acid only when heated or with concentrated acid. Characteristic of dolomite."
+    examples: [dolomite, magnesite, siderite]
+
+  - id: dissolve-HCl
+    display: Dissolves in HCl
+    description: "Substantially dissolves in hydrochloric acid; useful diagnostic test but damaging to specimen."
+    examples: [calcite, galena, cerussite, anglesite]
+
+  - id: toxic-gas-risk
+    display: Toxic Gas Risk in Acid
+    description: "Reacts with acid to produce toxic or hazardous gases (H₂S, HF, AsH₃, etc.)."
+    handling: "NEVER treat with acid without fume hood. Hazardous gas production."
+    examples:
+      - "sulfides + HCl → H₂S (pyrite, galena, chalcopyrite, cinnabar)"
+      - "fluorite + H₂SO₄ → HF (extremely hazardous)"
+      - "arsenates + strong acid → potential arsenic compounds"
+    notes: "This is a critical safety category. Do not acid-clean these minerals without expert guidance."
+
+  - id: surface-etch
+    display: Surface Etches (Not Dissolves)
+    description: "Acid damages or etches surface without full dissolution. Can ruin polish on carbonates."
+    examples: [fluorite, apatite, phosphates]
+
+  - id: mild-reaction
+    display: Mild Reaction
+    description: "Slight surface reaction detectable in concentrated acid; minimal effect from dilute acid."
+    examples: [feldspar-some, some-phosphates]
+
+  - id: unknown
+    display: Unknown / Not Documented
+    description: "Acid reactivity not reliably documented in available sources."
+    examples: []
+
+notes:
+  - The classic test: calcite fizzes in cold dilute HCl; dolomite requires scratching or heating.
+  - Carbonates as a class are broadly acid-reactive.
+  - Sulfides must NEVER be treated with acid without fume hood; H₂S is deadly in concentration.
+  - Fluorite + sulfuric acid = HF (hydrofluoric acid); extremely dangerous — burns skin without immediate pain.
+  - Acid cleaning is appropriate only for certain mineral combinations (e.g., removing calcite from pyrite).
+  - Test in an inconspicuous area first; many minerals in this database are display-quality specimens.
