@@ -1,0 +1,187 @@
+id: stilbite
+slug: stilbite
+display_name: Stilbite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: zeolite-group (stilbite subgroup)
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: "grandfathered (stilbite-Ca and stilbite-Na are separate IMA species)"
+  mindat_id: 3804
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "NaCa4(Si27Al9O72)·28H2O"
+  simplified_formula: "(Ca,Na)9(Al9Si27O72)·28H2O"
+  essential_elements: [Ca, Na, Al, Si, O, H]
+  trace_elements_common: [K, Ba, Mg]
+  structural_units:
+    - "4-4-1 chain zeolite framework"
+    - "large channels with Ca/Na and water"
+  atomic_structure_notes: "Zeolite with the stilbite framework (STI topology). Large open channels accommodate Ca, Na, and water molecules. Water can be reversibly lost and reabsorbed. The bow-tie or sheaf-of-wheat aggregate habit is characteristic."
+  chemistry_notes: "One of the most common and widespread zeolites. Forms from hydrothermal alteration of volcanic rock (especially basalt vesicles). Ca-dominant (stilbite-Ca) is more common; Na-dominant (stilbite-Na) less so."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "C2/m"
+  unit_cell_notes: "a ≈ 13.61 Å, b ≈ 18.24 Å, c ≈ 11.27 Å, β ≈ 127.9°"
+  twinning: "Penetration twins on {001} creating characteristic cross-like or sheaf shapes."
+  crystallography_notes: "Characteristic habit: tabular crystals twinned to form bow-tie or sheaf-of-wheat bundles. Also single tabular crystals and spherulitic aggregates. The bow-tie aggregate is one of the most recognizable crystal forms in the zeolite family."
+
+physical_properties:
+  mohs_hardness: "3.5–4"
+  specific_gravity: "2.09–2.20"
+  luster: [vitreous, pearly on cleavage]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {010}"
+  fracture: [uneven]
+  tenacity: brittle
+  physical_notes: "Light (low SG). Pearly luster on cleavage. Often forms large, aesthetically pleasing bow-tie aggregates on matrix."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - white
+    - cream
+    - pale-orange-peach
+    - pale-pink
+    - pale-brown
+  color_profiles:
+    - name: colorless-white
+      colors: [colorless, white, cream]
+      cause: "No chromophore."
+      conditions: "Most stilbite."
+      variety_name: null
+    - name: peach-salmon
+      colors: [peach, salmon, pale-orange, cream-orange]
+      cause: "Iron oxide inclusions or Fe³⁺ impurity."
+      conditions: "Common; Pune, India specimens often show this warm tone."
+      variety_name: null
+  habits:
+    - tabular crystals
+    - bow-tie (butterfly) aggregates
+    - sheaf-of-wheat aggregates
+    - spherulitic
+    - massive
+  textures:
+    - pearly
+    - vitreous
+    - crystalline aggregates
+  macro_patterns:
+    - cream to peach bow-tie bundles on basalt matrix
+    - fan-shaped crystal sprays
+    - white sheaf-of-wheat aggregates
+  common_forms:
+    - bow-tie twinned aggregates (most iconic)
+    - tabular crystal fans
+    - matrix specimens with apophyllite or cavansite
+  visual_notes: "Stilbite's bow-tie or sheaf-of-wheat twinned aggregates are one of zeolite mineralogy's signature forms. Cream, peach, or pale-salmon bow-ties on dark basalt are immediately recognizable. The Pune, India specimens set the global standard for zeolite aesthetics."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "pale cream to orange; variable"
+    longwave_uv: "variable"
+    fluorescence_color: variable
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal (low-temperature)
+    - secondary in vesicular basalt
+  geologic_environments:
+    - vesicular basalt amygdales
+    - hydrothermal veins in basalt
+    - zeolite facies metamorphic assemblages
+  associated_minerals:
+    - heulandite
+    - apophyllite
+    - cavansite
+    - natrolite
+    - calcite
+    - prehnite
+  locality_scope: worldwide
+  notable_localities:
+    - "Pune (Poona), Maharashtra, India (world standard)"
+    - "Faroe Islands (classic)"
+    - "Iceland"
+    - "Nova Scotia, Canada"
+    - "Bergen Hill, New Jersey, USA"
+    - "Rio Grande do Sul, Brazil"
+  occurrence_notes: "One of the most widely available zeolites globally. Pune, India is the dominant modern market source."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named from Greek 'stilbein' (to glitter) by A.G. Werner, 1797."
+    - "Zeolites historically used as water softeners, ion exchangers."
+    - "Stilbite itself is primarily a collector mineral."
+  folklore_notes: "No cultural symbolism; modern collector appreciation."
+
+interpretive_vibe:
+  mood_keywords:
+    - bow-tie-crystal
+    - zeolite-cream
+    - peach-mineral
+    - gentle-India
+    - basalt-companion
+  palette_keywords:
+    - cream
+    - peach
+    - pale-salmon
+    - white
+  vibe_notes: "Stilbite is the warm, welcoming face of zeolite mineralogy — peach and cream bow-ties, soft and approachable. It's the perfect backdrop for cavansite's electric blue."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Fragile crystals. Handle by matrix."
+  care_notes: "Avoid water (may cloud or dull surface). Light dusting. Store dry."
+  treatments_or_synthetics: []
+  common_confusions:
+    - "Heulandite (very similar; coffin-shaped tabular crystals; requires chemistry)"
+    - "Thomsonite (different nodular habit)"
+  market_notes: "Widely available and affordable. Quality Pune specimens are a staple of the mineral market."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - heulandite
+    - apophyllite
+  related_species:
+    - heulandite
+    - barrerite
+
+app_metadata:
+  tags:
+    - silicate
+    - tectosilicate
+    - zeolite
+    - colorless
+    - peach
+    - bow-tie
+    - India
+    - monoclinic
+  prompt_fragments:
+    - "cream and peach bow-tie stilbite bundles on Indian basalt matrix"
+    - "sheaf-of-wheat stilbite aggregates — zeolite garden"
+  ui_color_hint:
+    - "#F5E8D8"
+    - "#E8C8A0"
+    - "#FFFFFF"
+  priority_score: 74
+
+provenance:
+  source_status: draft
+  completeness: 0.80
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3804.html"
+  notes: ""
