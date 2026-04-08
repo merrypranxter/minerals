@@ -1,0 +1,238 @@
+id: cuprite
+slug: cuprite
+display_name: Cuprite
+
+classification:
+  chemistry_class: oxide
+  mineral_group: cuprite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - chalcotrichite
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1172
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Cu2O"
+  simplified_formula: "Cu2O"
+  essential_elements: [Cu, O]
+  trace_elements_common: [Fe]
+  structural_units:
+    - "Cu-O linear coordination chains"
+    - "Cu₂O anticrystal-like network with Cu in 2-coordination"
+  atomic_structure_notes: "Simple cubic structure (Pn3̄m). Each O is surrounded by a tetrahedron of 4 Cu; each Cu is linearly bonded to 2 O atoms. This unusual linear 2-coordination of copper is the structural basis for the exceptionally high density and optical properties."
+  chemistry_notes: "Cuprite is a cuprous oxide (Cu⁺, not Cu²⁺). The deep red color comes from optical absorption in the cuprous state. Second to native copper as a source of copper in oxidized deposits. Chalcotrichite is the hairlike (acicular) variety of cuprite."
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: "hexoctahedral"
+  space_group: "Pn3̄m"
+  unit_cell_notes: "a ≈ 4.27 Å; Z = 2"
+  twinning: "Penetration twins on {111} (spinel law)."
+  crystallography_notes: "Forms octahedral, cubic, and dodecahedral crystals, sometimes in combination. Chalcotrichite variety forms elongated capillary ('hairlike') crystals that create velvety or fibrous masses. Both forms can be brilliant red with adamantine to submetallic luster."
+
+physical_properties:
+  mohs_hardness: "3.5–4"
+  specific_gravity: "5.85–6.15"
+  luster: [adamantine, submetallic]
+  streak: brownish-red
+  transparency: [transparent, translucent, opaque]
+  cleavage:
+    - "imperfect {111}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Very dense for an oxide. Adamantine luster in well-formed crystals — can resemble a dark ruby. Chalcotrichite variety has hairlike habit and appears velvety red."
+
+appearance:
+  baseline_colors:
+    - deep-red
+    - ruby-red
+    - crimson
+    - brownish-red
+  color_profiles:
+    - name: ruby-red-crystals
+      colors: [deep-red, ruby-red, garnet-red, blood-red]
+      cause: "Cu⁺ electronic transitions; strong absorption in blue-green producing intense red."
+      conditions: "Well-formed octahedral or cubic crystals."
+      variety_name: null
+    - name: chalcotrichite-red-velvet
+      colors: [scarlet-red, ruby-red, crimson]
+      cause: "Same Cu⁺ absorption; fibrous habit creates velvety texture."
+      conditions: "Capillary/hairlike chalcotrichite variety."
+      variety_name: chalcotrichite
+    - name: dark-brownish-red
+      colors: [brownish-red, dark-red, maroon]
+      cause: "Partial alteration or fine-grained masses."
+      conditions: "Massive or microcrystalline form."
+      variety_name: null
+  habits:
+    - octahedral
+    - cubic
+    - dodecahedral
+    - capillary (chalcotrichite)
+    - massive
+    - granular
+  textures:
+    - adamantine glassy
+    - velvety (chalcotrichite)
+    - earthy massive
+  macro_patterns:
+    - ruby-red octahedra on copper or green malachite matrix
+    - velvety red fiber mats
+    - dark red granular masses
+  common_forms:
+    - cubic and octahedral crystals
+    - chalcotrichite fiber masses
+    - massive granular aggregates
+  visual_notes: "Well-formed cuprite crystals have an extraordinary adamantine luster — transparent deep red, almost like synthetic ruby in appearance. Chalcotrichite creates brilliant scarlet-to-crimson velvety masses that catch light as a micro-fiber carpet. Both forms with green malachite or native copper make spectacular matrix specimens."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "High refractive index (n ≈ 2.849) gives strong adamantine luster. Deep red to brownish-red internal color. Some thin crystals may be translucent ruby-red."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized copper deposits)
+  geologic_environments:
+    - oxidized zone of copper sulfide deposits
+    - supergene enrichment zone
+  host_rocks:
+    - gossan
+    - copper-bearing shale
+    - quartz veins in porphyry copper system
+  associated_minerals:
+    - native copper
+    - malachite
+    - azurite
+    - tenorite
+    - chrysocolla
+    - chalcocite
+    - limonite
+    - wulfenite
+  locality_scope: worldwide
+  notable_localities:
+    - "Chessy, Rhône, France (classic locality; 'chessylite' was old name)"
+    - "Bisbee, Arizona, USA"
+    - "Tsumeb, Namibia"
+    - "Onganja, Namibia"
+    - "Broken Hill, New South Wales, Australia"
+    - "Corocoro, Bolivia"
+    - "Morenci, Arizona, USA"
+    - "Altai, Kazakhstan"
+  occurrence_notes: "Found in oxidized zones of copper deposits worldwide. Typically forms above the water table by oxidation of chalcocite and other primary copper sulfides. Often associated with native copper, malachite, and azurite."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Important copper ore historically, particularly before chalcopyrite processing."
+    - "French locality Chessy, Rhône gave the old name 'chessylite' (now applied to azurite from that locality)."
+    - "Used as a pigment in some historical contexts (red)."
+  cultural_associations:
+    - "Associated with copper energy, vitality, and passion in crystal healing."
+  symbolism:
+    - vitality
+    - copper-red
+    - blood-energy
+    - passion
+  folklore_notes: "Cuprite has minimal cultural folklore beyond its role as a copper ore. Its striking ruby-red color has attracted collectors and mineralogists, but it lacks the ancient cultural history of gold, lapis, or malachite."
+
+interpretive_vibe:
+  mood_keywords:
+    - blood-ruby
+    - copper-fire
+    - deep-red-metal
+    - velvet-crimson
+    - oxide-jewel
+  sensory_keywords:
+    - dark adamantine glow
+    - heavy dense feel
+    - ruby red depth
+    - velvety fiber surface
+  palette_keywords:
+    - deep-crimson
+    - blood-red
+    - ruby
+    - copper-oxide-red
+  aesthetic_roles:
+    - maximum red saturation reference
+    - dense oxide focal point
+    - contrast with malachite green
+    - velvet mineral texture
+  vibe_notes: "Cuprite is the darkest, densest, most adamantine red in the copper mineral family. It smolders rather than blazes. Against the bright green of malachite or native copper skin, cuprite's ruby-red creates one of mineralogy's most dramatic color contrasts."
+
+practical_notes:
+  toxicity: "Copper-bearing mineral. Avoid dust inhalation and ingestion. Wash hands after handling."
+  handling_notes: "Fragile crystals; chalcotrichite fibers are extremely delicate. Handle by matrix only. Do not use ultrasonic cleaners."
+  care_notes: "Avoid acids (destroys copper oxide minerals). Keep dry. Light dusting only."
+  treatments_or_synthetics:
+    - "No synthetic cuprite on the collector market."
+    - "No common treatments."
+  common_confusions:
+    - "Ruby (much harder, different crystal system, much lighter SG)"
+    - "Garnet (higher SG but different crystal system, non-metallic luster)"
+    - "Hematite (gray streak, different luster)"
+    - "Zincite (orange-red, different crystal habit)"
+  market_notes: "Collector mineral. Well-formed octahedral crystals and chalcotrichite specimens are desirable. Prices scale with crystal quality and associated minerals."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [malachite, azurite, tenorite]
+  lookalikes:
+    - ruby
+    - almandine-garnet
+    - hematite
+    - zincite
+  related_species:
+    - tenorite
+    - native copper
+    - malachite
+    - azurite
+
+app_metadata:
+  tags:
+    - oxide
+    - copper
+    - red
+    - secondary
+    - adamantine
+    - chalcotrichite
+    - isometric
+    - high-density
+  search_boost_terms:
+    - cuprite crystal
+    - red copper oxide
+    - chalcotrichite
+    - ruby red mineral
+    - copper ore secondary
+    - cuprous oxide mineral
+  prompt_fragments:
+    - "deep ruby-red adamantine octahedral cuprite crystals on native copper"
+    - "velvety scarlet chalcotrichite fiber mat with malachite contrast"
+    - "dark crimson cuprite with high-density glass-like red luster"
+  ui_color_hint:
+    - "#8B0000"
+    - "#A31515"
+    - "#C41E3A"
+  priority_score: 83
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1172.html"
+    - "https://www.webmineral.com/data/Cuprite.shtml"
+    - "Handbook of Mineralogy, Vol. III: Anthony et al."
+  notes: ""

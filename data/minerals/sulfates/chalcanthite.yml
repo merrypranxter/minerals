@@ -1,0 +1,243 @@
+id: chalcanthite
+slug: chalcanthite
+display_name: Chalcanthite
+
+classification:
+  chemistry_class: sulfate
+  mineral_group: chalcanthite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 966
+  other_ids:
+    historic_name: "blue vitriol, bluestone, copper sulfate pentahydrate"
+
+chemical_profile:
+  ideal_formula: "CuSO4·5H2O"
+  simplified_formula: "CuSO4·5H2O"
+  essential_elements: [Cu, S, O, H]
+  trace_elements_common: [Fe, Zn, Mn]
+  structural_units:
+    - "sulfate (SO4)²⁻ tetrahedra"
+    - "Cu²⁺ in octahedral coordination with 4 H₂O and 2 O (from SO₄)"
+    - "5 water molecules total per formula unit"
+  atomic_structure_notes: "Triclinic structure. Four of the five water molecules coordinate directly to Cu²⁺; the fifth water molecule bridges sulfate tetrahedra via hydrogen bonds. This distinctive bridging water is why the mineral is 'pentahydrate.' Cu²⁺ is in a Jahn-Teller distorted octahedral environment."
+  chemistry_notes: "Chalcanthite is one of the most water-sensitive collector minerals. It dissolves rapidly in water and absorbs/releases water with humidity changes. Most 'chalcanthite' sold commercially is synthetic (laboratory CuSO₄·5H₂O) — natural specimens are rarer and typically smaller."
+
+crystallography:
+  crystal_system: triclinic
+  crystal_class: "pinacoidal"
+  space_group: "P1̄"
+  unit_cell_notes: "a ≈ 6.12 Å, b ≈ 10.72 Å, c ≈ 5.97 Å, α ≈ 82.3°, β ≈ 107.4°, γ ≈ 102.6°"
+  twinning: "Penetration twins on {100}."
+  crystallography_notes: "Forms thick tabular to prismatic crystals with complex faces. Also occurs as stalactites, crusts, efflorescences, and fibrous masses. Most natural specimens are small; large natural chalcanthite crystals are uncommon."
+
+physical_properties:
+  mohs_hardness: "2.5"
+  specific_gravity: "2.12–2.30"
+  luster: [vitreous]
+  streak: white to very pale blue
+  transparency: [transparent, translucent]
+  cleavage:
+    - "imperfect {110}"
+    - "imperfect {1̄10}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Water soluble. Hygroscopic — absorbs moisture from the air. Dehydrates in very dry conditions. Has a metallic/astringent taste (do NOT taste — toxic copper compound). Very low hardness."
+
+appearance:
+  baseline_colors:
+    - vivid-blue
+    - sky-blue
+    - cerulean-blue
+    - prussian-blue
+  color_profiles:
+    - name: vivid-blue
+      colors: [vivid-blue, sky-blue, cerulean, prussian-blue, cobalt-blue]
+      cause: "Cu²⁺ Jahn-Teller distorted octahedral coordination with water and sulfate; strong d-d absorption."
+      conditions: "All chalcanthite; this color is intrinsic."
+      variety_name: null
+    - name: greenish-blue
+      colors: [blue-green, aqua, teal-blue]
+      cause: "Slight variation in Cu coordination environment or trace Fe."
+      conditions: "Some specimens."
+      variety_name: null
+  habits:
+    - tabular
+    - prismatic
+    - stalactitic
+    - botryoidal
+    - massive
+    - fibrous-efflorescence
+    - granular
+  textures:
+    - glassy
+    - translucent blue
+    - stalactitic surface
+  macro_patterns:
+    - vivid blue stalactites in mine cavities
+    - blue crust on mine walls (efflorescence)
+    - large blue crystal masses
+  common_forms:
+    - "mine wall efflorescences (most natural chalcanthite)"
+    - synthetic crystal masses (most commercial product)
+    - small natural tabular crystals
+    - stalactites in copper mine drainage zones
+  visual_notes: "Chalcanthite produces one of the purest, most saturated blues in the mineral kingdom — a vivid cerulean blue that needs no enhancement. Natural specimens as stalactites or crusts in copper mines are ephemeral and dramatic. Commercially, large synthetic crystals are widely sold — they are genuine CuSO₄·5H₂O but not natural mineral specimens."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Pleochroic: vivid blue / pale blue. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized copper sulfide deposits)
+    - evaporative (in dry mine environments)
+    - acid mine drainage precipitate
+  geologic_environments:
+    - arid oxidized zones of copper mines
+    - mine drainage channels and tunnels
+    - dry copper mine walls (efflorescence)
+  host_rocks:
+    - copper sulfide ore
+    - mine tunnel walls
+  associated_minerals:
+    - pyrite
+    - chalcopyrite
+    - brochantite
+    - melanterite
+    - epsomite
+    - gypsum
+    - native copper
+  locality_scope: worldwide (wherever copper mines occur in arid regions)
+  notable_localities:
+    - "Chuquicamata, Chile (enormous natural deposits)"
+    - "Bisbee, Arizona, USA"
+    - "Rio Tinto, Spain"
+    - "Butte, Montana, USA"
+    - "Chessy, France"
+    - "Various mines in arid Nevada and Arizona"
+    - "Atacama Desert mine sites, Chile"
+  occurrence_notes: "Natural chalcanthite forms abundantly as mine efflorescences in dry copper mines, especially in arid climates. It is unstable in humid environments and will dissolve in rainwater. The largest natural deposits are in the Atacama region of Chile."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Used since antiquity as a fungicide, herbicide, and for copper plating."
+    - "Known as 'blue vitriol' or 'copper vitriol' in alchemical and early chemistry literature."
+    - "Used in Bordeaux mixture (copper sulfate + lime) for fungal disease control in vineyards (from 1880s)."
+    - "Electroplating and copper refining."
+    - "Used as an algicide in water treatment."
+    - "Widely used in chemistry education and crystal-growing kits."
+    - "Mining use: controlled precipitation of copper from acid mine drainage."
+  cultural_associations:
+    - "Iconic chemistry classroom crystal-growing mineral."
+    - "The blue of chemistry labs and crystal kits."
+  symbolism:
+    - copper chemistry
+    - vivid blue
+    - transformation
+    - industrial alchemy
+  folklore_notes: "Chalcanthite ('blue vitriol') has a long history in alchemy and early chemistry, where sulfates were called 'vitriols.' It appears in alchemical texts and was used extensively in 19th-century agriculture. Today it's best known as a chemistry education crystal-growing specimen."
+
+interpretive_vibe:
+  mood_keywords:
+    - electric-cerulean
+    - chemistry-blue
+    - vitriol-crystal
+    - mine-stalactite
+    - synthetic-natural-twin
+  sensory_keywords:
+    - glassy sky-blue
+    - cool vivid color
+    - astringent metallic (toxic — never taste)
+    - crystalline blue light
+  palette_keywords:
+    - cerulean
+    - sky-blue
+    - prussian-blue
+    - vivid-copper-blue
+  aesthetic_roles:
+    - pure blue reference
+    - copper chemistry visual
+    - mine-environment specimen
+    - chemistry education icon
+  vibe_notes: "Chalcanthite is what happens when copper and water combine into a vivid, ephemeral blue. In dry mines it grows as stalactites. In chemistry labs it grows as perfect blue crystals. It's a mineral about the instability of beauty — dissolve it and it's gone."
+
+practical_notes:
+  toxicity: "Copper-bearing mineral. WATER SOLUBLE — dissolves in water. Do not ingest (toxic copper sulfate). Do not breathe dust. Keep away from children. Wash hands after handling."
+  handling_notes: "Handle with dry hands only. Do not expose to water, humidity, or moisture. Specimens will absorb moisture and eventually dissolve or dehydrate and crack in extreme conditions."
+  care_notes: "Store in airtight container with silica gel desiccant. Never expose to water. Keep away from humid environments. If stored too dry, may dehydrate to chalcocyanite (anhydrous CuSO₄, white powder)."
+  treatments_or_synthetics:
+    - "Large commercial 'chalcanthite' crystals are almost always synthetic — laboratory-grown CuSO₄·5H₂O."
+    - "These are genuine mineral composition but not natural geological specimens."
+    - "Natural specimens are from mine efflorescences and are typically smaller and less perfectly formed."
+  common_confusions:
+    - "Synthetic vs. natural (synthetic is the dominant market product; verify with dealer)"
+    - "Linarite (also vivid blue, but not water-soluble, different crystal habit)"
+    - "Azurite (does not dissolve in water; different crystal habit)"
+  market_notes: "Synthetic chalcanthite crystals widely available in science/education market. Natural specimens available from specialty mineral dealers at premium over synthetic. The distinction should always be disclosed."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - linarite
+    - azurite
+    - vivianite
+    - shattuckite
+  related_species:
+    - melanterite
+    - epsomite
+    - retgersite
+    - brochantite
+
+app_metadata:
+  tags:
+    - sulfate
+    - copper
+    - water-soluble
+    - hygroscopic
+    - blue
+    - secondary
+    - triclinic
+    - chalcanthite-group
+    - mine-efflorescence
+  search_boost_terms:
+    - chalcanthite crystal
+    - blue copper sulfate
+    - blue vitriol
+    - water soluble blue mineral
+    - copper sulfate pentahydrate
+    - vivid blue sulfate mineral
+  prompt_fragments:
+    - "vivid cerulean-blue chalcanthite stalactites in copper mine cavity"
+    - "electric sky-blue translucent chalcanthite crystal mass"
+    - "glassy blue CuSO4 mineral — ephemeral and water-soluble"
+  ui_color_hint:
+    - "#1E90FF"
+    - "#3CB8E0"
+    - "#00BFFF"
+  priority_score: 82
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-966.html"
+    - "https://www.webmineral.com/data/Chalcanthite.shtml"
+    - "Handbook of Mineralogy, Vol. V: Anthony et al."
+  notes: "Natural vs. synthetic distinction is important for this entry. Water solubility and copper toxicity are critical practical notes."

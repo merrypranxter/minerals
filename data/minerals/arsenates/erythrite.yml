@@ -1,0 +1,235 @@
+id: erythrite
+slug: erythrite
+display_name: Erythrite
+
+classification:
+  chemistry_class: arsenate
+  mineral_group: vivianite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - annabergite (Ni-analogue)
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1436
+  other_ids:
+    historic_name: "cobalt bloom"
+
+chemical_profile:
+  ideal_formula: "Co3(AsO4)2·8H2O"
+  simplified_formula: "Co3(AsO4)2·8H2O"
+  essential_elements: [Co, As, O, H]
+  trace_elements_common: [Ni, Fe, Ca]
+  structural_units:
+    - "arsenate (AsO4)³⁻ tetrahedra"
+    - "Co²⁺ in octahedral coordination with H2O"
+    - "structural water in layered channels"
+  atomic_structure_notes: "Monoclinic structure (vivianite-type). Cobalt occupies two octahedral sites. The layered structure accommodates water molecules. The vivid color comes from Co²⁺ in octahedral coordination with oxygen and water ligands."
+  chemistry_notes: "A fully hydrated cobalt arsenate. Forms a complete series with annabergite (Ni end-member) and partial series with vivianite (Fe end-member). The vivid crimson-magenta-pink color is one of the most intense in the mineral kingdom. 'Cobalt bloom' — the vivid pink-crimson surface stain on cobalt-bearing rocks — is one of the most reliable field indicators for cobalt ore."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "C2/m"
+  unit_cell_notes: "a ≈ 10.195 Å, b ≈ 13.381 Å, c ≈ 4.756 Å, β ≈ 105.1°"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms thin prismatic to acicular crystals in fan-shaped or stellate aggregates; also globular, reniform, and encrusting masses. Crystals are typically small and soft. The vivid color makes even small amounts visually unmistakable."
+
+physical_properties:
+  mohs_hardness: "1.5–2.5"
+  specific_gravity: "3.06–3.18"
+  luster: [adamantine, pearly, vitreous]
+  streak: "pink to pale red"
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {010}"
+  fracture: [uneven]
+  tenacity: brittle
+  physical_notes: "Very soft. Prismatic crystals are flexible but not elastic. High luster for such a soft mineral. Perfect {010} cleavage yields pearly cleavage faces."
+
+appearance:
+  baseline_colors:
+    - crimson
+    - magenta
+    - vivid-pink
+    - raspberry-red
+  color_profiles:
+    - name: vivid-crimson-magenta
+      colors: [crimson, magenta, vivid-pink, raspberry, hot-pink]
+      cause: "Co²⁺ in octahedral coordination with O and H₂O ligands; d-d absorption in yellow-green range produces vivid red-pink."
+      conditions: "All erythrite specimens — this is an intrinsic color, not an impurity."
+      variety_name: null
+    - name: pale-pink-to-white
+      colors: [pale-pink, blush, near-white]
+      cause: "Dilution by annabergite (Ni) end-member or fine-grained habit."
+      conditions: "Ni-rich varieties; intermediate compositions toward annabergite."
+      variety_name: null
+  habits:
+    - prismatic
+    - acicular
+    - stellate aggregates
+    - globular
+    - reniform (kidney-shaped)
+    - earthy encrustations
+    - powder/bloom
+  textures:
+    - vitreous to adamantine
+    - velvety (earthy form)
+    - silky (acicular)
+  macro_patterns:
+    - vivid pink-crimson bloom on dark cobalt-arsenic ore
+    - stellate pink crystal sprays
+    - bright magenta powder coating on ore matrix
+  common_forms:
+    - "cobalt bloom" encrustation on cobalt ore
+    - prismatic crystal aggregates
+    - acicular sprays
+  visual_notes: "Erythrite is one of the most vivid pinks in the entire mineral world — a hot-pink to raspberry-crimson that makes specimens instantly identifiable. Even trace amounts of erythrite as surface 'bloom' on cobalt-bearing ores create an unmistakable visual signal. Full crystal specimens are rare but spectacular."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none to weak"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Strong pleochroism: deep red / pale red / pale pink. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized cobalt-arsenic ore)
+  geologic_environments:
+    - oxidized zone of cobaltite, smaltite, and arsenide ore deposits
+    - supergene alteration of cobalt arsenide minerals
+  host_rocks:
+    - cobalt-arsenic ore
+    - quartz-carbonate veins with cobalt arsenides
+  associated_minerals:
+    - cobaltite
+    - smaltite
+    - skutterudite
+    - arsenopyrite
+    - native bismuth
+    - native silver
+    - annabergite
+    - vivianite
+  locality_scope: limited
+  notable_localities:
+    - "Schneeberg, Saxony, Germany (classic, finest)"
+    - "Cobalt, Ontario, Canada"
+    - "Bou Azzer, Morocco"
+    - "Skutterud, Norway"
+    - "Tunaberg, Sweden"
+    - "Aguas Teñidas, Spain"
+    - "San Juan Province, Argentina"
+  occurrence_notes: "Found in oxidized zones above cobalt arsenide deposits. Classic localities in the silver-cobalt-arsenide ore belts of Schneeberg (Germany) and Cobalt (Ontario). Bou Azzer, Morocco is a major modern source of fine specimens."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Named from Greek 'erythros' (red) by J.D. Dana, 1868."
+    - "Historical field indicator for cobalt ore ('cobalt bloom')."
+    - "The cobalt from such deposits was the source of the blue pigment 'smalt' (cobalt glass) and eventually cobalt blue."
+    - "No direct industrial use of erythrite itself."
+  cultural_associations:
+    - "Cobalt blue glass and smalt — derived from cobalt ore identified by erythrite bloom — colored medieval church windows and Delftware."
+    - "The connection to cobalt blue pigment links erythrite indirectly to the history of European blue art."
+  symbolism:
+    - vivid warning pink
+    - cobalt ore signal
+    - toxic bloom
+    - magenta intensity
+  folklore_notes: "Erythrite's primary historical role was as a prospecting indicator — the pink bloom on rocks was a sign to dig for cobalt ore. The cobalt-cobalt arsenide mining at Schneeberg and Cobalt (Ontario) was historically significant for producing the cobalt used in blue glass and pigments."
+
+interpretive_vibe:
+  mood_keywords:
+    - cobalt-bloom
+    - hot-pink-arsenic
+    - toxic-crimson
+    - vivid-warning
+    - raspberry-poison
+  sensory_keywords:
+    - shockingly pink
+    - velvety or glassy
+    - vivid on dark rock
+    - soft and powdery
+  palette_keywords:
+    - hot-pink
+    - crimson
+    - magenta
+    - raspberry
+    - deep-pink
+  aesthetic_roles:
+    - maximum pink saturation reference
+    - toxic color warning motif
+    - cobalt ore indicator
+    - vivid accent against dark matrix
+  vibe_notes: "Erythrite has possibly the most aggressive pink in the mineral kingdom. It doesn't whisper — it screams. On a dark rock matrix, cobalt bloom erythrite looks like someone spilled Day-Glo magenta paint over a chunk of ancient cobalt ore."
+
+practical_notes:
+  toxicity: "COBALT AND ARSENIC-BEARING MINERAL. High hazard. Cobalt and arsenic are both toxic. Avoid generating dust. Do not ingest. Wash hands thoroughly after handling. Keep away from children."
+  handling_notes: "Handle as display specimen. Do not grind or break. The powder form ('cobalt bloom' encrustation) is particularly loose and should not be disturbed."
+  care_notes: "Do not clean with acid. Store in labeled container. Handle with care to avoid disturbing loose encrustation."
+  treatments_or_synthetics:
+    - "No synthetic erythrite on the collector market."
+  common_confusions:
+    - "Annabergite (Ni-analogue — apple green rather than pink-red; similar habit)"
+    - "Vivianite (Fe-analogue — blue-green, not pink)"
+    - "Roselite (similar cobalt arsenate; different formula)"
+  market_notes: "Highly desired collector mineral for its extraordinary color. Fine crystal specimens from Schneeberg and Bou Azzer are prized. Even modest specimens are visually striking."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - annabergite
+    - vivianite
+    - roselite
+  related_species:
+    - annabergite
+    - vivianite
+    - roselite
+    - cabrerite
+
+app_metadata:
+  tags:
+    - arsenate
+    - cobalt
+    - pink
+    - secondary
+    - toxic
+    - cobalt-bloom
+    - monoclinic
+    - collector
+    - vivianite-group
+  search_boost_terms:
+    - erythrite crystal
+    - cobalt bloom mineral
+    - vivid pink mineral
+    - cobalt arsenate
+    - Schneeberg mineral
+    - magenta mineral
+  prompt_fragments:
+    - "vivid raspberry-magenta cobalt bloom erythrite on dark arsenide ore"
+    - "hot-pink stellate erythrite crystal sprays on black cobalt ore"
+    - "shocking crimson powder bloom of erythrite — nature's most intense pink"
+  ui_color_hint:
+    - "#DC143C"
+    - "#FF1493"
+    - "#C71585"
+  priority_score: 83
+
+provenance:
+  source_status: draft
+  completeness: 0.87
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1436.html"
+    - "https://www.webmineral.com/data/Erythrite.shtml"
+    - "Handbook of Mineralogy, Vol. IV: Anthony et al."
+  notes: "Co²⁺ color mechanism well-established. Both Co and As toxicity are critical handling notes."

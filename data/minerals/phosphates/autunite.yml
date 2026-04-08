@@ -1,0 +1,241 @@
+id: autunite
+slug: autunite
+display_name: Autunite
+
+classification:
+  chemistry_class: phosphate
+  mineral_group: autunite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 401
+  other_ids:
+    group: autunite-group
+
+chemical_profile:
+  ideal_formula: "Ca(UO2)2(PO4)2·10-12H2O"
+  simplified_formula: "Ca(UO2)2(PO4)2·10-12H2O"
+  essential_elements: [Ca, U, P, O, H]
+  trace_elements_common: [Ba, Mg, Fe]
+  structural_units:
+    - "uranyl ion (UO2)²⁺ — linear O=U=O unit"
+    - "phosphate (PO4)³⁻ tetrahedra"
+    - "Ca²⁺ between sheets"
+    - "structural water layers"
+  atomic_structure_notes: "Sheet structure with alternating UO₂-PO₄ layers and interlayer Ca²⁺ and H₂O. The uranyl ion (UO₂²⁺) is the chromophore for both the bright yellow-green color and the intense UV fluorescence. Autunite is prone to losing water (meta-autunite) under dry conditions, with structural change."
+  chemistry_notes: "A uranyl calcium phosphate — one of the most common and visually striking secondary uranium minerals. The autunite group contains numerous members with different interlayer cations. Meta-autunite-I (fewer water molecules) forms when autunite dehydrates; this transition can damage crystals."
+
+crystallography:
+  crystal_system: tetragonal
+  crystal_class: "ditetragonal dipyramidal"
+  space_group: "P4/nnc"
+  unit_cell_notes: "a ≈ 6.990 Å, c ≈ 20.69 Å"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms flat square to rectangular tabular crystals, often in fan-shaped or book-like aggregates. The {001} cleavage is perfect and makes crystals into thin flat plates. Crystals and micas-like foliated masses are characteristic."
+
+physical_properties:
+  mohs_hardness: "2–2.5"
+  specific_gravity: "3.05–3.20"
+  luster: [vitreous, pearly on cleavage]
+  streak: yellow
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect {001}"
+    - "good {100}"
+  fracture: [uneven]
+  tenacity: brittle
+  physical_notes: "Very soft. Perfect basal cleavage yields thin flexible (but not elastic) cleavage plates. High SG for a phosphate reflects uranium content."
+
+appearance:
+  baseline_colors:
+    - lemon-yellow
+    - yellow-green
+    - golden-yellow
+  color_profiles:
+    - name: lemon-yellow
+      colors: [lemon-yellow, bright-yellow, canary-yellow]
+      cause: "Uranyl ion (UO₂²⁺) charge-transfer absorption; distinctive color from U⁶⁺ electronic structure."
+      conditions: "Standard autunite."
+      variety_name: null
+    - name: yellow-green
+      colors: [yellow-green, lime-yellow, chartreuse]
+      cause: "Same uranyl chromophore, slight variation."
+      conditions: "Some specimens."
+      variety_name: null
+  habits:
+    - tabular
+    - square plates
+    - foliated
+    - book-like aggregates
+    - fan-shaped aggregates
+    - micaceous crusts
+  textures:
+    - pearly cleavage
+    - flat glassy tablets
+    - foliated
+  macro_patterns:
+    - stacked flat yellow square plates
+    - lemon-yellow micas on granitic matrix
+    - yellow crusts on quartz/feldspar
+  common_forms:
+    - flat tabular crystals in rosette/fan aggregates
+    - foliated mica-like masses
+    - crusts on granite or pegmatite
+  visual_notes: "Autunite produces one of the most vivid yellows in the mineral kingdom — an intense, almost neon lemon-yellow that practically glows even in visible light, and becomes spectacularly fluorescent under UV. The flat square tabular crystals with pearly cleavage and vivid yellow are instantly recognizable."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "intense yellow-green fluorescence — among the most spectacular UV responses of any mineral"
+    longwave_uv: "strong yellow-green fluorescence"
+    fluorescence_color: yellow-green
+  tenebrescence: false
+  phosphorescence: "strong yellow-green phosphorescence — glows in the dark after UV exposure"
+  special_effects:
+    - exceptional-UV-fluorescence
+    - phosphorescence
+    - radioactivity
+  optical_notes: "The strong yellow-green fluorescence under both SW and LW UV is one of the most useful identification characteristics and is caused by the uranyl ion (UO₂²⁺) — same chromophore as the visible yellow color. Autunite is strongly radioactive."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized uranium ore)
+    - weathering product
+  geologic_environments:
+    - oxidized zone of uraninite or pitchblende deposits
+    - granitic pegmatites with uranium
+    - hydrothermal uranium veins (oxidized upper zone)
+  host_rocks:
+    - granite
+    - granitic pegmatite
+    - arkose sandstone
+    - quartz veins
+  associated_minerals:
+    - uraninite
+    - torbernite
+    - meta-autunite
+    - uranophane
+    - liebigite
+    - kasolite
+    - mica
+    - fluorapatite
+  locality_scope: worldwide
+  notable_localities:
+    - "Autun, Saône-et-Loire, France (type locality)"
+    - "Margabal, Aveyron, France"
+    - "Daybreak Mine, Washington, USA"
+    - "Spruce Pine, North Carolina, USA"
+    - "Sabugal, Portugal"
+    - "Eibenstock, Saxony, Germany"
+    - "Shinkolobwe, Congo (DRC)"
+    - "Mount Spokane, Washington, USA"
+  occurrence_notes: "Found worldwide in granites and pegmatites wherever primary uranium minerals have been weathered. Named for Autun, France (type locality). One of the most commonly encountered secondary uranium minerals."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Described as a new mineral in 1852 by A. Dufrénoy."
+    - "Named after Autun, France (type locality)."
+    - "Historical source of uranium — uranium was extracted from secondary uranium minerals before pitchblende processing became dominant."
+    - "Marie Curie worked with pitchblende (uraninite), but autunite and similar minerals were part of the broader uranium mineral study of the late 19th/early 20th centuries."
+  cultural_associations:
+    - "Part of the historical story of radioactivity discovery — Becquerel used uranium minerals (possibly autunite-group) in his 1896 experiments with phosphorescence."
+    - "The discovery of radioactivity by Henri Becquerel used uranium salts/minerals."
+  symbolism:
+    - radioactive glow
+    - hidden energy
+    - uranium mineral
+    - fluorescent revelation
+  folklore_notes: "Autunite's cultural significance is entirely scientific. It was one of the minerals central to the discovery and study of radioactivity in the late 19th century. The vivid yellow-green glow under UV makes it a demonstration piece for uranium mineral fluorescence."
+
+interpretive_vibe:
+  mood_keywords:
+    - nuclear-yellow
+    - radioactive-glow
+    - uranium-bloom
+    - neon-lemon
+    - dangerous-beauty
+  sensory_keywords:
+    - neon yellow
+    - pearly flat plates
+    - glows in UV
+    - heavy with invisible energy
+  palette_keywords:
+    - neon-yellow-green
+    - lemon-yellow
+    - chartreuse
+    - UV-green
+  aesthetic_roles:
+    - radioactive mineral showcase
+    - UV fluorescence spectacle
+    - dangerous beauty
+    - yellow-green intensity reference
+  vibe_notes: "Autunite radiates — literally and visually. The lemon-yellow visible color becomes blinding neon yellow-green under UV, and the whole time it's quietly emitting radiation. It's a mineral that demands respect and proper handling while also being undeniably beautiful."
+
+practical_notes:
+  toxicity: "RADIOACTIVE MINERAL — URANIUM CONTENT. Moderate radioactivity (higher than background). Avoid ingesting or inhaling dust. Wash hands after handling. Store in sealed container away from inhabited spaces. Keep away from children. Consult national regulations for ownership and transport of radioactive minerals."
+  handling_notes: "For display and collection only. Limit handling time. Do not keep in bedroom, office, or area with prolonged human occupancy. Sealed storage recommended."
+  care_notes: "Do not clean with water (water can dissolve or alter the hydrated structure). Store in sealed container. Meta-autunite forms when the mineral dehydrates in dry storage conditions."
+  treatments_or_synthetics:
+    - "No synthetic autunite on the collector market."
+  common_confusions:
+    - "Torbernite (copper-uranium phosphate; similar flat green crystals — torbernite is green, autunite is yellow)"
+    - "Meta-autunite (dehydrated form of autunite; similar appearance)"
+    - "Carnotite (yellow uranium vanadate; powdery habit, different)"
+  market_notes: "Available from specialty mineral dealers with appropriate labeling. Prices vary. Always purchase with clear radioactivity disclosure and locality information."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: [uraninite]
+  pseudomorphed_by: [meta-autunite]
+  lookalikes:
+    - torbernite
+    - carnotite
+    - meta-autunite
+  related_species:
+    - meta-autunite
+    - torbernite
+    - meta-torbernite
+    - uranocircite
+    - saleeite
+
+app_metadata:
+  tags:
+    - phosphate
+    - uranium
+    - radioactive
+    - yellow
+    - UV-fluorescent
+    - secondary
+    - tetragonal
+    - autunite-group
+  search_boost_terms:
+    - autunite crystal
+    - uranium phosphate mineral
+    - radioactive yellow mineral
+    - UV fluorescent uranium
+    - lemon yellow mineral
+    - Becquerel radioactivity
+  prompt_fragments:
+    - "lemon-yellow flat tabular autunite plates glowing neon yellow-green under UV"
+    - "stacked square yellow foliated autunite crystals on granite"
+    - "radioactive yellow-green micas of autunite — vivid and dangerous"
+  ui_color_hint:
+    - "#DFEF30"
+    - "#C8E000"
+    - "#F5FF50"
+  priority_score: 84
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-401.html"
+    - "https://www.webmineral.com/data/Autunite.shtml"
+    - "Handbook of Mineralogy, Vol. IV: Anthony et al."
+  notes: "Radioactivity classification is critical. Uranyl fluorescence mechanism is well-established in the literature. Meta-autunite dehydration issue is well-known."

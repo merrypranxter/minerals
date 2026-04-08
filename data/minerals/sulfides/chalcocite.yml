@@ -1,0 +1,238 @@
+id: chalcocite
+slug: chalcocite
+display_name: Chalcocite
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: chalcocite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - digenite (closely related)
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 968
+  other_ids:
+    historic_name: "copper glance, redruthite"
+
+chemical_profile:
+  ideal_formula: "Cu2S"
+  simplified_formula: "Cu2S"
+  essential_elements: [Cu, S]
+  trace_elements_common: [Ag, Fe, Co, Ni]
+  structural_units:
+    - "Cu₂S monoclinic structure (low-T form)"
+    - "CuS₃ triangular coordination groups"
+    - "S²⁻ in hexagonal closest packing"
+  atomic_structure_notes: "Low-temperature (<103°C) monoclinic polymorph of Cu₂S. Above 103°C converts to high-chalcocite (hexagonal). Both Cu atoms in the monoclinic structure are in distinctly different environments. Rich copper content makes it one of the most important copper ores."
+  chemistry_notes: "At 79.8% Cu by weight, chalcocite is the highest-copper-content sulfide mineral and one of the most economically important copper ores. It forms by supergene enrichment (secondary sulfide enrichment) in the zone below the water table in copper deposits — where ascending copper-rich solutions reprecipitate copper at the expense of primary pyrite."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "P21/c"
+  unit_cell_notes: "a ≈ 15.246 Å, b ≈ 11.884 Å, c ≈ 13.494 Å, β ≈ 116.35°"
+  twinning: "Cyclic (pseudohexagonal) sixling twins common — creating pseudo-hexagonal shapes."
+  crystallography_notes: "Tabular to prismatic crystals, often with pseudo-hexagonal outline from cyclic twinning. Also massive, granular. Well-formed crystals are less common than massive form. Dark steel-gray to black metallic."
+
+physical_properties:
+  mohs_hardness: "2.5–3"
+  specific_gravity: "5.5–5.8"
+  luster: [metallic]
+  streak: "dark gray, nearly black"
+  transparency: [opaque]
+  cleavage:
+    - "poor/imperfect {110}"
+  fracture: [conchoidal]
+  tenacity: "slightly sectile"
+  physical_notes: "Dense for a sulfide. Slightly sectile (can be cut with a knife, like lead minerals). Dark gray-black metallic appearance. Often tarnishes darker on surface."
+
+appearance:
+  baseline_colors:
+    - dark-gray
+    - black
+    - lead-gray
+  color_profiles:
+    - name: dark-metallic-gray
+      colors: [dark-gray, black, lead-gray, steel-gray]
+      cause: "Metallic opaque sulfide; inherent color from Cu₂S structure."
+      conditions: "Fresh surface."
+      variety_name: null
+    - name: iridescent-tarnish
+      colors: [blue, purple, iridescent-blue-gray]
+      cause: "Thin-film interference in surface oxide coating."
+      conditions: "Tarnished specimens, particularly from some wet oxidizing conditions."
+      variety_name: null
+  habits:
+    - tabular
+    - prismatic
+    - pseudo-hexagonal (from cyclic twins)
+    - massive
+    - granular
+  textures:
+    - metallic
+    - smooth
+    - tarnished surface
+  macro_patterns:
+    - dark massive ore with bright copper-sulfide metallic luster
+    - pseudo-hexagonal tablet crystals
+    - massive black-gray ore
+  common_forms:
+    - massive ore specimens
+    - tabular pseudo-hexagonal crystals
+    - vein masses
+  visual_notes: "Chalcocite is not visually dramatic — it's the workhorse of copper ore minerals. Dark gray to black metallic masses or crystals. The economic importance vastly exceeds the visual appeal. Well-formed pseudo-hexagonal crystals with iridescent tarnish are the most aesthetically interesting form."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Opaque; metallic luster; no optical effects."
+
+formation_and_occurrence:
+  genesis:
+    - supergene (secondary sulfide enrichment)
+    - primary (hypogene) — less common
+    - hydrothermal (low-temperature)
+  geologic_environments:
+    - secondary sulfide enrichment zone in porphyry copper deposits
+    - below the water table in copper deposits
+    - hydrothermal copper veins
+  host_rocks:
+    - quartz veins
+    - porphyry copper host rock
+    - shale-hosted copper deposits
+  associated_minerals:
+    - covellite
+    - bornite
+    - chalcopyrite
+    - native copper
+    - cuprite
+    - malachite
+    - pyrite
+    - galena
+  locality_scope: worldwide
+  notable_localities:
+    - "Butte, Montana, USA (famous secondary chalcocite zone)"
+    - "Bisbee, Arizona, USA"
+    - "Morenci, Arizona, USA"
+    - "Redruth, Cornwall, England (type/historic locality; 'redruthite')"
+    - "Tsumeb, Namibia"
+    - "Bristol, Connecticut, USA"
+    - "Chuquicamata, Chile"
+  occurrence_notes: "One of the world's most economically important copper minerals. The secondary sulfide enrichment zone ('chalcocite blanket') in porphyry copper deposits is a critical economic target. Many major copper mines worldwide process chalcocite ore."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "One of the most important copper ores since ancient times."
+    - "Historic name 'copper glance' for the metallic luster."
+    - "'Redruthite' for Redruth, Cornwall locality."
+    - "Copper smelted from chalcocite was the basis for the Bronze Age alloys."
+    - "Named 'chalcocite' from Greek 'chalkos' (copper) by Wilhelm Haidinger, 1845."
+  cultural_associations:
+    - "The foundation of the copper ore economy — used continuously since ~3000 BCE."
+    - "Supergene chalcocite enrichment was critical to the commercial viability of many major copper deposits."
+  symbolism:
+    - industrial copper
+    - economic ore
+    - metallic foundation
+    - dark wealth
+  folklore_notes: "Chalcocite's cultural significance is economic rather than aesthetic. It's the dark, dense foundation beneath the colorful secondary copper mineral world — providing the copper that made the Bronze Age, the Industrial Revolution, and modern electronics possible."
+
+interpretive_vibe:
+  mood_keywords:
+    - dark-ore
+    - economic-weight
+    - copper-foundation
+    - supergene-black
+    - industrial-mineral
+  sensory_keywords:
+    - heavy dark mass
+    - steel-gray metallic
+    - dense foundation
+    - workhorse ore
+  palette_keywords:
+    - steel-gray
+    - near-black
+    - dark-copper
+    - metallic-shadow
+  aesthetic_roles:
+    - industrial ore reference
+    - dark metallic anchor
+    - economic importance symbol
+    - secondary sulfide zone indicator
+  vibe_notes: "Chalcocite is not glamorous. It's the underground engine — the dark gray mass that built the Bronze Age and still drives the copper industry. In aesthetic terms, it's the understated heavy foundation beneath every vivid copper secondary mineral."
+
+practical_notes:
+  toxicity: "Copper-bearing sulfide. Avoid generating dust or fumes. Wash hands after handling. Sulfide dust can potentially produce H₂S if exposed to acid."
+  handling_notes: "Handle normally as a display specimen. Do not acid-clean sulfide minerals casually."
+  care_notes: "Store dry. Avoid prolonged damp storage. Do not acid clean."
+  treatments_or_synthetics:
+    - "No synthetic chalcocite on the collector market."
+    - "May be confused with massive bornite or chalcopyrite in poorly labeled specimens."
+  common_confusions:
+    - "Bornite (iridescent blue-purple tarnish; different streak)"
+    - "Galena (cubic cleavage; lead-gray; heavier)"
+    - "Argentite/acanthite (silver content; different localities)"
+    - "Covellite (deep indigo blue; different color)"
+  market_notes: "Mainly of economic/educational interest. Crystal specimens from historic localities are collected. Massive ore is common and inexpensive."
+
+relationships:
+  polymorphs: [djurleite, digenite, roxbyite]
+  pseudomorphs_after: [chalcopyrite, bornite, pyrite]
+  pseudomorphed_by: [covellite, digenite, native-copper]
+  lookalikes:
+    - bornite
+    - galena
+    - argentite
+    - covellite
+  related_species:
+    - covellite
+    - bornite
+    - chalcopyrite
+    - digenite
+
+app_metadata:
+  tags:
+    - sulfide
+    - copper
+    - economic-ore
+    - secondary
+    - dark-gray
+    - monoclinic
+    - supergene
+    - chalcocite-group
+  search_boost_terms:
+    - chalcocite copper ore
+    - copper sulfide dark
+    - secondary copper mineral
+    - supergene enrichment mineral
+    - copper glance
+    - Cu2S mineral
+  prompt_fragments:
+    - "dark steel-gray massive chalcocite copper ore"
+    - "pseudo-hexagonal metallic chalcocite tablet crystal"
+    - "dense dark copper sulfide ore — economic foundation"
+  ui_color_hint:
+    - "#4A4A4A"
+    - "#303030"
+    - "#606060"
+  priority_score: 76
+
+provenance:
+  source_status: draft
+  completeness: 0.85
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-968.html"
+    - "https://www.webmineral.com/data/Chalcocite.shtml"
+    - "Handbook of Mineralogy, Vol. I: Anthony et al."
+  notes: "Economic importance is the primary context. Supergene enrichment process is well-documented."

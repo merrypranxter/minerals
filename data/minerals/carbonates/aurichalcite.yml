@@ -1,0 +1,229 @@
+id: aurichalcite
+slug: aurichalcite
+display_name: Aurichalcite
+
+classification:
+  chemistry_class: carbonate
+  mineral_group: null
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 387
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Zn,Cu)5(CO3)2(OH)6"
+  simplified_formula: "(Zn,Cu)5(CO3)2(OH)6"
+  essential_elements: [Zn, Cu, C, O, H]
+  trace_elements_common: [Ca, Pb]
+  structural_units:
+    - "carbonate groups (CO3)²⁻"
+    - "hydroxyl groups (OH)⁻"
+    - "Zn/Cu in mixed octahedral and tetrahedral coordination"
+  atomic_structure_notes: "Monoclinic structure with alternating Zn/Cu-rich layers. The ratio of Zn to Cu varies; pure end-members are not commonly found in nature. Cu imparts blue-green color; Zn-dominant varieties may be paler."
+  chemistry_notes: "A mixed zinc-copper hydroxide carbonate. Forms in oxidized zones where both zinc and copper sulfides are present together. The pale blue-green color reflects the mixed Cu/Zn character — less intensely blue than azurite, less green than malachite."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "C2/m"
+  unit_cell_notes: "a ≈ 13.82 Å, b ≈ 9.33 Å, c ≈ 5.30 Å, β ≈ 94.5°"
+  twinning: "Not commonly reported."
+  crystallography_notes: "Forms extremely thin, elongated to acicular lath-like crystals, often in fanned aggregates or silky fibrous masses. Crystals are typically <2 mm and delicate. The lath habit and silky luster on tufted aggregates are characteristic."
+
+physical_properties:
+  mohs_hardness: "1–2"
+  specific_gravity: "3.64–3.90"
+  luster: [silky, pearly]
+  streak: pale-blue to pale-green
+  transparency: [translucent]
+  cleavage:
+    - "perfect {010}"
+  fracture: []
+  tenacity: brittle
+  physical_notes: "Very soft — among the softest secondary copper-zinc minerals. High SG for such a delicate mineral. Silky luster from fibrous crystal aggregates. Very fragile."
+
+appearance:
+  baseline_colors:
+    - pale-blue
+    - blue-green
+    - pale-turquoise
+    - mint-green
+  color_profiles:
+    - name: pale-turquoise-tufts
+      colors: [pale-blue, turquoise, mint-green, pale-aqua]
+      cause: "Cu²⁺ absorption in carbonate/hydroxide coordination; color softened by Zn dilution."
+      conditions: "Standard aurichalcite from most localities."
+      variety_name: null
+    - name: blue-dominant
+      colors: [sky-blue, azure-pale, pale-blue]
+      cause: "Higher Cu:Zn ratio."
+      conditions: "Cu-richer specimens."
+      variety_name: null
+  habits:
+    - acicular
+    - lath-like
+    - fan-shaped aggregates
+    - fibrous tufts
+    - rosettes
+    - encrustations
+  textures:
+    - silky
+    - velvety
+    - fibrous
+  macro_patterns:
+    - pale blue-green silky tufts on brown gossan
+    - fanned acicular crystal sprays
+    - soft pale-colored velvety encrustation
+  common_forms:
+    - tufted sprays on limonite/gossan matrix
+    - fanned aggregates on azurite or malachite
+  visual_notes: "Aurichalcite creates delicate, airy blue-green tufts — like pale aquamarine cotton balls or sea-foam crusts on dark matrix. The color is softer and less saturated than malachite or azurite, but the texture is uniquely silky and fragile-beautiful. Often associated with the more intense colors of azurite and malachite, providing a pastel counterpoint."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none to very weak"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Silky luster from fibrous habit. Biaxial. Low RI."
+
+formation_and_occurrence:
+  genesis:
+    - secondary (oxidized copper-zinc deposits)
+  geologic_environments:
+    - oxidized zone of mixed copper-zinc ore deposits
+    - supergene enrichment zone
+  host_rocks:
+    - gossan (iron oxide cap)
+    - zinc/copper-bearing limestone
+  associated_minerals:
+    - malachite
+    - azurite
+    - smithsonite
+    - hemimorphite
+    - rosasite
+    - limonite
+    - calcite
+    - cerussite
+  locality_scope: worldwide
+  notable_localities:
+    - "Bisbee, Arizona, USA"
+    - "Mapimí, Durango, Mexico"
+    - "Tsumeb, Namibia"
+    - "Kelly Mine, New Mexico, USA"
+    - "Santa Eulalia, Chihuahua, Mexico"
+    - "Lavrion, Greece"
+    - "Laurium, Attica, Greece"
+  occurrence_notes: "Found in the oxidized zones of lead-zinc-copper deposits where both Cu and Zn are available. Often associated with hemimorphite, rosasite, and smithsonite."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "No significant historical industrial use."
+    - "Named from Greek 'aurichalcum' (gold-copper alloy; brass) — a classical reference to its mix of copper and zinc, the metals that compose brass."
+    - "Primarily a collector mineral."
+  cultural_associations:
+    - "The name connects to 'orichalcum' — the mythical metal of Atlantis in Plato's dialogues (likely referring to brass or a gold-copper alloy)."
+  symbolism:
+    - pastel copper-zinc
+    - gentle aqua
+    - soft mineral elegance
+  folklore_notes: "The etymological connection to 'orichalcum' (the famed metal of Atlantis) gives aurichalcite a faint mythological resonance, even though the mineral itself has no actual ancient cultural use."
+
+interpretive_vibe:
+  mood_keywords:
+    - sea-foam-mineral
+    - soft-aqua
+    - fibrous-delicacy
+    - pale-copper
+    - gentle-tuft
+  sensory_keywords:
+    - silky pale fibers
+    - cool aquamarine
+    - light as air
+    - delicate sea-spray
+  palette_keywords:
+    - pale-turquoise
+    - mint-aqua
+    - sea-foam
+    - dusty-blue-green
+  aesthetic_roles:
+    - pastel contrast to intense copper minerals
+    - textile-like mineral texture
+    - sea-spray reference
+    - delicate blue-green accent
+  vibe_notes: "Aurichalcite is the softest thing in a copper-zinc oxidation zone — a pale, airy, fibrous counterpoint to the intensity of azurite and malachite. It looks like frozen sea foam or the world's most delicate turquoise velvet."
+
+practical_notes:
+  toxicity: "Copper and zinc-bearing mineral. Avoid generating dust. Wash hands after handling. Do not ingest."
+  handling_notes: "Extremely delicate and fragile. Handle only by the matrix. Do not touch the crystal aggregates. Do not use ultrasonic cleaners. Vibration may break specimens."
+  care_notes: "Minimal intervention. Light dusting only. Do not expose to water or acids. Store in padded individual box away from vibration."
+  treatments_or_synthetics:
+    - "No synthetic aurichalcite on the collector market."
+  common_confusions:
+    - "Rosasite (also acicular blue-green, similar habit — key test: locality and associated minerals)"
+    - "Hemimorphite (different crystal habit, vitreous luster)"
+    - "Chrysocolla (amorphous, waxy luster, different habit)"
+    - "Shattuckite (blue, different crystal habit)"
+  market_notes: "Available from specialty mineral dealers. Fine specimens with good color and well-formed tufts on quality matrix are prized collectors' items. Bisbee and Mapimí material is especially sought after."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - rosasite
+    - hemimorphite-blue
+    - chrysocolla
+    - shattuckite
+  related_species:
+    - rosasite
+    - malachite
+    - azurite
+    - smithsonite
+
+app_metadata:
+  tags:
+    - carbonate
+    - copper
+    - zinc
+    - secondary
+    - blue-green
+    - acicular
+    - fragile
+    - silky
+    - monoclinic
+  search_boost_terms:
+    - aurichalcite crystal
+    - pale blue-green mineral
+    - copper zinc carbonate
+    - silky blue mineral
+    - Bisbee mineral
+    - oxidized copper zinc
+  prompt_fragments:
+    - "delicate pale turquoise silky tufts of aurichalcite on gossan matrix"
+    - "airy sea-foam blue-green fibrous aurichalcite sprays"
+    - "pale aqua cotton-ball mineral clusters on brown iron oxide"
+  ui_color_hint:
+    - "#A8DADC"
+    - "#7EC8C8"
+    - "#B8E8E0"
+  priority_score: 78
+
+provenance:
+  source_status: draft
+  completeness: 0.85
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-387.html"
+    - "https://www.webmineral.com/data/Aurichalcite.shtml"
+    - "Handbook of Mineralogy, Vol. V: Anthony et al."
+  notes: "Etymology from orichalcum/aurichalcum well-documented in classical sources."
