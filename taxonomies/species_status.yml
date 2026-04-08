@@ -1,0 +1,48 @@
+# Species Status
+# Controlled vocabulary for species_status field
+
+species_status:
+  - id: species
+    display: Mineral Species
+    description: Formally defined and IMA-approved mineral species with a distinct composition and crystal structure.
+    examples: [quartz, malachite, fluorite, pyrite, calcite]
+
+  - id: variety
+    display: Variety
+    description: A named color, habit, or optical variant of an approved mineral species. Not a separate species.
+    examples: [amethyst (quartz variety), ruby (corundum variety), emerald (beryl variety), selenite (gypsum variety)]
+
+  - id: group
+    display: Mineral Group
+    description: A family of closely related mineral species sharing structural type.
+    examples: [garnet group, tourmaline group, pyroxene group, feldspar group]
+
+  - id: series
+    display: Solid Solution Series
+    description: Compositional continuum between two end-member species.
+    examples: [albite-anorthite (plagioclase series), forsterite-fayalite (olivine series)]
+
+  - id: mineraloid
+    display: Mineraloid
+    description: Naturally occurring, mineral-like substance lacking full crystalline structure.
+    examples: [opal, obsidian, amber, moldavite, shungite]
+
+  - id: rock-gem-material
+    display: Rock / Gem Material
+    description: A rock or aggregate material used as a gemstone; not a single mineral species.
+    examples: [jasper, nephrite (tremolite/actinolite aggregate), lapis lazuli, ammolite]
+
+  - id: trade-name
+    display: Trade Name
+    description: Commercial or common name that does not correspond to a formal mineral or variety.
+    examples: [tiger's-eye (not IMA name), fire agate, desert rose, satin spar]
+
+  - id: organic-biomaterial
+    display: Organic / Biomaterial
+    description: Organic or biologically derived material; not a mineral under IMA definition.
+    examples: [amber, jet, pearl, coral, ivory]
+
+  - id: polymorph-pair
+    display: Polymorph Pair
+    description: Two or more minerals with the same chemistry but different crystal structures.
+    examples: [diamond/graphite, calcite/aragonite, pyrite/marcasite, kyanite/andalusite/sillimanite]

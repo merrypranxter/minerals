@@ -1,0 +1,98 @@
+# Cultural Tags
+# Controlled vocabulary for cultural association fields
+
+cultural_tags:
+  birthstone_months:
+    - id: january
+      traditional: garnet
+      modern: garnet
+    - id: february
+      traditional: amethyst
+      modern: amethyst
+    - id: march
+      traditional: bloodstone
+      modern: aquamarine
+    - id: april
+      traditional: diamond
+      modern: diamond
+    - id: may
+      traditional: emerald
+      modern: emerald
+    - id: june
+      traditional: pearl
+      modern: [pearl, moonstone, alexandrite]
+    - id: july
+      traditional: ruby
+      modern: ruby
+    - id: august
+      traditional: sardonyx
+      modern: [peridot, spinel]
+    - id: september
+      traditional: sapphire
+      modern: sapphire
+    - id: october
+      traditional: opal
+      modern: [opal, tourmaline]
+    - id: november
+      traditional: topaz
+      modern: [topaz, citrine]
+    - id: december
+      traditional: turquoise
+      modern: [turquoise, tanzanite, zircon, blue-topaz]
+
+  zodiac_stones:
+    - sign: aries
+      stones: [bloodstone, diamond, carnelian, jasper]
+    - sign: taurus
+      stones: [emerald, rose-quartz, sapphire, lapis-lazuli]
+    - sign: gemini
+      stones: [agate, citrine, tiger's-eye, pearl]
+    - sign: cancer
+      stones: [moonstone, pearl, ruby, calcite]
+    - sign: leo
+      stones: [peridot, onyx, carnelian, citrine]
+    - sign: virgo
+      stones: [sapphire, carnelian, jade, peridot]
+    - sign: libra
+      stones: [opal, tourmaline, lapis-lazuli, lepidolite]
+    - sign: scorpio
+      stones: [malachite, obsidian, garnet, topaz]
+    - sign: sagittarius
+      stones: [turquoise, citrine, sodalite, lapis-lazuli]
+    - sign: capricorn
+      stones: [garnet, black-tourmaline, onyx, malachite]
+    - sign: aquarius
+      stones: [amethyst, garnet, sugilite, blue-lace-agate]
+    - sign: pisces
+      stones: [aquamarine, amethyst, fluorite, bloodstone]
+    notes: Zodiac associations vary widely by tradition; treat as soft metadata.
+
+  cultural_roles:
+    - id: talisman
+      description: Worn or carried for protection or luck.
+    - id: amulet
+      description: Object believed to confer magical protection.
+    - id: pigment
+      description: Historically ground and used as a paint pigment.
+      examples: [malachite, azurite, cinnabar, lapis-lazuli]
+    - id: trade-commodity
+      description: Historically significant trade good.
+      examples: [turquoise, lapis-lazuli, amber, gold]
+    - id: royal-ornament
+      description: Associated with royalty, courts, or high status.
+      examples: [ruby, emerald, diamond, lapis-lazuli, malachite, gold]
+    - id: religious-object
+      description: Used in religious or spiritual contexts.
+      examples: [amber (Baltic/Norse), lapis-lazuli (Mesopotamian), turquoise (Indigenous American)]
+    - id: poison-mineral
+      description: Historically associated with poison, danger, or taboo.
+      examples: [realgar, orpiment, arsenic minerals, cinnabar]
+    - id: industrial-ore
+      description: Primary ore mineral; significant for metal or industrial extraction.
+      examples: [galena, chalcopyrite, malachite, bauxite, magnetite]
+    - id: lapidary-classic
+      description: Classic gemstone or carving mineral.
+      examples: [quartz, feldspar, corundum, beryl, tourmaline, jade]
+    - id: mourning-material
+      description: Used in mourning jewelry or funerary contexts.
+      examples: [jet, onyx, black-tourmaline, amber (some contexts)]

@@ -1,0 +1,346 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/merrypranxter/minerals/schemas/mineral.schema.json",
+  "title": "Mineral Entry",
+  "description": "Schema for a mineral or mineral-adjacent entry in the minerals database.",
+  "type": "object",
+  "required": ["id", "slug", "display_name", "classification", "provenance"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Canonical short ID (e.g. quartz, malachite).",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL/file-safe slug.",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "display_name": {
+      "type": "string",
+      "description": "Human-facing display name."
+    },
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "classification": {
+      "type": "object",
+      "properties": {
+        "chemistry_class": {
+          "type": "string",
+          "description": "Primary chemistry class.",
+          "enum": [
+            "native-element", "sulfide", "sulfosalt", "oxide", "hydroxide",
+            "halide", "carbonate", "nitrate", "borate", "sulfate", "chromate",
+            "phosphate", "arsenate", "vanadate", "silicate", "organic", "mineraloid"
+          ]
+        },
+        "mineral_group": {"type": ["string", "null"]},
+        "species_status": {
+          "type": "string",
+          "enum": [
+            "species", "variety", "group", "series", "mineraloid",
+            "rock-gem-material", "trade-name", "organic-biomaterial", "polymorph-pair"
+          ]
+        },
+        "parent_species": {"type": ["string", "null"]},
+        "related_varieties": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      },
+      "required": ["chemistry_class", "species_status"]
+    },
+    "identifiers": {
+      "type": "object",
+      "properties": {
+        "ima_status": {"type": ["string", "null"]},
+        "mindat_id": {"type": ["integer", "null"]},
+        "other_ids": {"type": "object"}
+      }
+    },
+    "chemical_profile": {
+      "type": "object",
+      "properties": {
+        "ideal_formula": {"type": ["string", "null"]},
+        "simplified_formula": {"type": ["string", "null"]},
+        "essential_elements": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "trace_elements_common": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "structural_units": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "atomic_structure_notes": {"type": "string"},
+        "chemistry_notes": {"type": "string"}
+      }
+    },
+    "crystallography": {
+      "type": "object",
+      "properties": {
+        "crystal_system": {
+          "type": ["string", "null"],
+          "enum": [
+            "isometric", "tetragonal", "orthorhombic", "hexagonal",
+            "trigonal", "monoclinic", "triclinic", "amorphous", null
+          ]
+        },
+        "crystal_class": {"type": ["string", "null"]},
+        "space_group": {"type": ["string", "null"]},
+        "unit_cell_notes": {"type": "string"},
+        "twinning": {"type": "string"},
+        "crystallography_notes": {"type": "string"}
+      }
+    },
+    "physical_properties": {
+      "type": "object",
+      "properties": {
+        "mohs_hardness": {"type": ["number", "string", "null"]},
+        "specific_gravity": {"type": ["number", "string", "null"]},
+        "luster": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "streak": {"type": ["string", "null"]},
+        "transparency": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "cleavage": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "fracture": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "tenacity": {"type": ["string", "null"]},
+        "physical_notes": {"type": "string"}
+      }
+    },
+    "appearance": {
+      "type": "object",
+      "properties": {
+        "baseline_colors": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "color_profiles": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {"type": "string"},
+              "colors": {"type": "array", "items": {"type": "string"}},
+              "cause": {"type": "string"},
+              "conditions": {"type": "string"},
+              "variety_name": {"type": ["string", "null"]}
+            }
+          }
+        },
+        "habits": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "textures": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "macro_patterns": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "common_forms": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "visual_notes": {"type": "string"}
+      }
+    },
+    "optical_and_special_effects": {
+      "type": "object",
+      "properties": {
+        "fluorescence": {"type": "string"},
+        "phosphorescence": {"type": "string"},
+        "chatoyancy": {"type": "string"},
+        "asterism": {"type": "string"},
+        "iridescence": {"type": "string"},
+        "pleochroism": {"type": "string"},
+        "optical_notes": {"type": "string"}
+      }
+    },
+    "formation_and_occurrence": {
+      "type": "object",
+      "properties": {
+        "genesis": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "geologic_environments": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "host_rocks": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "associated_minerals": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "locality_scope": {"type": ["string", "null"]},
+        "notable_localities": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "occurrence_notes": {"type": "string"}
+      }
+    },
+    "cultural_and_historical": {
+      "type": "object",
+      "properties": {
+        "birthstone_status": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "zodiac_associations": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "historical_uses": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "cultural_associations": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "symbolism": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "folklore_notes": {"type": "string"}
+      }
+    },
+    "interpretive_vibe": {
+      "type": "object",
+      "properties": {
+        "mood_keywords": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "sensory_keywords": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "palette_keywords": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "aesthetic_roles": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "vibe_notes": {"type": "string"}
+      }
+    },
+    "practical_notes": {
+      "type": "object",
+      "properties": {
+        "toxicity": {"type": "string"},
+        "handling_notes": {"type": "string"},
+        "care_notes": {"type": "string"},
+        "treatments_or_synthetics": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "common_confusions": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "market_notes": {"type": "string"}
+      }
+    },
+    "relationships": {
+      "type": "object",
+      "properties": {
+        "polymorphs": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "pseudomorphs_after": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "pseudomorphed_by": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "lookalikes": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "related_species": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "app_metadata": {
+      "type": "object",
+      "properties": {
+        "tags": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "search_boost_terms": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "prompt_fragments": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "ui_color_hint": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "priority_score": {"type": ["number", "null"]}
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source_status", "last_updated"],
+      "properties": {
+        "source_status": {
+          "type": "string",
+          "enum": ["draft", "reviewed", "verified"]
+        },
+        "completeness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["low", "medium", "high"]
+        },
+        "last_updated": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "sources": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "notes": {"type": "string"}
+      }
+    }
+  }
+}

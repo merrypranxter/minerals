@@ -1,0 +1,123 @@
+# Optical and Special Effects
+# Controlled vocabulary for optical_and_special_effects fields
+
+optical_effects:
+  - id: fluorescence
+    display: Fluorescence
+    description: Emission of visible light when excited by UV or other radiation.
+    notes: Named after fluorite. Short-wave (SW) and long-wave (LW) UV can produce different responses.
+    examples:
+      - mineral: fluorite
+        color: variable; often blue, purple, green, cream
+        uv_type: [SW, LW]
+      - mineral: calcite
+        color: red, orange, pink, blue
+        uv_type: [SW, LW]
+      - mineral: scheelite
+        color: bright blue-white
+        uv_type: [SW]
+      - mineral: willemite
+        color: intense green
+        uv_type: [SW]
+      - mineral: opal
+        color: green, white
+        uv_type: [LW]
+
+  - id: phosphorescence
+    display: Phosphorescence
+    description: Continued light emission after the UV source is removed.
+    notes: Rarer than fluorescence.
+    examples: [some calcite, sphalerite, some fluorite, hackmanite]
+
+  - id: thermoluminescence
+    display: Thermoluminescence
+    description: Light emission when mineral is gently heated.
+    examples: [fluorite, calcite, some feldspars]
+
+  - id: triboluminescence
+    display: Triboluminescence
+    description: Light emission when mineral is mechanically stressed, scratched, or crushed.
+    examples: [quartz, fluorite, sphalerite, calcite]
+
+  - id: chatoyancy
+    display: Chatoyancy (Cat's Eye)
+    description: Shifting band of light across a polished surface caused by parallel inclusions or fibers.
+    notes: Best seen in cabochons cut perpendicular to fiber direction.
+    examples:
+      - mineral: tiger's-eye
+        cause: Parallel goethite/limonite fibers replacing crocidolite
+      - mineral: chrysoberyl
+        cause: Fine needle-like inclusions
+      - mineral: tourmaline
+        cause: Tube or needle inclusions
+
+  - id: asterism
+    display: Asterism (Star Effect)
+    description: Star-shaped pattern of light caused by intersecting sets of inclusions.
+    notes: Typically a 4- or 6-ray star in cabochon.
+    examples:
+      - mineral: star ruby
+        cause: Needle-like rutile inclusions oriented in three directions
+      - mineral: star sapphire
+        cause: Same as star ruby
+      - mineral: star garnet (almandine)
+        cause: Rutile needles in 4-ray or 6-ray patterns
+
+  - id: iridescence
+    display: Iridescence
+    description: Rainbow-like play of colors from thin-film or surface interference.
+    examples: [labradorite, bornite, limonite, some feldspars, goethite]
+
+  - id: adularescence
+    display: Adularescence
+    description: Floating blue-white glow below the surface; moonstone effect.
+    cause: Alternating layers of orthoclase and albite in feldspar; light scattering at layer boundaries.
+    examples: [moonstone]
+
+  - id: labradorescence
+    display: Labradorescence
+    description: Vivid play-of-color across blue, green, gold, copper, red; unique to labradorite.
+    cause: Interference within fine lamellar intergrowths of feldspar.
+    examples: [labradorite]
+
+  - id: aventurescence
+    display: Aventurescence
+    description: Metallic glitter effect from plate-like or flaky inclusions.
+    examples:
+      - mineral: sunstone
+        cause: Hematite or goethite platelets
+      - mineral: aventurine quartz
+        cause: Fuchsite (chromium mica) platelets
+      - mineral: goldstone
+        cause: Manufactured copper flakes (synthetic)
+
+  - id: play-of-color
+    display: Play-of-Color (Opalescence)
+    description: Vivid shifting spectral colors from diffraction of light by silica sphere arrays.
+    cause: Diffraction of light by uniform arrays of amorphous silica spheres in precious opal.
+    notes: Distinct from iridescence; full spectral display in precious opal.
+    examples: [precious opal]
+
+  - id: schiller
+    display: Schiller Effect
+    description: Bronze or metallic sheen caused by internal reflections from exsolution lamellae.
+    examples: [hypersthene (bronzite), some feldspars]
+
+  - id: pleochroism
+    display: Pleochroism
+    description: Mineral appears different colors when viewed along different crystal axes.
+    subtypes:
+      - dichroism: two colors (uniaxial minerals)
+      - trichroism: three colors (biaxial minerals)
+    examples: [tanzanite, iolite, alexandrite, tourmaline, kyanite, andalusite]
+
+  - id: alexandrite-effect
+    display: Alexandrite Effect (Color Change)
+    description: Dramatic color change between daylight and incandescent light.
+    cause: Absorption spectrum that straddles the human eye sensitivity peak; chromium coloring.
+    examples: [alexandrite, some garnets, some sapphires]
+
+  - id: tenebrescence
+    display: Tenebrescence (Reversible Photochromism)
+    description: Color darkens in sunlight and lightens in darkness; reversible.
+    examples: [hackmanite, tugtupite]

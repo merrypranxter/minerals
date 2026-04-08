@@ -1,0 +1,99 @@
+# Minerals by Habit
+# Index mapping crystal habits and growth forms to minerals.
+# A mineral may appear under multiple headings.
+
+massive:
+  - quartz
+  - chalcedony
+  - agate
+  - jasper
+  - tiger-eye
+  - labradorite
+  - moonstone
+  - sunstone
+  - malachite
+
+prismatic:
+  - quartz
+  - labradorite
+  - moonstone
+  - sunstone
+  - fluorite
+
+botryoidal:
+  - chalcedony
+  - malachite
+
+stalactitic:
+  - chalcedony
+  - malachite
+
+nodular:
+  - chalcedony
+  - agate
+  - jasper
+
+tabular:
+  - labradorite
+  - moonstone
+  - sunstone
+
+fibrous:
+  - tiger-eye             # parallel fibrous pseudomorph
+  - malachite             # acicular/fibrous
+
+drusy:
+  - quartz
+
+acicular:
+  - quartz
+  - malachite
+
+mammillary:
+  - chalcedony
+  - malachite
+
+vein-filling:
+  - quartz
+  - chalcedony
+  - agate
+
+geode-lining:
+  - agate
+  - quartz
+
+amygdaloidal:
+  - agate
+
+granular:
+  - quartz
+
+dendritic:
+  # Dendritic inclusions in host mineral
+  - agate                 # moss agate / dendritic agate
+
+cubic:
+  - diamond
+  - gold
+  - silver
+  - copper
+  - fluorite
+
+octahedral:
+  - diamond
+  - fluorite
+  - gold
+
+native-wire:
+  - copper
+  - silver
+  - gold
+
+hexagonal-platy:
+  - graphite
+
+rhombohedral:
+  - sulfur                # approximate; sulfur is orthorhombic but noted for bipyramidal habit
+
+bipyramidal:
+  - sulfur

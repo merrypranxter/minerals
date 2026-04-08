@@ -1,0 +1,211 @@
+# Crystal Habits and Growth Forms
+# Controlled vocabulary for habits field
+
+habits:
+  # --- Equant / geometric ---
+  - id: cubic
+    display: Cubic
+    description: Box-like crystals with six equal square faces.
+    examples: [halite, galena, pyrite, fluorite]
+
+  - id: octahedral
+    display: Octahedral
+    description: Eight-faced double-pyramid crystals.
+    examples: [diamond, magnetite, fluorite, spinel]
+
+  - id: dodecahedral
+    display: Dodecahedral
+    description: Twelve-faced crystals; typical in garnets.
+    examples: [almandine, pyrope]
+
+  - id: tetrahedral
+    display: Tetrahedral
+    description: Four-faced pyramidal forms.
+    examples: [sphalerite, tetrahedrite]
+
+  # --- Elongated / columnar ---
+  - id: prismatic
+    display: Prismatic
+    description: Crystal elongated along one axis; prism-like.
+    examples: [quartz, beryl, tourmaline, apatite]
+
+  - id: acicular
+    display: Acicular
+    description: Needle-like crystals.
+    examples: [rutile, stibnite, wavellite]
+
+  - id: capillary
+    display: Capillary / Hairlike
+    description: Hair-thin crystal threads.
+    examples: [millerite]
+
+  - id: columnar
+    display: Columnar
+    description: Column-like aggregates or individual crystals.
+    examples: [tourmaline, beryl]
+
+  # --- Flat / platy ---
+  - id: tabular
+    display: Tabular
+    description: Flat, plate-like crystals.
+    examples: [barite, wulfenite, mica]
+
+  - id: platy
+    display: Platy
+    description: Thin plates or sheets.
+    examples: [micas, molybdenite, graphite]
+
+  - id: bladed
+    display: Bladed
+    description: Flat, elongated crystal like a knife blade.
+    examples: [kyanite, actinolite]
+
+  - id: lamellar
+    display: Lamellar
+    description: Thin overlapping plate-like layers.
+    examples: [muscovite, gypsum]
+
+  # --- Fibrous ---
+  - id: fibrous
+    display: Fibrous
+    description: Thread-like or hair-like parallel fibers.
+    examples: [chrysotile, tremolite, selenite, ulexite]
+
+  - id: asbestiform
+    display: Asbestiform
+    description: Fibrous habit with long, flexible, silky fibers.
+    notes: Hazard flag; see toxicity notes.
+    examples: [chrysotile, blue asbestos (crocidolite)]
+
+  # --- Aggregate / mass forms ---
+  - id: massive
+    display: Massive
+    description: No distinct crystal form; irregular interlocking grains.
+    examples: [turquoise, chrysocolla, jasper, chalcedony, malachite]
+
+  - id: granular
+    display: Granular
+    description: Aggregate of small grains.
+    examples: [quartz (massive), calcite (marble)]
+
+  - id: compact
+    display: Compact
+    description: Tight, fine-grained mass.
+    examples: [jasper, turquoise]
+
+  # --- Rounded / curved ---
+  - id: botryoidal
+    display: Botryoidal
+    description: Grape-like rounded masses.
+    examples: [malachite, hematite, smithsonite, goethite, chalcedony]
+
+  - id: reniform
+    display: Reniform
+    description: Kidney-shaped rounded masses.
+    examples: [hematite, malachite]
+
+  - id: mammillary
+    display: Mammillary
+    description: Large breast-like rounded forms.
+    examples: [malachite, chalcedony, smithsonite]
+
+  - id: globular
+    display: Globular
+    description: Spherical or ball-like rounded masses.
+    examples: [prehnite, wavellite]
+
+  # --- Stalactitic / concentric growth ---
+  - id: stalactitic
+    display: Stalactitic
+    description: Tapering column forms from dripping mineral precipitation.
+    examples: [malachite, calcite, aragonite]
+
+  - id: stalagnitic
+    display: Stalagmitic
+    description: Upward-growing concretion forms.
+    examples: [calcite, aragonite]
+
+  - id: concretionary
+    display: Concretionary
+    description: Rounded masses formed by concentric layering.
+    examples: [septarian nodules, pyrite concretions]
+
+  # --- Surface / crust forms ---
+  - id: drusy
+    display: Drusy
+    description: Surface coated with tiny crystals.
+    examples: [quartz drusy, chalcedony drusy]
+
+  - id: crustiform
+    display: Crustiform
+    description: Crust-like coating on a surface or cavity.
+    examples: [malachite, azurite, chalcedony]
+
+  - id: encrustment
+    display: Encrustation
+    description: Thick mineral layer on a substrate.
+    examples: [malachite, chrysocolla]
+
+  # --- Branching / spreading ---
+  - id: dendritic
+    display: Dendritic
+    description: Tree-like or fern-like branching forms.
+    examples: [pyrolusite, manganese dendrites in agate, silver]
+
+  - id: arborescent
+    display: Arborescent
+    description: Branching tree-like aggregates.
+    examples: [copper, silver, gold]
+
+  - id: reticulated
+    display: Reticulated
+    description: Net-like intersecting crystal framework.
+    examples: [rutile, cerussite]
+
+  # --- Pyramidal / termination ---
+  - id: pyramidal
+    display: Pyramidal
+    description: Pyramid-shaped crystal or termination.
+    examples: [quartz, zircon, vanadinite]
+
+  - id: bipyramidal
+    display: Bipyramidal
+    description: Double-ended pyramid.
+    examples: [zircon, sulfur]
+
+  # --- Radiating ---
+  - id: radiating
+    display: Radiating
+    description: Crystals spreading outward from a point.
+    examples: [wavellite, pyrite suns, goethite]
+
+  - id: stellated
+    display: Stellated
+    description: Star-shaped radiating growth.
+    examples: [wavellite, pectolite]
+
+  # --- Special forms ---
+  - id: pseudomorph
+    display: Pseudomorph
+    description: Crystal retaining outer shape of a replaced mineral.
+    examples: [malachite-after-azurite, quartz-after-feldspar]
+
+  - id: twinned
+    display: Twinned
+    description: Two or more crystals in a specific crystallographic relationship.
+    examples: [quartz Japan twins, calcite contact twins, fluorite penetration twins]
+
+  - id: geode
+    display: Geode
+    description: Hollow rock with inward-facing crystal growth.
+    examples: [amethyst geodes, quartz geodes, calcite geodes]
+
+  - id: nodular
+    display: Nodular
+    description: Small rounded nodule form.
+    examples: [fluorite, smithsonite, flint]
+
+  - id: vein-filling
+    display: Vein-Filling
+    description: Mineral infilling fractures or veins.
+    examples: [quartz, calcite, malachite, fluorite]

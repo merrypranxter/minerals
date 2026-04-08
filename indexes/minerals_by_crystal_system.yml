@@ -1,0 +1,32 @@
+# Minerals by Crystal System
+# Index organizing mineral entries by their crystal_system.
+# Varieties/aggregates listed under the system of their parent or primary structure.
+# Microcrystalline aggregates noted with (microcrystalline).
+
+isometric:
+  - diamond
+  - gold
+  - silver
+  - copper
+  - fluorite
+
+trigonal:
+  - quartz
+  - chalcedony           # (microcrystalline quartz aggregate)
+  - agate                # (microcrystalline quartz aggregate)
+  - jasper               # (microcrystalline quartz aggregate)
+  - tiger-eye            # (microcrystalline quartz pseudomorph after amphibole)
+
+triclinic:
+  - labradorite
+
+monoclinic:
+  - malachite
+  - moonstone            # (orthoclase parent)
+  - sunstone             # (parent varies: triclinic for oligoclase/labradorite varieties)
+
+hexagonal:
+  - graphite
+
+orthorhombic:
+  - sulfur

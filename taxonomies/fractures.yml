@@ -1,0 +1,38 @@
+# Fracture Types
+# Controlled vocabulary for fracture field
+
+fractures:
+  - id: conchoidal
+    display: Conchoidal
+    description: Smooth curved shell-like fracture surface (like broken glass or obsidian).
+    common_in: [quartz, obsidian, flint, glass, opal]
+
+  - id: uneven
+    display: Uneven (Irregular)
+    description: Rough, irregular fracture surface.
+    common_in: [pyrite, magnetite, many oxides]
+
+  - id: splintery
+    display: Splintery
+    description: Breaks into thin splinters or fibers.
+    common_in: [chrysotile, tremolite, some pyroxenes]
+
+  - id: hackly
+    display: Hackly
+    description: Jagged, sharp, irregular fracture like torn metal.
+    common_in: [native copper, silver, gold]
+
+  - id: earthy
+    display: Earthy
+    description: Rough, dull break like soil or chalk.
+    common_in: [kaolinite, limonite, chalk]
+
+  - id: fibrous
+    display: Fibrous
+    description: Breaks along fibrous structure.
+    common_in: [selenite satin-spar, chrysotile, ulexite]
+
+  - id: subconchoidal
+    display: Subconchoidal
+    description: Partially curved break; less well-developed than conchoidal.
+    common_in: [dolomite, some amphiboles]

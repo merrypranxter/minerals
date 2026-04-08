@@ -1,0 +1,110 @@
+# Color Causes
+# Controlled vocabulary for color cause explanations
+
+color_causes:
+  - id: idiochromatic
+    display: Idiochromatic (Self-Colored)
+    description: Color is inherent to the mineral's chemistry; always same color.
+    examples:
+      - mineral: malachite
+        color: green
+        cause: Copper in the chemical formula
+      - mineral: azurite
+        color: blue
+        cause: Copper in the chemical formula
+      - mineral: rhodochrosite
+        color: pink-red
+        cause: Manganese in the chemical formula
+
+  - id: allochromatic
+    display: Allochromatic (Impurity-Colored)
+    description: Color caused by trace impurities or defects; not in the ideal formula.
+    examples:
+      - mineral: quartz (amethyst)
+        color: purple
+        cause: Iron impurities and radiation-induced color centers
+      - mineral: corundum (ruby)
+        color: red
+        cause: Chromium impurities
+      - mineral: corundum (blue sapphire)
+        color: blue
+        cause: Iron and titanium impurities
+      - mineral: beryl (emerald)
+        color: green
+        cause: Chromium (and sometimes vanadium) impurities
+      - mineral: beryl (aquamarine)
+        color: blue
+        cause: Iron impurities
+      - mineral: fluorite
+        color: variable
+        cause: Rare earth elements, radiation damage, vacancies
+
+  - id: color-center
+    display: Color Center (Defect)
+    description: Missing atoms, displaced atoms, or radiation damage creates electron traps that absorb light.
+    examples:
+      - mineral: smoky quartz
+        color: smoky gray to black
+        cause: Radiation-induced color centers involving aluminum impurity sites
+      - mineral: blue halite
+        color: blue
+        cause: Radiation-induced color centers
+      - mineral: fluorite (purple)
+        color: purple
+        cause: Radiation-induced color centers with calcium vacancies or rare-earth activation
+
+  - id: charge-transfer
+    display: Charge Transfer
+    description: Electron transfer between adjacent cations of different valence states produces color.
+    examples:
+      - mineral: sapphire (blue)
+        color: blue
+        cause: Fe²⁺–Ti⁴⁺ charge transfer
+      - mineral: blue tourmaline
+        color: blue
+        cause: Fe²⁺–Fe³⁺ charge transfer
+
+  - id: physical-optical
+    display: Physical / Structural Optical Effect
+    description: Color arises from physical structure (thin films, diffraction, interference) rather than chemistry.
+    examples:
+      - mineral: labradorite
+        color: blue, green, gold, copper play
+        cause: Lamellar intergrowth interference (labradorescence)
+      - mineral: precious opal
+        color: spectral play
+        cause: Diffraction by regular silica sphere arrays
+      - mineral: tiger's-eye
+        color: golden chatoyancy
+        cause: Parallel fiber reflection
+
+  - id: inclusion
+    display: Inclusion
+    description: Color caused by inclusions of other minerals within the host.
+    examples:
+      - mineral: aventurine quartz
+        color: green
+        cause: Fuchsite (green mica) inclusions
+      - mineral: moss agate
+        color: green mossy patterns
+        cause: Chlorite or hornblende inclusions
+      - mineral: bloodstone
+        color: green with red spots
+        cause: Chlorite + iron oxide inclusions
+
+  - id: surface-coating
+    display: Surface Coating / Tarnish
+    description: Color from a secondary surface coating on the mineral.
+    examples:
+      - mineral: bornite
+        color: iridescent purple-blue tarnish
+        cause: Thin surface oxide film
+      - mineral: goethite (iridescent)
+        color: rainbow iridescence
+        cause: Thin-film interference
+
+  - id: luminescence-related
+    display: Luminescence-Related
+    description: Color observed under UV or other excitation (fluorescence, phosphorescence).
+    notes: Not a daytime color cause but relevant for special-effects datasets.
+    examples: [fluorite, calcite, willemite, scheelite]

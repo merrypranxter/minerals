@@ -1,0 +1,140 @@
+# Mineral Master Index
+# Lists all mineral entries in the database with key metadata for quick lookup.
+# Auto-maintained: add new entries here when adding new mineral files.
+
+minerals:
+
+  # ─── SILICATES ────────────────────────────────────────────────────────────
+
+  - id: quartz
+    display_name: Quartz
+    chemistry_class: silicate
+    species_status: species
+    file: data/minerals/silicates/quartz.yml
+    priority_score: 100
+
+  - id: chalcedony
+    display_name: Chalcedony
+    chemistry_class: silicate
+    species_status: variety
+    parent_species: quartz
+    file: data/minerals/silicates/chalcedony.yml
+    priority_score: 85
+
+  - id: agate
+    display_name: Agate
+    chemistry_class: silicate
+    species_status: variety
+    parent_species: quartz
+    file: data/minerals/silicates/agate.yml
+    priority_score: 87
+
+  - id: jasper
+    display_name: Jasper
+    chemistry_class: silicate
+    species_status: rock-gem-material
+    parent_species: quartz
+    file: data/minerals/silicates/jasper.yml
+    priority_score: 82
+
+  - id: tiger-eye
+    display_name: Tiger's Eye
+    chemistry_class: silicate
+    species_status: variety
+    parent_species: quartz
+    file: data/minerals/silicates/tiger-eye.yml
+    priority_score: 83
+
+  - id: labradorite
+    display_name: Labradorite
+    chemistry_class: silicate
+    species_status: species
+    parent_species: null
+    file: data/minerals/silicates/labradorite.yml
+    priority_score: 90
+
+  - id: moonstone
+    display_name: Moonstone
+    chemistry_class: silicate
+    species_status: variety
+    parent_species: orthoclase
+    file: data/minerals/silicates/moonstone.yml
+    priority_score: 88
+
+  - id: sunstone
+    display_name: Sunstone
+    chemistry_class: silicate
+    species_status: variety
+    parent_species: null
+    file: data/minerals/silicates/sunstone.yml
+    priority_score: 82
+
+  # ─── CARBONATES ───────────────────────────────────────────────────────────
+
+  - id: malachite
+    display_name: Malachite
+    chemistry_class: carbonate
+    species_status: species
+    parent_species: null
+    file: data/minerals/carbonates/malachite.yml
+    priority_score: 94
+
+  # ─── HALIDES ──────────────────────────────────────────────────────────────
+
+  - id: fluorite
+    display_name: Fluorite
+    chemistry_class: halide
+    species_status: species
+    parent_species: null
+    file: data/minerals/halides/fluorite.yml
+    priority_score: null
+
+  # ─── NATIVE ELEMENTS ──────────────────────────────────────────────────────
+
+  - id: gold
+    display_name: Gold
+    chemistry_class: native-element
+    species_status: species
+    parent_species: null
+    file: data/minerals/native-elements/gold.yml
+    priority_score: null
+
+  - id: silver
+    display_name: Silver
+    chemistry_class: native-element
+    species_status: species
+    parent_species: null
+    file: data/minerals/native-elements/silver.yml
+    priority_score: null
+
+  - id: copper
+    display_name: Copper
+    chemistry_class: native-element
+    species_status: species
+    parent_species: null
+    file: data/minerals/native-elements/copper.yml
+    priority_score: null
+
+  - id: diamond
+    display_name: Diamond
+    chemistry_class: native-element
+    species_status: species
+    parent_species: null
+    file: data/minerals/native-elements/diamond.yml
+    priority_score: null
+
+  - id: graphite
+    display_name: Graphite
+    chemistry_class: native-element
+    species_status: species
+    parent_species: null
+    file: data/minerals/native-elements/graphite.yml
+    priority_score: null
+
+  - id: sulfur
+    display_name: Sulfur
+    chemistry_class: native-element
+    species_status: species
+    parent_species: null
+    file: data/minerals/native-elements/sulfur.yml
+    priority_score: null

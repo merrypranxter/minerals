@@ -1,0 +1,26 @@
+# Minerals by Chemistry Class
+# Index organizing all mineral entries by their chemistry_class.
+
+silicates:
+  - quartz
+  - chalcedony
+  - agate
+  - jasper
+  - tiger-eye
+  - labradorite
+  - moonstone
+  - sunstone
+
+carbonates:
+  - malachite
+
+halides:
+  - fluorite
+
+native-elements:
+  - gold
+  - silver
+  - copper
+  - diamond
+  - graphite
+  - sulfur

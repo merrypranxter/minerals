@@ -1,0 +1,73 @@
+# Luster Types
+# Controlled vocabulary for luster field
+
+lusters:
+  - id: vitreous
+    display: Vitreous (Glassy)
+    description: Glassy appearance like broken glass or window pane.
+    common_in: [quartz, beryl, topaz, garnet, tourmaline, fluorite]
+
+  - id: adamantine
+    display: Adamantine
+    description: Brilliant, high-luster like diamond.
+    common_in: [diamond, cerussite, anglesite, cassiterite, zircon]
+
+  - id: resinous
+    display: Resinous
+    description: Like resin or varnish; slightly yellow-tinted gloss.
+    common_in: [sulfur, amber, sphalerite, some garnets]
+
+  - id: metallic
+    display: Metallic
+    description: Highly reflective like polished metal.
+    common_in: [galena, pyrite, gold, silver, copper, graphite, hematite, molybdenite]
+
+  - id: submetallic
+    display: Submetallic
+    description: Between metallic and non-metallic; slightly dull reflective.
+    common_in: [hematite (some forms), magnetite, ilmenite, cinnabar]
+
+  - id: silky
+    display: Silky
+    description: Satiny sheen from parallel fiber structure.
+    common_in: [selenite, tiger's-eye, chrysotile, ulexite, satin-spar gypsum]
+
+  - id: pearly
+    display: Pearly
+    description: Pearl-like luster; soft diffuse glow.
+    common_in: [mica, talc, brucite, wollastonite]
+
+  - id: greasy
+    display: Greasy
+    description: Oily or grease-like appearance.
+    common_in: [nephrite, serpentine, some quartz varieties]
+
+  - id: waxy
+    display: Waxy
+    description: Candle-wax-like surface sheen.
+    common_in: [chalcedony, turquoise, jade, serpentine, chrysoprase]
+
+  - id: earthy
+    display: Earthy (Dull)
+    description: No luster; chalky, opaque, flat surface.
+    common_in: [kaolinite, limonite, chalk, some malachite crusts, chrysocolla]
+
+  - id: dull
+    display: Dull
+    description: Low reflectivity, flat and non-shiny.
+    common_in: [some malachite, some turquoise, clay minerals]
+
+  - id: splendent
+    display: Splendent
+    description: Mirror-like brilliance; highest metallic luster.
+    common_in: [specular hematite, polished galena]
+
+  - id: pitchy
+    display: Pitchy
+    description: Luster like tar or pitch; common in uraninite.
+    common_in: [uraninite, some ilmenite]
+
+  - id: opalescent
+    display: Opalescent
+    description: Milky internal glow like opal; diffuse internal light.
+    common_in: [opal, moonstone, some quartz]

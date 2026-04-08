@@ -1,0 +1,238 @@
+id: tiger-eye
+slug: tiger-eye
+display_name: Tiger's Eye
+
+classification:
+  chemistry_class: silicate
+  mineral_group: silica-group
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - hawk-eye
+    - ox-eye
+    - pietersite
+
+identifiers:
+  ima_status: variety
+  mindat_id: 3977
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (pseudomorph after crocidolite)"
+  simplified_formula: "SiO2"
+  essential_elements: [Si, O]
+  trace_elements_common: [Fe]
+  structural_units:
+    - "SiO4 tetrahedra linked into a 3D framework"
+    - "parallel fibrous microcrystalline silica replacing amphibole fibers"
+    - "residual goethite and iron oxide along fiber axes"
+  atomic_structure_notes: "Tiger's eye is a pseudomorph: silica replaced the original crocidolite (riebeckite variety, a blue sodic amphibole) while preserving the fibrous structure. The parallel iron oxide fibers (mainly goethite) provide color and the chatoyant effect."
+  chemistry_notes: "Bulk composition is predominantly SiO2. Residual iron as goethite (FeO(OH)) or hematite (Fe2O3) within the silica fiber matrix drives both color and optical effect. In hawk's eye (unoxidized form), original crocidolite iron is less altered."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "32 trapezohedral (individual microcrystals)"
+  space_group: "P3121 / P3221"
+  unit_cell_notes: "Microcrystalline; the macroscopic fibrous texture is inherited from the crocidolite precursor, not a crystallographic feature of the quartz itself."
+  twinning: ""
+  crystallography_notes: "The fibrous appearance is a pseudomorphic replacement texture. Parallel silica fibers occupy the former crocidolite fiber positions, with iron oxide concentrated along fiber boundaries and axes."
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.64–2.71"
+  luster: [silky]
+  streak: yellowish-brown
+  transparency: [opaque]
+  cleavage: []
+  fracture: [fibrous, splintery]
+  tenacity: brittle
+  physical_notes: "Silky luster on polished surfaces is characteristic. Lower hardness than typical quartz reflects the fibrous, replacement origin. Fibrous texture gives specimens a directional feel — sheen changes with orientation."
+
+appearance:
+  baseline_colors: [golden-brown, amber-brown, yellow-brown]
+  color_profiles:
+    - name: tiger-eye-classic
+      colors: [golden-yellow, amber, rich-brown, dark-brown]
+      cause: "Goethite (iron oxyhydroxide) inclusions within parallel silica fibers, replacing oxidized crocidolite."
+      conditions: "Oxidized pseudomorph; most common commercially available form."
+      variety_name: tiger-eye
+    - name: hawk-eye
+      colors: [blue-gray, steel-blue, blue-green]
+      cause: "Partial or unoxidized crocidolite fibers preserved or less fully replaced; blue color from original riebeckite amphibole."
+      conditions: "Less oxidized form where blue crocidolite color partially persists."
+      variety_name: hawk-eye
+    - name: ox-eye
+      colors: [red-brown, dark-red, brick-red]
+      cause: "Further oxidation of goethite to hematite shifts color toward red-brown."
+      conditions: "More strongly oxidized specimens."
+      variety_name: ox-eye
+    - name: pietersite
+      colors: [swirling blue, gold, red; breccia-like patterns]
+      cause: "Brecciated combination of tiger's eye, hawk's eye, and jasper fragments."
+      conditions: "Brecciated and recemented material; Namibia and China."
+      variety_name: pietersite
+  habits:
+    - fibrous
+    - massive
+    - veins
+  textures:
+    - silky
+    - fibrous
+    - oriented
+    - smooth-when-polished
+  macro_patterns:
+    - fibrous-parallel
+    - chatoyant-band
+    - wave-shimmer
+  common_forms:
+    - polished cabochons
+    - tumbled stones
+    - beads
+    - carved figurines
+    - inlay material
+  visual_notes: "Chatoyancy (cat's eye effect) is the defining visual feature. The golden-brown silky shimmer moves across the surface as the viewing angle shifts. The parallel fiber orientation is always visible in cross-section."
+
+optical_and_special_effects:
+  fluorescence: ""
+  phosphorescence: ""
+  chatoyancy: "Strong; classic golden-brown cat's eye effect from parallel goethite/iron oxide fibers within the silica matrix. Effect is best in cabochon cut."
+  asterism: ""
+  iridescence: ""
+  pleochroism: ""
+  optical_notes: "Chatoyancy in tiger's eye is caused by light reflection from the oriented parallel fibers of silica with included iron oxide. The effect is most pronounced when the c-axis of the fibrous mass is oriented perpendicular to the line of sight. Hawk's eye shows the same chatoyant mechanism with a blue-gray base."
+
+formation_and_occurrence:
+  genesis:
+    - metamorphic
+    - hydrothermal-replacement
+  geologic_environments:
+    - metamorphic schists
+    - shear zones
+    - ancient iron formations with amphibolite veins
+  host_rocks:
+    - banded iron formation (BIF)
+    - schist
+    - metamorphic iron-rich sequence
+  associated_minerals:
+    - crocidolite
+    - riebeckite
+    - quartz
+    - hematite
+    - goethite
+  locality_scope: localized
+  notable_localities:
+    - "South Africa (Northern Cape Province — Griquatown area; primary and largest source)"
+    - "Western Australia (Hamersley Range area)"
+    - "Namibia (pietersite)"
+    - "China (pietersite; some tiger's eye)"
+    - "India"
+    - "United States (Arizona)"
+  occurrence_notes: "Tiger's eye forms when crocidolite (blue asbestos) in banded iron formation sequences is replaced by silica-rich fluids. The replacement is pseudomorphic — silica fills the space of the amphibole fibers while iron oxidizes to goethite, preserving the parallel fibrous texture."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "Popular ornamental stone for carvings and amulets in 19th and 20th century"
+    - "Used in Victorian jewelry"
+    - "Carved into scarabs, figurines, and decorative objects in South African craft traditions"
+  cultural_associations:
+    - "Associated with courage, focus, and vision in many modern crystal traditions"
+    - "The 'eye' motif connects it to concepts of vigilance and protection across cultures"
+  symbolism:
+    - vigilance
+    - focus
+    - predator-awareness
+    - grounding
+  folklore_notes: "The cat's eye effect has long been associated with the protective gaze of predatory animals. Tiger's eye has been used as a protective talisman against the evil eye in various traditions."
+
+interpretive_vibe:
+  mood_keywords:
+    - predator-eye
+    - desert-vision
+    - amber-surveillance
+    - geological-watchfulness
+  sensory_keywords:
+    - silky
+    - shimmering
+    - warm
+    - directional
+    - fibrous
+  palette_keywords:
+    - amber-gold
+    - dark-honey
+    - burnt-sienna-band
+    - iron-shadow
+  aesthetic_roles:
+    - chatoyant accent stone
+    - feral mineral
+    - desert surveillance material
+    - optical-effect anchor
+  vibe_notes: "Tiger's eye has a quality of focused, watchful warmth — it looks like something is looking back. The chatoyancy gives it movement and life. The amber-gold color range places it in hot, dry, predatory aesthetic territory."
+
+practical_notes:
+  toxicity: "SAFETY NOTE: Fully pseudomorphed tiger's eye specimens are generally considered safe for handling — the original crocidolite (blue asbestos) fibers are encased in silica. HOWEVER: cutting, grinding, sanding, or polishing dry tiger's eye can release hazardous silica dust and potentially residual fibrous material. Do NOT sand, polish, or cut without proper respiratory protection (P100 minimum). Lapidaries must use wet cutting and proper dust containment. The hazard is from the dust, not from holding polished specimens."
+  handling_notes: "Polished finished specimens safe for everyday handling and wearing. Do not cut, sand, or grind without proper wet-cutting equipment and respiratory protection."
+  care_notes: "Avoid prolonged water exposure (can affect silky sheen). Avoid harsh chemicals. Clean with soft damp cloth."
+  treatments_or_synthetics:
+    - "Some tiger's eye dyed red or blue to simulate hawk's eye or ox-eye forms"
+    - "Heat treatment can alter color"
+    - "Synthetic tiger's eye does not exist commercially at scale"
+  common_confusions:
+    - hawk-eye (blue variety)
+    - pietersite (brecciated form)
+    - other chatoyant minerals (chrysoberyl cat's eye is much rarer and more valuable)
+    - aventurine feldspar (different mechanism)
+  market_notes: "Extremely common in the gem and mineral market. South Africa is the overwhelming dominant source. Most commercial material is inexpensive. High-quality chatoyancy and clean color command modest premiums. Pietersite is more valuable than standard tiger's eye."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after:
+    - crocidolite
+    - riebeckite
+  pseudomorphed_by: []
+  lookalikes:
+    - hawk-eye
+    - pietersite
+    - chrysoberyl-cat-eye
+    - aventurine
+  related_species:
+    - quartz
+    - chalcedony
+    - crocidolite
+    - riebeckite
+    - goethite
+
+app_metadata:
+  tags:
+    - chatoyant
+    - fibrous
+    - pseudomorph
+    - silica
+    - variety
+    - iron-bearing
+    - optical-effect
+    - south-africa
+  search_boost_terms:
+    - tiger's eye
+    - tigers eye
+    - chatoyant quartz
+    - cat's eye stone
+    - fibrous silica
+    - hawk's eye
+    - golden brown chatoyant
+  prompt_fragments:
+    - "golden silky chatoyant cat's eye effect in amber-brown fibrous silica"
+    - "predator-eye desert surveillance mineral with shimmering fiber bands"
+    - "pseudomorph after crocidolite with iron oxide golden shimmer"
+  ui_color_hint: [amber-gold, dark-honey, burnt-brown, blue-gray]
+  priority_score: 83
+
+provenance:
+  source_status: draft
+  completeness: 0.83
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3977.html"
+  notes: "Toxicity section is critical — asbestos precursor mineral requires careful communication. Polished specimens safe; dust is the hazard."

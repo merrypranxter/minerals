@@ -1,0 +1,118 @@
+# Mineral Chemistry Classes (Dana / Strunz systems)
+# Controlled vocabulary for chemistry_class field
+
+classes:
+  - id: native-element
+    display: Native Element
+    description: Minerals composed of a single element (e.g., gold, sulfur, diamond).
+    examples: [gold, silver, copper, sulfur, graphite, diamond]
+
+  - id: sulfide
+    display: Sulfide
+    description: Minerals composed of a metal combined with sulfur.
+    examples: [pyrite, galena, sphalerite, chalcopyrite]
+
+  - id: sulfosalt
+    display: Sulfosalt
+    description: Sulfide-related minerals with a semimetal as well as sulfur.
+    examples: [arsenopyrite, realgar, orpiment, stibnite]
+
+  - id: oxide
+    display: Oxide
+    description: Minerals containing oxygen bonded to one or more metals.
+    examples: [corundum, hematite, magnetite, rutile, spinel]
+
+  - id: hydroxide
+    display: Hydroxide
+    description: Minerals containing (OH) groups.
+    examples: [goethite, limonite]
+
+  - id: halide
+    display: Halide
+    description: Minerals formed from halogen elements (F, Cl, Br, I).
+    examples: [fluorite, halite, sylvite]
+
+  - id: carbonate
+    display: Carbonate
+    description: Minerals containing the carbonate anion (CO3)²⁻.
+    examples: [calcite, malachite, azurite, rhodochrosite, dolomite]
+
+  - id: nitrate
+    display: Nitrate
+    description: Minerals containing the nitrate anion (NO3)⁻.
+    examples: []
+
+  - id: borate
+    display: Borate
+    description: Minerals containing boron-oxygen units.
+    examples: [ulexite, borax]
+
+  - id: sulfate
+    display: Sulfate
+    description: Minerals containing the sulfate anion (SO4)²⁻.
+    examples: [gypsum, celestite, barite, anglesite]
+
+  - id: chromate
+    display: Chromate
+    description: Minerals containing the chromate anion (CrO4)²⁻.
+    examples: [crocoite]
+
+  - id: phosphate
+    display: Phosphate
+    description: Minerals containing the phosphate anion (PO4)³⁻.
+    examples: [apatite, turquoise, variscite, vivianite, pyromorphite]
+
+  - id: arsenate
+    display: Arsenate
+    description: Minerals containing the arsenate anion (AsO4)³⁻.
+    examples: [vanadinite (as context), wavellite adjacent]
+
+  - id: vanadate
+    display: Vanadate
+    description: Minerals containing the vanadate anion (VO4)³⁻.
+    examples: [vanadinite]
+
+  - id: silicate
+    display: Silicate
+    description: Largest mineral class; minerals based on silicon-oxygen tetrahedra (SiO4).
+    examples: [quartz, feldspar, beryl, garnet, tourmaline, micas, pyroxenes, amphiboles, olivine]
+    subclasses:
+      - id: nesosilicate
+        display: Nesosilicate (Island)
+        description: Isolated SiO4 tetrahedra.
+        examples: [olivine, garnet, zircon, topaz, staurolite, kyanite]
+      - id: sorosilicate
+        display: Sorosilicate (Group)
+        description: Pairs of SiO4 tetrahedra sharing one oxygen.
+        examples: [epidote, hemimorphite, vesuvianite]
+      - id: cyclosilicate
+        display: Cyclosilicate (Ring)
+        description: SiO4 tetrahedra in closed rings.
+        examples: [beryl, tourmaline, cordierite]
+      - id: inosilicate-single-chain
+        display: Inosilicate - Single Chain
+        description: Single chains of SiO4 tetrahedra.
+        examples: [pyroxenes, jadeite, diopside, spodumene]
+      - id: inosilicate-double-chain
+        display: Inosilicate - Double Chain
+        description: Double chains (ribbons) of SiO4 tetrahedra.
+        examples: [amphiboles, hornblende, tremolite, actinolite]
+      - id: phyllosilicate
+        display: Phyllosilicate (Sheet)
+        description: Sheets of SiO4 tetrahedra.
+        examples: [micas, muscovite, biotite, lepidolite, talc, serpentine, kaolinite]
+      - id: tectosilicate
+        display: Tectosilicate (Framework)
+        description: 3D network of SiO4 tetrahedra.
+        examples: [quartz, feldspar, zeolites]
+
+  - id: organic
+    display: Organic / Biomaterial
+    description: Carbon-based materials of biological or organic origin.
+    notes: Not formal mineral species under IMA definitions.
+    examples: [amber, jet, pearl, ammolite]
+
+  - id: mineraloid
+    display: Mineraloid
+    description: Naturally occurring, mineral-like substances lacking full crystalline order.
+    examples: [opal, obsidian, moldavite, shungite]

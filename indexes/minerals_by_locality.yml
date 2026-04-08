@@ -1,0 +1,56 @@
+# Minerals by Notable Locality
+# Index mapping notable localities/regions to minerals found there.
+# Intended for "show me minerals from X" queries.
+
+africa:
+  namibia:
+    - chalcedony            # blue chalcedony
+    - agate                 # blue lace agate; pietersite
+    - tiger-eye             # pietersite variety
+  south_africa:
+    - tiger-eye             # Griquatown, Northern Cape (primary world source)
+  madagascar:
+    - labradorite           # high labradorescence gem material
+    - moonstone             # commercial moonstone
+
+americas:
+  brazil:
+    - quartz
+    - chalcedony
+    - agate                 # Rio Grande do Sul; world's largest commercial agate
+  united_states:
+    - agate                 # Montana, Oregon, Lake Superior
+    - jasper                # Idaho picture jasper; Oregon
+    - sunstone              # Oregon; Lake County — state gemstone
+    - tiger-eye             # Arizona
+  canada:
+    - labradorite           # Labrador (Paul's Island — type locality)
+
+europe:
+  finland:
+    - labradorite           # Ylämaa — spectrolite; full-spectrum
+  germany:
+    - agate                 # Idar-Oberstein (historic cutting center)
+  norway:
+    - sunstone              # Tvedestrand — oligoclase with hematite
+  ukraine:
+    - labradorite           # larvikite
+
+asia:
+  india:
+    - chalcedony            # carnelian trade (Khambhat/Cambay)
+    - agate                 # Khambhat — ancient trade center
+    - jasper                # Deccan Traps nodules
+    - moonstone             # Rajasthan — peach and 'rainbow moonstone'
+    - sunstone              # oligoclase with hematite
+  sri_lanka:
+    - moonstone             # Meetiyagoda — finest blue moonstone
+  myanmar:
+    - moonstone
+  china:
+    - tiger-eye             # pietersite
+
+oceania:
+  australia:
+    - tiger-eye             # Hamersley Range, Western Australia
+    - jasper                # mookaite, Western Australia

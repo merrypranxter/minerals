@@ -1,0 +1,261 @@
+id: labradorite
+slug: labradorite
+display_name: Labradorite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: feldspar-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - spectrolite
+    - rainbow-moonstone
+    - andesine-labradorite
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2231
+  other_ids:
+    series: plagioclase-series
+    series_range: An50–An70
+
+chemical_profile:
+  ideal_formula: "(Ca,Na)(Al,Si)4O8"
+  simplified_formula: "(Ca,Na)(Al,Si)4O8"
+  essential_elements: [Ca, Na, Al, Si, O]
+  trace_elements_common: [K, Ba, Fe, Ti]
+  structural_units:
+    - "AlSi3O8 and CaAl2Si2O8 framework tetrahedra"
+    - "corner-sharing TO4 tetrahedra in a 3D feldspar framework"
+  atomic_structure_notes: "Framework silicate (tectosilicate). Labradorite is the intermediate member of the plagioclase solid-solution series between albite (NaAlSi3O8, An0) and anorthite (CaAl2Si2O8, An100), with composition An50–An70. The Al/Si ordering and Ca/Na distribution on specific sites define the structure. Lamellar intergrowths of Ca-rich and Na-rich feldspar domains on a nanometer scale are responsible for labradorescence."
+  chemistry_notes: "Plagioclase series member. The labradorescence (schiller) effect arises from thin-film interference in alternating Ca-rich and Na-rich exsolution lamellae. Lamellar spacing of approximately 100–300 nm produces the interference colors observed."
+
+crystallography:
+  crystal_system: triclinic
+  crystal_class: "1-bar (pinacoidal)"
+  space_group: "P-1"
+  unit_cell_notes: "a ≈ 8.17 Å, b ≈ 12.87 Å, c ≈ 7.11 Å; α ≈ 93.5°, β ≈ 116.6°, γ ≈ 90.5° (approximate; varies with composition)"
+  twinning: "Polysynthetic twinning common (Carlsbad, Albite, and Pericline twin laws); lamellar twinning is related to exsolution and produces labradorescence."
+  crystallography_notes: "Triclinic symmetry. Polysynthetic albite and pericline twinning visible microscopically and sometimes macroscopically. The exsolution lamellae responsible for labradorescence are crystallographically controlled."
+
+physical_properties:
+  mohs_hardness: "6–6.5"
+  specific_gravity: "2.68–2.72"
+  luster: [vitreous, pearly]
+  streak: white
+  transparency: [translucent, opaque, transparent]
+  cleavage:
+    - "perfect {001}"
+    - "good {010}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Two cleavage directions typical of feldspars. Cleavage at nearly right angles (86° and 94°). Transparent gem-quality labradorite exists but is uncommon. Most specimens are translucent to opaque."
+
+appearance:
+  baseline_colors: [gray, dark-gray, black-gray, greenish-gray]
+  color_profiles:
+    - name: labradorescence-blue-green
+      colors: [electric-blue, teal, peacock-blue, green]
+      cause: "Thin-film interference from Ca-rich and Na-rich exsolution lamellae at ~100–300 nm spacing. Shorter lamellar spacing produces blue; longer spacing shifts toward green and gold."
+      conditions: "Most common labradorescence colors; seen in standard gray labradorite."
+      variety_name: null
+    - name: labradorescence-gold-copper
+      colors: [gold, copper-orange, amber]
+      cause: "Longer-spacing exsolution lamellae shifting interference toward yellow-orange wavelengths."
+      conditions: "Specific lamellar spacing; can coexist with blue-green in the same specimen."
+      variety_name: null
+    - name: spectrolite
+      colors: [full-spectrum: blue, green, yellow, orange, red, violet — on near-black matrix]
+      cause: "Full-range lamellar spacing distribution on a very dark ground mass, producing all visible colors."
+      conditions: "Locality-specific to Ylämaa district, Finland. Requires the dark opaque ground color to display full spectrum."
+      variety_name: spectrolite
+    - name: transparent-gem
+      colors: [colorless, yellow, orange, cognac, pale-green]
+      cause: "Body color from iron or other trace impurities; transparent facetable material."
+      conditions: "Rare; some sources in Ethiopia, Mexico (andesine controversy), Tanzania."
+      variety_name: null
+  habits:
+    - massive
+    - prismatic
+    - tabular
+    - lamellar
+    - anhedral-granular
+  textures:
+    - smooth
+    - pearly-cleavage-surfaces
+    - lamellar
+  macro_patterns:
+    - labradorescent-flash
+    - polysynthetic-twin-striations
+    - cleavage-plane-shimmer
+  common_forms:
+    - massive polished slabs and cabochons
+    - prismatic crystals in basalt
+    - anorthosite rock slabs
+    - tabular crystals in metamorphic rocks
+    - tumbled stones
+  visual_notes: "The labradorescence appears as a floating, depth-inhabiting iridescence that shifts with viewing angle and light direction. Unlike surface iridescence, it appears to come from within the stone. The dark gray to near-black base color intensifies the color display. Best specimens show full-spectrum color shift across a single face."
+
+optical_and_special_effects:
+  fluorescence: ""
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Labradorescence: intense thin-film interference iridescence showing blue, green, gold, copper, orange — and in spectrolite, the full visible spectrum — from exsolution lamellae oriented parallel to {010}. The effect is directional and changes with both viewing angle and light angle."
+  pleochroism: "Weak in transparent material."
+  optical_notes: "Labradorescence is caused by thin-film interference (Bragg reflection/constructive interference) from alternating Ca-rich (anorthite-component) and Na-rich (albite-component) exsolution lamellae, typically 100–300 nm thick, parallel to the {010} cleavage plane. The phenomenon is sometimes called schiller or adularescence in related feldspars, but labradorescence is the precise term for this plagioclase effect."
+
+formation_and_occurrence:
+  genesis:
+    - magmatic
+    - metamorphic
+  geologic_environments:
+    - basalt and gabbro as primary phenocrysts or groundmass
+    - anorthosite massifs
+    - mafic and intermediate igneous rocks
+    - amphibolite-facies metamorphic rocks
+    - granulite-facies rocks
+  host_rocks:
+    - basalt
+    - gabbro
+    - anorthosite
+    - norite
+    - amphibolite
+    - metamorphic gneiss
+  associated_minerals:
+    - pyroxene
+    - olivine
+    - hornblende
+    - ilmenite
+    - magnetite
+    - bytownite
+    - anorthite
+    - albite
+  locality_scope: widespread
+  notable_localities:
+    - "Labrador, Canada (Paul's Island — type locality; first scientifically described 1770)"
+    - "Madagascar (high labradorescence; major gem source)"
+    - "Finland (Ylämaa district — spectrolite; near-black with full-spectrum labradorescence)"
+    - "Ukraine (larvikite — a nepheline syenite with labradorite, used as architectural stone)"
+    - "Russia (Kola Peninsula)"
+    - "Mexico"
+    - "United States (Oregon)"
+    - "India"
+  occurrence_notes: "Labradorite is an essential and very common mineral in mafic and intermediate igneous rocks worldwide. Gem-quality material with strong labradorescence is less common and associated with specific geological settings. The plagioclase in anorthosite massifs is often labradorite-composition."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "First described scientifically from Paul's Island, Labrador, Canada in 1770 by Moravian missionaries"
+    - "Adopted as a gemstone and ornamental stone in the 18th–19th century"
+    - "Finnish spectrolite quarried since the 1940s; national gemstone of Finland"
+    - "Larvikite (Norwegian labradorite-bearing rock) used as architectural stone worldwide"
+  cultural_associations:
+    - "Inuit peoples of Labrador have stories of the Northern Lights being trapped in stone — labradorescence the cause"
+    - "Associated with magic, transformation, and hidden knowledge in modern crystal traditions"
+    - "National gemstone of Finland (spectrolite variety)"
+  symbolism:
+    - transformation
+    - hidden-knowledge
+    - northern-lights
+    - prismatic-mystery
+  folklore_notes: "Inuit legend describes the aurora borealis as frozen light trapped inside labradorite. Moravian missionaries encountering the stone in Labrador in 1770 were reportedly struck by the play of color. The Finnish spectrolite variety was not discovered until World War II when a German bomb crater revealed an extraordinary deposit."
+
+interpretive_vibe:
+  mood_keywords:
+    - northern-lights
+    - prismatic-abyss
+    - schiller-depth
+    - arctic-glow
+  sensory_keywords:
+    - shimmering
+    - depth-lit
+    - cold-iridescent
+    - shifting
+    - prismatic
+  palette_keywords:
+    - electric-blue
+    - dark-gunmetal
+    - peacock-teal
+    - copper-fire
+    - aurora-gold
+    - spectral-violet
+  aesthetic_roles:
+    - aurora-in-stone
+    - depth iridescence anchor
+    - northern-lights mineral
+    - prismatic darkness stone
+  vibe_notes: "Labradorite carries its color inside — it is not a surface phenomenon but a depth effect. The dark ground color against the shifting iridescence creates a sense of something luminous moving beneath a dark surface. Spectrolite, with its near-black matrix and full-spectrum display, is one of the most visually complex single mineral specimens on earth."
+
+practical_notes:
+  toxicity: low
+  handling_notes: "Safe for handling. Cleavage in two directions means it can chip or cleave if dropped or struck. Avoid sharp impacts."
+  care_notes: "Avoid ultrasonic cleaners (can shatter along cleavage planes). Clean with damp cloth. Avoid prolonged exposure to harsh chemicals."
+  treatments_or_synthetics:
+    - "Some transparent faceted 'andesine-labradorite' from China/Congo subject to copper-diffusion treatment controversy; treated material sold as natural"
+    - "Surface coatings sometimes applied to enhance labradorescence on lower-quality material"
+  common_confusions:
+    - rainbow-moonstone (actually labradorite with adularescence-like effect; sold as moonstone in trade)
+    - other feldspars
+    - spectrolite vs standard labradorite (Finnish spectrolite is locality-specific and more valuable)
+    - treated andesine-labradorite
+  market_notes: "Madagascar provides most commercial gem-quality material. Spectrolite from Finland is premium. Rainbow moonstone (labradorite) is pervasive in the jewelry market. Strong full-spectrum labradorescence commands significant premiums."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by:
+    - sericite
+    - calcite
+    - epidote
+  lookalikes:
+    - moonstone
+    - spectrolite
+    - rainbow-moonstone (trade name for labradorite)
+    - other feldspars
+    - benitoite (very different, but blue)
+  related_species:
+    - albite
+    - anorthite
+    - bytownite
+    - andesine
+    - oligoclase
+    - orthoclase
+    - moonstone
+
+app_metadata:
+  tags:
+    - feldspar
+    - plagioclase
+    - iridescent
+    - labradorescence
+    - species
+    - igneous
+    - gemstone
+    - high-priority
+    - optical-effect
+  search_boost_terms:
+    - labradorite
+    - spectrolite
+    - rainbow moonstone
+    - labradorescence
+    - plagioclase feldspar
+    - aurora stone
+    - schiller feldspar
+    - blue iridescent feldspar
+  prompt_fragments:
+    - "floating prismatic aurora iridescence in dark gray feldspar"
+    - "thin-film interference labradorescence shifting blue-green-gold"
+    - "northern lights imprisoned in polished stone"
+  ui_color_hint: [electric-blue, dark-gunmetal, peacock-teal, copper-orange, spectral-violet]
+  priority_score: 90
+
+provenance:
+  source_status: draft
+  completeness: 0.88
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-2231.html"
+  notes: "Tier 1 entry. Rainbow moonstone in the trade is actually labradorite — noted in confusions."
