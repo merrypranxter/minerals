@@ -1,0 +1,50 @@
+# Toxicity Levels
+# Controlled vocabulary for toxicity field
+
+toxicity_levels:
+  - id: safe
+    display: Safe
+    description: No known significant hazard under normal handling and display.
+    handling: Handle normally; wash hands after extended contact.
+    examples: [quartz, calcite, fluorite, tourmaline, garnet, beryl]
+
+  - id: low
+    display: Low Concern
+    description: Minor hazard under normal handling; caution with fine dust.
+    handling: Avoid generating fine dust; wash hands; do not ingest.
+    examples: [malachite, azurite, hematite, goethite]
+
+  - id: moderate
+    display: Moderate Hazard
+    description: Contains toxic elements; requires sensible precautions.
+    handling: Do not ingest, do not grind without protection, keep away from food.
+    examples: [galena (lead), anglesite, cerussite, stibnite]
+
+  - id: high
+    display: High Hazard
+    description: Strongly toxic elements or potential for significant exposure.
+    handling: Mask required for dust; do not handle damaged specimens without gloves; store safely.
+    examples: [cinnabar (mercury), arsenopyrite, realgar, orpiment]
+
+  - id: severe
+    display: Severe / Extreme Hazard
+    description: Very high toxicity; radioactive or highly reactive materials.
+    handling: Sealed container; expert handling only; radioactive waste regulations may apply.
+    examples: [uraninite, autunite, torbernite, radioactive minerals]
+
+  - id: asbestos-risk
+    display: Asbestos / Fibrous Hazard
+    description: Asbestiform habit with severe respiratory hazard if fibers become airborne.
+    handling: Do not cut, sand, or disturb; treat as asbestos.
+    examples: [chrysotile, crocidolite (riebeckite), amosite, tremolite (fibrous), actinolite (fibrous)]
+    notes: Tiger's eye is a pseudomorph after crocidolite; generally safe when fully replaced, but disputed.
+
+  - id: context-dependent
+    display: Context-Dependent
+    description: Safety depends on form, treatment, or handling context.
+    examples: [tiger's-eye, some serpentine, asbestiform tremolite]
+
+notes:
+  - All dust from mineral grinding should be considered potentially hazardous.
+  - Water-soluble minerals (e.g., halite, sylvite) present low risk unless ingested in large quantities.
+  - Crystal-healing use should not involve ingesting mineral powders or gem elixirs made with toxic minerals.

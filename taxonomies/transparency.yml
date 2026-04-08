@@ -1,0 +1,23 @@
+# Transparency Levels
+# Controlled vocabulary for transparency field
+
+transparency:
+  - id: transparent
+    display: Transparent
+    description: Clear enough to see through clearly; objects are distinct through the mineral.
+    examples: [clear quartz, colorless fluorite, iceland spar calcite, rock crystal]
+
+  - id: translucent
+    display: Translucent
+    description: Light passes through but objects are not clearly visible.
+    examples: [chalcedony, rose quartz, agate, selenite, most fluorite]
+
+  - id: sub-translucent
+    display: Sub-Translucent
+    description: Only slightly translucent; thin edges may show light.
+    examples: [some jasper, some malachite, some turquoise]
+
+  - id: opaque
+    display: Opaque
+    description: Does not transmit light.
+    examples: [pyrite, galena, hematite, malachite (most), jasper, turquoise (most)]

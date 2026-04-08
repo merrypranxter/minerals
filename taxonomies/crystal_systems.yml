@@ -1,0 +1,59 @@
+# Crystal Systems
+# Controlled vocabulary for crystal_system field
+
+systems:
+  - id: isometric
+    display: Isometric (Cubic)
+    aliases: [cubic]
+    symmetry: Highest symmetry; three equal axes at right angles.
+    typical_habits: [cubic, octahedral, dodecahedral, tetrahedral]
+    examples: [fluorite, galena, halite, spinel, garnet, diamond, pyrite]
+
+  - id: tetragonal
+    display: Tetragonal
+    aliases: []
+    symmetry: Two equal horizontal axes and one vertical axis at right angles; c ≠ a.
+    typical_habits: [prismatic, pyramidal, tabular, bipyramidal]
+    examples: [zircon, rutile, cassiterite, wulfenite]
+
+  - id: orthorhombic
+    display: Orthorhombic
+    aliases: []
+    symmetry: Three unequal axes at right angles.
+    typical_habits: [prismatic, tabular, bladed, striated]
+    examples: [topaz, olivine, sulfur, barite, celestite, staurolite, andalusite]
+
+  - id: hexagonal
+    display: Hexagonal
+    aliases: []
+    symmetry: Three equal axes in a plane at 120° + one vertical axis.
+    typical_habits: [prismatic, pyramidal, tabular, platy]
+    examples: [beryl, apatite, molybdenite]
+
+  - id: trigonal
+    display: Trigonal (Rhombohedral)
+    aliases: [rhombohedral]
+    symmetry: Threefold rotational symmetry; sometimes grouped with hexagonal.
+    typical_habits: [rhombohedral, prismatic, scalenohedral, tabular]
+    examples: [quartz, calcite, tourmaline, corundum, hematite, rhodochrosite, dolomite]
+
+  - id: monoclinic
+    display: Monoclinic
+    aliases: []
+    symmetry: Three unequal axes; two at right angles, one inclined.
+    typical_habits: [prismatic, tabular, bladed, platy]
+    examples: [malachite, azurite, gypsum, muscovite, orthoclase, jadeite, diopside, epidote, hornblende, spodumene]
+
+  - id: triclinic
+    display: Triclinic
+    aliases: []
+    symmetry: Three unequal axes at different oblique angles; lowest crystal symmetry.
+    typical_habits: [tabular, bladed, prismatic]
+    examples: [albite, labradorite, kyanite, rhodonite, chalcanthite]
+
+  - id: amorphous
+    display: Amorphous (No Crystal System)
+    aliases: [noncrystalline, glassy]
+    symmetry: No crystalline order.
+    notes: Not a formal crystal system; used for mineraloids and amorphous materials.
+    examples: [opal, obsidian, amber, moldavite]

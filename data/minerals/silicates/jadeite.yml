@@ -1,0 +1,277 @@
+id: jadeite
+slug: jadeite
+display_name: Jadeite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: pyroxene-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - imperial-jade
+    - fei-cui
+    - lavender-jade
+    - black-jadeite
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2056
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "NaAlSi2O6"
+  simplified_formula: "NaAlSi2O6"
+  essential_elements: [Na, Al, Si, O]
+  trace_elements_common: [Cr, Fe, Mn, Mg, Ca, Ti]
+  structural_units:
+    - "SiO4 tetrahedra linked into single chains (inosilicate)"
+    - "AlO6 octahedral M1 site"
+    - "Na in the M2 (distorted 6–8 coordinate) site"
+  atomic_structure_notes: "Single-chain inosilicate (pyroxene). Chains of corner-sharing SiO4 tetrahedra repeat every two tetrahedra (two-tetrahedra repeat unit Si2O6). Al occupies the smaller M1 octahedral site; Na occupies the larger M2 site. The high-pressure stability of jadeite relative to its low-pressure equivalent (albite + nepheline) reflects the dense packing of the pyroxene structure."
+  chemistry_notes: "Jadeite is the Na-Al end member of the clinopyroxene solid solution series. It grades toward omphacite (with Ca-Mg aegirine substitution) and augite. Chromium substituting for Al3+ in the M1 octahedral site produces the vivid emerald-green of Imperial jade. Fe3+ (aegirine component) produces black. Mn produces lavender in some varieties."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "2/m (prismatic)"
+  space_group: "C2/c"
+  unit_cell_notes: "a ≈ 9.42 Å, b ≈ 8.56 Å, c ≈ 5.22 Å, β ≈ 107.6°; Z = 4"
+  twinning: "Simple and polysynthetic twinning on {100} and {001} common"
+  crystallography_notes: "Although jadeite is monoclinic and forms distinct prismatic crystals in laboratory samples, natural jade as used in carving is almost always a fine-grained interlocking mosaic of jadeite crystals — a rock texture that is responsible for its extraordinary toughness. Prismatic crystals with two cleavage planes meeting at ~87° and ~93° (characteristic pyroxene cleavage angle) are occasionally found."
+
+physical_properties:
+  mohs_hardness: "6.5–7"
+  specific_gravity: "3.24–3.43"
+  luster: [waxy, vitreous, resinous]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage:
+    - "good prismatic {110} at ~87° and ~93° (two directions, pyroxene cleavage)"
+  fracture: [splintery, uneven]
+  tenacity: "tough (fine-grained interlocking crystals provide exceptional toughness)"
+  physical_notes: "Jadeite has one of the highest SG values among commercially important jade-type materials (~3.24–3.43), distinguishing it from nephrite (~2.90–3.03) and most simulants. Its toughness in massive form is due to interlocking crystal texture, not high hardness alone. The waxy to vitreous luster on polished surfaces is immediately distinctive."
+
+appearance:
+  baseline_colors: [white, gray, pale-green]
+  color_profiles:
+    - name: imperial-jade
+      colors: [vivid-green, emerald-green, intense-green]
+      cause: "Cr3+ substituting for Al3+ in the M1 octahedral site, producing a chromium absorption spectrum analogous to emerald."
+      conditions: "Highest quality jadeite from Myanmar; colour, transparency, and texture must all be optimal. The finest material is semi-transparent vivid green ('apple green' to 'emerald green')."
+      variety_name: imperial-jade
+    - name: fei-cui-green
+      colors: [green, mottled-green, apple-green, leek-green]
+      cause: "Cr3+ for vivid greens; Fe2+/Fe3+ for duller or bluish greens."
+      conditions: "General term for gem jadeite (fei-cui in Mandarin) encompassing a range of green to greenish stones."
+      variety_name: fei-cui
+    - name: lavender-jadeite
+      colors: [lavender, violet, mauve, pale-purple]
+      cause: "Mn2+ and/or Fe2+–Fe3+ charge transfer in the structure; exact mechanism debated."
+      conditions: "Myanmar; prized in Chinese market; second most valuable color after imperial green."
+      variety_name: lavender-jade
+    - name: white-jadeite
+      colors: [white, cream, pale-gray]
+      cause: "Low chromophore content; fine-grained texture scatters light."
+      conditions: "Called 'mutton-fat' when semi-translucent white; often used as carving material."
+      variety_name: null
+    - name: black-jadeite
+      colors: [black, dark-gray]
+      cause: "High Fe3+ (aegirine component) or graphite/carbonaceous inclusions."
+      conditions: "Myanmar and Guatemala; used in modern jewelry."
+      variety_name: black-jadeite
+  habits:
+    - massive
+    - granular
+    - fibrous-aggregate
+    - interlocking-crystalline
+    - prismatic (rare isolated crystals)
+  textures:
+    - waxy
+    - smooth
+    - interlocking-granular
+    - finely-crystalline
+  macro_patterns:
+    - mottled
+    - veined
+    - banded
+    - uniform
+    - mossy
+  common_forms:
+    - massive boulders and river cobbles
+    - carved objects
+    - cabochons and beads
+    - prismatic crystals (rare, in schists)
+  visual_notes: "Jadeite's waxy polish and semi-transparency in the finest green material ('glassy' or 'icy') is visually unmistakable. The fei-cui terminology in Chinese trade describes a full quality spectrum. A water-drop test (drops stand high on polished surface) and the cold, greasy feel are tactile identifiers used by experienced traders."
+
+optical_and_special_effects:
+  fluorescence: "Inert (untreated) to weak white or pale green under LW UV; heavily treated (B-jade) may show blue-white fluorescence"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: "None significant (fine-grained aggregate material)"
+  optical_notes: "RI approximately 1.654–1.667 (spot reading on refractometer gives ~1.66). Birefringence ~0.012–0.020 (rarely measured due to aggregate nature). 'Dip dyed' or B+C jade (impregnated and coated) can be detected by Chelsea filter, spectroscopy, or by the resin fluorescence."
+
+formation_and_occurrence:
+  genesis:
+    - metamorphic
+  geologic_environments:
+    - high-pressure low-temperature (HP-LT) metamorphic terranes
+    - blueschist-facies subduction zones
+    - serpentinite mélanges
+  host_rocks:
+    - serpentinite
+    - blueschist
+    - eclogite
+    - metasomatic rodingite
+  associated_minerals:
+    - omphacite
+    - glaucophane
+    - lawsonite
+    - aragonite
+    - diopside
+    - albite
+    - chlorite
+    - serpentine
+    - actinolite
+  locality_scope: localized
+  notable_localities:
+    - "Tawmaw (Hpakan), Kachin State, Myanmar — world's primary and premier source of gem jadeite since at least the 13th century"
+    - "Motagua Valley, Guatemala — second major world source; Mesoamerican jade (Olmec, Maya)"
+    - "Kotaki River area, Niigata Prefecture, Japan (itoigawa-type jadeite)"
+    - "Polar Ural Mountains, Russia"
+    - "Dzhida River, Buryatia, Russia"
+    - "Tibesti region, Chad (reported)"
+  occurrence_notes: "Jadeite forms at high pressure (>1 GPa) and relatively low temperature (~200–500°C), conditions typical of subducted oceanic crust. It is brought to the surface in serpentinite mélanges along paleo-subduction zones. Most gem jadeite has been transported to secondary alluvial and residual deposits, where rounded boulders with weathered crusts (called 'skin' in the trade) are characteristic."
+
+cultural_and_historical:
+  birthstone_status:
+    - "Not a traditional Western birthstone, but recognized in some systems for March or August"
+  zodiac_associations:
+    - "Virgo, Taurus (in Chinese and some Western systems)"
+  historical_uses:
+    - "Chinese jade carving tradition spans more than 7,000 years; Neolithic cultures (Hongshan, Liangzhu) produced ritual jades including bi discs and cong tubes, though many early 'jade' artifacts are nephrite"
+    - "Jadeite from Myanmar only became the dominant Chinese imperial jade material after the 18th century, when Burmese trade routes opened under Qing dynasty patronage — Empress Dowager Cixi was a particularly devoted collector"
+    - "The Olmec civilization of Mesoamerica (1500–400 BCE) and the Maya (250 BCE–900 CE) worked Guatemalan jadeite into masks, pendants, and celts of great ritual significance; jade was more valuable than gold in Mesoamerican cultures"
+    - "Aztec mosaic masks incorporating jadeite and other green stones were among the most prized gifts sent to Hernán Cortés, who dismissed them in favor of gold — a historic cultural misvaluation"
+    - "Itoigawa jadeite in Japan (Niigata Prefecture) has been worked since the Jomon period (~5000 BCE), making it one of the earliest jade-working traditions; Itoigawa jade has been found in Jomon-period sites across Japan"
+    - "Spanish conquistadors observed Mesoamerican peoples pressing jade stones to their sides to cure 'piedra de ijada' (loin pain/kidney pain) — the origin of the Spanish word 'jade' and the belief in jade's kidney-healing properties"
+  cultural_associations:
+    - "In Chinese philosophy and culture, jade (yu) is the most revered stone, embodying the Confucian virtues: humanity, justice, wisdom, courage, and purity. The phrase 'precious as jade and gold' reflects its status."
+    - "Imperial jade bangles, pendants, and carvings are central to Chinese bridal tradition and family heirlooms across the Chinese diaspora"
+    - "The Chinese phrase 'jade-like' (如玉, rú yù) is a supreme compliment for skin, character, or beauty"
+    - "Guatemalan jadeite was rediscovered by archaeologists in the 20th century; a major revival of Maya jade carving began in the 1970s and continues today"
+    - "Ritual jade bi discs (flat circular discs with central holes) may represent heaven in ancient Chinese cosmology; cong (square outer, circular inner tubes) may represent earth"
+  symbolism:
+    - immortality
+    - imperial-power
+    - purity
+    - heaven
+    - virtue
+    - healing
+    - longevity
+  folklore_notes: "In ancient China, the deceased were sometimes buried with jade pieces placed on bodily orifices to preserve the body — jade burial suits (玉衣) of the Han dynasty, made from thousands of jade plaques sewn with gold, silver, or bronze wire, represent the apex of this tradition. Jade was believed to prevent decomposition and ensure immortality."
+
+interpretive_vibe:
+  mood_keywords:
+    - imperial-silence
+    - high-pressure-green
+    - jade-court
+    - sacred-stone
+    - subduction-secret
+  sensory_keywords:
+    - waxy
+    - cool
+    - smooth
+    - weighty
+    - translucent-glow
+  palette_keywords:
+    - imperial-green
+    - lavender-whisper
+    - icy-white
+    - deep-forest-green
+  aesthetic_roles:
+    - sacred imperial gem
+    - high-pressure formation showcase
+    - cultural continuity stone
+    - translucent jade glow
+  vibe_notes: "Jadeite carries perhaps the heaviest cultural weight of any mineral on Earth — the civilizational stone of China and Mesoamerica simultaneously, formed in the crushing pressure of subduction zones and revered for millennia. Imperial jade's vivid semi-transparent green is one of the most coveted colors in human history."
+
+practical_notes:
+  toxicity: low
+  handling_notes: "Tough and durable; safe to handle. Avoid sharp impacts that could chip carved surfaces or thin sections."
+  care_notes: "Clean with warm water and mild soap; a soft brush for carvings. Avoid chemicals that could attack surface treatments. Genuine untreated jadeite is stable; B-jade (impregnated) is sensitive to cleaning chemicals."
+  treatments_or_synthetics:
+    - "A-jade: completely untreated; highest value; authenticated by absence of polymer or bleaching"
+    - "B-jade: bleached with acid to remove brown Fe-staining, then impregnated with colorless polymer/wax to improve transparency; unstable over time, may yellow or crack"
+    - "C-jade: dye-treated to add or enhance color; dyes may fade"
+    - "B+C jade: both impregnated and dyed"
+    - "Assembled doublets and triplets: thin jade over dyed cement or glass backing"
+    - "FTIR spectroscopy and UV-Vis are standard gemmological detection methods"
+  common_confusions:
+    - "Nephrite (the other 'jade' — softer SG ~2.95, amphibole rather than pyroxene)"
+    - "Serpentine ('new jade', 'Korean jade', 'Bowenite')"
+    - "Aventurine quartz ('Indian jade')"
+    - "Green quartzite ('Transvaal jade')"
+    - "Chrysoprase ('Australian jade')"
+    - "Prehnite, grossular garnet ('Tsavorite' when gem-quality)"
+    - "Maw-sit-sit (a Cr-jadeite-rich rock, not pure jadeite)"
+  market_notes: "Imperial jadeite is among the world's most valuable gem materials — top-quality translucent vivid-green pieces routinely exceed diamond prices per carat at Hong Kong auction. Myanmar controls the vast majority of supply; the trade is politically sensitive. Gemmological certification of treatment status (A/B/C jade) is essential."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after:
+    - albite
+    - nepheline
+  pseudomorphed_by: []
+  lookalikes:
+    - nephrite
+    - serpentine
+    - aventurine-quartz
+    - chrysoprase
+    - prehnite
+    - grossular-garnet
+  related_species:
+    - omphacite
+    - aegirine
+    - diopside
+    - augite
+    - kosmochlor
+
+app_metadata:
+  tags:
+    - gemstone
+    - inosilicate
+    - single-chain-silicate
+    - pyroxene
+    - jade
+    - high-pressure
+    - cultural
+    - high-priority
+    - subduction
+  search_boost_terms:
+    - jade
+    - jadeite
+    - imperial jade
+    - fei cui
+    - Chinese jade
+    - Myanmar jade
+    - Burmese jade
+    - Mesoamerican jade
+  prompt_fragments:
+    - "imperial jade vivid green semi-transparent glow"
+    - "waxy jadeite polish cool to touch"
+    - "subduction-zone mineral carved to perfection"
+    - "lavender jadeite whisper of violet"
+  ui_color_hint: [imperial-green, lavender, white, deep-green]
+  priority_score: 86
+
+provenance:
+  source_status: draft
+  completeness: 0.90
+  confidence: high
+  last_updated: "2026-04-07"
+  sources:
+    - "https://www.mindat.org/min-2056.html"
+    - "https://www.gia.edu/jade"
+    - "https://www.gia.edu/gems-gemology/fall-2019-jade-distinguishing-jadeite-nephrite"
+  notes: "Cultural history sections are accurate. Jadeite formation conditions (HP-LT metamorphism) are well-established. Trade terminology (A/B/C jade) follows GIA standards."

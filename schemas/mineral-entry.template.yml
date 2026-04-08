@@ -1,0 +1,120 @@
+id: ""                # canonical short id, e.g. quartz
+slug: ""              # URL/file-safe slug
+display_name: ""      # human-facing name
+
+classification:
+  chemistry_class: ""     # silicate, carbonate, halide, oxide, sulfide, phosphate, etc.
+  mineral_group: ""       # silica-group, fluorite-group, etc.
+  species_status: ""      # species, variety, mineraloid, group, trade-name
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: ""          # approved, grandfathered, variety, etc.
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: ""
+  simplified_formula: ""
+  essential_elements: []
+  trace_elements_common: []
+  structural_units: []    # e.g. SiO4 tetrahedra, CuO6 octahedra
+  atomic_structure_notes: ""
+  chemistry_notes: ""
+
+crystallography:
+  crystal_system: ""      # trigonal, isometric, monoclinic, etc.
+  crystal_class: ""
+  space_group: ""
+  unit_cell_notes: ""
+  twinning: ""
+  crystallography_notes: ""
+
+physical_properties:
+  mohs_hardness: null
+  specific_gravity: null
+  luster: []
+  streak: ""
+  transparency: []
+  cleavage: []
+  fracture: []
+  tenacity: ""
+  physical_notes: ""
+
+appearance:
+  baseline_colors: []
+  color_profiles:
+    - name: ""
+      colors: []
+      cause: ""
+      conditions: ""
+      variety_name: null
+  habits: []
+  textures: []
+  macro_patterns: []      # banded, concentric, fibrous, brecciated, drusy, etc.
+  common_forms: []
+  visual_notes: ""
+
+optical_and_special_effects:
+  fluorescence: ""
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: ""
+  optical_notes: ""
+
+formation_and_occurrence:
+  genesis: []             # hydrothermal, magmatic, metamorphic, sedimentary, secondary, evaporitic
+  geologic_environments: []
+  host_rocks: []
+  associated_minerals: []
+  locality_scope: ""      # widespread, uncommon, localized, etc.
+  notable_localities: []
+  occurrence_notes: ""
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: []
+  symbolism: []
+  folklore_notes: ""
+
+interpretive_vibe:
+  mood_keywords: []
+  sensory_keywords: []
+  palette_keywords: []
+  aesthetic_roles: []     # accent stone, cathedral stone, toxic jewel, cosmic crystal, etc.
+  vibe_notes: ""
+
+practical_notes:
+  toxicity: ""
+  handling_notes: ""
+  care_notes: ""
+  treatments_or_synthetics: []
+  common_confusions: []
+  market_notes: ""
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: []
+  related_species: []
+
+app_metadata:
+  tags: []
+  search_boost_terms: []
+  prompt_fragments: []
+  ui_color_hint: []
+  priority_score: null
+
+provenance:
+  source_status: ""       # draft, reviewed, verified
+  completeness: 0.0       # 0 to 1
+  confidence: ""          # low, medium, high
+  last_updated: "YYYY-MM-DD"
+  sources: []
+  notes: ""

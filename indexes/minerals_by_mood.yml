@@ -1,0 +1,111 @@
+# Minerals by Mood Tag
+# Index mapping creative/interpretive mood keywords to minerals.
+# These tags are from the interpretive_vibe.mood_keywords fields.
+
+cave-milk:
+  - chalcedony
+
+smooth-tension:
+  - chalcedony
+
+ghost-layer:
+  - chalcedony
+
+cool-surface:
+  - chalcedony
+
+geologic-calendar:
+  - agate
+
+layer-archive:
+  - agate
+
+earth-strata:
+  - agate
+
+terrestrial-pattern:
+  - agate
+
+earth-body:
+  - jasper
+
+canyon-floor:
+  - jasper
+
+oxidized-terrain:
+  - jasper
+
+deep-strata:
+  - jasper
+
+predator-eye:
+  - tiger-eye
+
+desert-vision:
+  - tiger-eye
+
+amber-surveillance:
+  - tiger-eye
+
+geological-watchfulness:
+  - tiger-eye
+
+northern-lights:
+  - labradorite
+
+prismatic-abyss:
+  - labradorite
+
+schiller-depth:
+  - labradorite
+
+arctic-glow:
+  - labradorite
+
+lunar-milk:
+  - moonstone
+
+adular-glow:
+  - moonstone
+
+night-water:
+  - moonstone
+
+floating-light:
+  - moonstone
+
+solar-fragment:
+  - sunstone
+
+copper-harvest:
+  - sunstone
+
+warm-metallic-scatter:
+  - sunstone
+
+autumn-mineral:
+  - sunstone
+
+clarity:
+  - quartz
+
+signal-amplifier:
+  - quartz
+
+crystalline-order:
+  - quartz
+
+cold-light:
+  - quartz
+
+cathedral-air:
+  - quartz
+
+jungle-opulence:
+  - malachite
+
+venom-luxury:
+  - malachite
+
+regal-poison:
+  - malachite

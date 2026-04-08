@@ -1,0 +1,110 @@
+# Geologic Environments
+# Controlled vocabulary for geologic_environments and genesis fields
+
+genesis_types:
+  - id: magmatic
+    display: Magmatic (Igneous)
+    description: Formed directly from magma crystallization.
+    examples: [olivine, pyroxene, feldspar, magnetite, ilmenite, chromite, diamond (kimberlite)]
+
+  - id: pegmatitic
+    display: Pegmatitic
+    description: Formed in late-stage highly enriched magmatic melts; often produces large crystals and rare elements.
+    examples: [tourmaline, beryl, lepidolite, spodumene, topaz, columbite, cassiterite]
+
+  - id: hydrothermal
+    display: Hydrothermal
+    description: Formed from hot aqueous fluids (water solutions at elevated temperatures and pressures).
+    subtypes:
+      - high-temperature: >300°C
+      - medium-temperature: 150-300°C
+      - low-temperature: <150°C (epithermal)
+    examples: [quartz, calcite, fluorite, galena, sphalerite, pyrite, gold, silver, chalcopyrite]
+
+  - id: metamorphic
+    display: Metamorphic
+    description: Formed by recrystallization of existing minerals under heat and pressure.
+    examples: [garnet, kyanite, staurolite, andalusite, sillimanite, graphite, corundum]
+
+  - id: sedimentary
+    display: Sedimentary
+    description: Formed by deposition, precipitation, or accumulation of particles.
+    subtypes:
+      - chemical: precipitated from solution (evaporites, carbonate reefs)
+      - clastic: detrital mineral grains
+      - biochemical: biologically mediated
+    examples: [calcite, gypsum, halite, dolomite, chert, pyrite (diagenetic)]
+
+  - id: evaporitic
+    display: Evaporitic
+    description: Formed by evaporation of saline waters.
+    examples: [halite, sylvite, gypsum, anhydrite, celestite]
+
+  - id: secondary
+    display: Secondary (Supergene / Oxidation Zone)
+    description: Formed by chemical weathering and alteration of primary minerals.
+    examples: [malachite, azurite, chrysocolla, limonite, goethite, turquoise, smithsonite]
+
+  - id: metasomatic
+    display: Metasomatic
+    description: Formed by replacement of one rock by another via fluid-assisted chemical exchange.
+    examples: [jadeite (in some contexts), epidote, vesuvianite, diopside (skarn)]
+
+  - id: skarn
+    display: Skarn
+    description: Contact metasomatic zone between igneous intrusion and carbonate rock.
+    examples: [garnet (grossular, andradite), epidote, vesuvianite, wollastonite, magnetite]
+
+  - id: placer
+    display: Placer
+    description: Concentrated by weathering and transport; dense resistant minerals deposited in river gravels or beach sands.
+    examples: [gold, cassiterite, ilmenite, rutile, zircon, diamond (some)]
+
+  - id: biogenic
+    display: Biogenic
+    description: Formed by biological organisms.
+    examples: [pearl, shell carbonate, coal precursors, amber]
+
+  - id: impact-related
+    display: Impact-Related (Shock)
+    description: Formed by meteor impact shock conditions.
+    examples: [moldavite (impact melt glass), shocked quartz, impact diamond]
+
+geologic_environments:
+  - id: hydrothermal-vein
+    display: Hydrothermal Vein
+    description: Fracture-hosted hydrothermal mineral deposit.
+  - id: pegmatite
+    display: Pegmatite
+    description: Coarse-grained igneous rock, often highly mineralized.
+  - id: granite
+    display: Granite / Granitic Rock
+  - id: basalt
+    display: Basalt / Volcanic Rock
+  - id: skarn
+    display: Skarn (Contact Zone)
+  - id: marble
+    display: Marble (Metamorphic Carbonate)
+  - id: schist
+    display: Schist (Metamorphic)
+  - id: greenstone
+    display: Greenstone Belt
+  - id: oxidized-copper-deposit
+    display: Oxidized Copper Deposit (Gossan / Supergene Zone)
+  - id: alluvial-placer
+    display: Alluvial Placer Deposit
+  - id: evaporite-basin
+    display: Evaporite Basin
+  - id: carbonate-karst
+    display: Carbonate Karst / Cave System
+  - id: volcanic-fumarole
+    display: Volcanic Fumarole / Sublimation Zone
+  - id: sedimentary-nodule
+    display: Sedimentary Nodule / Concretion
+  - id: biogenic-deposit
+    display: Biogenic / Organic Deposit
+  - id: impact-structure
+    display: Meteorite Impact Structure
+  - id: kimberlite
+    display: Kimberlite Pipe
+    description: Ultra-mafic volcanic pipe; primary source of diamond.

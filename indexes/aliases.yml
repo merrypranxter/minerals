@@ -1,0 +1,108 @@
+# Mineral Aliases Index
+# Maps common names, trade names, variety names, and historical names
+# to their canonical mineral IDs in this database.
+# Use this to resolve search queries and alternate naming.
+
+aliases:
+
+  # ─── QUARTZ VARIETIES ─────────────────────────────────────────────────────
+  amethyst: quartz
+  citrine: quartz
+  rose-quartz: quartz
+  rose quartz: quartz
+  smoky-quartz: quartz
+  smoky quartz: quartz
+  rock-crystal: quartz
+  rock crystal: quartz
+
+  # ─── CHALCEDONY VARIETIES ─────────────────────────────────────────────────
+  carnelian: chalcedony
+  cornelian: chalcedony
+  chrysoprase: chalcedony
+  chrysopraise: chalcedony
+  onyx: chalcedony
+  sard: chalcedony
+  sardonyx: chalcedony
+  bloodstone: chalcedony
+  heliotrope: chalcedony
+  blue chalcedony: chalcedony
+  blue lace agate: agate
+
+  # ─── AGATE VARIETIES ──────────────────────────────────────────────────────
+  fire agate: agate
+  fire-agate: agate
+  moss agate: agate
+  moss-agate: agate
+  dendritic agate: agate
+  iris agate: agate
+  Botswana agate: agate
+  fortification agate: agate
+
+  # ─── JASPER VARIETIES ─────────────────────────────────────────────────────
+  red jasper: jasper
+  picture jasper: jasper
+  picture-jasper: jasper
+  ocean jasper: jasper
+  ocean-jasper: jasper
+  mookaite: jasper
+  imperial jasper: jasper
+  leopardskin jasper: jasper
+
+  # ─── TIGER'S EYE ──────────────────────────────────────────────────────────
+  "tiger's eye": tiger-eye
+  tigers eye: tiger-eye
+  tiger eye: tiger-eye
+  tigerseye: tiger-eye
+  hawk's eye: tiger-eye
+  hawk eye: tiger-eye
+  hawkeye: tiger-eye
+  hawks eye: tiger-eye
+  ox eye: tiger-eye
+  ox-eye: tiger-eye
+  pietersite: tiger-eye
+
+  # ─── LABRADORITE ──────────────────────────────────────────────────────────
+  spectrolite: labradorite
+  rainbow moonstone: labradorite     # trade name for labradorite
+  rainbow-moonstone: labradorite
+  larvikite: labradorite             # Norwegian syenite with labradorite
+  labradorescent feldspar: labradorite
+
+  # ─── MOONSTONE ────────────────────────────────────────────────────────────
+  adularia: moonstone
+  blue moonstone: moonstone
+  peach moonstone: moonstone
+  gray moonstone: moonstone
+  cat eye moonstone: moonstone
+
+  # ─── SUNSTONE ─────────────────────────────────────────────────────────────
+  Oregon sunstone: sunstone
+  oregon sunstone: sunstone
+  aventurine feldspar: sunstone
+  aventurescent feldspar: sunstone
+  heliolite: sunstone
+
+  # ─── MALACHITE ────────────────────────────────────────────────────────────
+  banded malachite: malachite
+  velvet malachite: malachite
+
+  # ─── DIAMOND ──────────────────────────────────────────────────────────────
+  brilliant: diamond
+  rough diamond: diamond
+
+  # ─── GOLD ─────────────────────────────────────────────────────────────────
+  native gold: gold
+  electrum: gold
+
+  # ─── SILVER ───────────────────────────────────────────────────────────────
+  native silver: silver
+
+  # ─── COPPER ───────────────────────────────────────────────────────────────
+  native copper: copper
+
+  # ─── GRAPHITE ─────────────────────────────────────────────────────────────
+  plumbago: graphite
+
+  # ─── SULFUR ───────────────────────────────────────────────────────────────
+  sulphur: sulfur
+  brimstone: sulfur

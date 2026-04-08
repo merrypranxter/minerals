@@ -1,0 +1,137 @@
+# Mood / Vibe Tags
+# Controlled vocabulary for mood_keywords field
+# These are interpretive / creative tags for app and design use.
+# They should be useful and specific, not generic platitudes.
+
+mood_tags:
+  # --- Energy / intensity ---
+  - id: electric
+    description: Sharp, charged, bright, energized visual quality.
+    associated: [tourmaline, alexandrite, azurite, fluorite, fire-opal]
+
+  - id: incandescent
+    description: Inner glow, lit-from-within warmth.
+    associated: [fire-opal, citrine, heliodor, carnelian]
+
+  - id: volcanic
+    description: Intense, visceral, ancient destructive heat.
+    associated: [obsidian, fire-opal, realgar, cinnabar, garnet]
+
+  - id: radioactive-green
+    description: Uncanny, chemical, glowing, biohazard-adjacent.
+    associated: [uranium glass, vivianite, pyromorphite]
+
+  # --- Calm / depth ---
+  - id: abyssal
+    description: Deep, dark, unknowable, oceanic.
+    associated: [black-tourmaline, obsidian, magnetite, black-spinel]
+
+  - id: glacial
+    description: Cold, clear, still, icy.
+    associated: [rock-crystal, aquamarine, labradorite (blue), ice quartz]
+
+  - id: cave-milk
+    description: Soft, pale, underground warmth; white dripping stone.
+    associated: [calcite, aragonite, white selenite, pearl]
+
+  - id: deep-sea
+    description: Layered, cool, bioluminescent-adjacent, dark blue-green.
+    associated: [aquamarine, labradorite, chrysocolla, larimar]
+
+  # --- Organic / natural ---
+  - id: forest-floor
+    description: Earthy, mossy, decomposing, fertile, ancient.
+    associated: [serpentine, jasper, nephrite, tourmaline-green]
+
+  - id: jungle-opulence
+    description: Rich, tropical, lush, overwhelming green density.
+    associated: [malachite, emerald, chrysocolla, uvarovite]
+
+  - id: desert-heat
+    description: Warm, sandy, oxidized, sun-bleached, arid.
+    associated: [jasper (red), carnelian, vanadinite, desert-rose]
+
+  - id: fossil-time
+    description: Ancient, preserved, biological-origin, amber-like.
+    associated: [amber, jet, ammonite, petrified-wood]
+
+  # --- Precious / royal ---
+  - id: cathedral-light
+    description: Luminous, ecclesiastical, colored-window quality.
+    associated: [amethyst, stained-fluorite, tanzanite]
+
+  - id: regal-poison
+    description: Aristocratic but dangerous; beautiful and toxic.
+    associated: [malachite, arsenic-minerals, cinnabar, realgar, orpiment]
+
+  - id: venom-luxury
+    description: Like malachite: rich, jeweled, biohazard-beautiful.
+    associated: [malachite, emerald, alexandrite]
+
+  - id: titan-gold
+    description: Heavy, metallic, ancient wealth-mineral energy.
+    associated: [gold, pyrite, chalcopyrite, heliodor, citrine]
+
+  # --- Structural / geometric ---
+  - id: crystalline-order
+    description: Perfect structure, lattice-logic, precise geometry.
+    associated: [quartz, fluorite, galena, halite]
+
+  - id: cubic-void
+    description: Cubic geometry, clean angles, minimalist.
+    associated: [galena, halite, fluorite, pyrite]
+
+  - id: electric-lattice
+    description: Tight, ordered, energized geometric structure.
+    associated: [tourmaline, fluorite, spinel]
+
+  - id: spectral-order
+    description: Organized color bands, zoned, spectrum-adjacent.
+    associated: [fluorite, tourmaline, banded minerals]
+
+  # --- Psychedelic / surreal ---
+  - id: acid-bloom
+    description: Vivid, oversaturated, chemical-color intensity.
+    associated: [vivianite, vanadinite, pyromorphite, crocoite]
+
+  - id: neon-cube
+    description: Fluorescent, candy-bright, alien geometry.
+    associated: [fluorite, spinel]
+
+  - id: temporal-fossil
+    description: Time-frozen, ancient-light preservation.
+    associated: [amber, petrified-wood, ammonite]
+
+  # --- Soft / domestic ---
+  - id: hearth-warmth
+    description: Comfortable, warm, amber or terracotta quality.
+    associated: [carnelian, amber, golden-calcite, sunstone]
+
+  - id: boudoir
+    description: Soft, intimate, pink-lavender feminine energy.
+    associated: [rose-quartz, morganite, lepidolite, kunzite]
+
+  - id: library-dust
+    description: Dusty, scholarly, old-parchment quality.
+    associated: [selenite, golden-calcite, jet]
+
+  # --- Specific strong vibes ---
+  - id: signal-amplifier
+    description: Universal crystal energy; used as a baseline or carrier.
+    associated: [quartz, selenite, clear calcite]
+
+  - id: cosmic-crystal
+    description: Outer-space, meteorite, ancient-cosmos quality.
+    associated: [moldavite, tektite, meteorite, rutile-included quartz]
+
+  - id: drowned-city
+    description: Aquatic, ruins, blue-green decay and beauty.
+    associated: [chrysocolla, larimar, aquamarine, labradorite]
+
+  - id: blood-altar
+    description: Red, sacrificial, ceremonial, primal urgency.
+    associated: [ruby, almandine, cinnabar, rhodochrosite, spessartine]
+
+  - id: industrial-ore
+    description: Utilitarian but fascinating; raw extraction energy.
+    associated: [galena, magnetite, hematite, iron ores, pyrite]

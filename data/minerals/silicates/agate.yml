@@ -1,0 +1,267 @@
+id: agate
+slug: agate
+display_name: Agate
+
+classification:
+  chemistry_class: silicate
+  mineral_group: silica-group
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - chalcedony
+    - onyx
+    - fire-agate
+    - moss-agate
+    - dendritic-agate
+    - iris-agate
+
+identifiers:
+  ima_status: variety
+  mindat_id: 93
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2"
+  simplified_formula: "SiO2"
+  essential_elements: [Si, O]
+  trace_elements_common: [Fe, Mn, Al, Ca, Mg, H]
+  structural_units:
+    - "SiO4 tetrahedra linked into a 3D framework"
+    - "microcrystalline fibrous quartz aggregates"
+  atomic_structure_notes: "Cryptocrystalline to microcrystalline silica. Like chalcedony, composed of intergrown microcrystalline quartz and moganite. Banding results from rhythmic variations in silica and impurity deposition during formation."
+  chemistry_notes: "Compositionally SiO2 with trace impurities. Color banding reflects periodic changes in impurity concentration (Fe, Mn, Al) or microporosity during hydrothermal or silica-gel precipitation."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "32 trapezohedral (individual microcrystals)"
+  space_group: "P3121 / P3221"
+  unit_cell_notes: "Microcrystalline aggregate; individual crystals submicroscopic."
+  twinning: ""
+  crystallography_notes: "No macroscopic crystal faces. Banding is a growth phenomenon, not a crystallographic feature. Fibrous chalcedony microstructure underlies the banding."
+
+physical_properties:
+  mohs_hardness: "6.5–7"
+  specific_gravity: "2.58–2.64"
+  luster: [waxy, dull]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage: []
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "Banding does not significantly alter physical properties from chalcedony baseline. Porosity varies between bands, enabling preferential dye uptake in different layers — the basis of most commercial agate dyeing."
+
+appearance:
+  baseline_colors: [multicolor-banded, white-gray-banded]
+  color_profiles:
+    - name: classic-banded
+      colors: [white, gray, cream, light-brown]
+      cause: "Alternating microporosity and impurity concentration in silica bands."
+      conditions: "Baseline agate without significant metallic impurities."
+      variety_name: null
+    - name: iron-banded
+      colors: [red, orange, yellow, brown, black]
+      cause: "Iron oxides (hematite, goethite, limonite) concentrated in alternating bands."
+      conditions: "Iron-bearing hydrothermal or weathering environment."
+      variety_name: null
+    - name: blue-lace-agate
+      colors: [pale-blue, white, lavender]
+      cause: "Scattering effects and trace impurities; very fine banding."
+      conditions: "Delicately banded form; locality-specific (Namibia)."
+      variety_name: blue-lace-agate
+    - name: fire-agate
+      colors: [iridescent orange, red, green, gold over brown base]
+      cause: "Thin-film interference from layered iron oxide (goethite) inclusions within silica layers."
+      conditions: "Southwestern US, Mexico hydrothermal deposits."
+      variety_name: fire-agate
+    - name: moss-agate
+      colors: [colorless to white with green or brown moss-like inclusions]
+      cause: "Dendritic or filiform chlorite, hornblende, or manganese oxide inclusions."
+      conditions: "Not strictly a banded agate; considered a type nonetheless."
+      variety_name: moss-agate
+    - name: onyx
+      colors: [black and white parallel bands]
+      cause: "Straight parallel banding with black bands (carbon or manganese) and white bands."
+      conditions: "Straight rather than curved banding pattern distinguishes from agate; definitions overlap historically."
+      variety_name: onyx
+  habits:
+    - nodular
+    - geode-lining
+    - vein-filling
+    - amygdaloidal
+    - layered slab
+  textures:
+    - waxy
+    - smooth
+    - layered
+    - banded
+  macro_patterns:
+    - concentric
+    - banded
+    - fortification-pattern
+    - plume
+    - dendritic
+    - eye-pattern
+    - iris
+  common_forms:
+    - rounded nodules with hollow or drusy cores
+    - polished slabs and cabochons
+    - bookend pairs (geode halves)
+    - tumbled stones
+    - carved bowls and figurines
+  visual_notes: "Defining characteristic is banded or patterned appearance — concentric, plume, fortification, or other structured color patterns. The concentric fortification pattern in cross-section looks like aerial topography or castle walls."
+
+optical_and_special_effects:
+  fluorescence: "Variable; some specimens show greenish or yellowish fluorescence under UV."
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Fire agate shows vivid iridescence from thin-film interference in iron oxide layers."
+  pleochroism: ""
+  optical_notes: "Iris agate (very thin banded agate) diffracts white light into spectral colors when held up to a light source."
+
+formation_and_occurrence:
+  genesis:
+    - hydrothermal
+    - sedimentary
+    - low-temperature-silica-gel-precipitation
+  geologic_environments:
+    - vesicles and amygdales in volcanic rocks (basalt, andesite, rhyolite)
+    - hydrothermal veins
+    - sedimentary nodules
+    - cavities in limestone and dolostone
+  host_rocks:
+    - basalt
+    - andesite
+    - rhyolite
+    - limestone
+    - dolostone
+  associated_minerals:
+    - chalcedony
+    - quartz
+    - amethyst
+    - calcite
+    - zeolites
+    - goethite
+    - hematite
+  locality_scope: widespread
+  notable_localities:
+    - "Brazil (Rio Grande do Sul — world's largest commercial agate deposits)"
+    - "Uruguay (deep purple amethyst-agate geodes)"
+    - "Germany (Idar-Oberstein — historic agate center)"
+    - "Botswana (Botswana agate, concentric pink and gray bands)"
+    - "United States (Montana, Oregon, Lake Superior agates)"
+    - "India (Khambhat/Cambay — ancient trade center for carnelian and agate)"
+    - "Mexico (Chihuahua; fire agate)"
+    - "Namibia (blue lace agate)"
+  occurrence_notes: "Agates form by slow deposition of silica-rich fluids into pre-existing cavities. Banding reflects periodic changes in chemistry or flow during infilling. Formation can take millions of years."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations: []
+  historical_uses:
+    - "One of the oldest gem materials used by humans; Neolithic agate tools documented"
+    - "Ancient Egyptian amulets and seals"
+    - "Mesopotamian cylinder seals"
+    - "Medieval European gem carving and intaglio"
+    - "Idar-Oberstein, Germany: major agate-cutting industry since the 15th century"
+    - "Brazilian agate exported globally since the 19th century for industry and gems"
+  cultural_associations:
+    - "Named from the Achates River (modern Dirillo) in Sicily, per Pliny the Elder"
+    - "Associated with grounding, protection, and balance in many traditions"
+  symbolism:
+    - stability
+    - grounding
+    - layered-time
+    - earth-archive
+  folklore_notes: "The name 'agate' is ancient, recorded by Theophrastus around 315 BCE. Believed to protect against storms, calm thirst, and bring luck in Greek and Roman traditions."
+
+interpretive_vibe:
+  mood_keywords:
+    - geologic-calendar
+    - layer-archive
+    - earth-strata
+    - terrestrial-pattern
+  sensory_keywords:
+    - layered
+    - smooth
+    - patterned
+    - geological
+    - cross-sectional
+  palette_keywords:
+    - earth-band
+    - rust-layer
+    - cream-white-ring
+    - storm-gray-stratum
+    - copper-oxide-ring
+  aesthetic_roles:
+    - earth-archive stone
+    - topographic mineral
+    - geologic cross-section specimen
+    - texture library anchor
+  vibe_notes: "Agate is a mineral calendar — each band a record of deposition. In cross-section it reads like geologic stratigraphy compressed into a hand-held nodule. The fortification pattern is one of the most compelling natural geometries."
+
+practical_notes:
+  toxicity: low
+  handling_notes: "Durable and safe for everyday handling. Fine silica dust hazard when cutting or grinding; use respiratory protection."
+  care_notes: "Generally stable. Avoid harsh acids. Dyed agates can fade with prolonged UV exposure."
+  treatments_or_synthetics:
+    - "Dyeing extremely common in trade — reds, greens, blues, blacks frequently artificial"
+    - "Differential porosity between bands allows selective dye uptake for vivid color contrasts"
+    - "Heat treatment can alter some colors"
+  common_confusions:
+    - jasper (opaque, no banding)
+    - chalcedony (unbanded)
+    - dyed howlite
+    - synthetic resin imitations
+  market_notes: "Very large global market. Brazilian agate is the world's dominant commercial source. Dyed agates are ubiquitous and often sold without disclosure. High-quality specimens from Botswana, Montana, and Germany command premium prices."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - jasper
+    - chalcedony
+    - banded fluorite
+    - dyed howlite
+  related_species:
+    - quartz
+    - chalcedony
+    - jasper
+    - chert
+    - moganite
+
+app_metadata:
+  tags:
+    - banded
+    - microcrystalline
+    - silica
+    - variety
+    - patterned
+    - widespread
+    - ancient-material
+    - geologic-record
+  search_boost_terms:
+    - agate
+    - banded chalcedony
+    - agate nodule
+    - geode agate
+    - fortification agate
+    - blue lace agate
+    - fire agate
+    - moss agate
+  prompt_fragments:
+    - "concentric fortification banding in cross-section"
+    - "earth-strata geologic calendar nodule"
+    - "layered silica archive in waxy translucent bands"
+  ui_color_hint: [rust-orange, cream, gray-band, blue-lace]
+  priority_score: 87
+
+provenance:
+  source_status: draft
+  completeness: 0.83
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-93.html"
+  notes: ""

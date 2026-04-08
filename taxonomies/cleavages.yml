@@ -1,0 +1,78 @@
+# Cleavage Types
+# Controlled vocabulary for cleavage field
+# Format: [quality] [plane description]
+# Quality terms: perfect, good, distinct, poor/indistinct, none
+
+cleavages:
+  qualities:
+    - id: perfect
+      description: Clean, flat, consistent break; leaves smooth mirror-like surface.
+    - id: good
+      description: Clear cleavage but not absolutely perfect.
+    - id: distinct
+      description: Moderately clear; visible but irregular.
+    - id: poor
+      description: Barely visible; hard to see.
+    - id: indistinct
+      description: Practically no cleavage.
+    - id: none
+      description: No cleavage observed.
+
+  planes:
+    - id: basal
+      description: Cleavage parallel to the base of the crystal (one direction, horizontal).
+      common_in: [mica, graphite, chlorite]
+
+    - id: prismatic
+      description: Two directions parallel to the long axis.
+      common_in: [pyroxenes, amphiboles, hornblende, spodumene]
+
+    - id: cubic
+      description: Three directions at right angles (parallel to cube faces).
+      common_in: [galena, halite, sylvite]
+
+    - id: octahedral
+      description: Four directions parallel to octahedron faces.
+      common_in: [fluorite, diamond]
+
+    - id: rhombohedral
+      description: Three directions at oblique angles; classic in calcite.
+      common_in: [calcite, dolomite, rhodochrosite]
+
+    - id: pinacoidal
+      description: Two or three directions at different angles typical in monoclinic/triclinic.
+      common_in: [feldspar, gypsum]
+
+  notable_examples:
+    - mineral: mica
+      quality: perfect
+      planes: [basal]
+      notes: Splits into paper-thin sheets.
+    - mineral: calcite
+      quality: perfect
+      planes: [rhombohedral]
+      notes: Three perfect directions forming rhombohedra.
+    - mineral: galena
+      quality: perfect
+      planes: [cubic]
+      notes: Three perfect directions at right angles.
+    - mineral: fluorite
+      quality: perfect
+      planes: [octahedral]
+      notes: Four directions; makes fracture into octahedra.
+    - mineral: feldspar
+      quality: good-to-perfect
+      planes: [two pinacoidal]
+      notes: Two cleavage directions at near-right angles.
+    - mineral: quartz
+      quality: poor
+      planes: [indistinct]
+      notes: No good cleavage; conchoidal fracture dominates.
+    - mineral: topaz
+      quality: perfect
+      planes: [basal]
+      notes: One perfect basal cleavage direction.
+    - mineral: diamond
+      quality: perfect
+      planes: [octahedral]
+      notes: Four perfect octahedral directions; can be cleaved for cutting.

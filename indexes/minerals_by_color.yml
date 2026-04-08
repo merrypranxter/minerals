@@ -1,0 +1,87 @@
+# Minerals by Color
+# Index mapping color keywords to minerals displaying that color.
+# A mineral may appear under multiple color headings.
+
+red:
+  - jasper                # red jasper (iron oxide)
+  - chalcedony            # carnelian variety (iron oxide)
+  - agate                 # iron-banded agate
+  - tiger-eye             # ox-eye variety (hematite)
+  - sunstone              # Oregon deep red (copper)
+
+orange:
+  - chalcedony            # carnelian (iron oxide)
+  - agate                 # iron-banded
+  - jasper                # yellow-orange jasper
+  - sunstone              # standard orange
+  - labradorite           # labradorescence copper tone
+
+yellow:
+  - jasper                # yellow jasper (goethite)
+  - agate                 # iron-banded yellow bands
+  - sulfur
+  - gold
+  - sunstone              # golden-yellow
+
+green:
+  - malachite             # defining color
+  - jasper                # green jasper (chlorite)
+  - chalcedony            # chrysoprase variety (nickel)
+  - agate                 # moss agate
+  - labradorite           # labradorescence green
+  - tiger-eye             # hawk's eye bluish-green
+
+blue:
+  - chalcedony            # blue chalcedony; rayleigh scattering
+  - agate                 # blue lace agate
+  - labradorite           # labradorescence blue (primary/most common)
+  - moonstone             # blue adularescence
+  - tiger-eye             # hawk's eye (crocidolite blue)
+  - fluorite              # blue fluorite
+
+white:
+  - quartz                # rock crystal / white quartz
+  - chalcedony            # white baseline
+  - moonstone             # white adularescence
+  - agate                 # white bands
+
+gray:
+  - quartz                # smoky range
+  - labradorite           # dark-gray groundmass
+  - moonstone             # gray body color
+  - chalcedony            # gray baseline
+
+brown:
+  - jasper                # brown jasper
+  - agate                 # banded brown
+  - tiger-eye             # golden-brown
+  - chalcedony            # sard variety
+
+black:
+  - agate                 # onyx black bands
+  - graphite
+  - labradorite           # spectrolite near-black matrix
+
+colorless:
+  - quartz                # rock crystal
+  - diamond
+  - moonstone             # finest Sri Lankan
+  - sunstone              # low-copper Oregon
+
+copper-metallic:
+  - copper                # native copper
+  - sunstone              # Oregon native copper schiller
+  - labradorite           # labradorescence copper-orange
+
+gold-metallic:
+  - gold
+  - tiger-eye             # golden chatoyant sheen
+  - sunstone              # aventurescent gold
+
+multicolor:
+  - labradorite           # full-spectrum labradorescence
+  - agate                 # banded multicolor
+  - jasper                # picture jasper / ocean jasper
+  - moonstone             # rainbow moonstone (labradorite trade name)
+  - sunstone              # Oregon bicolor
+  - fluorite              # zoned multicolor

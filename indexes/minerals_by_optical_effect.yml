@@ -1,0 +1,44 @@
+# Minerals by Optical Effect
+# Index mapping optical / special effects to minerals exhibiting them.
+
+labradorescence:
+  description: "Iridescent color play from thin-film interference in exsolution lamellae (plagioclase feldspars)"
+  minerals:
+    - labradorite          # defining specimen; An50-An70
+
+adularescence:
+  description: "Billowing floating glow from orthoclase/albite exsolution lamellae (K-feldspar)"
+  minerals:
+    - moonstone            # defining specimen; orthoclase/adularia
+
+chatoyancy:
+  description: "Cat's eye effect from parallel fiber or needle inclusions"
+  minerals:
+    - tiger-eye            # defining specimen; parallel goethite fibers
+    - moonstone            # rare cat's eye variety
+
+asterism:
+  description: "Star effect from crossing needle inclusions"
+  minerals: []             # none catalogued yet; rare in quartz, corundum, etc.
+
+aventurescence:
+  description: "Metallic glitter from oriented metallic platelet inclusions"
+  minerals:
+    - sunstone             # hematite, goethite, or native copper platelets
+
+fluorescence:
+  description: "Luminescence under ultraviolet light"
+  minerals:
+    - fluorite             # strongly fluorescent (blue-violet typical)
+    - chalcedony           # weakly variable
+    - agate                # weakly variable
+
+iridescence_surface:
+  description: "Surface iridescence from diffraction or thin-film"
+  minerals:
+    - agate                # fire agate; iris agate (thin-film/diffraction)
+
+pleochroism:
+  description: "Different colors in different crystallographic orientations"
+  minerals:
+    - sunstone             # Oregon labradorite-sunstone; colorless to deep orange-red
