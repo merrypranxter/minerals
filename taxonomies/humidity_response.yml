@@ -1,0 +1,47 @@
+# Humidity Response
+# How minerals react to atmospheric moisture
+
+humidity_responses:
+  - id: stable
+    display: Stable
+    description: "Not affected by normal atmospheric humidity. No special storage required."
+    examples: [quartz, feldspar, garnet, pyrite, corundum, gold, diamond, fluorite]
+    storage_guidance: "Standard dry storage acceptable."
+
+  - id: hygroscopic
+    display: Hygroscopic
+    description: "Absorbs moisture from air, which may affect surface quality, color, or transparency. Does not dissolve."
+    examples: [borax, trona, some zeolites, halite (in high humidity)]
+    storage_guidance: "Store with desiccant; avoid high-humidity environments."
+
+  - id: deliquescent
+    display: Deliquescent
+    description: "Absorbs sufficient moisture to dissolve into solution. Specimen will liquefy if exposed to humid air."
+    examples: [carnallite, nitrocalcite, tschermigite, mascagnite, sal-ammoniac]
+    storage_guidance: "Airtight container with strong desiccant; museum-quality sealed display."
+
+  - id: efflorescent
+    display: Efflorescent
+    description: "Loses crystallization water to dry air, forming a white powder or dehydrating to a different phase."
+    examples: [chalcanthite, mirabilite, epsomite, melanterite, natron, borax]
+    storage_guidance: "Store in moderate humidity to prevent dehydration; avoid very dry conditions."
+
+  - id: oxidation-sensitive
+    display: Oxidation-Sensitive
+    description: "Reacts with atmospheric oxygen (and moisture) causing chemical alteration, tarnish, or decay."
+    examples: [pyrite (sulfuric acid efflorescence), stibnite, argentite, native arsenic]
+    storage_guidance: "Minimize air exposure; consider inert atmosphere for fragile specimens; low humidity."
+
+  - id: light-sensitive
+    display: Light-Sensitive
+    description: "Color or structure changes on exposure to light, particularly UV."
+    examples: [hackmanite (reversible), proustite (darkens), realgar (alters to pararealgar on UV exposure)]
+    storage_guidance: "Store in darkness; avoid UV exposure; use dark storage containers."
+
+storage_priority:
+  stable: low
+  hygroscopic: medium
+  deliquescent: critical
+  efflorescent: high
+  oxidation-sensitive: high
+  light-sensitive: medium
