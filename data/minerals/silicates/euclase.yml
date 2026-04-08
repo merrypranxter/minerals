@@ -1,0 +1,188 @@
+id: euclase
+slug: euclase
+display_name: Euclase
+
+classification:
+  chemistry_class: silicate
+  mineral_group: null
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1449
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "BeAlSiO4(OH)"
+  simplified_formula: "BeAlSiO4(OH)"
+  essential_elements: [Be, Al, Si, O, H]
+  trace_elements_common: [Fe, Cr]
+  structural_units:
+    - "isolated SiO4 tetrahedra (nesosilicate)"
+    - "AlO4(OH) groups"
+    - "BeO4 tetrahedra"
+  atomic_structure_notes: "Monoclinic structure. Contains both beryllium and aluminum. The perfect cleavage (which gives the mineral its name) runs parallel to the b-axis. Similar to beryl in containing Be, but with OH and different structure."
+  chemistry_notes: "One of the beryllium-bearing silicates. The name 'euclase' comes from Greek 'eu' (good, easy) + 'klasis' (fracture/cleavage) — for its perfect cleavage. Contains hydroxyl. Found in pegmatites and placer gravels. Fe-bearing varieties can be intensely blue-green."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "prismatic"
+  space_group: "P21/a"
+  unit_cell_notes: "a ≈ 4.762 Å, b ≈ 14.290 Å, c ≈ 4.618 Å, β ≈ 100.2°"
+  twinning: "Rare."
+  crystallography_notes: "Forms prismatic to tabular crystals with a characteristically modified termination. Often elongated along b-axis. The perfect cleavage {010} makes large cut gems rare."
+
+physical_properties:
+  mohs_hardness: "7.5"
+  specific_gravity: "3.05–3.10"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent]
+  cleavage:
+    - "perfect {010}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "Good gem hardness but perfect cleavage limits practical use in jewelry (difficult to facet safely). Transparent crystals with vivid blue color are among the rarest of gemstones."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - pale-blue
+    - blue-green
+    - vivid-blue
+    - pale-green
+  color_profiles:
+    - name: vivid-blue
+      colors: [vivid-blue, sky-blue, medium-blue, blue-green]
+      cause: "Fe²⁺ → Fe³⁺ charge transfer or Fe²⁺ d-d transition."
+      conditions: "Fe-bearing gem-quality euclase."
+      variety_name: null
+    - name: colorless
+      colors: [colorless, white, pale]
+      cause: "No chromophore; pure composition."
+      conditions: "Some Brazilian and East African specimens."
+      variety_name: null
+  habits:
+    - prismatic
+    - tabular
+    - elongated b-axis
+  textures:
+    - vitreous transparent
+    - highly glassy
+  macro_patterns:
+    - blue elongated prisms in pegmatite
+    - transparent gems in matrix
+  common_forms:
+    - prismatic crystals in pegmatite matrix
+    - faceted gemstones (rare)
+  visual_notes: "Vivid blue euclase crystals from Zimbabwe, Brazil, or Austria are among the most beautiful of the rare gem minerals — a clear, vivid sky-blue with exceptional brilliance. The perfect cleavage makes faceted gems extraordinarily rare and valuable."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "variable; sometimes chalky blue or none"
+    longwave_uv: "variable or none"
+    fluorescence_color: variable
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "Biaxial positive. Strong dispersion. RI: nα 1.652, nβ 1.655, nγ 1.671."
+
+formation_and_occurrence:
+  genesis:
+    - pegmatitic
+    - hydrothermal
+  geologic_environments:
+    - granitic pegmatite (Be-bearing)
+    - placer deposits (alluvial gem gravels)
+  associated_minerals:
+    - topaz
+    - beryl
+    - tourmaline
+    - quartz
+    - feldspar
+  locality_scope: limited
+  notable_localities:
+    - "Ouro Preto, Minas Gerais, Brazil (finest colorless and blue)"
+    - "Zimbabwe (intensely blue)"
+    - "Ehrenfriedersdorf, Saxony, Germany (classic European locality)"
+    - "Val Passiria, South Tyrol, Italy"
+    - "Chivor Mine, Colombia (associated with emerald)"
+    - "Tanzania, East Africa"
+  occurrence_notes: "Rare. Found in beryllium-bearing granitic pegmatites. Gem-quality material is limited to a few localities worldwide."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named by René-Just Haüy in 1792 for its perfect cleavage."
+    - "No historical gemstone use of significance — too rare and fragile."
+    - "Modern collector gemstone."
+  folklore_notes: "No cultural folklore; entirely modern collector significance."
+
+interpretive_vibe:
+  mood_keywords:
+    - rare-blue-gem
+    - perfect-cleavage
+    - beryl-cousin
+    - sky-prism
+    - fragile-brilliance
+  palette_keywords:
+    - vivid-sky-blue
+    - colorless-transparent
+    - blue-green
+  vibe_notes: "Euclase is the gemologist's hidden treasure — vivid blue, high hardness, perfect cleavage that makes it nearly impossible to cut. For collectors it's a holy grail."
+
+practical_notes:
+  toxicity: "Beryllium-bearing mineral. Beryllium dust is highly toxic (causes chronic beryllium disease). Do NOT grind or cut without specialist facilities. As display specimens, risk is minimal."
+  handling_notes: "Handle as display specimen normally. DO NOT grind or polish without understanding Be hazards."
+  care_notes: "Standard display care. Perfect cleavage — do not impact."
+  common_confusions:
+    - "Aquamarine beryl (different crystal habit; no perfect cleavage)"
+    - "Blue topaz (different crystal habit; harder)"
+  market_notes: "Rare collector mineral. Fine vivid-blue faceted gems are extremely valuable and rare."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - aquamarine
+    - blue-topaz
+    - blue-tourmaline
+  related_species:
+    - beryl
+    - topaz
+    - phenakite
+
+app_metadata:
+  tags:
+    - silicate
+    - nesosilicate
+    - beryllium
+    - blue
+    - rare
+    - gem
+    - monoclinic
+    - pegmatite
+  search_boost_terms:
+    - euclase crystal
+    - rare blue beryllium gem
+    - vivid blue silicate
+    - euclase Brazil
+    - Be-Al silicate gem
+  prompt_fragments:
+    - "vivid sky-blue elongated euclase prism in pegmatite"
+    - "rare clear blue euclase — perfect cleavage beryllium gem"
+  ui_color_hint:
+    - "#4090E0"
+    - "#60B0F0"
+    - "#30A0FF"
+  priority_score: 78
+
+provenance:
+  source_status: draft
+  completeness: 0.82
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1449.html"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: "Beryllium toxicity is critical note for preparation/cutting. Not a handling hazard for display specimens."

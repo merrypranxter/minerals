@@ -1,0 +1,191 @@
+id: phenakite
+slug: phenakite
+display_name: Phenakite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: phenakite-group
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 3176
+  other_ids:
+    alternate_spelling: "phenacite"
+
+chemical_profile:
+  ideal_formula: "Be2SiO4"
+  simplified_formula: "Be2SiO4"
+  essential_elements: [Be, Si, O]
+  trace_elements_common: [Fe, Mg, Al]
+  structural_units:
+    - "isolated SiO4 tetrahedra (nesosilicate)"
+    - "BeO4 tetrahedra linking SiO4 units"
+  atomic_structure_notes: "Trigonal structure. All cations (Be and Si) are in tetrahedral coordination. The structure is related to willemite (Zn₂SiO₄) with Be substituting for Zn. Completely anhydrous; no water or OH in structure."
+  chemistry_notes: "Pure beryllium orthosilicate. Typically colorless; rarely tinted pale yellow, pink, or brown from impurities. One of the hardest silicate minerals (hardness 7.5–8). Valuable gemstone when transparent. The name comes from Greek 'phenax' (deceiver) because it resembles quartz."
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: "rhombohedral"
+  space_group: "R3̄"
+  unit_cell_notes: "a ≈ 12.472 Å, c ≈ 8.252 Å (hex setting)"
+  twinning: "Contact and penetration twins on {1120} possible."
+  crystallography_notes: "Forms prismatic rhombohedral crystals, often with multiple rhombohedral terminations. Also lenticular (lens-shaped) forms. Crystals can be large (cm-scale in some pegmatites)."
+
+physical_properties:
+  mohs_hardness: "7.5–8"
+  specific_gravity: "2.96–3.00"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent]
+  cleavage:
+    - "imperfect {1120}"
+    - "imperfect {0001}"
+  fracture: [conchoidal]
+  tenacity: brittle
+  physical_notes: "High hardness — harder than quartz. Good gem durability but lacks spectacular color. High RI for a nesosilicate: n ≈ 1.654–1.670."
+
+appearance:
+  baseline_colors:
+    - colorless
+    - pale-yellow
+    - pale-pink
+    - pale-brown
+  color_profiles:
+    - name: colorless
+      colors: [colorless, water-clear]
+      cause: "Pure Be₂SiO₄; no chromophore."
+      conditions: "Most gem-quality phenakite."
+      variety_name: null
+    - name: pale-colors
+      colors: [pale-yellow, light-pink, light-brown]
+      cause: "Trace Fe or other impurities."
+      conditions: "Some localities."
+      variety_name: null
+  habits:
+    - prismatic rhombohedral
+    - lenticular (lens-shaped)
+    - complex terminations
+    - massive
+  textures:
+    - water-clear glassy
+    - vitreous transparent
+  macro_patterns:
+    - colorless crystal masses in pegmatite
+    - lens-shaped crystals in greisen
+  common_forms:
+    - clear prisms in pegmatite
+    - faceted gems (rare)
+  visual_notes: "Phenakite is mostly colorless and unremarkable visually — its appeal is its exceptional hardness and brilliance in faceted form, and the geological interest of being a beryllium silicate. Large clear crystals in pegmatites are scientifically striking."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects: []
+  optical_notes: "High RI gives good brilliance when faceted. Uniaxial negative."
+
+formation_and_occurrence:
+  genesis:
+    - pegmatitic
+    - contact metamorphic (greisen)
+    - hydrothermal
+  geologic_environments:
+    - granitic pegmatite
+    - greisen (granite-derived, HF-rich)
+    - emerald-bearing mica schist
+  associated_minerals:
+    - beryl
+    - chrysoberyl
+    - topaz
+    - fluorite
+    - columbite
+    - tourmaline
+  locality_scope: limited
+  notable_localities:
+    - "Ural Mountains, Russia (Takovaya River; classic)"
+    - "Minas Gerais, Brazil"
+    - "Mt. Antero, Colorado, USA"
+    - "Khetchel, Zimbabwe"
+    - "Tanzania"
+    - "Nigeria"
+    - "Myanmar (Burma)"
+  occurrence_notes: "Found in granitic pegmatites and greisens. Associated with other Be minerals. Large crystals known from Russian Urals."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named from Greek 'phenax' (deceiver) — because it resembles quartz but is harder and denser."
+    - "Collector gem mineral; no historical mainstream use."
+    - "Faceted as a collector gemstone."
+  folklore_notes: "The 'deceiver' name is its only cultural touch — phenakite passes for quartz or topaz easily."
+
+interpretive_vibe:
+  mood_keywords:
+    - clear-deceiver
+    - hard-glass
+    - beryllium-crystal
+    - water-clear
+    - pegmatite-precision
+  palette_keywords:
+    - colorless
+    - water-clear
+    - pale-yellow
+  vibe_notes: "Phenakite is the honest deceiver — nothing remarkable to look at, but harder than quartz, clearer than glass, and geologically significant. A gem for people who love precision over spectacle."
+
+practical_notes:
+  toxicity: "Beryllium-bearing mineral. Beryllium dust is toxic. Do NOT grind or cut without specialist facilities. Display specimens are safe to handle."
+  handling_notes: "Normal for display. Critical: no grinding/cutting without Be-dust precautions."
+  care_notes: "Standard. No special requirements for display."
+  common_confusions:
+    - "Quartz (lower hardness 7, different SG, no Be)"
+    - "Topaz (different crystal system, different cleavage pattern)"
+    - "Beryl (hexagonal, different formula)"
+  market_notes: "Specialty collector mineral. Faceted gems are rare and prized."
+
+relationships:
+  polymorphs: []
+  lookalikes:
+    - quartz
+    - topaz
+    - beryl
+  related_species:
+    - beryl
+    - euclase
+    - willemite
+
+app_metadata:
+  tags:
+    - silicate
+    - nesosilicate
+    - beryllium
+    - colorless
+    - hard
+    - pegmatite
+    - trigonal
+    - gem
+  search_boost_terms:
+    - phenakite crystal
+    - phenacite beryllium silicate
+    - colorless hard gem mineral
+    - Be silicate pegmatite
+  prompt_fragments:
+    - "water-clear colorless phenakite prism in granite pegmatite"
+    - "transparent beryllium silicate — the mineralogical deceiver"
+  ui_color_hint:
+    - "#F0F0F0"
+    - "#E8F0F8"
+  priority_score: 72
+
+provenance:
+  source_status: draft
+  completeness: 0.80
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-3176.html"
+  notes: "Be toxicity is critical. Name etymology well-documented."

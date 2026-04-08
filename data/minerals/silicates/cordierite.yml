@@ -1,0 +1,212 @@
+id: cordierite
+slug: cordierite
+display_name: Cordierite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: cordierite-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - iolite
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1128
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Mg2Al4Si5O18"
+  simplified_formula: "Mg2Al4Si5O18"
+  essential_elements: [Mg, Al, Si, O]
+  trace_elements_common: [Fe, Na, K, H2O, Li]
+  structural_units:
+    - "Si/Al framework with (Mg,Fe) in octahedral sites"
+    - "channels along c-axis accommodating H₂O, CO₂, or other species"
+  atomic_structure_notes: "Cyclosilicate (ring silicate) — actually a modified beryl-type structure with (Al,Si)₆O₁₈ six-membered rings but with additional Al linking. Structural channels parallel to c-axis accommodate H₂O and CO₂. This is why cordierite/iolite shows strong absorption features related to channel contents."
+  chemistry_notes: "Cordierite-indialite is the series; cordierite is the low-T orthorhombic polymorph, indialite is the high-T hexagonal polymorph. Fe substitutes for Mg continuously; Fe-rich cordierite is darker blue. The blue-violet 'iolite' gem variety owes its color to Fe²⁺."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "dipyramidal"
+  space_group: "Cccm"
+  unit_cell_notes: "a ≈ 17.07 Å, b ≈ 9.72 Å, c ≈ 9.35 Å"
+  twinning: "Cyclic (pseudohexagonal) twins on {110} — creates pseudo-hexagonal sixling twins."
+  crystallography_notes: "Forms prismatic to pseudo-hexagonal crystals from cyclic twinning. More commonly massive, granular. Gem iolite is usually massive or coarse granular."
+
+physical_properties:
+  mohs_hardness: "7–7.5"
+  specific_gravity: "2.53–2.78"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent, opaque]
+  cleavage:
+    - "poor {010}"
+    - "poor {001}"
+  fracture: [conchoidal, subconchoidal]
+  tenacity: brittle
+  physical_notes: "Good hardness for jewelry use. Strong trichroism (iolite) is the key optical feature. Lower SG than tanzanite (useful distinction). Dichroscope shows three distinct colors along three axes."
+
+appearance:
+  baseline_colors:
+    - blue-violet
+    - gray
+    - greenish-gray
+    - yellowish
+    - colorless
+  color_profiles:
+    - name: iolite-blue-violet
+      colors: [blue-violet, deep-blue, violet, purple-blue]
+      cause: "Fe²⁺ in Mg octahedral site; d-d absorption producing blue-violet."
+      conditions: "Fe-bearing gem iolite."
+      variety_name: iolite
+    - name: gray-green-rock
+      colors: [gray, greenish-gray, pale-blue]
+      cause: "Mixed Fe/Mg, inclusions, alteration."
+      conditions: "Rock-forming cordierite in schist/gneiss."
+      variety_name: null
+  habits:
+    - pseudo-hexagonal prisms
+    - massive
+    - granular
+    - rounded grains
+  textures:
+    - vitreous
+    - sometimes pinitized surface
+  macro_patterns:
+    - blue-violet grains in schist
+    - pseudo-hex prisms
+  common_forms:
+    - faceted iolite gems
+    - massive material
+    - grains in metamorphic rock
+  visual_notes: "Rock cordierite is often not visually impressive — altered, gray, greenish. Gem-quality iolite is a different story: a deep violet-blue mineral with strong trichroism showing blue, violet, and pale yellow. The trichroism is easily observable with a naked eye by rotating the stone — Vikings are said to have used iolite as a navigation tool due to this property."
+
+optical_and_special_effects:
+  fluorescence:
+    shortwave_uv: "none"
+    longwave_uv: "none"
+    fluorescence_color: none
+  tenebrescence: false
+  phosphorescence: "none"
+  special_effects:
+    - strong-trichroism-iolite
+  optical_notes: "Strong trichroism: blue-violet / pale-blue / pale-yellow (or colorless). Used historically as a 'sunstone' or 'Viking compass' — the trichroism of iolite allows determination of sun position in overcast skies by polarization. Biaxial."
+
+formation_and_occurrence:
+  genesis:
+    - metamorphic (low to medium pressure)
+    - contact metamorphic
+  geologic_environments:
+    - schist
+    - gneiss
+    - contact hornfels
+    - granitic pegmatite (rare)
+  associated_minerals:
+    - andalusite
+    - sillimanite
+    - biotite
+    - garnet
+    - quartz
+    - spinel
+  locality_scope: worldwide
+  notable_localities:
+    - "Oravi, Finland (iolite gems)"
+    - "Lapland, Finland and Norway"
+    - "Bodenmais, Bavaria, Germany"
+    - "Kiranur, Tamil Nadu, India"
+    - "Sri Lanka (alluvial iolite)"
+    - "Wyoming, USA"
+    - "Madagascar"
+    - "Australia"
+  occurrence_notes: "Widespread in pelitic metamorphic rocks globally. Gem-quality iolite is found in several localities. Famous as the 'Vikings' compass stone' — though the archaeological evidence for this use is debated."
+
+cultural_and_historical:
+  historical_uses:
+    - "Named 'iolite' (gem name) from Greek 'ios' (violet) by R.J. Haüy."
+    - "Named 'cordierite' after French geologist Pierre-Louis-Antoine Cordier."
+    - "Used historically as a gem — 'water sapphire' was an old trade name."
+    - "Claimed to be used by Vikings as a navigation aid (sun compass) — debated but intriguing hypothesis."
+  cultural_associations:
+    - "Viking navigation legend."
+    - "'Water sapphire' as historic trade name."
+  symbolism:
+    - navigation
+    - trichroic sight
+    - blue-violet depth
+    - Nordic mineral
+  folklore_notes: "The 'Viking compass' lore makes iolite one of the more romantically interesting gems. The physics are real — iolite is strongly dichroic/trichroic — but whether Vikings actually used it is historically uncertain. It's a good story that scientists haven't fully disproven."
+
+interpretive_vibe:
+  mood_keywords:
+    - viking-compass
+    - trichroic-vision
+    - metamorphic-blue
+    - water-sapphire
+    - northern-mineral
+  palette_keywords:
+    - blue-violet
+    - deep-purple
+    - yellow-neutral
+    - shifting-axis
+  vibe_notes: "Iolite is the blue that shifts — rotate it and it goes from deep blue to violet to yellow. The Viking compass legend gives it a navigational mystique. It's the gem for people who like their beauty functional and their minerals with a story."
+
+practical_notes:
+  toxicity: "Non-toxic."
+  handling_notes: "Good hardness; handle normally in jewelry. Avoid hard impacts."
+  care_notes: "Standard gem care. Water and mild soap."
+  treatments_or_synthetics:
+    - "No common treatments for iolite."
+    - "No synthetic iolite on market."
+  common_confusions:
+    - "Tanzanite (similar trichroism; different SG, RI, locality)"
+    - "Blue sapphire (no trichroism, much harder, different SG)"
+    - "Amethyst (no trichroism, very different SG and hardness)"
+  market_notes: "Available and affordable. Not as heavily promoted as tanzanite or sapphire. Fine iolite is genuinely attractive."
+
+relationships:
+  polymorphs: [indialite]
+  lookalikes:
+    - tanzanite
+    - sapphire
+    - amethyst
+  related_species:
+    - indialite
+    - sekaninaite
+
+app_metadata:
+  tags:
+    - silicate
+    - cyclosilicate
+    - orthorhombic
+    - blue-violet
+    - iolite
+    - trichroic
+    - metamorphic
+    - gem
+  search_boost_terms:
+    - iolite gemstone
+    - cordierite mineral
+    - trichroic blue gem
+    - Viking compass stone
+    - water sapphire
+    - blue-violet metamorphic mineral
+  prompt_fragments:
+    - "deep blue-violet iolite showing trichroism — blue, violet, pale yellow"
+    - "cordierite in pelitic schist — blue-gray grains in metamorphic groundmass"
+    - "Viking compass stone iolite — shifting color under polarized light"
+  ui_color_hint:
+    - "#4A4A8F"
+    - "#5E5EC0"
+    - "#6868D0"
+  priority_score: 77
+
+provenance:
+  source_status: draft
+  completeness: 0.83
+  confidence: high
+  last_updated: "2026-04-08"
+  sources:
+    - "https://www.mindat.org/min-1128.html"
+    - "Handbook of Mineralogy, Vol. II: Anthony et al."
+  notes: "Viking compass lore is documented but historically debated. Trichroism mechanism is well-established."
