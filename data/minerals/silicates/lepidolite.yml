@@ -1,0 +1,270 @@
+id: lepidolite
+slug: lepidolite
+display_name: Lepidolite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: mica-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - lilalite
+    - polylithionite (related Li-mica)
+    - trilithionite (related Li-mica)
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 2381
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "K(Li,Al)3(Si,Al)4O10(F,OH)2"
+  simplified_formula: "K(Li,Al)3(AlSi3)O10(F,OH)2"
+  essential_elements: [K, Li, Al, Si, O, F, H]
+  trace_elements_common: [Mn, Rb, Cs, Na, Fe, Mg, Ti, Zn]
+  structural_units:
+    - "Si4O10 (tetrahedral) sheet units of SiO4 and AlO4 tetrahedra"
+    - "Octahedral layer (Li, Al) sandwiched between two tetrahedral sheets"
+    - "Interlayer K+ cations binding the 2:1 sheets"
+  atomic_structure_notes: "Phyllosilicate (sheet silicate), 2:1 mica structure. Two tetrahedral silicate sheets sandwich one octahedral sheet in each layer. K+ occupies the interlayer, weakly bonding layers — responsible for perfect basal cleavage. Li occupies octahedral sites alongside Al, making lepidolite a trioctahedral-to-dioctahedral transitional mica. The high F content (F replacing OH) is typical of Li-bearing pegmatitic micas."
+  chemistry_notes: "Lepidolite is the most common lithium-bearing mica. Li content (reported as Li2O) is typically 3–7 wt%. It also concentrates Rb and Cs, which substitute for K in the interlayer — making lepidolite a potential indicator mineral and minor source of these rare alkali metals. Mn2+/Mn3+ produces the characteristic lavender/pink/purple color. The F:OH ratio varies; more fluorine-rich lepidolite tends to be whiter. IMA now recognizes lepidolite as a series between polylithionite and trilithionite."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "2/m (prismatic)"
+  space_group: "C2/m"
+  unit_cell_notes: "a ≈ 5.21 Å, b ≈ 9.01 Å, c ≈ 10.15 Å, β ≈ 100.8°; Z = 2 (for 1M polytype)"
+  twinning: "Polysynthetic twinning on {001} common; produces stacking polytypes (1M, 2M1, 3T, etc.)"
+  crystallography_notes: "Lepidolite occurs in several polytypes (1M, 2M1, 3T most common) due to different stacking sequences of the 2:1 layers. The 1M polytype (monoclinic) is most common in pegmatites. Crystals typically form thin pseudo-hexagonal plates or tablets. Fine-grained scaly masses ('lepidolite' derives from Greek lepidos, scale) are the most common occurrence. Individual books or stacks of platy crystals can reach several centimeters."
+
+physical_properties:
+  mohs_hardness: "2.5–4"
+  specific_gravity: "2.8–3.0"
+  luster: [pearly, vitreous, silky]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "perfect basal {001} — thin flexible, elastic cleavage flakes"
+  fracture: [uneven (when massive)]
+  tenacity: "flexible and elastic (cleavage flakes); brittle when massive"
+  physical_notes: "Perfect basal cleavage into flexible, elastic sheets is characteristic of all micas, including lepidolite. The pearly luster on cleavage surfaces results from internal reflections within the thin sheets. Hardness varies; individual cleavage flakes measure lower (2.5), while massive aggregates feel harder (up to 4). The relatively high SG for a mica reflects the combined weight of Li, Al, K, and F."
+
+appearance:
+  baseline_colors: [lavender, pink, purple]
+  color_profiles:
+    - name: lavender-lepidolite
+      colors: [lavender, lilac, pale-violet, soft-purple]
+      cause: "Mn2+ and/or Mn3+ substituting in octahedral sites; trace amounts produce pastel lavender."
+      conditions: "Most common lepidolite color; widespread in Li-rich pegmatites globally."
+      variety_name: null
+    - name: pink-lepidolite
+      colors: [pink, rose-pink, salmon-pink]
+      cause: "Higher Mn content shifting from lavender toward pink."
+      conditions: "Minas Gerais, Brazil; Pala, California; Madagascar."
+      variety_name: null
+    - name: purple-lepidolite
+      colors: [deep-purple, violet, grape]
+      cause: "Elevated Mn3+ content; sometimes enhanced by inclusions."
+      conditions: "Less common; vivid purple from specific Brazilian and Afghan localities."
+      variety_name: null
+    - name: colorless-white-lepidolite
+      colors: [colorless, white, pale-gray]
+      cause: "Absence of Mn or other chromophores; high F content typical."
+      conditions: "Fluorine-rich lepidolite in pegmatites."
+      variety_name: null
+    - name: yellow-lepidolite
+      colors: [yellow, pale-yellow, champagne]
+      cause: "Minor Fe3+ or specific structural defects."
+      conditions: "Uncommon; some localities in Brazil and Russia."
+      variety_name: null
+  habits:
+    - platy
+    - tabular
+    - foliated
+    - scaly-massive
+    - pseudo-hexagonal-plates
+    - book-like-aggregates
+  textures:
+    - pearly
+    - silky
+    - scaly
+    - layered
+    - iridescent-sheen
+  macro_patterns:
+    - foliated-laminar
+    - scaly-mass
+    - intergrown-with-tourmaline
+    - intergrown-with-quartz
+  common_forms:
+    - fine-grained lavender scaly masses in pegmatite
+    - platy books up to several centimeters
+    - intergrown with tourmaline (elbaite) and quartz
+    - rosette aggregates
+  visual_notes: "Lepidolite is one of the most visually distinctive micas due to its lavender/pink color — the only common lavender mica. In pegmatites, it often forms spectacular masses of pale lavender scales intergrown with pink tourmaline (rubellite) and rose quartz. The pearly luster on cleavage surfaces gives a soft, shimmering quality."
+
+optical_and_special_effects:
+  fluorescence: "Weak cream to yellow under SW UV in some specimens; generally weak"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: "Subtle adularescence-like pearly shimmer on cleavage surfaces"
+  pleochroism: "Weak; colorless to pale lavender in different orientations"
+  optical_notes: "Biaxial negative. RI approximately 1.525–1.587 (varies with composition). Birefringence ~0.018–0.038. Perfect basal cleavage makes conventional RI measurement difficult; usually measured on cleavage flake."
+
+formation_and_occurrence:
+  genesis:
+    - magmatic
+    - pegmatitic
+  geologic_environments:
+    - Li-bearing granitic pegmatites (LCT-type: Lithium-Cesium-Tantalum)
+    - rare-element granitic pegmatites
+    - greisens
+  host_rocks:
+    - pegmatite
+    - granite
+    - aplite
+  associated_minerals:
+    - tourmaline (elbaite, rubellite)
+    - quartz
+    - albite
+    - spodumene
+    - amblygonite
+    - beryl
+    - topaz
+    - columbite-tantalite
+    - cassiterite
+    - fluorapatite
+    - pollucite (Cs-rich, associated in LCT pegmatites)
+    - montebrasite
+    - cleavelandite (albite variety)
+  locality_scope: uncommon
+  notable_localities:
+    - "Minas Gerais, Brazil (Resplendor, Governador Valadares, Araçuaí — world's largest specimens)"
+    - "Pala district, San Diego County, California, USA (with tourmaline and kunzite)"
+    - "Nuristan and Kunar, Afghanistan (with elbaite tourmaline)"
+    - "Anjanabonoina and Sahatany Valley, Madagascar"
+    - "Bikita, Zimbabwe (major Li mineral deposit)"
+    - "Greenbushes, Western Australia (major Li-Ta pegmatite)"
+    - "Varuträsk, Sweden (classic LCT pegmatite)"
+    - "Alabashka and Murzinka, Ural Mountains, Russia"
+    - "Rozná, Czech Republic"
+    - "Dobrá Voda, Slovakia"
+  occurrence_notes: "Lepidolite is a characteristic mineral of highly evolved (LCT-type) granitic pegmatites that are enriched in Li, Cs, Ta, and F. It is a late-stage crystallization product, forming after most feldspars and quartz, often in the intermediate and core zones of zoned pegmatites. Its presence is an indicator of economic Li-mineral potential. Lepidolite itself is occasionally mined as a lithium ore (Li2O: 3–6 wt%), though spodumene and amblygonite are typically preferred. It is a major flux mineral in pegmatite systems."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Libra (in some crystal healing traditions)"
+  historical_uses:
+    - "Lepidolite was an early commercial lithium mineral; lithium was first isolated from petalite in 1817, but lepidolite was one of the main industrial Li sources in the late 19th and early 20th centuries before spodumene deposits became dominant"
+    - "Used as a flux in glass and ceramic glazes; its high F content and flux properties are commercially relevant"
+    - "In the 20th century, large masses of lepidolite were mined in Brazil and California as a minor Li ore and as a fluxing agent in specialty glasses"
+    - "Modern lithium demand (EV batteries, pharmaceuticals) has renewed interest in all Li-bearing pegmatite minerals including lepidolite"
+  cultural_associations:
+    - "In contemporary crystal trade, lepidolite is marketed as a 'calming' or 'anti-anxiety' stone, possibly a reflection of its lavender color association with calm and its name connection to lithium (a real pharmaceutical mood-stabilizing element)"
+    - "Note: while lepidolite does contain lithium, contact with a specimen does not deliver pharmacologically relevant doses — this is a popular but scientifically unfounded claim in crystal healing contexts"
+  symbolism:
+    - calm
+    - transition
+    - softness
+    - lithium-light
+  folklore_notes: "The lavender color and lithium-bearing nature have combined in popular imagination to make lepidolite a stone of 'calm and peace' in New Age traditions. The real lithium connection — as one of the oldest lithium mineral sources — gives it an unexpected industrial modernity beneath its gentle pastel appearance."
+
+interpretive_vibe:
+  mood_keywords:
+    - lavender-mica
+    - lithium-shimmer
+    - gentle-mineral
+    - soft-metallic
+    - pegmatite-pastel
+  sensory_keywords:
+    - silky
+    - layered
+    - pearly
+    - soft
+    - cool-lavender
+  palette_keywords:
+    - soft-lavender
+    - lilac
+    - rose-pink
+    - pale-violet
+    - mica-white
+  aesthetic_roles:
+    - pastel pegmatite accent
+    - lavender mica anchor
+    - soft shimmer mineral
+    - lithium-flux marker
+  vibe_notes: "Lepidolite is the gentlest common pegmatite mineral — a pastel lavender mica shimmer against stark feldspar and quartz. Its lithium content gives it a surprising industrial dimension hidden beneath its soft aesthetic. In combination with pink tourmaline and rose quartz, it creates some of the most feminine-coded pegmatite assemblages."
+
+practical_notes:
+  toxicity: "Low. Lepidolite itself is not toxic in normal handling. Lithium in the structure is not bioavailable through skin contact. Fine dust from cutting should be avoided (general silicate dust precaution)."
+  handling_notes: "Soft (Mohs 2.5–4); easily scratched. Platy cleavage means thin pieces can split. Handle massive pieces normally; avoid pressing thin cleavage flakes."
+  care_notes: "Avoid abrasives. Clean with soft damp cloth. Avoid acid soaking (can attack cleavage surfaces). Store separately from harder minerals to prevent scratching."
+  treatments_or_synthetics:
+    - "No common treatments in the mineral trade"
+    - "Sometimes stabilized with resin for use in jewelry when massive"
+    - "Synthetic lithium micas are produced industrially but not sold as gem materials"
+  common_confusions:
+    - "Muscovite (white to silvery — lacks lavender color)"
+    - "Phlogopite (brown to bronze mica)"
+    - "Lavender fluorite (isometric, no cleavage in sheets)"
+    - "Sugilite (purple but massive, no mica cleavage)"
+    - "Kunzite (spodumene — more vitreous, different crystal form)"
+  market_notes: "Large scaly masses of lavender lepidolite from Brazil and Afghanistan are widely available and relatively affordable. Fine individual crystals or books are more collected. Popular in tumbled stone and crystal healing markets due to lavender color. Industrial interest in Li content is distinct from the gem/mineral trade."
+
+relationships:
+  polymorphs:
+    - "Various polytypes: 1M, 2M1, 3T (stacking polytypes, not true polymorphs)"
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - muscovite
+    - phlogopite
+    - sugilite
+    - lavender-fluorite
+    - kunzite
+  related_species:
+    - polylithionite
+    - trilithionite
+    - muscovite
+    - phlogopite
+    - zinnwaldite
+    - lithian-muscovite
+
+app_metadata:
+  tags:
+    - mica
+    - phyllosilicate
+    - sheet-silicate
+    - lithium
+    - pegmatite
+    - lavender
+    - pink
+    - high-priority
+    - LCT-pegmatite
+    - flux-mineral
+  search_boost_terms:
+    - lepidolite
+    - lavender mica
+    - lithium mica
+    - pink mica
+    - purple mica
+    - lepidolite crystal
+    - lithium mineral
+  prompt_fragments:
+    - "lavender scaly lepidolite mica in pegmatite"
+    - "soft lilac pearly shimmer mineral"
+    - "lithium-bearing pink mica books"
+    - "lepidolite intergrown with pink tourmaline"
+  ui_color_hint: [lavender, lilac, rose-pink, pale-violet, pearly-white]
+  priority_score: 82
+
+provenance:
+  source_status: draft
+  completeness: 0.86
+  confidence: high
+  last_updated: "2026-04-07"
+  sources:
+    - "https://www.mindat.org/min-2381.html"
+    - "https://www.gia.edu/gems-gemology"
+  notes: "IMA now treats lepidolite as a series name between polylithionite and trilithionite end members, but the traditional species name lepidolite is retained here per mindat and common usage. Li pharmacology note in cultural section is a responsible correction of a common misconception."

@@ -1,0 +1,257 @@
+id: chrysocolla
+slug: chrysocolla
+display_name: Chrysocolla
+
+classification:
+  chemistry_class: silicate
+  mineral_group: null
+  species_status: mineraloid
+  parent_species: null
+  related_varieties:
+    - gem-silica
+    - chrysocolla-chalcedony
+    - shattuckite (associated)
+
+identifiers:
+  ima_status: grandfathered_approved
+  mindat_id: 1071
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Cu,Al)2H2Si2O5(OH)4·nH2O"
+  simplified_formula: "Cu-Al hydrated silicate (variable)"
+  essential_elements: [Cu, Si, O, H]
+  trace_elements_common: [Al, Fe, Mg, Ca, Mn]
+  structural_units:
+    - "Poorly ordered phyllosilicate-like layers"
+    - "Cu2+ in distorted octahedral/square-planar coordination"
+  atomic_structure_notes: "Chrysocolla has a disordered, poorly crystalline to amorphous structure. It is often described as a copper-bearing phyllosilicate mineraloid. The structure resembles allophane (amorphous aluminosilicate) with Cu replacing Al. Water content is variable and affects physical properties. Some authorities describe it as a mixture of copper hydroxide and amorphous silica."
+  chemistry_notes: "The formula is highly variable and debated; Cu content, Al content, and water vary significantly between specimens. The vivid cyan/blue-green color is entirely due to Cu2+. Pure chrysocolla without impurities is relatively soft and light; when intimately intergrown with quartz or chalcedony it forms the harder gem-silica material."
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: "effectively amorphous to poorly crystalline"
+  space_group: ""
+  unit_cell_notes: "Not well defined; essentially amorphous to nanocrystalline"
+  twinning: ""
+  crystallography_notes: "Chrysocolla is essentially amorphous or at best nanocrystalline. It does not form macroscopic crystals. All occurrences are massive, botryoidal, earthy, or as crusts. X-ray diffraction shows only broad, diffuse peaks. It is best classified as a mineraloid."
+
+physical_properties:
+  mohs_hardness: "2–4"
+  specific_gravity: "1.9–2.4"
+  luster: [waxy, earthy, dull, vitreous]
+  streak: "white to pale blue-green"
+  transparency: [translucent, opaque]
+  cleavage: []
+  fracture: [conchoidal, uneven, earthy]
+  tenacity: "brittle to sectile"
+  physical_notes: "Hardness and SG vary with water content and admixed silica. Gem-silica (chrysocolla in chalcedony) reaches Mohs 6.5–7 and SG ~2.58. Pure earthy chrysocolla is very soft (2–2.5) and light (SG ~1.9–2.0). Water loss on heating causes cracking and color change."
+
+appearance:
+  baseline_colors: [cyan, blue-green, turquoise-blue]
+  color_profiles:
+    - name: cyan-chrysocolla
+      colors: [cyan, electric-blue, sky-blue]
+      cause: "Cu2+ in the structure; high Cu content with low Fe."
+      conditions: "Oxidized zones of copper deposits; intense cyan is most prized."
+      variety_name: null
+    - name: blue-green-chrysocolla
+      colors: [blue-green, teal, verdigris]
+      cause: "Cu2+ with minor Fe or Mn shifting hue."
+      conditions: "Common color across most occurrences."
+      variety_name: null
+    - name: gem-silica
+      colors: [translucent-cyan, blue-green, aquamarine-blue]
+      cause: "Cu2+ in chalcedony host; silicification increases hardness and translucency."
+      conditions: "High-silica environments; Arizona USA (Superior, Globe-Miami), Philippines."
+      variety_name: gem-silica
+    - name: green-chrysocolla
+      colors: [green, malachite-green, olive-green]
+      cause: "High Cu with slight oxidation state shift; mixing with malachite."
+      conditions: "Often intergrown or mixed with malachite in copper oxidation zones."
+      variety_name: null
+  habits:
+    - earthy
+    - massive
+    - botryoidal
+    - stalactitic
+    - crusts
+    - vein-filling
+    - coating
+  textures:
+    - earthy
+    - waxy
+    - smooth
+    - botryoidal-smooth
+    - powdery
+  macro_patterns:
+    - concentric-botryoidal
+    - mottled
+    - veined
+    - coating-on-matrix
+  common_forms:
+    - earthy blue-green coatings on copper ore
+    - botryoidal masses with smooth surfaces
+    - mixed with malachite and azurite
+    - gem-silica polished cabochons
+  visual_notes: "The vivid cyan to turquoise-blue color is unmistakable. Chrysocolla is often the most visually striking mineral in copper oxidation zones. It frequently occurs with malachite (green), azurite (deep blue), and cuprite (red), creating spectacular polychrome specimens."
+
+optical_and_special_effects:
+  fluorescence: "Generally inert"
+  phosphorescence: ""
+  chatoyancy: ""
+  asterism: ""
+  iridescence: ""
+  pleochroism: ""
+  optical_notes: "RI approximately 1.46–1.57 (variable; amorphous). Gem-silica RI closer to chalcedony (~1.53–1.54). Isotropic to weakly anisotropic."
+
+formation_and_occurrence:
+  genesis:
+    - secondary
+  geologic_environments:
+    - oxidation zones of copper sulfide deposits
+    - supergene enrichment blankets
+    - weathered copper ore zones
+  host_rocks:
+    - quartz veins in copper-bearing terrain
+    - porphyry copper alteration zones
+    - sediment-hosted copper deposits
+  associated_minerals:
+    - malachite
+    - azurite
+    - cuprite
+    - native-copper
+    - tenorite
+    - shattuckite
+    - turquoise
+    - chalcopyrite (primary, below)
+    - limonite
+    - quartz-chalcedony
+  locality_scope: widespread
+  notable_localities:
+    - "Bisbee and Globe-Miami, Arizona, USA (gem-silica and massive chrysocolla)"
+    - "Morenci, Bagdad, Ajo, Arizona, USA"
+    - "Chuquicamata, Atacama Region, Chile"
+    - "Timna Valley, Israel (ancient copper workings)"
+    - "Shaba Province (Katanga), Democratic Republic of Congo"
+    - "Broken Hill, New South Wales, Australia"
+    - "Sardinia, Italy"
+    - "Ural Mountains, Russia"
+    - "Mindanao, Philippines (gem-silica)"
+  occurrence_notes: "Chrysocolla is one of the most characteristic secondary copper minerals, forming wherever copper sulfides are weathered in the presence of silica-rich waters. It forms relatively early in the oxidation sequence and may be replaced over time by more stable copper minerals. Gem-silica forms when silica-rich groundwater simultaneously deposits chalcedony and chrysocolla."
+
+cultural_and_historical:
+  birthstone_status: []
+  zodiac_associations:
+    - "Gemini, Taurus (in crystal healing traditions)"
+  historical_uses:
+    - "Chrysocolla was described by Theophrastus (~315 BCE) and named from Greek chrysos (gold) + kolla (glue) — it was used as a flux for soldering gold in antiquity"
+    - "Egyptian blue pigment and some green-blue decorative materials in ancient contexts may involve chrysocolla"
+    - "Cleopatra reportedly wore chrysocolla jewelry; Pliny the Elder describes it in Natural History"
+    - "Used as a blue-green pigment in ancient Egypt, Rome, and South America"
+    - "Timna Valley, Israel: one of the world's earliest copper mining sites (active from Chalcolithic through Roman periods); chrysocolla abundant"
+  cultural_associations:
+    - "Associated with copper-working cultures worldwide — wherever copper was mined, chrysocolla occurred as a vivid blue-green indicator mineral"
+  symbolism:
+    - communication
+    - water
+    - copper-earth
+    - turquoise-kin
+  folklore_notes: "The ancient Greek name means 'gold solder' — reflecting its actual historical use as a flux material in gold soldering. In modern crystal markets it is often conflated with turquoise due to color similarity."
+
+interpretive_vibe:
+  mood_keywords:
+    - drowned-city
+    - aqua-decay
+    - copper-patina
+    - tropical-ruin
+    - oxidation-bloom
+  sensory_keywords:
+    - earthy
+    - waxy
+    - cool-cyan
+    - soft
+    - humid
+  palette_keywords:
+    - electric-cyan
+    - verdigris
+    - copper-teal
+    - malachite-neighbor
+    - aqua-blue
+  aesthetic_roles:
+    - copper oxidation showcase
+    - cyan anchor mineral
+    - secondary deposit color
+    - patina mineral
+  vibe_notes: "Chrysocolla is the color of patinated copper — a vivid, slightly decayed cyan that evokes wet tropical ruins and ocean-floor chemistry. Its softness and mineraloid nature give it an impermanence that contrasts with its brilliant color."
+
+practical_notes:
+  toxicity: "Moderate. Contains significant copper; avoid ingesting dust. Do not use in gem elixirs. Handle with normal hygiene (wash hands after handling)."
+  handling_notes: "Soft and brittle; handle carefully. Sensitive to dehydration — avoid prolonged heat or dry conditions. Some specimens crack or fade as water is lost."
+  care_notes: "Avoid ultrasonic, steam, and prolonged water immersion (can cause dehydration cracking). Wipe with damp cloth only. Store away from heat and very dry environments."
+  treatments_or_synthetics:
+    - "Wax or resin impregnation common for stabilization in jewelry use"
+    - "Often sold mixed with or as 'gem-silica' when chalcedony-hosted"
+    - "Dyed howlite or magnesite sometimes sold as chrysocolla"
+  common_confusions:
+    - "Turquoise (harder, phosphate not silicate, different streak)"
+    - "Shattuckite (harder, different blue, associated mineral)"
+    - "Azurite (deeper blue, carbonate)"
+    - "Malachite (green, carbonate)"
+    - "Gem-silica is chrysocolla in chalcedony — more durable variety"
+  market_notes: "Massive chrysocolla is common and affordable. Gem-silica (chrysocolla chalcedony) is rare and commands high prices as a cabochon gem. Mixed chrysocolla-malachite-azurite specimens from Bisbee and Congo are popular collector pieces."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after:
+    - malachite
+    - azurite
+    - chalcopyrite
+  pseudomorphed_by:
+    - quartz-chalcedony (to form gem-silica)
+  lookalikes:
+    - turquoise
+    - shattuckite
+    - azurite
+    - malachite
+    - variscite
+  related_species:
+    - shattuckite
+    - plancheite
+    - turquoise
+    - malachite
+
+app_metadata:
+  tags:
+    - mineraloid
+    - copper-mineral
+    - secondary
+    - oxidation-zone
+    - cyan
+    - blue-green
+    - high-priority
+    - phyllosilicate-like
+  search_boost_terms:
+    - chrysocolla
+    - copper silicate
+    - cyan mineral
+    - blue-green copper
+    - gem silica
+    - turquoise alternative
+  prompt_fragments:
+    - "vivid cyan chrysocolla crust on copper ore"
+    - "earthy blue-green mineraloid in oxidation zone"
+    - "gem-silica translucent aqua cabochon"
+    - "copper patina mineral decay blue"
+  ui_color_hint: [electric-cyan, teal, blue-green, verdigris]
+  priority_score: 86
+
+provenance:
+  source_status: draft
+  completeness: 0.84
+  confidence: high
+  last_updated: "2026-04-07"
+  sources:
+    - "https://www.mindat.org/min-1071.html"
+    - "https://www.gia.edu/gems-gemology"
+  notes: "Formula and structural description reflect ongoing debate in mineralogical literature; the amorphous/mineraloid classification is appropriate. Copper toxicity note is precautionary and standard."
