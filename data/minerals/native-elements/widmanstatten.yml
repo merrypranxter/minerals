@@ -5,14 +5,14 @@ display_name: Widmanstätten Pattern (Iron Meteorite)
 classification:
   chemistry_class: native-element
   mineral_group: iron-nickel
-  species_status: rock-gem-material
+  species_status: rock/gem material
   parent_species: null
   related_varieties:
     - kamacite
     - taenite
 
 identifiers:
-  ima_status: not-applicable
+  ima_status: n/a
   mindat_id: null
   other_ids: {}
 
@@ -31,7 +31,7 @@ chemical_profile:
     on Earth. Definitive proof of extraterrestrial origin. PGEs (Ir, Pt) in trace amounts.
 
 crystallography:
-  crystal_system: cubic (kamacite) and fcc (taenite)
+  crystal_system: isometric
   crystal_class: 4/m 3-bar 2/m
   space_group: Im3m (kamacite), Fm3m (taenite)
   unit_cell_notes: null
@@ -43,9 +43,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "4–5"
   specific_gravity: "7.3–7.9"
-  luster: metallic
+  luster: [metallic]
   streak: gray
-  transparency: opaque
+  transparency: [opaque]
   cleavage: none (metallic)
   fracture: hackly (torn metal)
   tenacity: malleable

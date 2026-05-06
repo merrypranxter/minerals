@@ -34,9 +34,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "2–2.5"
   specific_gravity: "8.0–8.2"
-  luster: adamantine to metallic
+  luster: [metallic, adamantine]
   streak: scarlet red
-  transparency: transparent to opaque
+  transparency: [transparent, opaque]
   cleavage: perfect prismatic {10-10}
   fracture: uneven
   tenacity: brittle to sectile

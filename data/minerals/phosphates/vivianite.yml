@@ -40,9 +40,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "1.5–2"
   specific_gravity: "2.6–2.7"
-  luster: vitreous to pearly (when fresh); dull (oxidized)
+  luster: [pearly, vitreous]
   streak: colorless to bluish-white
-  transparency: transparent (fresh) to translucent (oxidized)
+  transparency: [transparent, translucent]
   cleavage: perfect {010}
   fracture: uneven
   tenacity: flexible (thin sections); brittle

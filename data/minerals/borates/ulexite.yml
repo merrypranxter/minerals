@@ -40,9 +40,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "2.5"
   specific_gravity: "1.96"
-  luster: silky (fibrous)
+  luster: [silky]
   streak: white
-  transparency: translucent (fibrous slab transmits images)
+  transparency: [translucent]
   cleavage: perfect {010}
   fracture: uneven
   tenacity: brittle (though fibers are flexible)
@@ -92,7 +92,8 @@ cultural_and_historical:
   birthstone_status: null
   zodiac_associations: []
   historical_uses: [boron source (industrial chemicals, glass, detergents)]
-  cultural_associations: ["TV rock" — natural fiber optic; science curiosity]
+  cultural_associations:
+    - "TV rock — natural fiber optic; science curiosity"
   symbolism: transmission, transparency, guided light
   folklore_notes: null
 

@@ -42,9 +42,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "7.5 (high zircon); 6–6.5 (metamict)"
   specific_gravity: "4.6–4.7 (high); down to 3.9 (metamict)"
-  luster: adamantine to vitreous
+  luster: [vitreous, adamantine]
   streak: colorless
-  transparency: transparent to opaque
+  transparency: [transparent, opaque]
   cleavage: poor {110}
   fracture: conchoidal
   tenacity: brittle

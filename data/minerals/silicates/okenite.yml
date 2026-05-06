@@ -34,9 +34,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "4.5–5"
   specific_gravity: "2.3"
-  luster: silky
+  luster: [silky]
   streak: white
-  transparency: translucent
+  transparency: [translucent]
   cleavage: good {010}
   fracture: uneven
   tenacity: brittle

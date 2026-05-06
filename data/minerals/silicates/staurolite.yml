@@ -25,7 +25,7 @@ chemical_profile:
   chemistry_notes: Co-bearing variety is rare bright blue.
 
 crystallography:
-  crystal_system: monoclinic (pseudo-orthorhombic)
+  crystal_system: monoclinic
   crystal_class: 2/m
   space_group: C2/m
   unit_cell_notes: null
@@ -35,9 +35,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "7–7.5"
   specific_gravity: "3.65–3.83"
-  luster: resinous to vitreous
+  luster: [resinous, vitreous]
   streak: gray-white
-  transparency: translucent to opaque
+  transparency: [translucent, opaque]
   cleavage: poor {010}
   fracture: conchoidal to uneven
   tenacity: brittle
@@ -86,7 +86,8 @@ cultural_and_historical:
   birthstone_status: null
   zodiac_associations: []
   historical_uses: [talisman (fairy stones), religious amulet]
-  cultural_associations: ["Fairy Cross" — tears of fairies crystallized as crosses at the news of Christ's death (Appalachian legend)]
+  cultural_associations:
+    - "Fairy Cross — tears of fairies crystallized as crosses at the news of Christ's death (Appalachian legend)"
   symbolism: protection, faith, good luck
   folklore_notes: >
     Native Americans believed the crosses formed where fairies wept.

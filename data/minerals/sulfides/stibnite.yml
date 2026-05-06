@@ -34,9 +34,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "2"
   specific_gravity: "4.63"
-  luster: metallic, splendent
+  luster: [splendent, metallic]
   streak: lead-gray
-  transparency: opaque
+  transparency: [opaque]
   cleavage: perfect {010}
   fracture: subconchoidal
   tenacity: brittle to sectile

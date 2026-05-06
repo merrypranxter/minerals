@@ -38,9 +38,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "6–7"
   specific_gravity: "6.99"
-  luster: adamantine to metallic
+  luster: [metallic, adamantine]
   streak: white to light brown
-  transparency: transparent (gem) to opaque
+  transparency: [transparent, opaque]
   cleavage: poor {110}
   fracture: conchoidal to uneven
   tenacity: brittle

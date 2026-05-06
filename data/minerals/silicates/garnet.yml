@@ -5,7 +5,7 @@ display_name: Garnet
 classification:
   chemistry_class: silicate
   mineral_group: garnet
-  species_status: group
+  species_status: species
   parent_species: null
   related_varieties:
     - almandine
@@ -19,7 +19,7 @@ classification:
     - hessonite
 
 identifiers:
-  ima_status: approved-group
+  ima_status: approved
   mindat_id: null
   other_ids: {}
 
@@ -37,7 +37,7 @@ chemical_profile:
     is most common; demantoid (andradite) has highest dispersion.
 
 crystallography:
-  crystal_system: cubic (isometric)
+  crystal_system: isometric
   crystal_class: 4/m 3-bar 2/m
   space_group: Ia3d
   unit_cell_notes: null
@@ -47,9 +47,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "6.5–7.5"
   specific_gravity: "3.5–4.3"
-  luster: vitreous to resinous
+  luster: [resinous, vitreous]
   streak: white
-  transparency: transparent to opaque
+  transparency: [transparent, opaque]
   cleavage: none to indistinct
   fracture: conchoidal to uneven
   tenacity: brittle

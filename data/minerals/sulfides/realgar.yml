@@ -36,9 +36,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "1.5–2"
   specific_gravity: "3.56"
-  luster: resinous to adamantine
+  luster: [resinous, adamantine]
   streak: orange-yellow
-  transparency: transparent to translucent
+  transparency: [transparent, translucent]
   cleavage: good {010}
   fracture: conchoidal
   tenacity: sectile to brittle

@@ -5,14 +5,14 @@ display_name: Opalized Fossil
 classification:
   chemistry_class: mineraloid
   mineral_group: opal
-  species_status: rock-gem-material
+  species_status: rock/gem material
   parent_species: null
   related_varieties:
     - opal-replacement-fossil
     - boulder-opal-fossil
 
 identifiers:
-  ima_status: not-applicable
+  ima_status: n/a
   mindat_id: null
   other_ids: {}
 
@@ -40,9 +40,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "5.5–6.5"
   specific_gravity: "1.98–2.25"
-  luster: vitreous to resinous
+  luster: [resinous, vitreous]
   streak: white
-  transparency: opaque to translucent
+  transparency: [translucent, opaque]
   cleavage: none
   fracture: conchoidal
   tenacity: brittle

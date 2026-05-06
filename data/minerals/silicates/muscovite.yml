@@ -39,9 +39,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "2–2.5"
   specific_gravity: "2.77–2.88"
-  luster: vitreous to pearly on cleavage
+  luster: [pearly, vitreous]
   streak: white
-  transparency: transparent to translucent
+  transparency: [transparent, translucent]
   cleavage: perfect basal {001}
   fracture: micaceous (thin elastic sheets)
   tenacity: elastic flexible

@@ -42,9 +42,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "8"
   specific_gravity: "3.49–3.57"
-  luster: vitreous
+  luster: [vitreous]
   streak: colorless
-  transparency: transparent
+  transparency: [transparent]
   cleavage: perfect basal {001}
   fracture: conchoidal to uneven
   tenacity: brittle

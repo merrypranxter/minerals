@@ -12,7 +12,7 @@ classification:
     - rainbow-hematite
 
 identifiers:
-  ima_status: not-ima-approved-variety
+  ima_status: not_ima
   mindat_id: null
   other_ids: {}
 
@@ -36,9 +36,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "5–5.5"
   specific_gravity: "3.3–4.3"
-  luster: sub-metallic to metallic, iridescent
+  luster: [metallic]
   streak: yellow-brown to reddish-brown
-  transparency: opaque
+  transparency: [opaque]
   cleavage: perfect {010}
   fracture: uneven
   tenacity: brittle

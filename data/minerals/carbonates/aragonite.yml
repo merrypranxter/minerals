@@ -43,9 +43,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "3.5–4"
   specific_gravity: "2.93–2.95"
-  luster: vitreous to resinous
+  luster: [resinous, vitreous]
   streak: white
-  transparency: transparent to translucent
+  transparency: [transparent, translucent]
   cleavage: distinct {010}
   fracture: subconchoidal
   tenacity: brittle

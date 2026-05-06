@@ -38,9 +38,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "5–6"
   specific_gravity: "3.1–3.6"
-  luster: vitreous to silky
+  luster: [vitreous, silky]
   streak: white
-  transparency: translucent to opaque
+  transparency: [translucent, opaque]
   cleavage: perfect on {110}, intersecting at ~56°/124°
   fracture: uneven
   tenacity: brittle; fibrous variety flexible

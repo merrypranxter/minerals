@@ -12,7 +12,7 @@ classification:
     - moravian-moldavite
 
 identifiers:
-  ima_status: not-applicable
+  ima_status: n/a
   mindat_id: null
   other_ids: {}
 
@@ -43,9 +43,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "5.5"
   specific_gravity: "2.32–2.38"
-  luster: vitreous
+  luster: [vitreous]
   streak: white
-  transparency: transparent to translucent
+  transparency: [transparent, translucent]
   cleavage: none
   fracture: conchoidal
   tenacity: brittle
@@ -98,8 +98,12 @@ cultural_and_historical:
   birthstone_status: null
   zodiac_associations: []
   historical_uses: [Mesolithic tools (flint substitute), Neolithic jewelry (Venus of Willendorf area)]
-  cultural_associations: [New Age: "stone of the stars," cosmic consciousness, alien contact]
-  symbolism: cosmic transformation, rapid change, extraterrestrial connection
+  cultural_associations:
+    - "New Age: stone of the stars, cosmic consciousness, alien contact"
+  symbolism:
+    - cosmic transformation
+    - rapid change
+    - extraterrestrial connection
   folklore_notes: >
     Earliest known use for artifacts dates to Mesolithic (~35,000 years ago — possibly Aurignacian).
     New Age community attributes high metaphysical properties.

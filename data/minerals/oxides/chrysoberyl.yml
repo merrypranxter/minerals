@@ -1,0 +1,245 @@
+id: chrysoberyl
+slug: chrysoberyl
+display_name: Chrysoberyl
+
+classification:
+  chemistry_class: oxide
+  mineral_group: chrysoberyl-group
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - alexandrite
+    - cat's-eye-chrysoberyl
+    - cymophane
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "BeAl2O4"
+  simplified_formula: "BeAl2O4"
+  essential_elements: [Be, Al, O]
+  trace_elements_common: [Cr, Fe, Ti, V]
+  structural_units:
+    - "BeO4 tetrahedra"
+    - "AlO6 octahedra in orthorhombic framework"
+  atomic_structure_notes: "Orthorhombic structure isostructural with olivine. Beryllium occupies tetrahedral sites; aluminum occupies octahedral sites. The compact structure gives extreme hardness."
+  chemistry_notes: "Chromium substitution for aluminum produces the color-change effect in alexandrite. Iron gives yellow-green colors in ordinary chrysoberyl. Parallel needle or tube inclusions cause chatoyancy in cat's eye (cymophane) varieties."
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: "2/m 2/m 2/m (dipyramidal)"
+  space_group: "Pbnm"
+  unit_cell_notes: "a = 5.48 Å, b = 9.41 Å, c = 4.43 Å; Z = 4"
+  twinning: "Cyclic trillings common (pseudo-hexagonal form); heart-shaped contact twins."
+  crystallography_notes: "Typically tabular to short prismatic crystals with striations parallel to length. Cyclic trillings can appear hexagonal but are pseudosymmetric. Crystal faces commonly striated."
+
+physical_properties:
+  mohs_hardness: "8.5"
+  specific_gravity: "3.68–3.78"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage:
+    - "distinct {011}"
+    - "imperfect {010}"
+  fracture: [conchoidal, uneven]
+  tenacity: brittle
+  physical_notes: "One of the hardest minerals after diamond and corundum. High specific gravity for a beryllium mineral due to the dense oxide structure."
+
+appearance:
+  baseline_colors: [yellow-green, green, brownish-yellow]
+  color_profiles:
+    - name: ordinary-chrysoberyl
+      colors: [yellow, golden-yellow, greenish-yellow, brown-yellow]
+      cause: "Iron (Fe2+/Fe3+) substituting for aluminum. Yellow tones from Fe2+."
+      conditions: "Standard chrysoberyl without Cr or special inclusions."
+      variety_name: null
+    - name: alexandrite
+      colors: [green in daylight, red-purple in incandescent light]
+      cause: "Chromium absorption creates a transmission window at both green and red wavelengths. Daylight (blue-rich) shifts appearance green; incandescent (red-rich) shifts to red-purple."
+      conditions: "Cr substituting for Al; Cr concentration ~0.3–0.4 wt%."
+      variety_name: alexandrite
+    - name: cat's-eye-cymophane
+      colors: [honey-yellow, golden, green-yellow with a sharp white chatoyant band]
+      cause: "Parallel needle inclusions (rutile, apatite, or growth tubes) reflecting light into a single sharp band."
+      conditions: "Requires dense parallel needle/tube inclusions aligned perpendicular to the c-axis."
+      variety_name: cymophane
+  habits:
+    - tabular
+    - short-prismatic
+    - cyclic-twinned
+    - striated-prismatic
+  textures:
+    - vitreous
+    - smooth
+    - silky (cat's eye)
+  macro_patterns:
+    - cyclic twinning (pseudohexagonal)
+    - chatoyant band
+    - color-zoning
+  common_forms:
+    - striated prismatic crystals
+    - twinned trillings
+    - rolled alluvial pebbles
+    - cabochons (cat's eye and alexandrite)
+    - faceted gemstones
+  visual_notes: "Ordinary chrysoberyl is a modest yellow-green gem. Cat's eye (cymophane) shows a razor-sharp, single mobile band of light across the dome of a cabochon — the original and finest cat's eye. Alexandrite is famous for dramatic color change."
+
+optical_and_special_effects:
+  fluorescence: "Weak red fluorescence in alexandrite under SW UV; ordinary chrysoberyl typically inert."
+  phosphorescence: ""
+  chatoyancy: "Strong in cymophane (cat's eye); single sharp band from dense parallel needle inclusions. Often accompanied by 'milk and honey' color — the light side of the band appears lighter, the dark side darker."
+  asterism: "Rare 6-rayed star chrysoberyl known but extremely rare."
+  iridescence: ""
+  pleochroism: "Alexandrite: strong trichroism — green, orange-yellow, red-purple in different crystal directions."
+  optical_notes: "RI: 1.746–1.763 (alpha–gamma), biaxial positive. Strong dispersion contributes to brilliance. High birefringence (0.009–0.011) contributes to the 'doubling' of inclusions visible under magnification."
+
+formation_and_occurrence:
+  genesis:
+    - pegmatitic
+    - metamorphic
+    - placer (alluvial)
+    - hydrothermal (minor)
+  geologic_environments:
+    - granitic pegmatites
+    - mica schists and gneisses
+    - contact metamorphic zones
+    - alluvial and eluvial placer deposits
+  host_rocks:
+    - granite
+    - pegmatite
+    - mica schist
+    - gneiss
+  associated_minerals:
+    - beryl
+    - tourmaline
+    - columbite
+    - apatite
+    - feldspar
+    - muscovite
+    - spinel
+  locality_scope: uncommon
+  notable_localities:
+    - "Russia (Ural Mountains — original alexandrite locality; large alexandrites from Malyshevo)"
+    - "Sri Lanka (finest cat's eye chrysoberyl; large alluvial specimens)"
+    - "Brazil (Minas Gerais — significant alexandrite and cat's eye)"
+    - "India (Andhra Pradesh — alexandrite)"
+    - "Tanzania (alexandrite and cat's eye)"
+    - "Zimbabwe (alexandrite)"
+    - "Madagascar (chrysoberyl and alexandrite)"
+  occurrence_notes: "Forms where beryllium-bearing fluids interact with aluminum-rich country rock during pegmatite intrusion or metamorphism. Alexandrite requires additional chromium in the local chemistry — rare combination explaining its scarcity."
+
+cultural_and_historical:
+  birthstone_status:
+    - "June birthstone (modern — alongside pearl and moonstone)"
+  zodiac_associations:
+    - "Gemini"
+    - "Scorpio (some traditions)"
+  historical_uses:
+    - "Named in 1790; 'chrysoberyl' from Greek chrysos (gold) + beryllos (beryl), though not related to beryl mineralogically"
+    - "Alexandrite discovered in Russia's Ural Mountains in 1830, on Tsar Alexander II's birthday — hence the name"
+    - "Russian Imperial jewelry prominently featured alexandrite"
+    - "Cat's eye chrysoberyl highly prized in Sri Lanka for centuries — considered lucky and protective"
+    - "Victorian cat's eye rings and brooches fashionable after a famous piece was given as a wedding gift to Prince of Wales in 1880"
+  cultural_associations:
+    - "Alexandrite considered a stone of good fortune and longevity in Russia"
+    - "Cat's eye associated with protection from evil eye in South Asian traditions"
+    - "Alexandrite's color change seen as symbol of duality — ability to adapt"
+  symbolism:
+    - luck
+    - duality
+    - transformation
+    - protection
+  folklore_notes: "Cat's eye chrysoberyl has been called 'the eye of God' in some South Asian traditions, believed to ward off evil and bring luck to its wearer. In Russia, alexandrite was so beloved it was considered a patriotic stone, its colors echoing the Russian military — green by day, red by night."
+
+interpretive_vibe:
+  mood_keywords:
+    - chatoyant-surveillance
+    - color-change-duality
+    - golden-eye-mineral
+    - imperial-russian-gem
+    - honey-and-milk-band
+  sensory_keywords:
+    - cool smooth dome
+    - razor light stripe
+    - shifting color body
+  palette_keywords:
+    - honey-gold
+    - alexandrite-green
+    - candlelight-red
+    - cat-eye-cream
+    - olive-chrysolite
+  aesthetic_roles:
+    - collector's gem
+    - optical phenomenon showcase
+    - high-end cabochon mineral
+    - color-change curiosity
+  vibe_notes: "Chrysoberyl is a mineral of precision optical effects. The cat's eye has the sharpest, most dramatic single chatoyant band in the mineral kingdom — like a slit pupil of light across a polished dome. Alexandrite is the master color-changer, making daylight and candlelight feel like two different stones."
+
+practical_notes:
+  toxicity: low
+  handling_notes: "Durable gemstone; safe for everyday wear in jewelry. Beryllium content is negligible hazard in polished form — concern only with dust from cutting/grinding."
+  care_notes: "Highly resistant to chemicals and scratching. Safe to clean with warm soapy water or ultrasonic (avoid if fracture-filled). No special storage requirements."
+  treatments_or_synthetics:
+    - "Flux-grown synthetic alexandrite available (Chatham, Kyocera, others)"
+    - "Hydrothermal synthetic alexandrite produced commercially"
+    - "Fracture filling uncommon but occurs in lower-grade material"
+    - "Synthetic color-change corundum (sapphire) frequently sold as alexandrite — verify by RI and inclusions"
+  common_confusions:
+    - "synthetic color-change corundum (sapphire) — most common mislabeled 'alexandrite'"
+    - "color-change garnet — similar effect, different RI"
+    - "green tourmaline — similar color but no change"
+    - "demantoid garnet — similar brilliance"
+    - "other cat's eye gems (quartz, apatite, tourmaline) — less sharp band than chrysoberyl"
+  market_notes: "Fine alexandrite is one of the world's rarest and most expensive gemstones. Russian alexandrites (from original Ural deposit) are extremely rare and command the highest premiums. Brazilian alexandrites are the main commercial source. Fine cat's eye chrysoberyl is also rare and valuable; the best Sri Lankan specimens are highly collected."
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes:
+    - alexandrite
+    - color-change-sapphire
+    - color-change-garnet
+    - tourmaline
+    - spinel
+  related_species:
+    - alexandrite
+    - sinhalite
+
+app_metadata:
+  tags:
+    - chatoyant
+    - color-change
+    - beryllium-mineral
+    - hard-gem
+    - cat's-eye
+    - alexandrite-species
+    - collector-gem
+    - orthorhombic
+  search_boost_terms:
+    - chrysoberyl
+    - alexandrite species
+    - cat's eye
+    - cymophane
+    - BeAl2O4
+    - color change gem
+    - chatoyant gem
+  prompt_fragments:
+    - "honey-gold dome with a razor-sharp mobile white band crossing its surface"
+    - "green gem that transforms to crimson under candlelight — alexandrite effect"
+    - "single cat's eye beam tracking across a warm golden cabochon"
+  ui_color_hint: [honey-yellow, olive-green, alexandrite-red]
+  priority_score: 75
+
+provenance:
+  source_status: draft
+  completeness: 0.82
+  confidence: high
+  last_updated: "2026-05-06"
+  sources:
+    - "https://www.mindat.org/min-1036.html"
+  notes: "Chrysoberyl is the parent species; alexandrite is a variety (already in repo as oxides/alexandrite.yml). Cat's eye (cymophane) is another variety."

@@ -14,7 +14,7 @@ classification:
     - gypsum-flower
 
 identifiers:
-  ima_status: not-ima-approved-variety
+  ima_status: not_ima
   mindat_id: null
   other_ids: {}
 
@@ -43,9 +43,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "1.5–2"
   specific_gravity: "2.31–2.33"
-  luster: vitreous (selenite), silky (satin spar), waxy (alabaster)
+  luster: [waxy, vitreous, silky]
   streak: white
-  transparency: transparent (selenite) to translucent (alabaster)
+  transparency: [transparent, translucent]
   cleavage: perfect {010}, good {100} and {011}
   fracture: conchoidal
   tenacity: brittle, flexible in thin sheets
@@ -101,8 +101,14 @@ cultural_and_historical:
   birthstone_status: null
   zodiac_associations: [Cancer, Taurus]
   historical_uses: [windows (selenite panes — ancient), alabaster sculpture, plaster of Paris (calcined)]
-  cultural_associations: [named for Selene goddess of moon; New Age: "liquid light," cleansing]
-  symbolism: clarity, cleansing, lunar energy, peace
+  cultural_associations:
+    - "named for Selene goddess of moon"
+    - "New Age: liquid light, cleansing"
+  symbolism:
+    - clarity
+    - cleansing
+    - lunar energy
+    - peace
   folklore_notes: >
     Named after the Moon goddess Selene for its moonlike translucency.
     New Age community considers it a premier cleansing and protective crystal.

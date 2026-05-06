@@ -12,7 +12,7 @@ classification:
     - sagenitic-quartz
 
 identifiers:
-  ima_status: not-ima-approved-variety
+  ima_status: not_ima
   mindat_id: null
   other_ids: {}
 
@@ -28,7 +28,7 @@ chemical_profile:
     oriented along quartz prism or rhombohedron faces. Fe-staining gives gold, red, or silver colors.
 
 crystallography:
-  crystal_system: trigonal (host quartz)
+  crystal_system: trigonal
   crystal_class: 32
   space_group: P3221
   unit_cell_notes: null
@@ -38,9 +38,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "7"
   specific_gravity: "2.65"
-  luster: vitreous
+  luster: [vitreous]
   streak: white
-  transparency: transparent to translucent
+  transparency: [transparent, translucent]
   cleavage: none
   fracture: conchoidal
   tenacity: brittle

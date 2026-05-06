@@ -39,9 +39,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "~10 (theoretical) — actual samples contain defects"
   specific_gravity: "3.51 (similar to cubic diamond)"
-  luster: adamantine (theoretical)
+  luster: [adamantine]
   streak: colorless
-  transparency: transparent (theoretical)
+  transparency: [transparent]
   cleavage: perfect {0001}
   fracture: conchoidal (theoretical)
   tenacity: brittle

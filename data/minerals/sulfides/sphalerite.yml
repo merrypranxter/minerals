@@ -30,7 +30,7 @@ chemical_profile:
     trace elements. Cleiophane = clear/yellow Mn-bearing; marmatite = black Fe-rich.
 
 crystallography:
-  crystal_system: cubic (isometric)
+  crystal_system: isometric
   crystal_class: 4-bar 3m
   space_group: F-43m
   unit_cell_notes: a=5.41 Å
@@ -40,9 +40,9 @@ crystallography:
 physical_properties:
   mohs_hardness: "3.5–4"
   specific_gravity: "3.9–4.1"
-  luster: resinous to adamantine
+  luster: [resinous, adamantine]
   streak: pale yellow to brown
-  transparency: transparent (low Fe) to opaque (high Fe)
+  transparency: [transparent, opaque]
   cleavage: perfect dodecahedral {110} — 6 directions
   fracture: conchoidal
   tenacity: brittle
