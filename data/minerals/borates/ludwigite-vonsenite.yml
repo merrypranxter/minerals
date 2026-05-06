@@ -1,0 +1,138 @@
+id: ludwigite-vonsenite
+slug: ludwigite-vonsenite
+display_name: Ludwigite-Vonsenite
+
+classification:
+  chemistry_class: borate
+  mineral_group: ludwigite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - ludwigite
+    - vonsenite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Mg2Fe3+BO5 (ludwigite) / Fe2+2Fe3+BO5 (vonsenite)"
+  simplified_formula: "(Mg,Fe2+)2Fe3+BO5"
+  essential_elements: [Fe, Mg, B, O]
+  trace_elements_common: [Mn, Al, Ti]
+  structural_units: oxyboron with iron-magnesium chains
+  atomic_structure_notes: >
+    Orthorhombic with (Fe,Mg)O6 octahedral chains parallel to c-axis linked by BO4
+    groups. The c-axis fiber direction controls chatoyancy and Kajiya-Kay anisotropy.
+    Vonsenite = Fe2+-Fe3+ end member; ludwigite = Mg-Fe3+ end member.
+  chemistry_notes: >
+    Ferro-magnesian oxyborate. Vonsenite (Fe2+2Fe3+BO5) is ferrimagnetic — the
+    crystals are magnetic. The Mg-Fe series is complete.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pbam
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Acicular to fibrous; radiating fiber aggregates parallel to c-axis.
+
+physical_properties:
+  mohs_hardness: "5"
+  specific_gravity: "3.9–4.7"
+  luster: [metallic]
+  streak: dark gray to black
+  transparency: [opaque]
+  cleavage: perfect {010}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Vonsenite is ferrimagnetic — attracted to a hand magnet.
+
+appearance:
+  baseline_colors: [black, dark gray, dark green-black]
+  color_profiles:
+    - name: ludwigite (Mg-rich)
+      colors: [dark green, olive-black]
+      cause: Mg for Fe substitution
+      conditions: null
+      variety_name: ludwigite
+    - name: vonsenite (Fe-rich)
+      colors: [black, metallic black]
+      cause: Fe2+/Fe3+ charge transfer
+      conditions: null
+      variety_name: vonsenite
+  habits: [acicular, fibrous, radiating fiber aggregates]
+  textures: [sub-metallic, striated fibers]
+  macro_patterns: [radiating fiber bursts from central nucleus]
+  common_forms: [fibrous radiating aggregates, massive]
+  visual_notes: >
+    Radiating tangent field; Kajiya-Kay anisotropic specular along fiber axis.
+    Step(0.5, sin(theta*500)) for high-frequency radial fibers.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: strong in fibrous varieties
+  asterism: false
+  iridescence: false
+  pleochroism: strong (black/brown/green in different directions)
+  optical_notes: Kajiya-Kay anisotropic specularity from radiating fiber geometry.
+
+formation_and_occurrence:
+  genesis: contact metamorphic (skarn)
+  geologic_environments: [skarns — contact zones between granite and limestone]
+  host_rocks: [skarn, marble, metamorphic]
+  associated_minerals: [magnetite, forsterite, phlogopite, diopside, serpentine]
+  locality_scope: global
+  notable_localities: [Predazzo Italy, Långban Sweden, Nordmark Sweden, various skarn deposits]
+  occurrence_notes: Classic skarn mineral; associated with boron-bearing metasomatic systems.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: []
+  symbolism: magnetic presence, ferrimagnetic energy
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [black-metallic, magnetic, fibrous, radiating]
+  sensory_keywords: [heavy, metallic, cold]
+  palette_keywords: [black, cold-silver-metallic, dark-oil-tarnish]
+  aesthetic_roles: [metallic, collector, magnetic]
+  vibe_notes: Radiating tangent field; Kajiya-Kay specular with 500-freq fiber sinusoid.
+
+practical_notes:
+  toxicity: non-toxic in normal handling
+  handling_notes: normal care
+  care_notes: avoid acids
+  treatments_or_synthetics: none
+  common_confusions: [tourmaline (schorl), magnetite, columbite, wolframite]
+  market_notes: Rare collector mineral; magnetically interactive specimens prized.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [schorl tourmaline, magnetite aggregates, columbite]
+  related_species: [vonsenite, pinakiolite, sussexite]
+
+app_metadata:
+  tags: [borate, iron, magnesium, magnetic, acicular, skarn, chatoyant]
+  search_boost_terms: [ludwigite, vonsenite, radiating fibers, ferro-borate, magnetic, Kajiya-Kay]
+  prompt_fragments:
+    - "black metallic radiating fiber aggregates with Kajiya-Kay anisotropic chatoyancy"
+    - "ferro-magnetic oxyborate; radiating tangent field shader"
+  ui_color_hint: "#1a1a2a"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

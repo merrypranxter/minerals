@@ -1,0 +1,136 @@
+id: muscovite
+slug: muscovite
+display_name: Muscovite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: mica
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - fuchsite
+    - sericite
+    - phengite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "KAl2(AlSi3)O10(OH)2"
+  simplified_formula: "KAl2(AlSi3O10)(OH)2"
+  essential_elements: [K, Al, Si, O, H]
+  trace_elements_common: [Cr, Fe, Na, Ba]
+  structural_units: phyllosilicate (2:1 layer)
+  atomic_structure_notes: >
+    Dioctahedral mica with alternating silicate-aluminate layers; potassium in
+    interlayer. Perfect basal cleavage reflects this stacking.
+  chemistry_notes: Fuchsite = Cr-bearing green variety. Sericite = fine-grained aggregate.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m
+  space_group: C2/c
+  unit_cell_notes: a=5.2, b=9.0, c=20.1 Å, β≈95.8°
+  twinning: uncommon
+  crystallography_notes: Tabular to book-like crystals with hexagonal outline; perfect {001} cleavage.
+
+physical_properties:
+  mohs_hardness: "2–2.5"
+  specific_gravity: "2.77–2.88"
+  luster: [pearly, vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: perfect basal {001}
+  fracture: micaceous (thin elastic sheets)
+  tenacity: elastic flexible
+  physical_notes: Thin cleavage sheets are transparent and flexible; spring back when bent.
+
+appearance:
+  baseline_colors: [colorless, silver, pale brown, pale yellow]
+  color_profiles:
+    - name: fuchsite
+      colors: [green, emerald-green]
+      cause: Cr3+ substituting for Al3+
+      conditions: null
+      variety_name: fuchsite
+    - name: lepidolite-like
+      colors: [pale lavender, pink]
+      cause: trace Mn, Fe
+      conditions: null
+      variety_name: null
+  habits: [tabular, book-like, platy, scaly]
+  textures: [pearly, silky (sericite)]
+  macro_patterns: [books of cleavage sheets, scaly aggregates]
+  common_forms: [books, rosettes, massive]
+  visual_notes: Interference colors on thin cleavage films; iterative layer peel shading model.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: true
+  pleochroism: weak
+  optical_notes: Thin-film interference on cleavage sheets creates iris-like colors.
+
+formation_and_occurrence:
+  genesis: metamorphic, igneous (granites, pegmatites)
+  geologic_environments: [schists, gneisses, granites, pegmatites, hydrothermal veins]
+  host_rocks: [granite, schist, gneiss, phyllite]
+  associated_minerals: [quartz, feldspar, biotite, garnet, tourmaline]
+  locality_scope: global
+  notable_localities: [Minas Gerais Brazil, Rajasthan India, South Dakota USA]
+  occurrence_notes: Extremely common rock-forming mineral.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [windows (isinglass), electrical insulation, cosmetics (mica powder)]
+  cultural_associations: []
+  symbolism: null
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [layered, reflective, ancient, geological-depth]
+  sensory_keywords: [pearlescent, papery, shimmery]
+  palette_keywords: [silver, pale-gold, iridescent]
+  aesthetic_roles: [textural, shimmery, structural]
+  vibe_notes: Iterative layer peel; each cleavage film is an interference optical element.
+
+practical_notes:
+  toxicity: non-toxic in normal handling
+  handling_notes: Cleavage sheets are fragile; handle with care
+  care_notes: Avoid acids; clean gently
+  treatments_or_synthetics: synthetic mica used in cosmetics and electronics
+  common_confusions: [biotite, phlogopite, lepidolite]
+  market_notes: Large book specimens from pegmatites are highly collectible.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: [feldspar (sericite), kyanite]
+  pseudomorphed_by: []
+  lookalikes: [biotite, phlogopite, lepidolite, paragonite]
+  related_species: [biotite, lepidolite, phlogopite, paragonite, fuchsite]
+
+app_metadata:
+  tags: [silicate, mica, pearlescent, layered, metamorphic]
+  search_boost_terms: [mica, pearlescent, iridescent, layer, cleavage]
+  prompt_fragments:
+    - "books of silvery cleavage sheets with thin-film iridescence"
+    - "iterative layer peeling reveals interference colors"
+  ui_color_hint: "#d4cfbf"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

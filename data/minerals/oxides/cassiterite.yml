@@ -1,0 +1,135 @@
+id: cassiterite
+slug: cassiterite
+display_name: Cassiterite
+
+classification:
+  chemistry_class: oxide
+  mineral_group: rutile
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - wood-tin
+    - stream-tin
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SnO2"
+  simplified_formula: "SnO2"
+  essential_elements: [Sn, O]
+  trace_elements_common: [Fe, Ta, Nb, W, In]
+  structural_units: rutile-type oxide
+  atomic_structure_notes: Rutile structure (TiO2-type); Sn4+ in octahedral coordination. Isostructural with rutile.
+  chemistry_notes: Primary ore of tin. High IOR (1.99–2.09) gives adamantine luster.
+
+crystallography:
+  crystal_system: tetragonal
+  crystal_class: 4/m 2/m 2/m
+  space_group: P42/mnm
+  unit_cell_notes: a=4.74, c=3.19 Å
+  twinning: knee-shaped twins (elbow twins) on {011} very common
+  crystallography_notes: >
+    Bipyramidal, prismatic, or stubby crystals; characteristic "knee twin" (elbow twin).
+    Wood tin = radiating fibrous botryoidal habit.
+
+physical_properties:
+  mohs_hardness: "6–7"
+  specific_gravity: "6.99"
+  luster: [metallic, adamantine]
+  streak: white to light brown
+  transparency: [transparent, opaque]
+  cleavage: poor {110}
+  fracture: conchoidal to uneven
+  tenacity: brittle
+  physical_notes: Very high density; high luster; gem-quality crystals from tin pegmatites.
+
+appearance:
+  baseline_colors: [brown, reddish-brown, black, colorless, gray]
+  color_profiles:
+    - name: gem cassiterite
+      colors: [honey-brown, pale yellow, colorless]
+      cause: Fe trace impurities
+      conditions: transparent gem quality
+      variety_name: null
+    - name: wood tin
+      colors: [brown, black radiating]
+      cause: fibrous botryoidal habit
+      conditions: null
+      variety_name: wood tin
+  habits: [bipyramidal, prismatic, knee twins, botryoidal (wood tin), granular]
+  textures: [adamantine, metallic, striated prisms]
+  macro_patterns: [characteristic knee-shaped twins; wood-grain pattern in wood tin variety]
+  common_forms: [bipyramidal crystals, knee twins, alluvial rounded grains]
+  visual_notes: Adamantine luster with high birefringence; knee-twin SDF geometry.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: possible in wood tin
+  asterism: false
+  iridescence: false
+  pleochroism: moderate (pale yellow to deep reddish-brown)
+  optical_notes: Very high IOR (2.0); strong dispersion; birefringence 0.096.
+
+formation_and_occurrence:
+  genesis: igneous (pegmatites, greisens), hydrothermal veins, alluvial
+  geologic_environments: [granite pegmatites, greisens, tin veins, alluvial placers]
+  host_rocks: [granite, aplite, quartz veins]
+  associated_minerals: [tourmaline, topaz, fluorite, wolframite, bismuth, arsenopyrite]
+  locality_scope: global
+  notable_localities: [Cornwall England, Bolivia, Zinnwald Bohemia, Malaysia, Nigeria, Rondônia Brazil]
+  occurrence_notes: >
+    Cornwall produced tin for the Bronze Age. "Tin deposits" primarily controlled by
+    cassiterite in granite-related systems.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [tin ore — Bronze Age and beyond; pewter; solder; tin plate]
+  cultural_associations: [Cornwall tin trade, Bronze Age metallurgy beginning]
+  symbolism: transformation, industrial utility
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [heavy, adamantine, tin-brown, industrial]
+  sensory_keywords: [heavy, metallic, resinous]
+  palette_keywords: [honey-brown, dark-chocolate, metallic-black]
+  aesthetic_roles: [ore mineral, collector, gem]
+  vibe_notes: Knee-twin tetragonal prism SDF; adamantine high-dispersion.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: durable mineral
+  care_notes: normal care
+  treatments_or_synthetics: none
+  common_confusions: [sphalerite, wolframite, columbite, rutile]
+  market_notes: Gem-quality transparent brown cassiterite from Bolivia commands collector interest.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [rutile, wolframite, sphalerite, zircon (tetragonal)]
+  related_species: [rutile, pyrolusite, plattnerite]
+
+app_metadata:
+  tags: [oxide, tin, tetragonal, adamantine, knee-twin, ore]
+  search_boost_terms: [tin ore, cassiterite, knee twin, wood tin, adamantine, Bronze Age]
+  prompt_fragments:
+    - "honey-brown to black tetragonal crystals with adamantine luster and knee-shaped twins"
+    - "rutile-type oxide; high dispersion and very high density"
+  ui_color_hint: "#8b4513"
+  priority_score: 0.6
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

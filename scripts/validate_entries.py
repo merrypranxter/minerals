@@ -28,8 +28,10 @@ MINERALS_DIR = REPO_ROOT / "data" / "minerals"
 
 # ─── Controlled Vocabulary ───────────────────────────────────────────────────
 VALID_CHEMISTRY_CLASSES = {
-    "native-element", "sulfide", "oxide", "carbonate", "sulfate",
-    "phosphate", "silicate", "halide", "mineraloid", "organic"
+    "native-element", "sulfide", "sulfosalt", "oxide", "hydroxide",
+    "halide", "carbonate", "nitrate", "borate", "sulfate", "chromate",
+    "phosphate", "arsenate", "vanadate", "silicate", "organic", "mineraloid",
+    "molybdate", "tungstate", "zeolite"
 }
 
 VALID_SPECIES_STATUS = {

@@ -1,0 +1,134 @@
+id: kyanite
+slug: kyanite
+display_name: Kyanite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: aluminosilicate
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - bladed-kyanite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Al2SiO5"
+  simplified_formula: "Al2SiO5"
+  essential_elements: [Al, Si, O]
+  trace_elements_common: [Fe, Cr, Mn, Ti]
+  structural_units: nesosilicate
+  atomic_structure_notes: Triclinic aluminosilicate. Al occupies both tetrahedral and octahedral sites.
+  chemistry_notes: >
+    Polymorph of andalusite and sillimanite; kyanite stable at high pressure / intermediate temperature.
+    Perfect cleavage on {100} with hardness anisotropy (4.5 along, 6.5 across).
+
+crystallography:
+  crystal_system: triclinic
+  crystal_class: 1-bar
+  space_group: P-1
+  unit_cell_notes: null
+  twinning: simple and lamellar twinning on {100}
+  crystallography_notes: Bladed to columnar crystals with characteristic blue color zoning.
+
+physical_properties:
+  mohs_hardness: "4.5–5 parallel to c; 6–7 perpendicular"
+  specific_gravity: "3.53–3.68"
+  luster: [pearly, vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: perfect {100}, good {010}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Unique variable hardness — softer along length than across.
+
+appearance:
+  baseline_colors: [blue, blue-gray, white, colorless]
+  color_profiles:
+    - name: blue kyanite
+      colors: [cornflower blue, blue-gray, patchy blue]
+      cause: Fe2+ or Ti4+ trace
+      conditions: null
+      variety_name: blue kyanite
+    - name: green kyanite
+      colors: [green, yellow-green]
+      cause: Cr3+ or V3+
+      conditions: null
+      variety_name: green kyanite
+  habits: [bladed, columnar, fibrous]
+  textures: [pearlescent to vitreous on cleavage planes]
+  macro_patterns: [blue color patches within blade; color zoning along blade]
+  common_forms: [bladed crystals in schist]
+  visual_notes: Blue color typically patchy or streaky, not uniform.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: possible in fibrous material
+  asterism: false
+  iridescence: false
+  pleochroism: strong (colorless, pale blue, deep blue in different directions)
+  optical_notes: Biaxial negative; strong pleochroism.
+
+formation_and_occurrence:
+  genesis: metamorphic (high-pressure, medium-high temperature)
+  geologic_environments: [pelitic schists, gneisses, quartzites]
+  host_rocks: [mica schist, quartz-kyanite schist]
+  associated_minerals: [garnet, staurolite, muscovite, quartz, biotite]
+  locality_scope: global
+  notable_localities: [Minas Gerais Brazil, Nepal, Austria, North Carolina USA]
+  occurrence_notes: Common in high-pressure metamorphic belts worldwide.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [refractory ceramics, spark plugs (historical)]
+  cultural_associations: []
+  symbolism: clarity, communication, telepathy
+  folklore_notes: Never needs cleansing (crystal healing lore).
+
+interpretive_vibe:
+  mood_keywords: [blade-blue, layered, metamorphic, pristine]
+  sensory_keywords: [glassy, bladed, cool-blue]
+  palette_keywords: [cornflower-blue, steel-blue, white-gray]
+  aesthetic_roles: [collector, gemstone, matrix]
+  vibe_notes: Variable hardness; bladed form with anisotropic specularity.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Perfect cleavage makes faceting difficult; used mostly as cabochon
+  care_notes: Avoid impact along cleavage direction
+  treatments_or_synthetics: none known
+  common_confusions: [blue sapphire, iolite, aquamarine]
+  market_notes: Blue specimens from Nepal and Brazil are gemstone quality.
+
+relationships:
+  polymorphs: [andalusite, sillimanite]
+  pseudomorphs_after: []
+  pseudomorphed_by: [muscovite (sericite)]
+  lookalikes: [aquamarine, iolite, blue sapphire]
+  related_species: [andalusite, sillimanite]
+
+app_metadata:
+  tags: [silicate, aluminosilicate, blue, bladed, metamorphic, high-pressure]
+  search_boost_terms: [bladed kyanite, blue, high-pressure metamorphic, variable hardness]
+  prompt_fragments:
+    - "bladed blue crystals with patchy color zoning in mica schist"
+    - "anisotropic hardness crystal with strong pleochroism"
+  ui_color_hint: "#4a7bc0"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

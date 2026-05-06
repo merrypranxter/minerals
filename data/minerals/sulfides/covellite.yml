@@ -1,0 +1,133 @@
+id: covellite
+slug: covellite
+display_name: Covellite
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: covellite
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "CuS"
+  simplified_formula: "CuS"
+  essential_elements: [Cu, S]
+  trace_elements_common: [Fe, Ag, Se]
+  structural_units: layered copper sulfide
+  atomic_structure_notes: Hexagonal layered structure; strong optical anisotropy from Cu-S bonding.
+  chemistry_notes: Supergene copper sulfide; forms from chalcopyrite alteration.
+
+crystallography:
+  crystal_system: hexagonal
+  crystal_class: 6/m 2/m 2/m
+  space_group: P63/mmc
+  unit_cell_notes: a=3.79, c=16.34 Å
+  twinning: null
+  crystallography_notes: Perfect basal cleavage {0001} producing hexagonal platelets.
+
+physical_properties:
+  mohs_hardness: "1.5–2"
+  specific_gravity: "4.6–4.76"
+  luster: [resinous, metallic]
+  streak: dark gray to black
+  transparency: [opaque]
+  cleavage: perfect basal {0001}
+  fracture: uneven
+  tenacity: sectile to brittle
+  physical_notes: Sub-metallic luster; iridescence from thin surface oxide film.
+
+appearance:
+  baseline_colors: [indigo blue, electric blue, violet-blue]
+  color_profiles:
+    - name: fresh surface
+      colors: [indigo blue, electric blue, neon violet-blue]
+      cause: complex Fresnel from layered Cu-S structure (high absorption coefficient)
+      conditions: fresh surface
+      variety_name: null
+    - name: tarnished surface
+      colors: [brass, bronze, dark brown]
+      cause: surface oxidation
+      conditions: tarnished
+      variety_name: null
+  habits: [platy, hexagonal platelets, massive]
+  textures: [sub-metallic, iridescent]
+  macro_patterns: [hexagonal platelets with blue iridescence; brass tarnish at edges]
+  common_forms: [tabular hexagonal crystals, massive]
+  visual_notes: >
+    Subtractive interference from complex IOR (n=1.45+0.21i ordinary; extraordinary very absorbing).
+    Brass edge leak at grain margins.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: true
+  pleochroism: extreme (related to strong optical anisotropy)
+  optical_notes: >
+    Strongly absorbing extraordinary ray; ordinary ray shows blue-indigo transmission.
+    High-exponent sine bands create tight color banding.
+
+formation_and_occurrence:
+  genesis: secondary (supergene oxidation of copper sulfides)
+  geologic_environments: [copper deposit enrichment zones]
+  host_rocks: [porphyry copper, mafic rock]
+  associated_minerals: [chalcopyrite, bornite, chalcocite, pyrite, malachite]
+  locality_scope: global
+  notable_localities: [Butte Montana USA, Sardinia Italy, Chile, Peru]
+  occurrence_notes: Secondary enrichment blanket mineral.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: []
+  symbolism: electric indigo, neon presence
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [electric-blue, neon-indigo, metallic, subtractive]
+  sensory_keywords: [metallic, layered, iridescent]
+  palette_keywords: [electric-indigo, brass-edge, sub-metallic-blue]
+  aesthetic_roles: [accent, iridescent, metallic]
+  vibe_notes: Subtractive interference; antimatter palette from complex Fresnel optics.
+
+practical_notes:
+  toxicity: copper-bearing; wash hands after handling
+  handling_notes: Very soft; avoid abrasion
+  care_notes: Keep dry; tarnishes with moisture
+  treatments_or_synthetics: none
+  common_confusions: [bornite (peacock ore), chalcopyrite tarnish, molybdenite]
+  market_notes: Collector mineral; Sardinia matrix pieces prized.
+
+relationships:
+  polymorphs: [yarrowite, spionkopite]
+  pseudomorphs_after: [chalcopyrite, bornite]
+  pseudomorphed_by: []
+  lookalikes: [molybdenite, graphite, tarnished bornite]
+  related_species: [chalcocite, bornite, digenite]
+
+app_metadata:
+  tags: [sulfide, copper, blue, iridescent, metallic, supergene]
+  search_boost_terms: [indigo blue, electric, iridescent copper, antimatter palette]
+  prompt_fragments:
+    - "electric indigo hexagonal copper sulfide platelets with brass edge tarnish"
+    - "subtractive interference antimatter palette"
+  ui_color_hint: "#2b1acc"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

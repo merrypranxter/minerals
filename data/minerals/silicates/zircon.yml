@@ -1,0 +1,152 @@
+id: zircon
+slug: zircon
+display_name: Zircon
+
+classification:
+  chemistry_class: silicate
+  mineral_group: zircon
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - low-zircon
+    - high-zircon
+    - hyacinth
+    - jargoon
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "ZrSiO4"
+  simplified_formula: "ZrSiO4"
+  essential_elements: [Zr, Si, O]
+  trace_elements_common: [Hf, U, Th, Y, REE]
+  structural_units: nesosilicate
+  atomic_structure_notes: >
+    ZrO8 polyhedra linked by SiO4 tetrahedra in tetragonal array. U/Th decay
+    causes metamictization (radiation damage to crystal structure).
+  chemistry_notes: >
+    Contains trace U and Th enabling U-Pb radiometric dating. Earth's oldest
+    mineral (4.4 Ga Jack Hills zircons). Metamict variety = amorphous from radiation damage.
+
+crystallography:
+  crystal_system: tetragonal
+  crystal_class: 4/m 2/m 2/m
+  space_group: I41/amd
+  unit_cell_notes: a=6.60, c=5.98 Å
+  twinning: cyclic twins common
+  crystallography_notes: Tetragonal prisms with pyramidal terminations; metamict variety has no diffraction pattern.
+
+physical_properties:
+  mohs_hardness: "7.5 (high zircon); 6–6.5 (metamict)"
+  specific_gravity: "4.6–4.7 (high); down to 3.9 (metamict)"
+  luster: [vitreous, adamantine]
+  streak: colorless
+  transparency: [transparent, opaque]
+  cleavage: poor {110}
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: >
+    Adamantine luster with very high refractive indices (1.92–1.96) and high dispersion.
+    "Low zircon" = metamict (radiation damaged); "high zircon" = crystalline.
+
+appearance:
+  baseline_colors: [colorless, golden-yellow, red, orange, blue, green, brown]
+  color_profiles:
+    - name: jargoon
+      colors: [colorless, pale yellow]
+      cause: pure composition
+      conditions: null
+      variety_name: jargoon
+    - name: hyacinth
+      colors: [red-orange, red-brown]
+      cause: Fe3+ or radiation damage products
+      conditions: null
+      variety_name: hyacinth
+    - name: blue zircon
+      colors: [sky blue to teal blue]
+      cause: heat treatment of brown metamict zircon
+      conditions: treated
+      variety_name: blue zircon
+  habits: [prismatic, bipyramidal, short prisms]
+  textures: [adamantine, highly lustrous]
+  macro_patterns: [brilliant highly lustrous crystals]
+  common_forms: [faceted gems, sedimentary alluvial crystals (rounded)]
+  visual_notes: Double refraction visible as doubled facet edges; adamantine luster exceeds most gems.
+
+optical_and_special_effects:
+  fluorescence: strong chalky-orange UV fluorescence (characteristic)
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: weak to none
+  optical_notes: >
+    Very high birefringence (0.059) causes visible doubling of back facets in faceted stones.
+    High dispersion (fire) approaching diamond.
+
+formation_and_occurrence:
+  genesis: igneous (granite, syenite, pegmatite); detrital (alluvial)
+  geologic_environments: [felsic igneous rocks, pegmatites, metamorphic, alluvial placers]
+  host_rocks: [granite, gneiss, schist, alluvial gravel]
+  associated_minerals: [feldspar, quartz, mica, monazite, ilmenite]
+  locality_scope: global
+  notable_localities: [Sri Lanka, Cambodia, Myanmar, Australia (Jack Hills), Norway, USA]
+  occurrence_notes: One of the most widespread accessory minerals in granitic rocks.
+
+cultural_and_historical:
+  birthstone_status: December birthstone (blue)
+  zodiac_associations: [Sagittarius]
+  historical_uses: [gemstone since antiquity, confused with diamond, used as diamond substitute]
+  cultural_associations: [clarity of mind, wisdom, integrity]
+  symbolism: innocence, purity, chastity in medieval lapidaries
+  folklore_notes: >
+    In medieval Europe, zircon was thought to ward off the plague. The term "hyacinth"
+    for red-orange zircon comes from the hyacinth flower.
+
+interpretive_vibe:
+  mood_keywords: [ancient, adamantine, high-dispersion, geological-clock]
+  sensory_keywords: [brilliant, heavy, ancient]
+  palette_keywords: [colorless, golden-yellow, sky-blue, red-brown]
+  aesthetic_roles: [gemstone, ancient, geological]
+  vibe_notes: Tetragonal prism SDF; adamantine specular with double refraction.
+
+practical_notes:
+  toxicity: low-U varieties non-toxic; metamict high-U varieties slightly radioactive
+  handling_notes: High-U metamict specimens should not be stored near the body for extended periods
+  care_notes: avoid ultrasonic (especially metamict); avoid thermal shock for blue varieties
+  treatments_or_synthetics: >
+    Blue zircon almost always heat-treated. Not to be confused with cubic zirconia (ZrO2),
+    a synthetic material.
+  common_confusions: [cubic zirconia (synthetic), diamond, topaz, white sapphire]
+  market_notes: Natural blue zircon from Cambodia/Sri Lanka; colorless and blue most commercially important.
+
+relationships:
+  polymorphs: [reidite (high-pressure form)]
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [diamond (adamantine), cubic zirconia (synthetic), topaz]
+  related_species: [hafnon, thorite, coffinite]
+
+app_metadata:
+  tags: [silicate, zircon, tetragonal, adamantine, ancient, geochronology, December-birthstone]
+  search_boost_terms: [oldest mineral, geochronology, U-Pb dating, adamantine, high dispersion, double refraction]
+  prompt_fragments:
+    - "high-luster tetragonal crystal with adamantine brilliance"
+    - "double refraction visible as doubled back facets; ancient geological clock"
+  ui_color_hint: "#6096b4"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

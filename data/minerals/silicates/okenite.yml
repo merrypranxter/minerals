@@ -1,0 +1,126 @@
+id: okenite
+slug: okenite
+display_name: Okenite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: zeolite-related
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "CaSi2O4(OH)2·H2O"
+  simplified_formula: "CaSi2O5·2H2O"
+  essential_elements: [Ca, Si, O, H]
+  trace_elements_common: []
+  structural_units: sheet silicate
+  atomic_structure_notes: Triclinic sheet silicate with calcium hydroxyl bridges.
+  chemistry_notes: Often found with zeolites in basalt amygdales.
+
+crystallography:
+  crystal_system: triclinic
+  crystal_class: 1
+  space_group: P-1
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Acicular crystals forming radiating spherical clusters (puffballs).
+
+physical_properties:
+  mohs_hardness: "4.5–5"
+  specific_gravity: "2.3"
+  luster: [silky]
+  streak: white
+  transparency: [translucent]
+  cleavage: good {010}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Forms distinctive white cottony or silky spherical aggregates.
+
+appearance:
+  baseline_colors: [white, colorless, pale cream]
+  color_profiles:
+    - name: typical
+      colors: [snow-white, pale cream]
+      cause: colorless silicate composition
+      conditions: null
+      variety_name: null
+  habits: [acicular, radiating spheres, cottony puffballs]
+  textures: [silky, woolly, fibrous]
+  macro_patterns: [spherical radiating clusters, puffball aggregates]
+  common_forms: [spherical aggregates up to 2 cm]
+  visual_notes: High-frequency polar needle fuzz; sub-resolution softness intentional.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none
+  optical_notes: Simple white biaxial; beauty is entirely morphological.
+
+formation_and_occurrence:
+  genesis: hydrothermal (low-temperature zeolite facies)
+  geologic_environments: [vesicles and amygdales in basalt, trap rock]
+  host_rocks: [basalt, diabase]
+  associated_minerals: [apophyllite, stilbite, heulandite, gyrolite, calcite]
+  locality_scope: global
+  notable_localities: [Pune (Poona) India, Faroe Islands, Iceland, Scotland]
+  occurrence_notes: Classic zeolite association in Deccan Trap basalts.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: [nicknamed "cottonball" or "puffball mineral"]
+  symbolism: softness, purity
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [soft, cottony, pure-white, delicate]
+  sensory_keywords: [fuzzy, silky, cloudlike]
+  palette_keywords: [snow-white, cream, pale-gray]
+  aesthetic_roles: [textural, delicate, specimen]
+  vibe_notes: Polar needle fuzz; 10,000 line density with GPU anti-aliasing as blur.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Very delicate; do not touch needle clusters
+  care_notes: Store with tissue padding; avoid moisture
+  treatments_or_synthetics: none
+  common_confusions: [mesolite, natrolite, scolecite — all similar zeolite family]
+  market_notes: Highly prized collector specimens from India.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [mesolite, natrolite, scolecite, gyrolite]
+  related_species: [gyrolite, truscottite]
+
+app_metadata:
+  tags: [silicate, zeolite-family, acicular, white, puffball, collector]
+  search_boost_terms: [cottonball, puffball, acicular, white, needles, zeolite]
+  prompt_fragments:
+    - "snow-white cottony spheres of radiating needle crystals"
+    - "polar needle fuzz at sub-resolution density"
+  ui_color_hint: "#f5f5f0"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

@@ -1,0 +1,154 @@
+id: azurite-malachite
+slug: azurite-malachite
+display_name: Azurite-Malachite (Intergrowth)
+
+classification:
+  chemistry_class: carbonate
+  mineral_group: copper-carbonate
+  species_status: rock/gem material
+  parent_species: null
+  parent_species: null
+  related_varieties:
+    - azurite
+    - malachite
+    - azurmalachite
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Cu3(CO3)2(OH)2 (azurite) + Cu2CO3(OH)2 (malachite)"
+  simplified_formula: "Cu3(CO3)2(OH)2 + Cu2(CO3)(OH)2"
+  essential_elements: [Cu, C, O, H]
+  trace_elements_common: [Fe, Zn, Mn]
+  structural_units: copper hydroxycarbonate (two phases)
+  atomic_structure_notes: >
+    Azurite and malachite are two stable copper carbonate hydroxides. They coexist
+    because azurite slowly converts to malachite (malachite is thermodynamically more
+    stable at lower CO2 fugacity). The conversion creates pseudomorph fronts.
+  chemistry_notes: >
+    Azurite: Cu3(CO3)2(OH)2 — deep blue; converts to malachite with time/H2O.
+    The reaction-diffusion front where azurite converts to malachite is directly
+    visible as a blue-to-green gradient in specimens.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m (both)
+  space_group: P21/c (azurite), P21/a (malachite)
+  unit_cell_notes: null
+  twinning: "malachite: polysynthetic twinning (silky sheen)"
+  crystallography_notes: >
+    Azurite forms tabular crystals; malachite forms fibrous aggregates or botryoidal.
+    The azurite-to-malachite conversion creates sharp reaction fronts visible in slabs.
+
+physical_properties:
+  mohs_hardness: "3.5–4"
+  specific_gravity: "3.7–4.0"
+  luster: [waxy, vitreous, silky]
+  streak: blue (azurite) to pale green (malachite)
+  transparency: [translucent, opaque]
+  cleavage: perfect {011} (azurite), perfect {201} (malachite)
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: High density for carbonates; copper content.
+
+appearance:
+  baseline_colors: [blue, green, combined blue-green]
+  color_profiles:
+    - name: azurite
+      colors: [deep azure blue, indigo]
+      cause: Cu2+ in monoclinic carbonate
+      conditions: high CO2 fugacity preservation
+      variety_name: azurite
+    - name: malachite
+      colors: [bright green, emerald green]
+      cause: Cu2+ in monoclinic carbonate (different structure)
+      conditions: lower CO2 fugacity
+      variety_name: malachite
+    - name: intergrowth
+      colors: [vivid blue-green, turquoise patterns]
+      cause: mixed azurite/malachite reaction front
+      conditions: null
+      variety_name: azurite-malachite
+  habits: [massive, botryoidal, tabular (azurite), fibrous (malachite)]
+  textures: [waxy (malachite), vitreous (azurite), silky (fibrous malachite)]
+  macro_patterns: [blue-green swirling intergrowth; banded blue-on-green; botryoidal surfaces]
+  common_forms: [polished slabs, cabochons, rough masses]
+  visual_notes: >
+    Reaction-diffusion mineral front; Gray-Scott simulation of competing species.
+    Multi-species competition: azurite (f1/k1) vs malachite (f2/k2).
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: in fibrous malachite (silky)
+  asterism: false
+  iridescence: false
+  pleochroism: strong in azurite (blue/violet/colorless)
+  optical_notes: Strong pleochroism in azurite; silky malachite shows chatoyancy.
+
+formation_and_occurrence:
+  genesis: secondary (oxidation zone of copper deposits)
+  geologic_environments: [copper deposit oxidation zones, supergene enrichment]
+  host_rocks: [limestone, porphyry copper, gossan]
+  associated_minerals: [chrysocolla, shattuckite, tenorite, cuprite, native copper, limonite]
+  locality_scope: global
+  notable_localities: [Bisbee AZ USA, Tsumeb Namibia, Democratic Republic of Congo, Chessy France (chessite azurite)]
+  occurrence_notes: >
+    Chessy (Lyon France) gave azurite its historical name "chessylite". Bisbee Arizona
+    produced world-famous azurite crystals. Congo produces massive malachite.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: [Sagittarius, Capricorn (malachite)]
+  historical_uses: [azurite = "azure" blue pigment (medieval panel paintings); malachite = decorative stone, pigment]
+  cultural_associations: [Malachite Room in Hermitage (Russia); Egyptian Eye of Ra paint]
+  symbolism: transformation, vision (azurite), healing (malachite)
+  folklore_notes: >
+    Malachite was the most important decorative stone of tsarist Russia (Ural Mountains source).
+    Azurite was a primary blue pigment until ultramarine was available.
+
+interpretive_vibe:
+  mood_keywords: [copper-oxidation, blue-green, transformative, geological-chemistry]
+  sensory_keywords: [waxy, vivid, copper-scented]
+  palette_keywords: [azure, emerald, blue-green gradient]
+  aesthetic_roles: [decorative, transformative, vivid-color]
+  vibe_notes: Reaction-diffusion mineral front; two-species Turing instability producing bands/spots.
+
+practical_notes:
+  toxicity: copper-bearing; wash hands after handling; do not ingest
+  handling_notes: Relatively soft; avoid abrasion
+  care_notes: Avoid acids; keep away from moisture for raw specimens; polished pieces stable
+  treatments_or_synthetics: malachite may be stabilized with resin for carving
+  common_confusions: [chrysocolla (amorphous), shattuckite, turquoise (phosphate)]
+  market_notes: >
+    Deep blue azurite crystals (Bisbee, Chessy) extremely valuable. Azurite-malachite
+    slabs from Congo widely available.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [malachite (azurite → malachite conversion is common)]
+  lookalikes: [chrysocolla, shattuckite, turquoise, dioptase]
+  related_species: [azurite, malachite, aurichalcite]
+
+app_metadata:
+  tags: [carbonate, copper, blue, green, azurite, malachite, reaction-diffusion]
+  search_boost_terms: [azurite malachite, blue green copper, chessy, Bisbee blue, reaction diffusion]
+  prompt_fragments:
+    - "vivid azure blue and emerald green copper carbonates in swirling intergrowth"
+    - "reaction-diffusion mineral front; Gray-Scott multi-species competition"
+  ui_color_hint: "#1a5cb0"
+  priority_score: 0.8
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

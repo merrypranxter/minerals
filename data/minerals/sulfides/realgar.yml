@@ -1,0 +1,135 @@
+id: realgar
+slug: realgar
+display_name: Realgar
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: realgar
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "As4S4"
+  simplified_formula: "AsS"
+  essential_elements: [As, S]
+  trace_elements_common: [Sb, Ge]
+  structural_units: molecular (As4S4 cage molecules)
+  atomic_structure_notes: Cage molecules As4S4 analogous to S8; monoclinic packing.
+  chemistry_notes: >
+    Unstable in light — converts to yellow pararealgar (As4S4 isomer) and then
+    powdery arsenic trioxide (arsenolite). The photonic decay process is irreversible.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m
+  space_group: P21/n
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Short prismatic crystals; often striated parallel to c-axis.
+
+physical_properties:
+  mohs_hardness: "1.5–2"
+  specific_gravity: "3.56"
+  luster: [resinous, adamantine]
+  streak: orange-yellow
+  transparency: [transparent, translucent]
+  cleavage: good {010}
+  fracture: conchoidal
+  tenacity: sectile to brittle
+  physical_notes: >
+    Brilliant ruby-red in fresh material; converts irreversibly to orange-yellow
+    pararealgar and then to white powder in prolonged light exposure.
+
+appearance:
+  baseline_colors: [ruby red, orange-red]
+  color_profiles:
+    - name: fresh realgar
+      colors: [ruby red, deep red-orange]
+      cause: As4S4 molecular absorption
+      conditions: light-unexposed
+      variety_name: null
+    - name: photodegraded (pararealgar)
+      colors: [orange-yellow, lemon yellow]
+      cause: photochemical isomerization
+      conditions: light-exposed
+      variety_name: pararealgar
+  habits: [short prismatic, granular, massive, crusts]
+  textures: [resinous, adamantine]
+  macro_patterns: [ruby-red crystals; yellow degradation product at surface/edges]
+  common_forms: [massive, drusy, granular]
+  visual_notes: Photonic decay accumulator; irreversible spatial + temporal conversion to yellow.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: weak
+  optical_notes: Resinous to adamantine luster; biaxial negative.
+
+formation_and_occurrence:
+  genesis: hydrothermal (low-temperature), volcanic fumaroles
+  geologic_environments: [epithermal veins, fumarolic deposits, hot springs]
+  host_rocks: [limestone, shale, volcanic]
+  associated_minerals: [orpiment, stibnite, pyrite, quartz, calcite]
+  locality_scope: global
+  notable_localities: [Baia Mare Romania, Allchar Macedonia, Getchell Mine Nevada USA, Turkey]
+  occurrence_notes: Often associated with orpiment.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [pigment (ruby sulfide), fireworks, pesticide (toxic)]
+  cultural_associations: []
+  symbolism: fire, transformation, impermanence
+  folklore_notes: >
+    Chinese "chicken blood stone" (red cinnabar) sometimes confused. Medieval alchemical use.
+    The photodegradation process metaphorically represents impermanence.
+
+interpretive_vibe:
+  mood_keywords: [ruby-red, decaying, impermanent, photochemical]
+  sensory_keywords: [fiery, resinous, warm-red]
+  palette_keywords: [ruby-red, orange-yellow, decay-gradient]
+  aesthetic_roles: [dramatic, rare, photosensitive]
+  vibe_notes: Photonic decay hysteresis; spatial and temporal accumulator of light exposure.
+
+practical_notes:
+  toxicity: HIGHLY TOXIC — arsenic compound; do not handle without gloves
+  handling_notes: Wear gloves; avoid dust; wash hands thoroughly
+  care_notes: Keep in dark storage; light causes rapid degradation; do not store near food
+  treatments_or_synthetics: none
+  common_confusions: [cinnabar (mercury sulfide), crocoite (chromate), vanadinite]
+  market_notes: Display specimens must be kept in dark storage to preserve color.
+
+relationships:
+  polymorphs: [pararealgar, alacranite]
+  pseudomorphs_after: []
+  pseudomorphed_by: [pararealgar (photodecomposition), arsenolite]
+  lookalikes: [cinnabar, crocoite, vanadinite, proustite]
+  related_species: [orpiment, pararealgar]
+
+app_metadata:
+  tags: [sulfide, arsenic, ruby-red, photosensitive, toxic, impermanent]
+  search_boost_terms: [ruby sulfide, photodegradation, light-sensitive, realgar, arsenic red]
+  prompt_fragments:
+    - "ruby-red resinous crystals that irreversibly decay to yellow in light"
+    - "photonic decay accumulator; spatial + temporal conversion"
+  ui_color_hint: "#c0392b"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

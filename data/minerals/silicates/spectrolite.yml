@@ -1,0 +1,134 @@
+id: spectrolite
+slug: spectrolite
+display_name: Spectrolite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: feldspar
+  species_status: variety
+  parent_species: labradorite
+  related_varieties:
+    - labradorite
+    - rainbow-moonstone
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Ca,Na)(Al,Si)4O8"
+  simplified_formula: "Ca50-70Ab30-50 plagioclase"
+  essential_elements: [Ca, Na, Al, Si, O]
+  trace_elements_common: [K, Fe, Ti]
+  structural_units: tectosilicate (framework)
+  atomic_structure_notes: Calcium-rich plagioclase feldspar with Bøggild miscibility gap exsolution lamellae.
+  chemistry_notes: >
+    Finnish high-labrescence labradorite. Bøggild gap lamellae spacing 60–140nm
+    produces full spectral range.
+
+crystallography:
+  crystal_system: triclinic
+  crystal_class: 1-bar
+  space_group: C-1
+  unit_cell_notes: null
+  twinning: polysynthetic albite and pericline twinning
+  crystallography_notes: Polysynthetic twinning creates multiple interference plane sets.
+
+physical_properties:
+  mohs_hardness: "6–6.5"
+  specific_gravity: "2.69–2.72"
+  luster: [vitreous]
+  streak: white
+  transparency: [translucent, opaque]
+  cleavage: perfect {001}, good {010}
+  fracture: uneven to conchoidal
+  tenacity: brittle
+  physical_notes: Produces full-spectrum labrescence; stone is near-black without flash.
+
+appearance:
+  baseline_colors: [black, dark gray]
+  color_profiles:
+    - name: labrescence flash
+      colors: [violet, blue, cyan, green, yellow, orange, red]
+      cause: Bøggild gap thin-film interference across full spectrum
+      conditions: flash angle only
+      variety_name: spectrolite
+  habits: [massive, platy]
+  textures: [glassy matrix, schiller patches]
+  macro_patterns: [near-black ground with full-spectrum labrescence patches]
+  common_forms: [cabochons, slabs]
+  visual_notes: Bøggild gap produces wider spectral range than standard labradorite; full rainbow possible.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: true
+  pleochroism: none
+  optical_notes: >
+    Schiller/labrescence from Bøggild exsolution lamellae. Half-vector alignment
+    with internal flash plane produces instantaneous all-or-nothing flash.
+
+formation_and_occurrence:
+  genesis: igneous (anorthosite)
+  geologic_environments: [anorthosite massifs, Precambrian shield]
+  host_rocks: [anorthosite]
+  associated_minerals: [orthoclase, hypersthene, magnetite]
+  locality_scope: regional
+  notable_localities: [Ylämaa Finland (type locality)]
+  occurrence_notes: >
+    Spectrolite is specifically the Finnish variety from Ylämaa. "Rainbow Moonstone"
+    (actually labradorite from India/Madagascar) is a related but distinct material.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [gemstone, cabochon material]
+  cultural_associations: [Finnish national gemstone]
+  symbolism: mystery, transformation, full-spectrum vision
+  folklore_notes: Finnish stone of magic and shamanic sight.
+
+interpretive_vibe:
+  mood_keywords: [dramatic, mysterious, full-spectrum, volcanic]
+  sensory_keywords: [glassy, near-black, explosive flash]
+  palette_keywords: [black, full-rainbow, electric]
+  aesthetic_roles: [dramatic, gemstone, collector]
+  vibe_notes: Bøggild gap interference; near-black base with all-or-nothing flash.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Durable for gemstone use
+  care_notes: Avoid strong acids and steam cleaning
+  treatments_or_synthetics: none known
+  common_confusions: [standard labradorite, rainbow moonstone (Indian labradorite)]
+  market_notes: Premium price due to Finnish origin and full-spectrum display.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [labradorite, rainbow moonstone]
+  related_species: [labradorite, andesine, bytownite]
+
+app_metadata:
+  tags: [silicate, feldspar, labradorite, spectrolite, labrescence, Finnish]
+  search_boost_terms: [full spectrum, labrescence, schiller, Finnish fire, black stone flash]
+  prompt_fragments:
+    - "near-black stone with explosive full-spectrum labrescence"
+    - "Bøggild gap thin-film interference producing Finnish fire"
+  ui_color_hint: "#151520"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

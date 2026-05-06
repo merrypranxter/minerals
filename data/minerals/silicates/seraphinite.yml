@@ -1,0 +1,126 @@
+id: seraphinite
+slug: seraphinite
+display_name: Seraphinite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: chlorite
+  species_status: variety
+  parent_species: clinochlore
+  related_varieties: []
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Mg,Fe)5Al(AlSi3)O10(OH)8"
+  simplified_formula: "Mg5Al(AlSi3O10)(OH)8"
+  essential_elements: [Mg, Al, Si, O, H]
+  trace_elements_common: [Fe, Cr]
+  structural_units: phyllosilicate
+  atomic_structure_notes: Chlorite group; alternating talc-like and brucite-like layers.
+  chemistry_notes: Seraphinite is a trade name for the chatoyant green clinochlore from Siberia.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m
+  space_group: C1
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Platy to fibrous; chatoyancy from oriented fiber inclusions.
+
+physical_properties:
+  mohs_hardness: "2–2.5"
+  specific_gravity: "2.6–3.3"
+  luster: [pearly, vitreous]
+  streak: white to pale green
+  transparency: [translucent, opaque]
+  cleavage: perfect {001}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Rich deep green with silvery chatoyant feathers.
+
+appearance:
+  baseline_colors: [deep green, forest green]
+  color_profiles:
+    - name: typical seraphinite
+      colors: [dark green, silver-green feathers]
+      cause: Fe/Mg in chlorite; silver sheen from fiber inclusions
+      conditions: null
+      variety_name: seraphinite
+  habits: [massive, platy]
+  textures: [fibrous feathers, silky]
+  macro_patterns: [feathery silver chatoyant patterns on dark green ground]
+  common_forms: [massive, cabochon material]
+  visual_notes: Curl-noise chatoyancy; feathers appear to shift with viewing angle.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: true
+  asterism: false
+  iridescence: false
+  pleochroism: weak
+  optical_notes: Strong chatoyancy producing feather-like silky patterns.
+
+formation_and_occurrence:
+  genesis: metamorphic (low-grade)
+  geologic_environments: [chlorite schist zones, hydrothermal alteration]
+  host_rocks: [schist, serpentinite]
+  associated_minerals: [magnetite, serpentine, talc]
+  locality_scope: regional
+  notable_localities: [Korshunovskoye deposit, Irkutsk Oblast, Siberia Russia]
+  occurrence_notes: Almost exclusively from Siberia; trade material.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [ornamental stone, cabochon gemstone]
+  cultural_associations: [named for seraphim angels — the feathery chatoyancy suggests wings]
+  symbolism: angelic, healing
+  folklore_notes: Associated with spiritual wings and angelic realms in crystal healing.
+
+interpretive_vibe:
+  mood_keywords: [angelic, feathered, deep-green, mystical]
+  sensory_keywords: [silky, feathery, lush]
+  palette_keywords: [forest-green, silver, sage]
+  aesthetic_roles: [decorative, spiritual, high-chatoyancy]
+  vibe_notes: Curl-noise flow field; silver flash breaks into feathery plumes.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Relatively soft; avoid harsh abrasives
+  care_notes: Clean with warm water; avoid ultrasonic
+  treatments_or_synthetics: none known
+  common_confusions: [malachite (harder, banded), chrysocolla]
+  market_notes: Valued for chatoyancy; cabochons from Russia.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [malachite, nephrite jade, chrysoprase]
+  related_species: [clinochlore, chamosite, pennantite]
+
+app_metadata:
+  tags: [silicate, chlorite, chatoyant, green, Siberian]
+  search_boost_terms: [feathers, chatoyancy, green, seraphinite, angelic]
+  prompt_fragments:
+    - "dark green with silver feathery chatoyancy"
+    - "curl-noise flow field producing angelic plume patterns"
+  ui_color_hint: "#2d6b3a"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

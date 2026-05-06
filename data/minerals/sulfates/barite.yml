@@ -1,0 +1,131 @@
+id: barite
+slug: barite
+display_name: Barite
+
+classification:
+  chemistry_class: sulfate
+  mineral_group: barite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - desert-rose-barite
+    - barite-roses
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "BaSO4"
+  simplified_formula: "BaSO4"
+  essential_elements: [Ba, S, O]
+  trace_elements_common: [Sr, Pb, Ca, Ra (trace radioactive)]
+  structural_units: sulfate with large Ba coordination
+  atomic_structure_notes: Ba in 12-fold coordination with SO4; orthorhombic.
+  chemistry_notes: Very high density for a non-metallic mineral (4.5 g/cm³). Used as drilling mud.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pnma
+  unit_cell_notes: a=8.88, b=5.46, c=7.15 Å
+  twinning: contact twins
+  crystallography_notes: Tabular crystals on {001}; prismatic; rosette (petalite) habit.
+
+physical_properties:
+  mohs_hardness: "3–3.5"
+  specific_gravity: "4.5"
+  luster: [resinous, vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: perfect {001}, good {110}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Unexpectedly heavy for appearance (diagnostic). Used as weighting agent.
+
+appearance:
+  baseline_colors: [colorless, white, pale blue, pale green, yellow, brown]
+  color_profiles:
+    - name: blue barite
+      colors: [pale blue, sky blue]
+      cause: color centers or iron impurity
+      conditions: null
+      variety_name: blue barite
+    - name: barite roses
+      colors: [brown, honey-tan, red-brown]
+      cause: iron staining; sand inclusion
+      conditions: evaporite desert soils
+      variety_name: barite roses
+  habits: [tabular, prismatic, rosette (barite roses), massive]
+  textures: [vitreous to pearly]
+  macro_patterns: [flat tabular crystals, rosette clusters, crested groups]
+  common_forms: [tabular crystals, crested fans, barite roses]
+  visual_notes: Orthorhombic tabular plates with three cleavage directions; heavy density.
+
+optical_and_special_effects:
+  fluorescence: weak creamy white under UV
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none
+  optical_notes: Biaxial positive; birefringence 0.012.
+
+formation_and_occurrence:
+  genesis: hydrothermal, diagenetic, evaporitic
+  geologic_environments: [hydrothermal veins, lead-zinc ore deposits, evaporite basins, desert soils]
+  host_rocks: [limestone, shale, quartzite]
+  associated_minerals: [galena, sphalerite, calcite, fluorite, pyrite]
+  locality_scope: global
+  notable_localities: [Sweetwater Mine USA, Romania, Germany, Morocco, Oklahoma (roses)]
+  occurrence_notes: World's most important barium mineral; widely distributed.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [barium compounds (medicine, fireworks), drilling mud (oil/gas industry), paint filler]
+  cultural_associations: []
+  symbolism: grounding (heavy), invisible weight, hidden mass
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [heavy, pale-blue, tabular, grounding]
+  sensory_keywords: [unexpectedly-heavy, vitreous, pale]
+  palette_keywords: [sky-blue, white, honey-tan]
+  aesthetic_roles: [collector, industrial, ore-mineral]
+  vibe_notes: Orthorhombic plate geometry; high specific gravity density shader.
+
+practical_notes:
+  toxicity: BaSO4 is non-toxic (insoluble Ba compound); industrial uses safe
+  handling_notes: normal care; heavy for size
+  care_notes: avoid acids (dissolves slowly in strong acid)
+  treatments_or_synthetics: none
+  common_confusions: [celestite (SrSO4, lighter blue), gypsum (softer), calcite (lower density)]
+  market_notes: Common and affordable; premium for large blue or rose specimens.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [witherite (BaCO3)]
+  lookalikes: [celestite, anglesite, anhydrite]
+  related_species: [celestite, anglesite, strontianite (structural relatives)]
+
+app_metadata:
+  tags: [sulfate, barium, heavy, blue, drilling-mud, tabular]
+  search_boost_terms: [barite roses, heavy spar, blue barite, orthorhombic plates, density]
+  prompt_fragments:
+    - "pale blue to white tabular orthorhombic crystals — unexpectedly heavy for size"
+    - "heavy orthorhombic plate geometry; vitreous luster"
+  ui_color_hint: "#b0c8e0"
+  priority_score: 0.6
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

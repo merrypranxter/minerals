@@ -1,0 +1,124 @@
+id: cinnabar
+slug: cinnabar
+display_name: Cinnabar
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: cinnabar
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "HgS"
+  simplified_formula: "HgS"
+  essential_elements: [Hg, S]
+  trace_elements_common: [Se, Fe, Sb]
+  structural_units: trigonal mercury sulfide
+  atomic_structure_notes: Trigonal structure with Hg-S-Hg chains along c-axis; very high IOR (2.9–3.2).
+  chemistry_notes: Primary ore of mercury. Vermilion pigment historically.
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: 32
+  space_group: P3121
+  unit_cell_notes: a=4.15, c=9.50 Å
+  twinning: penetration twins
+  crystallography_notes: Thick tabular to rhombohedral crystals; characteristic cyclic twins.
+
+physical_properties:
+  mohs_hardness: "2–2.5"
+  specific_gravity: "8.0–8.2"
+  luster: [metallic, adamantine]
+  streak: scarlet red
+  transparency: [transparent, opaque]
+  cleavage: perfect prismatic {10-10}
+  fracture: uneven
+  tenacity: brittle to sectile
+  physical_notes: Very high density. Extreme IOR (2.9–3.2) produces brilliant fire.
+
+appearance:
+  baseline_colors: [scarlet red, vermilion, brick red]
+  color_profiles:
+    - name: typical
+      colors: [scarlet, vermilion, cochineal red]
+      cause: HgS electronic transitions
+      conditions: null
+      variety_name: null
+  habits: [thick tabular, rhombohedral, granular, massive]
+  textures: [adamantine to metallic]
+  macro_patterns: [brilliant scarlet crystals; granular red masses]
+  common_forms: [massive, granular, crystalline coatings]
+  visual_notes: Extremely high dispersion from very high IOR; scarlet color.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: strong (scarlet/orange)
+  optical_notes: Very high birefringence and IOR; strong dispersion (fire).
+
+formation_and_occurrence:
+  genesis: hydrothermal (low-temperature epithermal)
+  geologic_environments: [hot spring deposits, epithermal veins, volcanic areas]
+  host_rocks: [shale, sandstone, limestone, volcanic rock]
+  associated_minerals: [native mercury, pyrite, stibnite, quartz, calcite, gypsum]
+  locality_scope: global
+  notable_localities: [Almadén Spain, Idrija Slovenia, Huancavelica Peru, Guizhou China]
+  occurrence_notes: Almadén Spain has been mined for mercury since Roman times.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [vermilion pigment (ancient to Renaissance), mercury ore, thermometers]
+  cultural_associations: [Chinese red; imperial seals; alchemical symbol of sulfur-mercury union]
+  symbolism: fire, vitality, imperial power, alchemy
+  folklore_notes: Feng shui use for activation and luck; alchemists called it "red sulfur."
+
+interpretive_vibe:
+  mood_keywords: [scarlet, vivid, imperial, alchemical]
+  sensory_keywords: [brilliant, heavy, fiery-red]
+  palette_keywords: [vermilion, scarlet, cochineal]
+  aesthetic_roles: [vivid-color, imperial, historical-pigment]
+  vibe_notes: Extreme IOR fire; scarlet metallic lustre.
+
+practical_notes:
+  toxicity: HIGHLY TOXIC — mercury compound; do not handle without gloves; do not grind
+  handling_notes: Use gloves; wash hands; avoid dust; keep from children
+  care_notes: Do not use in jewelry that contacts skin; safe in sealed display case
+  treatments_or_synthetics: synthetic cinnabar (vermilion pigment) common
+  common_confusions: [realgar, vanadinite, crocoite, cuprite (red oxide)]
+  market_notes: High collector value for crystallized specimens; concerns about handling toxicity.
+
+relationships:
+  polymorphs: [metacinnabar (cubic)]
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [realgar, cuprite, vanadinite, crocoite]
+  related_species: [metacinnabar, hypercinnabar]
+
+app_metadata:
+  tags: [sulfide, mercury, scarlet, toxic, vermilion, historical-pigment]
+  search_boost_terms: [vermilion, scarlet, mercury ore, cinnabar, high dispersion]
+  prompt_fragments:
+    - "brilliant scarlet-vermilion crystals with extreme adamantine luster"
+    - "very high IOR dispersion; alchemical scarlet sulfide"
+  ui_color_hint: "#dc143c"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

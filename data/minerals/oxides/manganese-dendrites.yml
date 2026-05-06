@@ -1,0 +1,137 @@
+id: manganese-dendrites
+slug: manganese-dendrites
+display_name: Manganese Dendrites
+
+classification:
+  chemistry_class: oxide
+  mineral_group: pyrolusite
+  species_status: variety
+  parent_species: pyrolusite
+  related_varieties:
+    - romanechite-dendrites
+    - hollandite-dendrites
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "MnO2 (approximate)"
+  simplified_formula: "MnO2"
+  essential_elements: [Mn, O]
+  trace_elements_common: [Fe, Ba, Ca, K]
+  structural_units: manganese oxide dendrites
+  atomic_structure_notes: >
+    Fractal dendritic growths of manganese (hydr)oxide minerals (pyrolusite, romanechite,
+    hollandite, vernadite) along crystal cleavage planes or on limestone surfaces.
+    Growth by diffusion-limited aggregation (DLA).
+  chemistry_notes: >
+    Not a true "fossil" — purely mineral dendrites mistaken for plant fossils (Miocene
+    ferns preserved in limestone, etc.). The branch-point fractal dimension ≈ 1.7.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: varies
+  space_group: varies
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: >
+    Dendrites form along cleavage planes; individual crystals are nanometric.
+    Morphology controlled by DLA/capillary fractal growth, not crystal symmetry.
+
+physical_properties:
+  mohs_hardness: "1–6 (varies by exact phase)"
+  specific_gravity: "4.0–5.0"
+  luster: [metallic]
+  streak: black
+  transparency: [opaque]
+  cleavage: varies
+  fracture: irregular
+  tenacity: brittle
+  physical_notes: Flat 2D dendritic patterns; the host limestone often transparent/translucent.
+
+appearance:
+  baseline_colors: [black, dark brown, dark gray]
+  color_profiles:
+    - name: typical
+      colors: [black, dark metallic black]
+      cause: manganese oxide electronic structure
+      conditions: null
+      variety_name: null
+  habits: [dendritic, arborescent, fractal branching]
+  textures: [flat, matte to metallic]
+  macro_patterns: [fractal tree-like branching patterns on pale limestone or agate matrix]
+  common_forms: [2D dendrites on slab surfaces]
+  visual_notes: >
+    Ridge noise DLA; fractal dimension ~1.7. Branching prevents DLA shielding from interior.
+    Often on white limestone matrix (high contrast).
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: null (opaque)
+  optical_notes: Black opaque dendrites on pale translucent host.
+
+formation_and_occurrence:
+  genesis: diagenetic (groundwater transport and precipitation)
+  geologic_environments: [limestone, agate, quartzite — along fracture planes]
+  host_rocks: [limestone, agate, marble, quartzite]
+  associated_minerals: [calcite, chalcedony, quartz]
+  locality_scope: global
+  notable_localities: [Solnhofen Germany, Entlebuch Switzerland, Morocco, various worldwide]
+  occurrence_notes: >
+    "Dendritic limestone" or "landscape marble" is a traditional decorative stone.
+    Mistaken for plant fossils since medieval times.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [decorative stone (landscape marble), inlay work, tiles]
+  cultural_associations: [confused with plant fossils; "landscape stones" in Chinese garden culture]
+  symbolism: nature within stone, hidden landscapes
+  folklore_notes: Called "Mocha stone" when in chalcedony host.
+
+interpretive_vibe:
+  mood_keywords: [fractal, arborescent, natural-math, black-on-white]
+  sensory_keywords: [flat, delicate, branching]
+  palette_keywords: [black-on-white, fractal-black, limestone-beige]
+  aesthetic_roles: [decorative, geological-curiosity, fractal-art]
+  vibe_notes: Ridge noise DLA; animated growth with growth_limit smoothstep.
+
+practical_notes:
+  toxicity: manganese dust can be harmful; normal handling of slabs is safe
+  handling_notes: Protect dendrite surfaces; do not abrade
+  care_notes: avoid acids (attack limestone host)
+  treatments_or_synthetics: none
+  common_confusions: [actual plant fossils, fern fossils, moss agate (similar appearance)]
+  market_notes: Slab specimens with complex dendrites sold as art pieces.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [moss agate (3D dendritic inclusions in chalcedony), plant fossils, fern fossils]
+  related_species: [pyrolusite, romanechite, hollandite, vernadite]
+
+app_metadata:
+  tags: [oxide, manganese, dendritic, fractal, DLA, landscape-marble]
+  search_boost_terms: [dendrite, fractal tree, landscape stone, Mocha stone, DLA, manganese]
+  prompt_fragments:
+    - "black fractal dendritic manganese oxide on pale limestone or agate"
+    - "ridge noise DLA growth; diffusion-limited aggregation"
+  ui_color_hint: "#1a1a1a"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

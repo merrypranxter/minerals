@@ -1,0 +1,133 @@
+id: lonsdaleite
+slug: lonsdaleite
+display_name: Lonsdaleite
+
+classification:
+  chemistry_class: native-element
+  mineral_group: carbon
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "C"
+  simplified_formula: "C"
+  essential_elements: [C]
+  trace_elements_common: [N, H]
+  structural_units: hexagonal diamond lattice
+  atomic_structure_notes: >
+    Hexagonal carbon polymorph; each carbon tetrahedral but stacking sequence is
+    ABABAB (wurtzite-type) rather than ABCABC (diamond cubic). All bonds equivalent
+    to diamond but with different stacking. Potentially harder than cubic diamond.
+  chemistry_notes: Shock-metamorphism product of graphite under meteorite impact conditions.
+
+crystallography:
+  crystal_system: hexagonal
+  crystal_class: 6/m 2/m 2/m
+  space_group: P63/mmc
+  unit_cell_notes: a=2.52, c=4.12 Å
+  twinning: twinning on hexagonal planes
+  crystallography_notes: >
+    Hexagonal diamond; {0001} planes are the critical shock lamellae. Found in nm to μm
+    grains in meteorite impact structures.
+
+physical_properties:
+  mohs_hardness: "~10 (theoretical) — actual samples contain defects"
+  specific_gravity: "3.51 (similar to cubic diamond)"
+  luster: [adamantine]
+  streak: colorless
+  transparency: [transparent]
+  cleavage: perfect {0001}
+  fracture: conchoidal (theoretical)
+  tenacity: brittle
+  physical_notes: >
+    Only found in microscopic grains within meteorite impact structures and some meteorites.
+    Theoretical hardness may exceed cubic diamond.
+
+appearance:
+  baseline_colors: [colorless, pale yellow, gray (in impact melt)]
+  color_profiles:
+    - name: theoretical gem
+      colors: [colorless, pale yellow]
+      cause: pure carbon
+      conditions: macrocrystalline (not yet synthesized at gem scale)
+      variety_name: null
+  habits: [microscopic grains, shock lamellae]
+  textures: [adamantine (theoretical), glassy in impact melt]
+  macro_patterns: [shock lamellae in impactite; part of suevite breccia]
+  common_forms: [submicron grains in meteorite impact rocks]
+  visual_notes: >
+    Hexagonal prism SDF; shock lamellae as parallel sinusoidal planes.
+    N=512 specular for theoretical impossible hardness. Impact flash.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none (cubic equivalent properties)
+  optical_notes: Diamond-equivalent optical properties (theoretical).
+
+formation_and_occurrence:
+  genesis: shock metamorphism (meteorite impact)
+  geologic_environments: [meteorite impact craters, impactites]
+  host_rocks: [suevite, impact melt rock, iron meteorite (Canyon Diablo)]
+  associated_minerals: [cubic diamond, graphite, coesite, stishovite, iron-nickel]
+  locality_scope: regional
+  notable_localities: [Canyon Diablo Meteor Crater Arizona USA, Barringer Crater, Popigai Russia]
+  occurrence_notes: Only identified in meteorite impact settings; formed in microseconds.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: [rarest mineral; deepest impact; cosmic collision]
+  symbolism: ultimate transformation under pressure, cosmic violence
+  folklore_notes: Named for Dame Kathleen Lonsdale, crystallographer.
+
+interpretive_vibe:
+  mood_keywords: [cosmic, extreme, impact, impossibly-hard, hexagonal]
+  sensory_keywords: [crystalline, extraterrestrial, adamantine]
+  palette_keywords: [stardust-gold, impact-flash, hex-crystal]
+  aesthetic_roles: [scientific-curiosity, cosmic, extreme-rarity]
+  vibe_notes: Hexagonal prism SDF with shock lamellae; impact flash; N=512 specular.
+
+practical_notes:
+  toxicity: non-toxic (carbon)
+  handling_notes: Only found in rock matrix; no free specimens available
+  care_notes: null
+  treatments_or_synthetics: synthetic lonsdaleite produced in lab at nm scale
+  common_confusions: [cubic diamond, graphite, coesite]
+  market_notes: No specimen market; scientific research material only.
+
+relationships:
+  polymorphs: [diamond (cubic), graphite, fullerene, graphene, carbyne]
+  pseudomorphs_after: [graphite]
+  pseudomorphed_by: []
+  lookalikes: [diamond (cubic)]
+  related_species: [diamond, graphite, chaoite]
+
+app_metadata:
+  tags: [native-element, carbon, hexagonal, impact, lonsdaleite, cosmic]
+  search_boost_terms: [hexagonal diamond, impact diamond, lonsdaleite, shock metamorphism, hardest]
+  prompt_fragments:
+    - "hexagonal diamond prism geometry with shock lamellae"
+    - "cosmic impact transformation; N=512 specular for theoretical impossible hardness"
+  ui_color_hint: "#e8e8ff"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

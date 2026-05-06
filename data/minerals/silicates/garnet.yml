@@ -1,0 +1,154 @@
+id: garnet
+slug: garnet
+display_name: Garnet
+
+classification:
+  chemistry_class: silicate
+  mineral_group: garnet
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - almandine
+    - pyrope
+    - spessartine
+    - grossular
+    - andradite
+    - uvarovite
+    - tsavorite
+    - demantoid
+    - hessonite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "X3Y2(SiO4)3"
+  simplified_formula: "X3Y2Si3O12"
+  essential_elements: [Si, O]
+  trace_elements_common: [Fe, Mg, Mn, Ca, Al, Cr, Ti]
+  structural_units: nesosilicate (isolated SiO4 tetrahedra)
+  atomic_structure_notes: >
+    Cubic structure with X in dodecahedral and Y in octahedral coordination.
+    Wide solid-solution series: pyralspite (Py-Al-Sp) and ugrandite (Uv-Gr-An).
+  chemistry_notes: >
+    X = Ca, Mg, Fe2+, Mn; Y = Al, Fe3+, Cr, Ti. Almandine (Fe3Al2Si3O12)
+    is most common; demantoid (andradite) has highest dispersion.
+
+crystallography:
+  crystal_system: isometric
+  crystal_class: 4/m 3-bar 2/m
+  space_group: Ia3d
+  unit_cell_notes: null
+  twinning: lamellar (rare)
+  crystallography_notes: Characteristically forms dodecahedra and trapezohedra; no cleavage.
+
+physical_properties:
+  mohs_hardness: "6.5–7.5"
+  specific_gravity: "3.5–4.3"
+  luster: [resinous, vitreous]
+  streak: white
+  transparency: [transparent, opaque]
+  cleavage: none to indistinct
+  fracture: conchoidal to uneven
+  tenacity: brittle
+  physical_notes: High hardness and lack of cleavage make it a good abrasive and gemstone.
+
+appearance:
+  baseline_colors: [red, orange, yellow, green, purple, colorless, black]
+  color_profiles:
+    - name: almandine
+      colors: [deep red, reddish-brown]
+      cause: Fe2+
+      conditions: null
+      variety_name: almandine
+    - name: tsavorite
+      colors: [vivid green]
+      cause: Cr3+ or V3+ in grossular
+      conditions: null
+      variety_name: tsavorite
+    - name: demantoid
+      colors: [vivid green]
+      cause: Cr3+ in andradite
+      conditions: null
+      variety_name: demantoid
+    - name: spessartine
+      colors: [orange, orange-red]
+      cause: Mn2+
+      conditions: null
+      variety_name: spessartine
+  habits: [dodecahedral, trapezohedal, rhombic dodecahedra]
+  textures: [glassy, vitreous]
+  macro_patterns: [euhedral crystals in schist or alluvial]
+  common_forms: [12-faced dodecahedra, 24-faced trapezohedra]
+  visual_notes: High-symmetry cubic crystals; demantoid has horsetail fiber inclusions.
+
+optical_and_special_effects:
+  fluorescence: varies by species
+  phosphorescence: null
+  chatoyancy: possible in some varieties
+  asterism: possible (4-rayed star in some almandine)
+  iridescence: false
+  pleochroism: none (cubic, isotropic)
+  optical_notes: Demantoid has dispersion exceeding diamond; horsetail inclusions diagnostic.
+
+formation_and_occurrence:
+  genesis: metamorphic, igneous (kimberlites), hydrothermal
+  geologic_environments: [metamorphic rocks, granites, pegmatites, alluvial]
+  host_rocks: [schist, gneiss, eclogite, peridotite]
+  associated_minerals: [mica, quartz, feldspar, staurolite, kyanite]
+  locality_scope: global
+  notable_localities: [India, Brazil, Tanzania, Madagascar, Namibia, Russia]
+  occurrence_notes: One of the most common mineral groups; gemstone quality rare.
+
+cultural_and_historical:
+  birthstone_status: January birthstone
+  zodiac_associations: [Aquarius, Capricorn]
+  historical_uses: [gemstone, abrasive (garnet paper), jewelry since antiquity]
+  cultural_associations: [constancy, truth, warrior energy]
+  symbolism: love, constancy, protection
+  folklore_notes: Medieval knights wore garnet for protection in battle.
+
+interpretive_vibe:
+  mood_keywords: [deep-red, earthy, ancient, crystalline]
+  sensory_keywords: [warm, glassy, substantial]
+  palette_keywords: [garnet-red, deep-burgundy, orange-spessartine]
+  aesthetic_roles: [gemstone, classic, rich-color]
+  vibe_notes: Dodecahedral symmetry; high-exponent specular from glassy facets.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: hard durable stone; good for jewelry
+  care_notes: avoid steam cleaning for included varieties; otherwise durable
+  treatments_or_synthetics: not commonly treated; synthetic garnets (YAG) for laser use
+  common_confusions: [ruby (almandine), spinel (pyrope)]
+  market_notes: Demantoid from Russia; tsavorite from East Africa are premium.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [chlorite, epidote, serpentine]
+  lookalikes: [ruby, spinel, zircon]
+  related_species: [almandine, pyrope, spessartine, grossular, andradite, uvarovite]
+
+app_metadata:
+  tags: [silicate, garnet, nesosilicate, cubic, gemstone, dodecahedron]
+  search_boost_terms: [garnet, dodecahedron, red, gemstone, January birthstone]
+  prompt_fragments:
+    - "deep red dodecahedral garnet crystals in schist"
+    - "high-symmetry cubic geometry with vitreous glassy luster"
+  ui_color_hint: "#8b1a1a"
+  priority_score: 0.8
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

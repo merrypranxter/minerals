@@ -1,0 +1,126 @@
+id: shattuckite
+slug: shattuckite
+display_name: Shattuckite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: pyroxenoid
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Cu5(SiO3)4(OH)2"
+  simplified_formula: "Cu5Si4O14H2"
+  essential_elements: [Cu, Si, O, H]
+  trace_elements_common: [Ca, Fe]
+  structural_units: chain silicate
+  atomic_structure_notes: Pyroxene-related chain silicate; copper gives vivid blue.
+  chemistry_notes: Secondary copper silicate. Often intergrown with malachite, chrysocolla, or plancheite.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pcab
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Fibrous radial aggregates; acicular crystals.
+
+physical_properties:
+  mohs_hardness: "3.5"
+  specific_gravity: "4.1"
+  luster: [silky]
+  streak: blue
+  transparency: [translucent, opaque]
+  cleavage: perfect {010}, {100}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Dense for a silicate due to copper content.
+
+appearance:
+  baseline_colors: [vivid blue, cerulean, sky blue]
+  color_profiles:
+    - name: typical
+      colors: [sky blue, cerulean, robin-egg blue]
+      cause: Cu2+ in chain silicate
+      conditions: null
+      variety_name: null
+  habits: [fibrous, radial, massive]
+  textures: [silky, satiny]
+  macro_patterns: [radiating fiber bursts, massive blue]
+  common_forms: [massive, fibrous aggregates]
+  visual_notes: Radial fiber burst chatoyancy; vivid saturated blue.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: true
+  asterism: false
+  iridescence: false
+  pleochroism: weak to moderate
+  optical_notes: Chatoyancy from fibrous habit.
+
+formation_and_occurrence:
+  genesis: secondary (oxidation zone of copper deposits)
+  geologic_environments: [copper deposit oxidation zones]
+  host_rocks: [malachite, chrysocolla, limonite]
+  associated_minerals: [chrysocolla, malachite, azurite, plancheite, tenorite]
+  locality_scope: global
+  notable_localities: [Bisbee AZ USA (type), Democratic Republic of Congo, Namibia]
+  occurrence_notes: Type locality is Shattuck Mine, Bisbee, Arizona.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: []
+  symbolism: clarity, sky, copper energy
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [electric-blue, vivid, saturated, copper]
+  sensory_keywords: [silky, radiant]
+  palette_keywords: [sky-blue, cerulean, copper-teal]
+  aesthetic_roles: [accent, vivid, collector]
+  vibe_notes: Radial fiber burst chatoyancy with over-saturated blue.
+
+practical_notes:
+  toxicity: copper-bearing; avoid ingestion; wash hands after handling
+  handling_notes: relatively fragile
+  care_notes: avoid acids and moisture
+  treatments_or_synthetics: none
+  common_confusions: [chrysocolla, azurite, plancheite]
+  market_notes: High collector value; Bisbee specimens premium.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [chrysocolla, azurite, plancheite]
+  related_species: [plancheite, dioptase, chrysocolla]
+
+app_metadata:
+  tags: [silicate, copper, blue, fibrous, chatoyant, secondary]
+  search_boost_terms: [shattuckite, blue copper silicate, radial fibers, chatoyancy]
+  prompt_fragments:
+    - "vivid sky-blue radial fiber burst with silky chatoyancy"
+    - "over-saturated electric blue copper silicate"
+  ui_color_hint: "#1a7ab5"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

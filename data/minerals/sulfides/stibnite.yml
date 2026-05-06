@@ -1,0 +1,124 @@
+id: stibnite
+slug: stibnite
+display_name: Stibnite
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: stibnite
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Sb2S3"
+  simplified_formula: "Sb2S3"
+  essential_elements: [Sb, S]
+  trace_elements_common: [As, Pb, Fe]
+  structural_units: chain sulfide
+  atomic_structure_notes: Orthorhombic chain structure of (Sb4S6)n zigzag ribbons.
+  chemistry_notes: Primary ore of antimony.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pbnm
+  unit_cell_notes: null
+  twinning: common on {130}
+  crystallography_notes: Long, sword-like acicular crystals with curved habit and metallic luster.
+
+physical_properties:
+  mohs_hardness: "2"
+  specific_gravity: "4.63"
+  luster: [splendent, metallic]
+  streak: lead-gray
+  transparency: [opaque]
+  cleavage: perfect {010}
+  fracture: subconchoidal
+  tenacity: brittle to sectile
+  physical_notes: Extremely long lanceolate crystals; surface striations diagnostic.
+
+appearance:
+  baseline_colors: [lead-gray, silver-gray, black]
+  color_profiles:
+    - name: typical
+      colors: [lead-gray, blue-gray, iridescent]
+      cause: metallic luster + thin tarnish film
+      conditions: null
+      variety_name: null
+  habits: [acicular, bladed, radiating, massive]
+  textures: [metallic, striated]
+  macro_patterns: [long lance-like crystals with surface striations; often radiating clusters]
+  common_forms: [long bladed crystals, clusters]
+  visual_notes: sdNeedle SDF; Kajiya-Kay anisotropy along needle axis; surface striations.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: weak iridescent tarnish
+  pleochroism: null (opaque)
+  optical_notes: Metallic reflectance; tarnish iridescence on old surfaces.
+
+formation_and_occurrence:
+  genesis: hydrothermal (low temperature)
+  geologic_environments: [epithermal veins, hot springs]
+  host_rocks: [quartz veins, carbonate rocks]
+  associated_minerals: [quartz, pyrite, arsenopyrite, cinnabar, gold]
+  locality_scope: global
+  notable_localities: [Ichinokawa Japan, Baia Sprie Romania, China, Bolivia]
+  occurrence_notes: Japanese specimens from Ichinokawa are world-famous.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [cosmetics (kohl), antimony metal ore, medicine (dubious)]
+  cultural_associations: [Egyptian kohl eye makeup]
+  symbolism: warrior clarity, metallic precision
+  folklore_notes: Powdered stibnite (kohl) used since antiquity for eye makeup.
+
+interpretive_vibe:
+  mood_keywords: [metallic, sword-like, dramatic, gothic-gray]
+  sensory_keywords: [heavy, cold, sharp]
+  palette_keywords: [lead-gray, silver, blue-steel]
+  aesthetic_roles: [dramatic, metallic, collector]
+  vibe_notes: Acicular lance SDF; high-aspect anisotropic metallic with surface striations.
+
+practical_notes:
+  toxicity: antimony-bearing; wash hands after handling; dust hazardous
+  handling_notes: Very soft and brittle; handle specimens carefully
+  care_notes: Avoid moisture and acids; dust hazardous
+  treatments_or_synthetics: none
+  common_confusions: [arsenopyrite, galena, molybdenite]
+  market_notes: Japanese and Romanian fine crystal specimens command high prices.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [cervantite (oxide), valentinite]
+  lookalikes: [arsenopyrite, jamesonite, bismuthinite]
+  related_species: [bismuthinite, guanajuatite]
+
+app_metadata:
+  tags: [sulfide, antimony, acicular, metallic, collector]
+  search_boost_terms: [sword crystal, lance, stibnite, metallic needle, acicular]
+  prompt_fragments:
+    - "long lance-like lead-gray metallic crystals with surface striations"
+    - "sdNeedle SDF with high-aspect anisotropic metallic luster"
+  ui_color_hint: "#5a5a6a"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

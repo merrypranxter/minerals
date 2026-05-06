@@ -1,0 +1,142 @@
+id: rutilated-quartz
+slug: rutilated-quartz
+display_name: Rutilated Quartz
+
+classification:
+  chemistry_class: silicate
+  mineral_group: quartz
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - tourmalinated-quartz
+    - sagenitic-quartz
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (host) + TiO2 (inclusions)"
+  simplified_formula: "SiO2 with rutile TiO2"
+  essential_elements: [Si, O, Ti]
+  trace_elements_common: [Fe, Nb]
+  structural_units: tectosilicate (quartz framework) + oxide inclusions
+  atomic_structure_notes: Quartz host with acicular rutile inclusions oriented along crystallographic directions.
+  chemistry_notes: >
+    Rutile needles (TiO2) grow within the quartz during or after crystallization,
+    oriented along quartz prism or rhombohedron faces. Fe-staining gives gold, red, or silver colors.
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: 32
+  space_group: P3221
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Rutile needles often oriented along c-axis or a-axis of quartz; sagenite fans at specific angles.
+
+physical_properties:
+  mohs_hardness: "7"
+  specific_gravity: "2.65"
+  luster: [vitreous]
+  streak: white
+  transparency: [transparent, translucent]
+  cleavage: none
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: IOR of quartz ~1.544 causes refraction of needles visible from different angles.
+
+appearance:
+  baseline_colors: [clear, smoky, colorless]
+  color_profiles:
+    - name: gold rutile
+      colors: [gold, honey-gold, amber]
+      cause: iron-stained rutile
+      conditions: null
+      variety_name: "Venus hair stone"
+    - name: red rutile
+      colors: [copper-red, reddish-brown]
+      cause: high-Fe rutile
+      conditions: null
+      variety_name: null
+    - name: silver rutile
+      colors: [silver, titanium-white]
+      cause: stoichiometric TiO2 rutile
+      conditions: null
+      variety_name: null
+  habits: [prismatic crystals, massive]
+  textures: [glassy, with internal needle inclusions]
+  macro_patterns: [gold/silver needles in clear/smoky quartz]
+  common_forms: [cabochons, spheres, rough]
+  visual_notes: Nested volumetric parallax; needles appear at different depths. Snell's law refraction shifts needle apparent position.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: possible (in needle-dense material)
+  asterism: possible (asteriated rutilated quartz)
+  iridescence: false
+  pleochroism: none in quartz; rutile moderately pleochroic
+  optical_notes: >
+    Internal parallax from needle inclusions at different depths. Refraction at
+    quartz surface shifts apparent needle positions with viewing angle.
+
+formation_and_occurrence:
+  genesis: hydrothermal; metamorphic
+  geologic_environments: [quartz veins, pegmatites, metamorphic rocks]
+  host_rocks: [quartz veins, quartzite, pegmatite]
+  associated_minerals: [smoky quartz, amethyst, hematite, tourmaline]
+  locality_scope: global
+  notable_localities: [Minas Gerais Brazil, Madagascar, Pakistan, Norway]
+  occurrence_notes: Brazil is the primary commercial source.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [gemstone, talisman]
+  cultural_associations: [called "Venus hair stone" or "Cupid's darts" for gold-needle variety]
+  symbolism: illumination, energy transmission, spiritual antenna
+  folklore_notes: Said to amplify intentions and energy.
+
+interpretive_vibe:
+  mood_keywords: [crystalline, golden, inclusion, depth]
+  sensory_keywords: [glassy, transparent, fine-needle]
+  palette_keywords: [gold-on-clear, silver-on-clear, honey]
+  aesthetic_roles: [gemstone, decorative, specimen]
+  vibe_notes: Nested volumetric parallax; dual-pass shell + inclusion raymarching.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: durable gemstone
+  care_notes: Avoid strong thermal shock
+  treatments_or_synthetics: none common; synthetic rutile/quartz combinations exist
+  common_confusions: [tourmalinated quartz, sagenitic quartz with other inclusion minerals]
+  market_notes: Gold-rutile Brazilian material commands premium prices.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [tourmalinated quartz, sagenitic quartz with tourmaline or actinolite]
+  related_species: [quartz, rutile]
+
+app_metadata:
+  tags: [silicate, quartz, rutile, inclusions, gold-needles, Venus-hair]
+  search_boost_terms: [rutile, gold needles, Venus hair, inclusion, parallel refraction]
+  prompt_fragments:
+    - "clear quartz with golden rutile needle inclusions at multiple depths"
+    - "internal parallax with Snell's law refraction"
+  ui_color_hint: "#c9a227"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

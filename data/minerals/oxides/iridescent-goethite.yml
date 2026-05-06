@@ -1,0 +1,128 @@
+id: iridescent-goethite
+slug: iridescent-goethite
+display_name: Iridescent Goethite (Turgite)
+
+classification:
+  chemistry_class: oxide
+  mineral_group: goethite
+  species_status: variety
+  parent_species: goethite
+  related_varieties:
+    - turgite
+    - rainbow-hematite
+
+identifiers:
+  ima_status: not_ima
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "FeO(OH)"
+  simplified_formula: "FeO(OH)"
+  essential_elements: [Fe, O, H]
+  trace_elements_common: [Mn, Si, Al]
+  structural_units: oxyhydroxide
+  atomic_structure_notes: Goethite with thin oxide surface layer (~50-200nm) producing thin-film interference.
+  chemistry_notes: Iridescence from Fe2O3/Fe3O4 thin film on goethite surface; Turgite = mixture of goethite + hematite.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pbnm
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Typically botryoidal or stalactitic; rarely crystalline.
+
+physical_properties:
+  mohs_hardness: "5–5.5"
+  specific_gravity: "3.3–4.3"
+  luster: [metallic]
+  streak: yellow-brown to reddish-brown
+  transparency: [opaque]
+  cleavage: perfect {010}
+  fracture: uneven
+  tenacity: brittle
+  physical_notes: Botryoidal surface with oil-slick iridescence.
+
+appearance:
+  baseline_colors: [dark brown, yellow-brown, black]
+  color_profiles:
+    - name: iridescent surface
+      colors: [gold, copper, purple, blue, green rainbow]
+      cause: thin iron oxide film interference (oil-slick)
+      conditions: fresh surface at correct angle
+      variety_name: iridescent goethite
+  habits: [botryoidal, stalactitic, massive, reniform]
+  textures: [metallic, iridescent, botryoidal smooth]
+  macro_patterns: [botryoidal bubbling surface with oil-slick rainbow iridescence]
+  common_forms: [botryoidal masses, stalactites]
+  visual_notes: >
+    Smooth-min sphere packing for botryoidal habit. Curvature-dependent thin-film
+    interference produces oil-slick rainbow across bubbling surface.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: true
+  pleochroism: null (opaque)
+  optical_notes: Fabry-Pérot thin-film interference. Curvature of botryoids drives oxide layer thickness variation.
+
+formation_and_occurrence:
+  genesis: secondary (weathering of iron-bearing minerals)
+  geologic_environments: [weathering zones of iron ore deposits, gossans, laterites]
+  host_rocks: [iron ore, gossan]
+  associated_minerals: [hematite, limonite, pyrite (unweathered), siderite]
+  locality_scope: global
+  notable_localities: [Minas Gerais Brazil, Morocco, Namibia]
+  occurrence_notes: Widespread weathering product of iron sulfides and carbonates.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [iron ore, ochre pigment (yellow goethite)]
+  cultural_associations: []
+  symbolism: transformation through oxidation, surface iridescence
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [metallic-rainbow, oxidation, rust-prismatic, earthy-iridescent]
+  sensory_keywords: [metallic, smooth-bubbled, oily-sheen]
+  palette_keywords: [bronze, copper, rainbow-oxide, rust-gold]
+  aesthetic_roles: [iridescent, metallic, geological]
+  vibe_notes: Curvature-dependent interference; SDF Hessian maps to oxide layer thickness.
+
+practical_notes:
+  toxicity: non-toxic in normal handling
+  handling_notes: Delicate surface iridescence; avoid abrasion
+  care_notes: Keep dry; clean with soft brush only
+  treatments_or_synthetics: none
+  common_confusions: [peacock ore (bornite/chalcopyrite), tarnished chalcopyrite, rainbow hematite]
+  market_notes: Collector value for iridescent specimens.
+
+relationships:
+  polymorphs: [lepidocrocite, akaganeite, feroxyhyte]
+  pseudomorphs_after: [pyrite, siderite]
+  pseudomorphed_by: [hematite]
+  lookalikes: [rainbow hematite, turgite, bornite peacock ore]
+  related_species: [goethite, hematite, lepidocrocite]
+
+app_metadata:
+  tags: [oxide, goethite, iridescent, botryoidal, thin-film, weathering]
+  search_boost_terms: [oil slick, rainbow goethite, iridescent iron, botryoidal, turgite]
+  prompt_fragments:
+    - "botryoidal iron oxide with oil-slick rainbow iridescence across bubbling surface"
+    - "curvature-dependent thin-film interference; smooth-min sphere packing"
+  ui_color_hint: "#8b4513"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

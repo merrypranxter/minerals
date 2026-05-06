@@ -1,0 +1,143 @@
+id: vivianite
+slug: vivianite
+display_name: Vivianite
+
+classification:
+  chemistry_class: phosphate
+  mineral_group: vivianite
+  species_status: species
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Fe3(PO4)2·8H2O"
+  simplified_formula: "Fe3(PO4)2·8H2O"
+  essential_elements: [Fe, P, O, H]
+  trace_elements_common: [Mn, Mg, Zn, Ca]
+  structural_units: phosphate with Fe-O-Fe chains
+  atomic_structure_notes: >
+    Monoclinic structure with layers of Fe(II) octahedra and phosphate tetrahedra,
+    linked by hydrogen bonding through water molecules. Oxidation of Fe2+ to Fe3+
+    causes color change from colorless to deep blue-green.
+  chemistry_notes: >
+    Fresh vivianite is colorless or white; rapidly oxidizes to deep blue-green
+    when exposed to light and air (Fe2+ → Fe3+). The color intensifies over time
+    irreversibly — temporal oxidation buffers.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m
+  space_group: C2/m
+  unit_cell_notes: null
+  twinning: contact twins on {001}
+  crystallography_notes: Bladed to prismatic crystals; commonly forms fan-shaped or stellate groups.
+
+physical_properties:
+  mohs_hardness: "1.5–2"
+  specific_gravity: "2.6–2.7"
+  luster: [pearly, vitreous]
+  streak: colorless to bluish-white
+  transparency: [transparent, translucent]
+  cleavage: perfect {010}
+  fracture: uneven
+  tenacity: flexible (thin sections); brittle
+  physical_notes: >
+    Perfect {010} cleavage; very soft. Color deepens irreversibly with light exposure.
+    Fresh material colorless; museum specimens almost always deep blue-green.
+
+appearance:
+  baseline_colors: [colorless, white (fresh), deep blue, blue-green, indigo (oxidized)]
+  color_profiles:
+    - name: fresh (reduced)
+      colors: [colorless, pale blue-white]
+      cause: Fe2+ — minimal absorption
+      conditions: freshly exposed (excavated)
+      variety_name: null
+    - name: oxidized
+      colors: [deep blue, indigo-blue, blue-green]
+      cause: Fe3+/Fe2+ mixed valence charge transfer
+      conditions: air and light exposure
+      variety_name: null
+  habits: [bladed, prismatic, stellate, earthy massive]
+  textures: [vitreous to pearly, silky (earthy)]
+  macro_patterns: [fan or stellate blade groups; deep blue oxidation halo at surface]
+  common_forms: [bladed crystals, nodular masses, earthy]
+  visual_notes: >
+    Temporal oxidation buffer — color deepens from colorless → blue → indigo over time.
+    Irreversible accumulation. Feedback buffer for temporal color shift.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: strong (colorless/blue/yellow-green in different directions when oxidized)
+  optical_notes: Strong pleochroism; biaxial negative.
+
+formation_and_occurrence:
+  genesis: secondary (weathering of iron phosphate minerals; reducing sediments)
+  geologic_environments: [clay sediments, peat bogs, lake sediments, bog iron deposits, pegmatites]
+  host_rocks: [clay, sediment, pegmatite]
+  associated_minerals: [pyrite, siderite, iron oxides, apatite]
+  locality_scope: global
+  notable_localities: [Cameroon (large crystals), Clinton TN USA, Kerch Crimea, Germany]
+  occurrence_notes: >
+    Large crystals from Cameroon; also found in ancient bog bodies (blue organic phosphate).
+    The "blue" color of some archaeological iron artifacts is vivianite.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [artists' pigment (Prussian blue substitute)]
+  cultural_associations: [found coating bones in bog bodies; archealogical iron artifacts]
+  symbolism: deep time, oxidative transformation, hidden beauty revealed
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [deep-blue, oxidizing, temporal, mysterious, paleo]
+  sensory_keywords: [blue-indigo, bladed, slowly-deepening]
+  palette_keywords: [deep-blue, indigo, oxidation-blue]
+  aesthetic_roles: [specimen, temporal-effect, rare-blue]
+  vibe_notes: Temporal oxidation buffer; feedback buffer drives irreversible blue deepening.
+
+practical_notes:
+  toxicity: non-toxic in normal handling
+  handling_notes: very soft; avoid abrasion; keep away from prolonged light if preserving colorless state
+  care_notes: >
+    Color deepens irreversibly in light/air — embrace it or store in dark nitrogen if 
+    preserving original colorless state.
+  treatments_or_synthetics: none
+  common_confusions: [lazurite/lapis lazuli, azurite, shattuckite, cavansite]
+  market_notes: Large bladed specimens from Cameroon are prized; deep blue maximizes value.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [strengite, scorodite]
+  lookalikes: [azurite, cavansite, lazurite, shattuckite]
+  related_species: [erythrite, annaburgite, kottigite]
+
+app_metadata:
+  tags: [phosphate, iron, blue, oxidation, temporal, rare]
+  search_boost_terms: [vivianite, deep blue phosphate, temporal oxidation, blue iron phosphate]
+  prompt_fragments:
+    - "deep indigo-blue bladed crystals that intensify in color over time"
+    - "temporal oxidation buffer; irreversible feedback color shift"
+  ui_color_hint: "#1e3a8a"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.
