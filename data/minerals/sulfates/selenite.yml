@@ -1,0 +1,151 @@
+id: selenite
+slug: selenite
+display_name: Selenite (Gypsum Variety)
+
+classification:
+  chemistry_class: sulfate
+  mineral_group: gypsum
+  species_status: variety
+  parent_species: gypsum
+  related_varieties:
+    - satin-spar
+    - alabaster
+    - desert-rose
+    - gypsum-flower
+
+identifiers:
+  ima_status: not-ima-approved-variety
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "CaSO4·2H2O"
+  simplified_formula: "CaSO4·2H2O"
+  essential_elements: [Ca, S, O, H]
+  trace_elements_common: [Sr, Mg, Al]
+  structural_units: chain sulfate with water layers
+  atomic_structure_notes: >
+    Monoclinic structure with Ca in triangular dodecahedral coordination, SO4 tetrahedra,
+    and H2O layers. Selenite = transparent cleavage sheets; satin spar = fibrous;
+    alabaster = granular; desert rose = lenticular crystals.
+  chemistry_notes: Selenite is from Greek "selene" (moon) — not related to selenium.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m
+  space_group: A2/a
+  unit_cell_notes: a=5.68, b=15.18, c=6.29 Å, β=118.43°
+  twinning: swallow-tail (contact twin on {100}) and spear (penetration twin)
+  crystallography_notes: >
+    Perfect cleavage {010}; good cleavage {100} and {011}. Swallow-tail twins are
+    diagnostic. Desert rose = platy lenticular crystals with sand inclusions.
+
+physical_properties:
+  mohs_hardness: "1.5–2"
+  specific_gravity: "2.31–2.33"
+  luster: vitreous (selenite), silky (satin spar), waxy (alabaster)
+  streak: white
+  transparency: transparent (selenite) to translucent (alabaster)
+  cleavage: perfect {010}, good {100} and {011}
+  fracture: conchoidal
+  tenacity: brittle, flexible in thin sheets
+  physical_notes: Very soft — can be scratched by a fingernail. Three different cleavage directions.
+
+appearance:
+  baseline_colors: [colorless, white, gray, brown (desert rose)]
+  color_profiles:
+    - name: selenite (transparent)
+      colors: [colorless, water-clear, pale gray]
+      cause: pure CaSO4·2H2O
+      conditions: null
+      variety_name: selenite
+    - name: desert rose
+      colors: [tan, brown, sandy-brown]
+      cause: sand inclusion and iron staining
+      conditions: evaporite desert soils
+      variety_name: desert rose
+    - name: satin spar
+      colors: [white, pearly-white, cream]
+      cause: fibrous microstructure
+      conditions: null
+      variety_name: satin-spar
+  habits: [tabular, prismatic, lenticular (desert rose), fibrous (satin spar), massive (alabaster)]
+  textures: [vitreous, silky, waxy, pearly]
+  macro_patterns: [swallow-tail twins; desert rose petal clusters; satin spar chatoyancy]
+  common_forms: [cleavage plates, swallow-tail twins, desert roses, selenite wands]
+  visual_notes: >
+    Evaporative growth simulation; desert rose SDF from overlapping lenticular plates.
+    Chatoyancy in satin spar variety.
+
+optical_and_special_effects:
+  fluorescence: weak blue-white or pink under UV
+  phosphorescence: weak phosphorescence
+  chatoyancy: strong in satin spar variety
+  asterism: false
+  iridescence: false
+  pleochroism: none
+  optical_notes: Biaxial; satin spar shows strong chatoyancy from fibrous microstructure.
+
+formation_and_occurrence:
+  genesis: evaporitic, hydrothermal
+  geologic_environments: [evaporite basins, desert soils (desert rose), hydrothermal veins]
+  host_rocks: [halite, anhydrite, marl, shale]
+  associated_minerals: [halite, anhydrite, celestite, calcite, dolomite, aragonite]
+  locality_scope: global
+  notable_localities: [Cave of Crystals Naica Mexico (giant selenite), Oklahoma/Texas USA (desert rose), Morocco (desert rose)]
+  occurrence_notes: >
+    Cave of Crystals at Naica Mine Mexico contains selenite crystals up to 11m — largest
+    natural crystals known.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: [Cancer, Taurus]
+  historical_uses: [windows (selenite panes — ancient), alabaster sculpture, plaster of Paris (calcined)]
+  cultural_associations: [named for Selene goddess of moon; New Age: "liquid light," cleansing]
+  symbolism: clarity, cleansing, lunar energy, peace
+  folklore_notes: >
+    Named after the Moon goddess Selene for its moonlike translucency.
+    New Age community considers it a premier cleansing and protective crystal.
+
+interpretive_vibe:
+  mood_keywords: [lunar, translucent, pure, crystalline-clarity]
+  sensory_keywords: [glass-clear, silky, smooth]
+  palette_keywords: [water-clear, white, lunar-pale, sandy-desert]
+  aesthetic_roles: [New-Age, decorative, collector, massive-crystal]
+  vibe_notes: Evaporative growth; desert rose SDF with lenticular petal geometry.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Very soft — scratches easily; avoid water (slightly soluble)
+  care_notes: Keep dry; do not soak in water; clean with dry cloth only
+  treatments_or_synthetics: >
+    Satin spar often sold as "selenite" in New Age markets. Common dye treatments
+    for colored varieties (e.g., blue, purple dyed gypsum).
+  common_confusions: [quartz crystal wands (much harder), satin spar vs selenite (same mineral)]
+  market_notes: Very affordable; large slabs and wands widely available from Morocco, Mexico.
+
+relationships:
+  polymorphs: [anhydrite (CaSO4 — anhydrous), bassanite (hemihydrate)]
+  pseudomorphs_after: []
+  pseudomorphed_by: [anhydrite (dehydration), calcite, dolomite]
+  lookalikes: [quartz (much harder), calcite, celestite]
+  related_species: [anhydrite, bassanite]
+
+app_metadata:
+  tags: [sulfate, gypsum, selenite, desert-rose, satin-spar, lunar, New-Age]
+  search_boost_terms: [selenite, desert rose, gypsum wand, lunar crystal, satin spar, cleansing]
+  prompt_fragments:
+    - "water-clear tabular gypsum with swallow-tail twins"
+    - "desert rose lenticular petal clusters; evaporative growth SDF"
+  ui_color_hint: "#f5f5e8"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

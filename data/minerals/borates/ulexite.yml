@@ -1,0 +1,138 @@
+id: ulexite
+slug: ulexite
+display_name: Ulexite
+
+classification:
+  chemistry_class: borate
+  mineral_group: ulexite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - tv-rock
+    - cotton-ball-ulexite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "NaCaB5O6(OH)6·5H2O"
+  simplified_formula: "NaCaB5O9·8H2O"
+  essential_elements: [Na, Ca, B, O, H]
+  trace_elements_common: [Sr, K]
+  structural_units: hydrated sodium calcium borate
+  atomic_structure_notes: >
+    Triclinic; parallel boron-oxygen chain fibers. The fiber optic effect arises from
+    the parallel arrangement of hydrated borate chains which act as natural light guides.
+  chemistry_notes: Evaporite borate mineral from playa lake deposits.
+
+crystallography:
+  crystal_system: triclinic
+  crystal_class: 1-bar
+  space_group: P-1
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: >
+    Parallel fibrous crystals are the key structural feature. Each fiber acts as an
+    individual optical fiber — total internal reflection guides light along the c-axis.
+
+physical_properties:
+  mohs_hardness: "2.5"
+  specific_gravity: "1.96"
+  luster: silky (fibrous)
+  streak: white
+  transparency: translucent (fibrous slab transmits images)
+  cleavage: perfect {010}
+  fracture: uneven
+  tenacity: brittle (though fibers are flexible)
+  physical_notes: >
+    TV rock: a slab polished perpendicular to fibers transmits an image placed under it
+    to the top surface — natural fiber optic effect.
+
+appearance:
+  baseline_colors: [white, colorless, pale gray]
+  color_profiles:
+    - name: typical
+      colors: [white, silvery white]
+      cause: fibrous microstructure
+      conditions: null
+      variety_name: null
+  habits: [fibrous masses, cotton-ball aggregates, lenticular masses]
+  textures: [silky, cottony (cotton-ball variety)]
+  macro_patterns: [parallel fiber bundles; image transmission through slab]
+  common_forms: [fibrous slabs (TV rock), cotton-ball masses]
+  visual_notes: >
+    Parallel fiber image transmission; natural optical fiber array. Each fiber guides
+    light independently. Image transmitted with slight distortion (each fiber = 1 pixel).
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: strong (fiber optic effect perpendicular to fibers)
+  asterism: false
+  iridescence: false
+  pleochroism: null
+  optical_notes: >
+    Natural optical fiber effect: light enters one end of each fiber, undergoes total
+    internal reflection along fiber length, exits other end. Image transmission possible.
+
+formation_and_occurrence:
+  genesis: evaporitic (playa lake deposits)
+  geologic_environments: [alkaline playa lake evaporite deposits]
+  host_rocks: [halite, trona, borax, other evaporite minerals]
+  associated_minerals: [borax, colemanite, tincalconite, kernite, halite]
+  locality_scope: regional
+  notable_localities: [Boron California USA (Kramer deposit), Turkey, Chile, Argentina]
+  occurrence_notes: >
+    Mojave Desert deposits (Boron CA) are the world's largest borate deposits; ulexite
+    abundant there. Also found in Atacama Desert, Chile.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [boron source (industrial chemicals, glass, detergents)]
+  cultural_associations: ["TV rock" — natural fiber optic; science curiosity]
+  symbolism: transmission, transparency, guided light
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [optical, transmission, fiber-optic, desert-white]
+  sensory_keywords: [silky, cottony, translucent]
+  palette_keywords: [white, fiber-silver, desert-pale]
+  aesthetic_roles: [novelty, science, natural-fiber-optic]
+  vibe_notes: Parallel fiber image transmission shader; each fiber = discrete light guide channel.
+
+practical_notes:
+  toxicity: non-toxic (insoluble borate)
+  handling_notes: soft; protect polished fiber surfaces from scratching
+  care_notes: keep dry; very slightly soluble in water
+  treatments_or_synthetics: none
+  common_confusions: [selenite (gypsum), satin spar, natrolite]
+  market_notes: Widely sold as "TV rock" curiosity; affordable.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [tincalconite (borax alteration)]
+  lookalikes: [satin spar gypsum, natrolite, fibrous calcite]
+  related_species: [probertite, nobleite]
+
+app_metadata:
+  tags: [borate, sodium-calcium, fiber-optic, TV-rock, evaporite, Mojave]
+  search_boost_terms: [TV rock, fiber optic, ulexite, parallel fiber, image transmission, desert]
+  prompt_fragments:
+    - "white fibrous natural fiber optic mineral transmitting images through parallel channels"
+    - "parallel fiber image transmission; total internal reflection array"
+  ui_color_hint: "#f0f0f0"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

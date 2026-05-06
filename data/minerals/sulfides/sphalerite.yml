@@ -1,0 +1,142 @@
+id: sphalerite
+slug: sphalerite
+display_name: Sphalerite
+
+classification:
+  chemistry_class: sulfide
+  mineral_group: sphalerite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - cleiophane
+    - marmatite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "(Zn,Fe)S"
+  simplified_formula: "(Zn,Fe)S"
+  essential_elements: [Zn, S]
+  trace_elements_common: [Fe, Cd, Mn, In, Ga, Ge]
+  structural_units: cubic sulfide (zinc blende structure)
+  atomic_structure_notes: >
+    Cubic close-packed S with Zn in tetrahedral holes (zinc blende). Fe substitutes
+    for Zn; increasing Fe darkens the color from yellow-green to black.
+  chemistry_notes: >
+    Primary ore of zinc. Contains gallium, indium, germanium — economically important
+    trace elements. Cleiophane = clear/yellow Mn-bearing; marmatite = black Fe-rich.
+
+crystallography:
+  crystal_system: cubic (isometric)
+  crystal_class: 4-bar 3m
+  space_group: F-43m
+  unit_cell_notes: a=5.41 Å
+  twinning: polysynthetic twinning on {111} (lamellar)
+  crystallography_notes: Tetrahedral crystals; perfect dodecahedral cleavage (6 directions).
+
+physical_properties:
+  mohs_hardness: "3.5–4"
+  specific_gravity: "3.9–4.1"
+  luster: resinous to adamantine
+  streak: pale yellow to brown
+  transparency: transparent (low Fe) to opaque (high Fe)
+  cleavage: perfect dodecahedral {110} — 6 directions
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: >
+    Low-Fe cleiophane has resinous to adamantine luster and high IOR (2.37). 
+    Fire and dispersion comparable to diamond.
+
+appearance:
+  baseline_colors: [colorless, yellow, green, brown, black]
+  color_profiles:
+    - name: cleiophane
+      colors: [pale yellow, green, colorless]
+      cause: low Fe content
+      conditions: null
+      variety_name: cleiophane
+    - name: typical
+      colors: [brown, reddish-brown, amber]
+      cause: moderate Fe content
+      conditions: null
+      variety_name: null
+    - name: marmatite
+      colors: [black]
+      cause: high Fe content (near FeS)
+      conditions: null
+      variety_name: marmatite
+  habits: [tetrahedral, dodecahedral, massive]
+  textures: [resinous, adamantine (gem quality), striated]
+  macro_patterns: [complex faces with chatoyant zoning possible]
+  common_forms: [irregular masses, tetrahedral crystals]
+  visual_notes: High dispersion in gem-quality low-Fe material; "fire" in faceted gems.
+
+optical_and_special_effects:
+  fluorescence: orange fluorescence under LW UV (variable)
+  phosphorescence: possible
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none (cubic)
+  optical_notes: Very high IOR (2.37); high dispersion exceeding diamond in some directions.
+
+formation_and_occurrence:
+  genesis: hydrothermal (medium-temperature), skarn
+  geologic_environments: [Mississippi Valley-type deposits, skarns, volcanogenic massive sulfide]
+  host_rocks: [limestone, dolomite, shale]
+  associated_minerals: [galena, pyrite, chalcopyrite, quartz, calcite, dolomite]
+  locality_scope: global
+  notable_localities: [Tri-State district USA, Elmwood Mine TN USA, Spain, Mexico, Poland]
+  occurrence_notes: Most important zinc ore mineral worldwide.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [primary zinc ore, jewelry (gem sphalerite)]
+  cultural_associations: []
+  symbolism: hidden value, transformation
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [resinous, fiery, industrial-gem, zinc]
+  sensory_keywords: [warm-amber, glassy, heavy]
+  palette_keywords: [honey-amber, deep-brown, black-marmatite]
+  aesthetic_roles: [ore mineral, gem, collector]
+  vibe_notes: High-dispersion resinous cubic with complex twinning.
+
+practical_notes:
+  toxicity: zinc sulfide — low toxicity; wash hands
+  handling_notes: Perfect cleavage in 6 directions makes it very fragile
+  care_notes: Avoid impacts; avoid acids
+  treatments_or_synthetics: none common
+  common_confusions: [cassiterite, diamond (high dispersion), topaz]
+  market_notes: Gem-quality sphalerite commands high collector prices.
+
+relationships:
+  polymorphs: [wurtzite (hexagonal)]
+  pseudomorphs_after: []
+  pseudomorphed_by: [smithsonite, hemimorphite]
+  lookalikes: [cassiterite, wolframite, diamond (dispersion)]
+  related_species: [wurtzite, greenockite, hawleyite]
+
+app_metadata:
+  tags: [sulfide, zinc, tetrahedral, resinous, high-dispersion, ore]
+  search_boost_terms: [zinc ore, sphalerite, resinous, high dispersion, tetrahedral]
+  prompt_fragments:
+    - "honey-amber to black tetrahedral crystals with resinous adamantine luster"
+    - "cubic zinc sulfide with fire exceeding diamond"
+  ui_color_hint: "#b8860b"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

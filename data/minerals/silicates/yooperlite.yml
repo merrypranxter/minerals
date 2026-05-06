@@ -1,0 +1,137 @@
+id: yooperlite
+slug: yooperlite
+display_name: Yooperlite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: sodalite
+  species_status: variety
+  parent_species: sodalite
+  related_varieties: []
+
+identifiers:
+  ima_status: not-ima-approved-variety
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Na8(Al6Si6O24)Cl2 with fluorescent sodalite component"
+  simplified_formula: "Na8Al6Si6O24Cl2"
+  essential_elements: [Na, Al, Si, O, Cl]
+  trace_elements_common: [S, Ca, K]
+  structural_units: tectosilicate (sodalite framework)
+  atomic_structure_notes: Feldspathoid; sodalite cage structure. Fluorescence from sulfur-based chromophores (hackmanite component).
+  chemistry_notes: >
+    Yooperlite = trade name for fluorescent sodalite-rich rocks found along Lake Superior.
+    The orange UV fluorescence comes from sulfur-bearing sodalite (hackmanite).
+
+crystallography:
+  crystal_system: cubic (isometric)
+  crystal_class: 4/m 3-bar 2/m
+  space_group: P-43n
+  unit_cell_notes: a ≈ 8.87 Å
+  twinning: null
+  crystallography_notes: Massive rock; individual sodalite grains are cubic.
+
+physical_properties:
+  mohs_hardness: "5.5–6"
+  specific_gravity: "2.27–2.33"
+  luster: vitreous to greasy
+  streak: white
+  transparency: translucent to opaque
+  cleavage: poor {110}
+  fracture: conchoidal to uneven
+  tenacity: brittle
+  physical_notes: Grey under normal light; dramatically fluorescent under 365nm UV.
+
+appearance:
+  baseline_colors: [gray, dull gray-brown]
+  color_profiles:
+    - name: visible light
+      colors: [gray, gray-brown, dull]
+      cause: sodalite matrix color
+      conditions: white light
+      variety_name: null
+    - name: UV fluorescence
+      colors: [vivid orange, gold, yellow-orange]
+      cause: sulfur hackmanite chromophores
+      conditions: 365nm UV illumination
+      variety_name: yooperlite
+  habits: [massive, rounded pebbles (lacustrine)]
+  textures: [smooth (wave-worn), grainy]
+  macro_patterns: [gray stone with patchy orange UV glow]
+  common_forms: [beach pebbles, boulders]
+  visual_notes: Spectral toggle — boring grey stone under white light, explosive UV fluorescence.
+
+optical_and_special_effects:
+  fluorescence: strong orange-gold under 365nm UV
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none
+  optical_notes: >
+    Fluorescence is patchy (Voronoi-distributed patches of varying quantum yield).
+    UV torch creates dramatic reveal effect.
+
+formation_and_occurrence:
+  genesis: igneous (alkalic intrusions), transported by glaciers
+  geologic_environments: [nepheline syenite intrusions, Lake Superior shoreline (glacial)]
+  host_rocks: [nepheline syenite, gneiss]
+  associated_minerals: [nepheline, feldspar, aegirine]
+  locality_scope: regional
+  notable_localities: [Lake Superior shoreline, Upper Peninsula Michigan USA (Yoopers)]
+  occurrence_notes: >
+    Discovered 2017 by Erik Rintamaki; named for Upper Peninsula of Michigan residents
+    (Yoopers). Actually derived from alkalic intrusions of Ontario/Minnesota.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: []
+  cultural_associations: [Yooper cultural identity; Lake Superior beachcombing]
+  symbolism: hidden beauty, revelation, UV magic
+  folklore_notes: The "magic glowing rock" of the Upper Peninsula.
+
+interpretive_vibe:
+  mood_keywords: [hidden, revelatory, UV-magic, Great-Lakes]
+  sensory_keywords: [smooth, lacustrine, glowing]
+  palette_keywords: [gray, orange-gold, UV-violet]
+  aesthetic_roles: [novelty, UV-reactive, beachcombing]
+  vibe_notes: Spectral toggle from dull gray to explosive orange under UV light.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Normal stone care; UV lamp required to appreciate
+  care_notes: no special requirements
+  treatments_or_synthetics: none
+  common_confusions: [ordinary sodalite, hackmanite, other fluorescent feldspathoids]
+  market_notes: Popular recent discovery; high retail demand for Lake Superior pebbles.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [hackmanite, sodalite, tugtupite]
+  related_species: [sodalite, hackmanite, haüyne]
+
+app_metadata:
+  tags: [silicate, sodalite, fluorescent, UV-reactive, Lake-Superior]
+  search_boost_terms: [UV glow, fluorescent, orange, yooperlite, Lake Superior, hidden beauty]
+  prompt_fragments:
+    - "dull gray stone that explodes with orange fire under UV light"
+    - "Voronoi-patched UV fluorescence reveal effect"
+  ui_color_hint: "#ff8c00"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

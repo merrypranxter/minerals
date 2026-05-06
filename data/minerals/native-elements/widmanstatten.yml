@@ -1,0 +1,141 @@
+id: widmanstatten
+slug: widmanstatten
+display_name: Widmanstätten Pattern (Iron Meteorite)
+
+classification:
+  chemistry_class: native-element
+  mineral_group: iron-nickel
+  species_status: rock-gem-material
+  parent_species: null
+  related_varieties:
+    - kamacite
+    - taenite
+
+identifiers:
+  ima_status: not-applicable
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Fe-Ni (variable)"
+  simplified_formula: "Fe7Ni to Fe3Ni"
+  essential_elements: [Fe, Ni]
+  trace_elements_common: [Co, Ir, Pt, Pd, Au, Ga, Ge]
+  structural_units: bcc kamacite lamellae in fcc taenite host
+  atomic_structure_notes: >
+    Kamacite (bcc, low-Ni) exsolves from taenite (fcc, high-Ni) during slow cooling
+    over millions of years in space. Lamellae oriented along {111} of the original
+    parent taenite — the octahedral planes of the cubic crystal.
+  chemistry_notes: >
+    Widmanstätten pattern forms only at cooling rates <1°C per million years — impossible
+    on Earth. Definitive proof of extraterrestrial origin. PGEs (Ir, Pt) in trace amounts.
+
+crystallography:
+  crystal_system: cubic (kamacite) and fcc (taenite)
+  crystal_class: 4/m 3-bar 2/m
+  space_group: Im3m (kamacite), Fm3m (taenite)
+  unit_cell_notes: null
+  twinning: not applicable (exsolution texture)
+  crystallography_notes: >
+    Pattern is a macroscopic exsolution texture, not a crystal form. Lamellae thickness
+    varies from <0.2mm (finest octahedrites) to >5mm (coarsest).
+
+physical_properties:
+  mohs_hardness: "4–5"
+  specific_gravity: "7.3–7.9"
+  luster: metallic
+  streak: gray
+  transparency: opaque
+  cleavage: none (metallic)
+  fracture: hackly (torn metal)
+  tenacity: malleable
+  physical_notes: >
+    Etching with nitric acid reveals the Widmanstätten pattern in cut meteorite slabs.
+    Raw exterior is crusted with regmaglypts (thumb-press fusion crust).
+
+appearance:
+  baseline_colors: [silver-gray, metallic silver]
+  color_profiles:
+    - name: etched surface
+      colors: [silver kamacite lamellae, gray taenite, dark Neumann lines]
+      cause: differential etching of iron-nickel phases
+      conditions: acid-etched
+      variety_name: null
+  habits: [meteoritic slab, massive]
+  textures: [metallic, crystallographic lamellae pattern]
+  macro_patterns: [interlocking triangular lamellae pattern from octahedral plane slicing]
+  common_forms: [slices, end-cuts, full irons]
+  visual_notes: >
+    Octahedral hyper-planar slicing; three sets of parallel lamellae at 60° to each other.
+    Pattern is a 2D cross-section through 3D octahedral array.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: weak (thin oxide film)
+  pleochroism: null (opaque metallic)
+  optical_notes: Metallic iron-nickel reflectance.
+
+formation_and_occurrence:
+  genesis: extraterrestrial (core of differentiated planetesimal)
+  geologic_environments: [asteroid belt; found in impact craters and alluvial]
+  host_rocks: [meteorite — iron group]
+  associated_minerals: [troilite (FeS), schreibersite (Fe-Ni phosphide), graphite, diamond]
+  locality_scope: global
+  notable_localities: [Canyon Diablo Arizona USA, Gibeon Namibia, Cape York Greenland, Sikhote-Alin Russia]
+  occurrence_notes: >
+    Found on all continents; Antarctic finds most productive. Classification: octahedrite
+    (common), hexahedrite (kamacite only), ataxite (Ni-rich, no pattern).
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [jewelry, knives, tools — Inuit used Cape York iron; Tolec culture used Gibeon iron]
+  cultural_associations: [sky iron, thunderstone, sacred metal]
+  symbolism: cosmic origin, deep time, ancient stellar nucleosynthesis
+  folklore_notes: >
+    Many cultures venerated iron meteorites as sacred sky metal before metallurgy.
+    The iron in blood and in meteorites shares stellar nucleosynthetic origin.
+
+interpretive_vibe:
+  mood_keywords: [cosmic, ancient, extraterrestrial, metallic-geometry]
+  sensory_keywords: [cold-metal, heavy, otherworldly]
+  palette_keywords: [silver-gray, steel, dark-lines]
+  aesthetic_roles: [cosmic, geometric, collector]
+  vibe_notes: Octahedral hyper-planar slicing; 3 sets of lamellae at 60° produce triangular mesh.
+
+practical_notes:
+  toxicity: non-toxic in normal handling; some rust (iron oxidation)
+  handling_notes: Susceptible to rust; keep dry
+  care_notes: Coat exposed surfaces with oil or wax to prevent oxidation
+  treatments_or_synthetics: none
+  common_confusions: [man-made steel etched to fake pattern — fakes exist]
+  market_notes: Grams pricing; etched slabs and end-cuts widely available.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [limonite (rust), magnetite]
+  lookalikes: [modern steel (faked pattern), cast iron]
+  related_species: [kamacite, taenite, troilite, schreibersite]
+
+app_metadata:
+  tags: [native-element, iron-nickel, meteorite, cosmic, octahedral, extraterrestrial]
+  search_boost_terms: [iron meteorite, Widmanstätten, octahedral, cosmic, etched lamellae, sky iron]
+  prompt_fragments:
+    - "silver metallic triangular lamellae from octahedral plane slicing of iron meteorite"
+    - "3D octahedral exsolution texture; deepest geological time"
+  ui_color_hint: "#9a9a9a"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

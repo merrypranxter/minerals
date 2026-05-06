@@ -1,0 +1,146 @@
+id: topaz
+slug: topaz
+display_name: Topaz
+
+classification:
+  chemistry_class: silicate
+  mineral_group: topaz
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - imperial-topaz
+    - blue-topaz
+    - white-topaz
+    - sherry-topaz
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Al2SiO4(F,OH)2"
+  simplified_formula: "Al2SiO4F2"
+  essential_elements: [Al, Si, O, F]
+  trace_elements_common: [Fe, Cr, V, Mn]
+  structural_units: nesosilicate
+  atomic_structure_notes: >
+    Fluorosilicate; F/OH occupy apical positions of the aluminium octahedra.
+    High F content increases density and hardness.
+  chemistry_notes: >
+    The golden "Imperial Topaz" from Ouro Preto Brazil contains trace Fe and Cr;
+    blue topaz is almost always irradiation-treated colorless topaz.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pbnm
+  unit_cell_notes: a=4.65, b=8.80, c=8.39 Å
+  twinning: contact twins on {011}
+  crystallography_notes: Prismatic crystals with basal pinacoid and characteristic diamond cross-section.
+
+physical_properties:
+  mohs_hardness: "8"
+  specific_gravity: "3.49–3.57"
+  luster: vitreous
+  streak: colorless
+  transparency: transparent
+  cleavage: perfect basal {001}
+  fracture: conchoidal to uneven
+  tenacity: brittle
+  physical_notes: High hardness (defines 8 on Mohs scale). Perfect basal cleavage a faceting hazard.
+
+appearance:
+  baseline_colors: [colorless, pale blue, yellow, orange, pink, brown]
+  color_profiles:
+    - name: imperial topaz
+      colors: [golden orange, orange-pink, sherry]
+      cause: Fe and Cr trace impurities
+      conditions: natural
+      variety_name: imperial topaz
+    - name: blue topaz
+      colors: [sky blue, Swiss blue, London blue]
+      cause: irradiation + heat treatment of colorless topaz
+      conditions: treated
+      variety_name: blue topaz
+    - name: pink topaz
+      colors: [pale pink, rose]
+      cause: Cr3+ trace
+      conditions: natural
+      variety_name: null
+  habits: [prismatic, orthorhombic prism with basal pinacoid]
+  textures: [glassy, highly transparent]
+  macro_patterns: [striations parallel to c-axis on prism faces]
+  common_forms: [faceted gemstones, euhedral crystals in pegmatites]
+  visual_notes: Diamond-shaped cross section is diagnostic.
+
+optical_and_special_effects:
+  fluorescence: orange topaz may show weak fluorescence under LW UV
+  phosphorescence: null
+  chatoyancy: possible in included varieties
+  asterism: rare
+  iridescence: false
+  pleochroism: moderate (colorless/pale yellow/pink in different axes)
+  optical_notes: Biaxial positive; strong vitreous luster.
+
+formation_and_occurrence:
+  genesis: igneous (pegmatites, hydrothermal veins)
+  geologic_environments: [granite pegmatites, greisens, hydrothermal veins]
+  host_rocks: [granite, rhyolite, pegmatite]
+  associated_minerals: [fluorite, tourmaline, cassiterite, mica, quartz]
+  locality_scope: global
+  notable_localities: [Ouro Preto Brazil (imperial), Pakistan, Russia (Ural), Nigeria, USA (Utah)]
+  occurrence_notes: Brazil is primary source for Imperial Topaz; Pakistan for fine crystals.
+
+cultural_and_historical:
+  birthstone_status: November birthstone (yellow/orange); blue topaz = December alternative
+  zodiac_associations: [Sagittarius, Scorpio]
+  historical_uses: [gemstone since antiquity, medieval healing stone]
+  cultural_associations: [strength, wisdom, courage in various traditions]
+  symbolism: clarity, confidence, true friendship
+  folklore_notes: Ancient Egyptians believed yellow topaz got its color from Ra the sun god.
+
+interpretive_vibe:
+  mood_keywords: [golden, imperial, clear, warm]
+  sensory_keywords: [transparent, prismatic, heavy]
+  palette_keywords: [golden-orange, pale-blue, champagne]
+  aesthetic_roles: [gemstone, collector, prestige]
+  vibe_notes: High-specular orthorhombic prism; basal cleavage reflects light in sheets.
+
+practical_notes:
+  toxicity: non-toxic (F is locked in crystal structure)
+  handling_notes: Perfect basal cleavage makes setting and cutting tricky; avoid impacts on c-face
+  care_notes: Avoid ultrasonic; avoid thermal shock; some blue topaz is irradiated (stable)
+  treatments_or_synthetics: >
+    Almost all blue topaz is irradiation-treated (safe and stable). Imperial topaz occasionally
+    heat-treated. Synthetic topaz uncommon.
+  common_confusions: [yellow sapphire (heavier), citrine (softer), aquamarine (different system)]
+  market_notes: Imperial topaz from Ouro Preto commands premium; natural blue and pink topaz also valuable.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [citrine, yellow sapphire, aquamarine, blue tourmaline]
+  related_species: [staurolite (same space group), sillimanite]
+
+app_metadata:
+  tags: [silicate, topaz, gemstone, imperial, orthorhombic, November-birthstone]
+  search_boost_terms: [imperial topaz, blue topaz, prismatic crystal, golden gemstone]
+  prompt_fragments:
+    - "golden-orange prismatic crystal with high vitreous luster"
+    - "diamond-shaped cross-section with perfect basal cleavage"
+  ui_color_hint: "#f0a030"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

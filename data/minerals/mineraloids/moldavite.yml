@@ -1,0 +1,150 @@
+id: moldavite
+slug: moldavite
+display_name: Moldavite
+
+classification:
+  chemistry_class: mineraloid
+  mineral_group: tektite
+  species_status: mineraloid
+  parent_species: null
+  related_varieties:
+    - bohemian-moldavite
+    - moravian-moldavite
+
+identifiers:
+  ima_status: not-applicable
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 + Al2O3 + other oxides (variable — impact glass)"
+  simplified_formula: "SiO2·Al2O3·FeO·MgO (approx)"
+  essential_elements: [Si, O, Al]
+  trace_elements_common: [Fe, Mg, Ca, K, Na]
+  structural_units: amorphous silicate glass
+  atomic_structure_notes: >
+    Amorphous borosilicate-like glass with no crystalline structure. Formed in <1 second
+    during Nördlingen Ries meteorite impact (14.7 Ma). Aerodynamic shaping during
+    atmospheric flight from impact site to deposition zone.
+  chemistry_notes: >
+    Extraterrestrial impact glass; SiO2 ~80%, Al2O3 ~10%. Includes lechatelierite
+    (fused quartz) inclusions from shock-melted target rock.
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: null
+  space_group: null
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: >
+    No crystalline structure. Aerodynamic shaping (teardrop, disc, rod) during flight.
+    Internal flow banding from viscous glass flow. Bubble inclusions from trapped gases.
+
+physical_properties:
+  mohs_hardness: "5.5"
+  specific_gravity: "2.32–2.38"
+  luster: vitreous
+  streak: white
+  transparency: transparent to translucent
+  cleavage: none
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: >
+    Distinctive bottle-green glass; aerodynamic shaping diagnostic.
+    Sculptured (pitted/grooved) surface from atmospheric ablation.
+
+appearance:
+  baseline_colors: [bottle green, forest green, olive green, brown-green]
+  color_profiles:
+    - name: typical
+      colors: [forest green, bottle green, dark green]
+      cause: Fe2+ in silicate glass
+      conditions: null
+      variety_name: null
+    - name: rare
+      colors: [pale green, brown-green, brownish]
+      cause: compositional variation
+      conditions: null
+      variety_name: null
+  habits: [irregular, teardrop, disc, rod, splash forms]
+  textures: [vitreous, sculptured/pitted surface]
+  macro_patterns: [aerodynamic teardrop; surface pitting from etching; internal flow bands and bubbles]
+  common_forms: [irregular shapes, teardrops, button tektites]
+  visual_notes: >
+    Aerodynamic teardrop SDF with bubble inclusions. Flow banding from viscous glass
+    streamlines. Surface sculpting from chemical weathering.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none (isotropic glass)
+  optical_notes: Transparent green glass; conchoidal fracture produces sharp edges.
+
+formation_and_occurrence:
+  genesis: extraterrestrial (meteorite impact ejecta)
+  geologic_environments: [tektite strewn field — Bohemia, Moravia, Lusatia]
+  host_rocks: [sedimentary (found loose in fields, gravel, clays)]
+  associated_minerals: []
+  locality_scope: regional
+  notable_localities: [Bohemia Czech Republic (type), Moravia Czech Republic, Germany (Lusatia)]
+  occurrence_notes: >
+    Strewn field from Nördlingen Ries crater (Bavaria). 14.7 ± 0.1 Ma age.
+    Found as loose fragments in agricultural fields; scarce due to limited strewn field.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [Mesolithic tools (flint substitute), Neolithic jewelry (Venus of Willendorf area)]
+  cultural_associations: [New Age: "stone of the stars," cosmic consciousness, alien contact]
+  symbolism: cosmic transformation, rapid change, extraterrestrial connection
+  folklore_notes: >
+    Earliest known use for artifacts dates to Mesolithic (~35,000 years ago — possibly Aurignacian).
+    New Age community attributes high metaphysical properties.
+
+interpretive_vibe:
+  mood_keywords: [cosmic, impact, green-glass, alien, rapid-transformation]
+  sensory_keywords: [glassy, green, sculptured]
+  palette_keywords: [forest-green, bottle-green, deep-vitreous]
+  aesthetic_roles: [gemstone, novelty, cosmic, New-Age]
+  vibe_notes: Aerodynamic teardrop SDF with internal bubbles and flow banding.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Handle normally; sharp fractured edges possible
+  care_notes: Normal gemstone care
+  treatments_or_synthetics: >
+    Fakes (green glass) are very common — check for bubble inclusions, flow lines,
+    and specific gravity (2.32 genuine vs 2.5+ for pressed glass fakes).
+  common_confusions: [green glass, obsidian, bottle glass (fakes), Libyan desert glass (different)]
+  market_notes: >
+    Scarce; high demand from collectors and New Age market. Premium for transparent,
+    sculptured pieces. Fakes extremely common.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [green glass fakes, Libyan desert glass (yellow), Darwin glass, irghizite]
+  related_species: [Libyan desert glass, australite, bediasite, georgiaite]
+
+app_metadata:
+  tags: [mineraloid, tektite, impact-glass, green, cosmic, Czech]
+  search_boost_terms: [moldavite, tektite, meteorite glass, forest green, aerodynamic, Ries impact]
+  prompt_fragments:
+    - "bottle-green aerodynamic teardrop meteorite glass with flow bands and bubble inclusions"
+    - "cosmic impact glass; ablated sculptured surface"
+  ui_color_hint: "#2d5a27"
+  priority_score: 0.8
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

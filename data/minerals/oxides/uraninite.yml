@@ -1,0 +1,138 @@
+id: uraninite
+slug: uraninite
+display_name: Uraninite
+
+classification:
+  chemistry_class: oxide
+  mineral_group: uraninite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - pitchblende
+    - nasturan
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "UO2"
+  simplified_formula: "UO2"
+  essential_elements: [U, O]
+  trace_elements_common: [Th, Pb, Ra, He, Y, REE]
+  structural_units: fluorite-type cubic oxide
+  atomic_structure_notes: >
+    Fluorite structure (UO2); U4+ in eightfold coordination. U4+ partially
+    oxidized to U6+ with time; Pb2+, Pb4+ accumulate as decay products.
+    Always partially metamict from alpha-particle damage.
+  chemistry_notes: >
+    Primary uranium ore. Extremely radioactive. Contains radiogenic He, Pb.
+    Massively botryoidal variety = pitchblende; euhedral crystals = uraninite.
+
+crystallography:
+  crystal_system: cubic (isometric)
+  crystal_class: 4/m 3-bar 2/m
+  space_group: Fm3m
+  unit_cell_notes: a ≈ 5.47 Å
+  twinning: rare
+  crystallography_notes: Octahedral crystals; often botryoidal or massive (pitchblende).
+
+physical_properties:
+  mohs_hardness: "5–6"
+  specific_gravity: "7.5–10.9"
+  luster: sub-metallic to resinous (pitchblende); metallic (crystalline)
+  streak: brownish-black to olive-green
+  transparency: opaque
+  cleavage: poor cubic {001}
+  fracture: conchoidal to uneven
+  tenacity: brittle
+  physical_notes: Radioactive — handle with care and follow radiation safety protocols.
+
+appearance:
+  baseline_colors: [black, gray-black, brownish-black]
+  color_profiles:
+    - name: pitchblende
+      colors: [pitch black, black with gray gloss]
+      cause: massive cryptocrystalline UO2+x
+      conditions: null
+      variety_name: pitchblende
+    - name: crystalline
+      colors: [steel black, dark gray]
+      cause: metallic UO2
+      conditions: null
+      variety_name: uraninite
+  habits: [octahedral, botryoidal, massive, granular]
+  textures: [resinous, sub-metallic, botryoidal smooth]
+  macro_patterns: [botryoidal black masses; rare octahedral crystals]
+  common_forms: [botryoidal masses, granular aggregates]
+  visual_notes: Stochastic decay model; botryoidal SDF from smooth-min sphere packing.
+
+optical_and_special_effects:
+  fluorescence: not fluorescent
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: null (opaque)
+  optical_notes: Black opaque sub-metallic. Radioactive glow not visible to human eye (UV/X-ray range).
+
+formation_and_occurrence:
+  genesis: hydrothermal, pegmatitic, sedimentary (roll-front)
+  geologic_environments: [granite pegmatites, hydrothermal veins, sedimentary basins]
+  host_rocks: [granite, gneiss, sandstone]
+  associated_minerals: [pyrite, coffinite, monazite, thorite, galena, native gold, REE minerals]
+  locality_scope: global
+  notable_localities: [Great Bear Lake NWT Canada, Shinkolobwe DRC, Jáchymov Czech Republic, Athabasca Basin Canada]
+  occurrence_notes: >
+    Marie Curie discovered polonium and radium from pitchblende. Jáchymov (Joachimsthal)
+    pitchblende was the source material.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [uranium glass (historical), nuclear fuel, X-ray research, medical isotopes]
+  cultural_associations: [nuclear history; Marie Curie; atomic age]
+  symbolism: transformation (alchemical), atomic power, radioactive decay
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [dark, radioactive, nuclear, decaying, deep-time]
+  sensory_keywords: [heavy, smooth-black, Curie-esque]
+  palette_keywords: [pitch-black, dark-gray, decay-green]
+  aesthetic_roles: [geological-curiosity, radioactive, heavy-mineral]
+  vibe_notes: Stochastic decay engine; inverse-square particle hits on botryoidal surface.
+
+practical_notes:
+  toxicity: "RADIOACTIVE — require radiation safety training; store in lead-lined container; do not grind; limit handling time"
+  handling_notes: Use radiation safety gloves; use dosimetry; limit exposure time
+  care_notes: Store in ventilated space; radon gas daughter product
+  treatments_or_synthetics: none
+  common_confusions: [columbite (also black heavy), cassiterite, ilmenite, wolframite]
+  market_notes: Collector specimens available; subject to import/export regulations in some countries.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [gummite (alteration product), coffinite]
+  lookalikes: [columbite, cassiterite, wolframite, thorianite]
+  related_species: [thorianite, coffinite, clarkeite]
+
+app_metadata:
+  tags: [oxide, uranium, radioactive, nuclear, black, heavy, botryoidal]
+  search_boost_terms: [pitchblende, uranium ore, radioactive, botryoidal black, nuclear]
+  prompt_fragments:
+    - "pitch-black botryoidal masses with sub-metallic resinous luster"
+    - "stochastic radioactive decay; inverse-square particle hit accumulator"
+  ui_color_hint: "#1a1a1a"
+  priority_score: 0.6
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

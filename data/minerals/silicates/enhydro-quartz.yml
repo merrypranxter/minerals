@@ -1,0 +1,131 @@
+id: enhydro-quartz
+slug: enhydro-quartz
+display_name: Enhydro Quartz
+
+classification:
+  chemistry_class: silicate
+  mineral_group: quartz
+  species_status: variety
+  parent_species: quartz
+  related_varieties:
+    - fluid-inclusion-quartz
+
+identifiers:
+  ima_status: not-ima-approved-variety
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2 (host) with H2O fluid inclusions"
+  simplified_formula: "SiO2 + H2O"
+  essential_elements: [Si, O, H]
+  trace_elements_common: [Ca, Na, Cl, CO2]
+  structural_units: tectosilicate with sealed fluid inclusions
+  atomic_structure_notes: Primary fluid inclusions trapped during crystal growth. May contain ancient atmosphere.
+  chemistry_notes: The trapped fluid preserves the chemistry of ancient groundwater or hydrothermal fluids.
+
+crystallography:
+  crystal_system: trigonal
+  crystal_class: 32
+  space_group: P3221
+  unit_cell_notes: null
+  twinning: Dauphine, Brazil
+  crystallography_notes: Hollow cavities or primary inclusions visible as water bubbles that move when specimen is tilted.
+
+physical_properties:
+  mohs_hardness: "7"
+  specific_gravity: "2.65 (host quartz)"
+  luster: vitreous
+  streak: white
+  transparency: transparent to translucent
+  cleavage: none
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: The bubble inside responds to gravity — it rises when tilted.
+
+appearance:
+  baseline_colors: [colorless, smoky, milky]
+  color_profiles:
+    - name: typical
+      colors: [clear, milky white, smoky gray]
+      cause: quartz host
+      conditions: null
+      variety_name: null
+  habits: [prismatic, double-terminated]
+  textures: [glassy with visible water pocket]
+  macro_patterns: [water/bubble pocket visible inside crystal]
+  common_forms: [prismatic single crystals]
+  visual_notes: >
+    The bubble moves with gravity — "float-over" effect when tilted. Meniscus
+    line at air-water interface. Fresnel rim at bubble edge.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none
+  optical_notes: >
+    Moving bubble with Fresnel refraction at bubble wall. Meniscus curves at
+    quartz walls. Bubble position tracks gravity vector.
+
+formation_and_occurrence:
+  genesis: hydrothermal
+  geologic_environments: [quartz veins, crystal pockets in metamorphic rocks]
+  host_rocks: [quartz veins]
+  associated_minerals: [other quartz varieties, chlorite, calcite]
+  locality_scope: global
+  notable_localities: [Brazil, China, Pakistan, USA (Arkansas)]
+  occurrence_notes: Common in Brazilian and Arkansas quartz productions.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [curiosity, specimen]
+  cultural_associations: [called "water quartz"; encapsulated ancient water fascination]
+  symbolism: preservation, ancient time, contained worlds
+  folklore_notes: Some specimens may contain Cretaceous-era water.
+
+interpretive_vibe:
+  mood_keywords: [preserved, ancient, floating, hydrodynamic]
+  sensory_keywords: [watery, clear, gravitational]
+  palette_keywords: [crystal-clear, bubble-white, water-blue]
+  aesthetic_roles: [novelty, specimen, curiosity]
+  vibe_notes: Gravity-aware fluid void; SPH bubble dynamics possible.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Do not expose to extreme temperature changes (thermal shock can crack)
+  care_notes: Keep away from heat
+  treatments_or_synthetics: rarely faked but synthetic fluid inclusions exist
+  common_confusions: [regular quartz with internal fractures, phantom quartz]
+  market_notes: Specimens with clearly visible moving bubbles command significant premiums.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [phantom quartz, quartz with calcite inclusions]
+  related_species: [quartz, fluid-inclusion-bearing minerals]
+
+app_metadata:
+  tags: [silicate, quartz, fluid-inclusion, water, gravity, curiosity]
+  search_boost_terms: [water crystal, fluid inclusion, moving bubble, ancient water, enhydro]
+  prompt_fragments:
+    - "clear quartz with trapped water pocket and movable air bubble"
+    - "gravity-aware fluid void with meniscus line"
+  ui_color_hint: "#c8e6f0"
+  priority_score: 0.7
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

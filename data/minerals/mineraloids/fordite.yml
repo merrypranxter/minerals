@@ -1,0 +1,147 @@
+id: fordite
+slug: fordite
+display_name: Fordite (Detroit Agate)
+
+classification:
+  chemistry_class: mineraloid
+  mineral_group: null
+  species_status: mineraloid
+  parent_species: null
+  related_varieties: []
+
+identifiers:
+  ima_status: not-applicable
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "polyurethane/alkyd paint lacquer + automotive primers (variable)"
+  simplified_formula: "synthetic polymer layers"
+  essential_elements: [C, H, O, N, Pb (historical), Ti, various pigments]
+  trace_elements_common: [Pb, TiO2, various metal oxides]
+  structural_units: layered synthetic polymer (paint accumulation)
+  atomic_structure_notes: >
+    Hundreds to thousands of lacquer, primer, and enamel layers accumulated from
+    automotive paint spray processes. Hardened by heat from baking ovens. Lead-based
+    paints in older material; modern material is lead-free.
+  chemistry_notes: >
+    Not a mineral — a human artifact. Formed in early-to-mid 20th century auto factories
+    (primarily Detroit) where jigs/skids accumulated paint layers over years. Later cut
+    and polished as gemstone. Historical pre-~1990 material is more valued.
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: null
+  space_group: null
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: No crystalline structure. Layered polymer matrix.
+
+physical_properties:
+  mohs_hardness: "~3–4"
+  specific_gravity: "~1.3–1.8"
+  luster: waxy to vitreous (polished)
+  streak: varies (soft enough to streak)
+  transparency: opaque
+  cleavage: none
+  fracture: irregular
+  tenacity: tough (polymer)
+  physical_notes: Light for its volume; takes a high polish.
+
+appearance:
+  baseline_colors: [highly variable — all automotive colors]
+  color_profiles:
+    - name: vintage (1940s-60s)
+      colors: [black, white, teal, turquoise, red, pink, cream, metallic]
+      cause: mid-century automotive color palette
+      conditions: pre-1970s factory material
+      variety_name: vintage fordite
+    - name: modern
+      colors: [contemporary automotive colors]
+      cause: current paint technology
+      conditions: post-1990 material
+      variety_name: modern fordite
+  habits: [cut slabs, cabochons, carvings]
+  textures: [waxy to glassy when polished, striated/layered]
+  macro_patterns: [highly varied layered bands, swirls, color blocks — unique per piece]
+  common_forms: [cabochons, beads, pendants, slabs]
+  visual_notes: >
+    Stochastic material ID stratification; each layer has DNA from a specific day/run.
+    material_hash function maps layer identity to color.
+
+optical_and_special_effects:
+  fluorescence: some vintage material fluoresces under UV (lead-based paints)
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: none
+  optical_notes: Brilliant polish; color is purely from pigment.
+
+formation_and_occurrence:
+  genesis: anthropogenic (industrial accumulation)
+  geologic_environments: [not applicable — automotive factory]
+  host_rocks: [not applicable — accumulated on metal jigs and rails]
+  associated_minerals: [not applicable]
+  locality_scope: regional
+  notable_localities: [Detroit Michigan USA, Flint Michigan USA, other auto manufacturing centers]
+  occurrence_notes: >
+    Primary source is retired Ford/GM/Chrysler manufacturing jigs. Supply is finite
+    — the old factories are closed. Some modern fordite from active plants.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [gemstone, jewelry, cabochon material]
+  cultural_associations: [Detroit industrial heritage, Mid-century American manufacturing]
+  symbolism: American industrial history, repurposed beauty, stratified time
+  folklore_notes: >
+    Workers would pocket interesting pieces as curios. Only became commercially
+    recognized as gemstone material in the 1990s-2000s.
+
+interpretive_vibe:
+  mood_keywords: [industrial, layered, retro, Americana, striated-color]
+  sensory_keywords: [waxy, smooth, colorful, synthetic]
+  palette_keywords: [teal, black, white, mid-century, automotive]
+  aesthetic_roles: [novelty, industrial-heritage, unique-every-piece]
+  vibe_notes: Stochastic material DNA per layer; material_hash maps layer to color palette.
+
+practical_notes:
+  toxicity: >
+    Vintage fordite (pre-1980) may contain lead from lead-based paints — avoid grinding/sanding
+    without respiratory protection; safe for jewelry after polish
+  handling_notes: Avoid harsh solvents (acetone, MEK) — will dissolve polymer
+  care_notes: Clean with mild soap and water only; no ultrasonic
+  treatments_or_synthetics: >
+    Modern "fordite" also produced — some consider this lower value. Polymer casting
+    fakes exist.
+  common_confusions: [some layered polymer casting fakes]
+  market_notes: >
+    Vintage Detroit fordite commands premium; unique pattern per piece. High collector
+    demand; price varies dramatically by quality and color pattern.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: []
+  lookalikes: [polymer casting fakes]
+  related_species: []
+
+app_metadata:
+  tags: [mineraloid, fordite, anthropogenic, automotive, layered, Detroit]
+  search_boost_terms: [Detroit agate, fordite, automotive paint, industrial gem, layered]
+  prompt_fragments:
+    - "swirling automotive paint layers in cabochon form"
+    - "stochastic material DNA per layer; each layer a different historical production run"
+  ui_color_hint: "#1a6080"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

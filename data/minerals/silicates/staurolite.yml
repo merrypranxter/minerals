@@ -1,0 +1,136 @@
+id: staurolite
+slug: staurolite
+display_name: Staurolite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: staurolite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - fairy-cross
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Fe2+2Al9Si4O22(OH)2"
+  simplified_formula: "Fe2Al9Si4O23H"
+  essential_elements: [Fe, Al, Si, O, H]
+  trace_elements_common: [Mg, Co, Zn, Ti]
+  structural_units: nesosilicate (isolated SiO4 + AlO6 framework)
+  atomic_structure_notes: Complex orthosilicate-aluminate structure.
+  chemistry_notes: Co-bearing variety is rare bright blue.
+
+crystallography:
+  crystal_system: monoclinic (pseudo-orthorhombic)
+  crystal_class: 2/m
+  space_group: C2/m
+  unit_cell_notes: null
+  twinning: interpenetration twins at 60° or 90° producing cross and X shapes
+  crystallography_notes: Famous for penetration twins forming "fairy crosses" or "St Andrew's crosses".
+
+physical_properties:
+  mohs_hardness: "7–7.5"
+  specific_gravity: "3.65–3.83"
+  luster: resinous to vitreous
+  streak: gray-white
+  transparency: translucent to opaque
+  cleavage: poor {010}
+  fracture: conchoidal to uneven
+  tenacity: brittle
+  physical_notes: >
+    Penetration twins at 60° (St Andrew's cross) or 90° (Greek cross) are diagnostically
+    characteristic. Used as talisman "fairy stones."
+
+appearance:
+  baseline_colors: [reddish-brown, dark brown, yellowish-brown]
+  color_profiles:
+    - name: typical
+      colors: [reddish-brown, dark brown]
+      cause: Fe2+ content
+      conditions: null
+      variety_name: null
+    - name: Co-staurolite
+      colors: [blue]
+      cause: Co2+ substitution for Fe2+
+      conditions: null
+      variety_name: null
+  habits: [prismatic, cruciform twins]
+  textures: [resinous, rough]
+  macro_patterns: [cross-shaped penetration twins]
+  common_forms: [cruciform twins, individual prismatic crystals]
+  visual_notes: Cross twins the most visually distinctive feature; twinning planes as internal interfaces.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: false
+  pleochroism: distinct (pale yellow / yellow / reddish-brown)
+  optical_notes: Biaxial positive; strong pleochroism.
+
+formation_and_occurrence:
+  genesis: metamorphic (medium-grade pelitic)
+  geologic_environments: [mica schists, gneisses]
+  host_rocks: [staurolite schist, mica schist]
+  associated_minerals: [garnet, kyanite, andalusite, biotite, muscovite, quartz]
+  locality_scope: global
+  notable_localities: [Brittany France, Piemonte Italy, Georgia and North Carolina USA, Brazil]
+  occurrence_notes: Common metamorphic index mineral; fairy crosses from Fairy Stone State Park VA.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [talisman (fairy stones), religious amulet]
+  cultural_associations: ["Fairy Cross" — tears of fairies crystallized as crosses at the news of Christ's death (Appalachian legend)]
+  symbolism: protection, faith, good luck
+  folklore_notes: >
+    Native Americans believed the crosses formed where fairies wept.
+    Presidents Woodrow Wilson and Theodore Roosevelt carried them.
+
+interpretive_vibe:
+  mood_keywords: [cruciform, ancient, protective, Appalachian]
+  sensory_keywords: [rough, resinous, earthy]
+  palette_keywords: [reddish-brown, dark-amber, rust]
+  aesthetic_roles: [talisman, collector, geological-curiosity]
+  vibe_notes: Penetration twin geometry; interpenetrating prismatic SDF.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: durable mineral; good for jewelry and talismans
+  care_notes: normal care
+  treatments_or_synthetics: none
+  common_confusions: [andalusite chiastolite (cross pattern from carbon inclusions), brown tourmaline]
+  market_notes: Twin crosses from Georgia/Virginia have strong demand as curiosities/talismans.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: []
+  pseudomorphed_by: [muscovite, biotite]
+  lookalikes: [brown tourmaline, andalusite chiastolite]
+  related_species: []
+
+app_metadata:
+  tags: [silicate, staurolite, cross-twin, talisman, metamorphic, Appalachian]
+  search_boost_terms: [fairy cross, fairy stone, penetration twin, cross crystal, talisman]
+  prompt_fragments:
+    - "reddish-brown cross-shaped penetration twin crystals"
+    - "interpenetrating prismatic geometry at 60° or 90°"
+  ui_color_hint: "#8b4513"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

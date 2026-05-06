@@ -1,0 +1,135 @@
+id: cummingtonite
+slug: cummingtonite
+display_name: Cummingtonite
+
+classification:
+  chemistry_class: silicate
+  mineral_group: amphibole
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - grunerite
+    - amosite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "Mg2(Mg5)Si8O22(OH)2"
+  simplified_formula: "(Mg,Fe)7Si8O22(OH)2"
+  essential_elements: [Mg, Fe, Si, O, H]
+  trace_elements_common: [Mn, Ca, Al]
+  structural_units: double-chain inosilicate
+  atomic_structure_notes: >
+    Double-chain amphibole with C2/m symmetry. The Mg-Fe series spans from
+    cummingtonite (Mg-rich) to grunerite (Fe-rich).
+  chemistry_notes: Ferro-magnesian amphibole. Amosite asbestos is the fibrous form.
+
+crystallography:
+  crystal_system: monoclinic
+  crystal_class: 2/m
+  space_group: C2/m
+  unit_cell_notes: a=9.5, b=18.2, c=5.3 Å, β≈102°
+  twinning: polysynthetic on {100}
+  crystallography_notes: Often forms radiating fiber bundles; polar fiber manifold structure.
+
+physical_properties:
+  mohs_hardness: "5–6"
+  specific_gravity: "3.1–3.6"
+  luster: vitreous to silky
+  streak: white
+  transparency: translucent to opaque
+  cleavage: perfect on {110}, intersecting at ~56°/124°
+  fracture: uneven
+  tenacity: brittle; fibrous variety flexible
+  physical_notes: Fibrous habit (amosite) is a regulated asbestos form.
+
+appearance:
+  baseline_colors: [gray, greenish-gray, brown]
+  color_profiles:
+    - name: Mg-rich cummingtonite
+      colors: [pale gray, light green]
+      cause: low iron content
+      conditions: null
+      variety_name: null
+    - name: Fe-rich (grunerite)
+      colors: [dark brown, black]
+      cause: high iron content
+      conditions: null
+      variety_name: grunerite
+  habits: [fibrous, lamellar, bladed, radiating]
+  textures: [silky, fibrous]
+  macro_patterns: [radiating fiber bundles]
+  common_forms: [prismatic, fibrous aggregates]
+  visual_notes: Chatoyancy possible in fibrous material; polar fiber manifold creates specular roll.
+
+optical_and_special_effects:
+  fluorescence: null
+  phosphorescence: null
+  chatoyancy: true
+  asterism: false
+  iridescence: false
+  pleochroism: weak
+  optical_notes: Biaxial negative; chatoyancy from oriented fiber bundles (Kajiya-Kay shading applicable).
+
+formation_and_occurrence:
+  genesis: metamorphic
+  geologic_environments: [regionally metamorphosed mafic/ultramafic rocks, amphibolites]
+  host_rocks: [amphibolite, schist]
+  associated_minerals: [hornblende, garnet, plagioclase, biotite]
+  locality_scope: global
+  notable_localities: [Cummington MA USA, New Zealand, Scotland]
+  occurrence_notes: Common in medium-grade metamorphic terranes.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [amosite variety used as insulation — now banned]
+  cultural_associations: []
+  symbolism: null
+  folklore_notes: null
+
+interpretive_vibe:
+  mood_keywords: [fibrous, industrial, austere, metamorphic]
+  sensory_keywords: [silky, radiating, cool-gray]
+  palette_keywords: [gray-green, dark-brown, steel]
+  aesthetic_roles: [textural, structural]
+  vibe_notes: Polar entropy aesthetic; radiating fiber manifold.
+
+practical_notes:
+  toxicity: fibrous amosite variety is a regulated asbestos — handle with care
+  handling_notes: Non-fibrous specimens safe; amosite requires respiratory protection
+  care_notes: Do not abrade fibrous varieties
+  treatments_or_synthetics: none known
+  common_confusions: [hornblende, actinolite, anthophyllite]
+  market_notes: Collector interest primarily for matrix specimens.
+
+relationships:
+  polymorphs: [anthophyllite (orthorhombic analogue)]
+  pseudomorphs_after: []
+  pseudomorphed_by: [chlorite, talc]
+  lookalikes: [hornblende, actinolite]
+  related_species: [grunerite, tremolite, actinolite]
+
+app_metadata:
+  tags: [silicate, amphibole, fibrous, chatoyant, metamorphic]
+  search_boost_terms: [fibrous, amphibole, polar fiber, chatoyancy]
+  prompt_fragments:
+    - "radiating fiber bundles with silky chatoyancy"
+    - "polar fiber manifold specular"
+  ui_color_hint: "#7a7a6a"
+  priority_score: 0.6
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction. Verify physical
+    property values and locality data against authoritative sources before
+    publishing.

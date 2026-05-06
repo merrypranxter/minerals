@@ -1,0 +1,143 @@
+id: opalized-fossil
+slug: opalized-fossil
+display_name: Opalized Fossil
+
+classification:
+  chemistry_class: mineraloid
+  mineral_group: opal
+  species_status: rock-gem-material
+  parent_species: null
+  related_varieties:
+    - opal-replacement-fossil
+    - boulder-opal-fossil
+
+identifiers:
+  ima_status: not-applicable
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "SiO2·nH2O (opal) replacing original CaCO3 or SiO2 matrix"
+  simplified_formula: "SiO2·nH2O"
+  essential_elements: [Si, O, H]
+  trace_elements_common: [Ca, Fe, Al]
+  structural_units: amorphous silica sphere array (precious opal)
+  atomic_structure_notes: >
+    Closely-packed silica nanospheres (150-300nm) replace original biogenic material.
+    Biomorphic shape preserved. Bragg diffraction from sphere packing → fire opal.
+  chemistry_notes: >
+    Original calcite or siliceous shell replaced by precious opal through groundwater
+    silica transport. Australia is primary source (Cretaceous marine fossils).
+
+crystallography:
+  crystal_system: amorphous
+  crystal_class: null
+  space_group: null
+  unit_cell_notes: null
+  twinning: null
+  crystallography_notes: Amorphous; biomorphic shape; Voronoi domain structure from silica sphere packing.
+
+physical_properties:
+  mohs_hardness: "5.5–6.5"
+  specific_gravity: "1.98–2.25"
+  luster: vitreous to resinous
+  streak: white
+  transparency: opaque to translucent
+  cleavage: none
+  fracture: conchoidal
+  tenacity: brittle
+  physical_notes: Contains 3–20% water; may craze if dried rapidly.
+
+appearance:
+  baseline_colors: [white, cream, gray, dark (potch)]
+  color_profiles:
+    - name: fire opal
+      colors: [all spectral colors in play of color]
+      cause: Bragg diffraction from silica sphere array
+      conditions: angle-dependent flash
+      variety_name: precious opal-fossil
+    - name: common (potch)
+      colors: [white, cream, gray, black]
+      cause: disordered silica, no play of color
+      conditions: null
+      variety_name: common opal fossil
+  habits: [biomorphic — shell, bone, wood form preserved]
+  textures: [waxy to vitreous, play of color patches]
+  macro_patterns: [biomorphic shape with opal fire; logarithmic spiral (ammonite), fibrous (wood)]
+  common_forms: [ammonite replacement, belemnite, bone, shell, wood]
+  visual_notes: >
+    Biomorphic Bragg diffraction; logarithmic spiral SDF for ammonite host.
+    Voronoi domains follow bio-structure orientation.
+
+optical_and_special_effects:
+  fluorescence: green fluorescence in some (UV)
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: true (play of color)
+  pleochroism: none
+  optical_notes: Play of color from Bragg diffraction; angle-dependent spectral fire.
+
+formation_and_occurrence:
+  genesis: diagenetic replacement
+  geologic_environments: [Cretaceous marine sediments, dry climates]
+  host_rocks: [limestone, mudstone, sandstone]
+  associated_minerals: [common opal, ironstone, calcite]
+  locality_scope: regional
+  notable_localities: [Lightning Ridge NSW Australia (ammonites, Diprotodon), Coober Pedy SA Australia, Andamooka SA Australia]
+  occurrence_notes: Australian Cretaceous inland sea provided ideal geochemistry for opalisation.
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [gemstone, museum specimen]
+  cultural_associations: [prehistoric animals crystallized in fire]
+  symbolism: life preserved in stone, fire within bone
+  folklore_notes: >
+    Aboriginal Australians have "dreaming" stories about opalized fossils as sacred
+    fire-stones containing the spirits of ancient animals.
+
+interpretive_vibe:
+  mood_keywords: [paleontological, prismatic, ancient, fire-within-fossil]
+  sensory_keywords: [waxy-to-vitreous, spectral, biomorphic]
+  palette_keywords: [fire-opal, dark-matrix, biomorphic-rainbow]
+  aesthetic_roles: [museum, gem, paleontological]
+  vibe_notes: Voronoi-Bragg hybrid; biomorphic shape SDF with per-cell fire.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: Avoid sudden temperature changes; some specimens dehydrate and craze
+  care_notes: Store at stable humidity; avoid direct sunlight for extended periods; do not soak in water
+  treatments_or_synthetics: >
+    Some are stabilized with resin (common practice). Synthetic opal exists but
+    opalized fossils are not synthetically produced.
+  common_confusions: [solid precious opal, boulder opal, synthetic opal on fossil matrix]
+  market_notes: >
+    Ammonite opals and Ichthyosaur bones from Lightning Ridge can be extremely valuable.
+    Authenticity and chain of custody matters.
+
+relationships:
+  polymorphs: []
+  pseudomorphs_after: [calcite (ammonite), silica (wood), bone mineral (apatite)]
+  pseudomorphed_by: []
+  lookalikes: [solid precious opal, ammolite (aragonite nacre), mother of pearl]
+  related_species: [precious opal, common opal, hyalite]
+
+app_metadata:
+  tags: [mineraloid, opal, fossil, biomorphic, precious-opal, Australia]
+  search_boost_terms: [opalized fossil, ammonite opal, bone opal, fire in fossil, Bragg diffraction]
+  prompt_fragments:
+    - "biomorphic fossil shape filled with precious opal fire"
+    - "logarithmic spiral ammonite with Voronoi-Bragg spectral play of color"
+  ui_color_hint: "#2a2a3a"
+  priority_score: 0.75
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.

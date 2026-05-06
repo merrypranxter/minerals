@@ -1,0 +1,145 @@
+id: aragonite
+slug: aragonite
+display_name: Aragonite
+
+classification:
+  chemistry_class: carbonate
+  mineral_group: aragonite
+  species_status: species
+  parent_species: null
+  related_varieties:
+    - flos-ferri
+    - coral-aragonite
+    - sputnik-aragonite
+
+identifiers:
+  ima_status: approved
+  mindat_id: null
+  other_ids: {}
+
+chemical_profile:
+  ideal_formula: "CaCO3"
+  simplified_formula: "CaCO3"
+  essential_elements: [Ca, C, O]
+  trace_elements_common: [Sr, Pb, Zn, Co, Mn]
+  structural_units: carbonate with Ca in 9-fold coordination
+  atomic_structure_notes: >
+    Orthorhombic polymorph of CaCO3; Ca in 9-fold coordination vs 6-fold in calcite.
+    High-pressure stable; metastable at surface P,T; converts to calcite over time.
+  chemistry_notes: >
+    Biogenic aragonite = nacre (mother of pearl), coral skeleton, mollusk shells.
+    Sr substitutes freely for Ca; Sr/Ca ratio used in palaeoclimate studies.
+
+crystallography:
+  crystal_system: orthorhombic
+  crystal_class: 2/m 2/m 2/m
+  space_group: Pmcn
+  unit_cell_notes: a=4.96, b=7.97, c=5.74 Å
+  twinning: cyclic (trillings) producing hexagonal pseudo-symmetry; common
+  crystallography_notes: >
+    Characteristic pseudohexagonal trillings (three crystals at 60°). Flos ferri = branching
+    aragonite coralloidal aggregates; "sputnik" = radiating acicular forms.
+
+physical_properties:
+  mohs_hardness: "3.5–4"
+  specific_gravity: "2.93–2.95"
+  luster: vitreous to resinous
+  streak: white
+  transparency: transparent to translucent
+  cleavage: distinct {010}
+  fracture: subconchoidal
+  tenacity: brittle
+  physical_notes: Slightly denser than calcite (2.93 vs 2.71). Effervesces in cold HCl.
+
+appearance:
+  baseline_colors: [colorless, white, yellow, green, blue, violet]
+  color_profiles:
+    - name: typical
+      colors: [colorless, white, pale yellow]
+      cause: pure composition
+      conditions: null
+      variety_name: null
+    - name: blue aragonite
+      colors: [blue, pale blue, blue-gray]
+      cause: uncertain — possibly trace Cu or structural defects
+      conditions: null
+      variety_name: blue aragonite
+    - name: flos ferri
+      colors: [white, cream]
+      cause: pure composition; branching habit
+      conditions: null
+      variety_name: flos ferri (flowers of iron)
+  habits: [prismatic, acicular, columnar, flos ferri (branching coralloidal), massive]
+  textures: [vitreous, silky (fibrous), resinous]
+  macro_patterns: [hexagonal trillings; flos ferri branching coral; sputnik radiating]
+  common_forms: [prismatic crystals, trillings, flos ferri, nacre (biogenic)]
+  visual_notes: >
+    Pseudohexagonal twinning creates apparent hexagonal symmetry. Flos ferri =
+    branching aragonite coral-like aggregates.
+
+optical_and_special_effects:
+  fluorescence: varies (white to yellow under UV)
+  phosphorescence: null
+  chatoyancy: false
+  asterism: false
+  iridescence: true (in nacre — thin-film biogenic)
+  pleochroism: none
+  optical_notes: Biaxial; birefringence 0.154 (similar to calcite).
+
+formation_and_occurrence:
+  genesis: hydrothermal, biogenic, hot spring
+  geologic_environments: [hot springs, caves, oxidation zones of ore deposits, biogenic (shells)]
+  host_rocks: [limestone, evaporite, oxidation zones]
+  associated_minerals: [calcite, malachite, smithsonite, limonite, gypsum]
+  locality_scope: global
+  notable_localities: [Molina de Aragón Spain (type), Karlovy Vary Czech Republic, Morocco, USA, Pakistan]
+  occurrence_notes: Named for Aragón region of Spain (type locality).
+
+cultural_and_historical:
+  birthstone_status: null
+  zodiac_associations: []
+  historical_uses: [nacre (jewelry, inlay, mother of pearl), coral (jewelry), cave formations (decoration)]
+  cultural_associations: [nacre = symbol of ocean, purity, elegance]
+  symbolism: stability, grounding (crystal healing), ocean connection
+  folklore_notes: The nacre of pearls is biogenic aragonite.
+
+interpretive_vibe:
+  mood_keywords: [carbonate, white, branching, ocean]
+  sensory_keywords: [white, cool, branching coral-like]
+  palette_keywords: [white, cream, pale-blue, nacre]
+  aesthetic_roles: [collector, cave-mineral, ocean-mineral]
+  vibe_notes: Pseudohexagonal twinning SDF; flos ferri branching coral aggregates.
+
+practical_notes:
+  toxicity: non-toxic
+  handling_notes: soft; efferves in acid — avoid acidic cleaners
+  care_notes: Avoid acids, steam, ultrasonic
+  treatments_or_synthetics: none common; biogenic nacre is natural
+  common_confusions: [calcite (very similar; calcite has rhombohedral cleavage), celestite]
+  market_notes: Blue aragonite from Morocco is popular; flos ferri from Eisenerz Austria.
+
+relationships:
+  polymorphs: [calcite, vaterite]
+  pseudomorphs_after: []
+  pseudomorphed_by: [calcite (over geological time at surface P/T)]
+  lookalikes: [calcite, dolomite, celestite]
+  related_species: [calcite, vaterite, strontianite, witherite, cerrussite]
+
+app_metadata:
+  tags: [carbonate, calcium, orthorhombic, nacre, flos-ferri, hot-spring]
+  search_boost_terms: [aragonite, flos ferri, nacre, pseudohexagonal, calcium carbonate, hot spring]
+  prompt_fragments:
+    - "white coralloidal flos ferri aragonite or hexagonal prism trillings"
+    - "biogenic nacre iridescence; thin-film aragonite layers"
+  ui_color_hint: "#e8e8e0"
+  priority_score: 0.65
+
+provenance:
+  source_status: draft
+  completeness: 0.7
+  confidence: medium
+  last_updated: "2026-05-06"
+  sources:
+    - "Weird Guy Mineral Shader Corpus"
+  notes: >
+    Draft entry generated from shader corpus extraction.
